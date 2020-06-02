@@ -1,4 +1,4 @@
-(google doc)[https://docs.google.com/document/d/1UpzSDnqdrDfM9lcUfxrF7ArHlg7yJJudV1uRjv9nJsM/edit]
+[google doc](https://docs.google.com/document/d/1UpzSDnqdrDfM9lcUfxrF7ArHlg7yJJudV1uRjv9nJsM/edit)
 ===
 
 <!--Lewis, M. (in prep). TITLE.  [[preprint]](writeup/journal/iat_lang.pdf) [[source]](writeup/journal/iat_lang.Rmd) [[supplemental materials]](https://mollylewis.shinyapps.io/iatlang_SI/).
