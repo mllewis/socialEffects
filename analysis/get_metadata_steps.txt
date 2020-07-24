@@ -1,0 +1,8 @@
+Steps for getting meta data for papers
+1- get dois extracted from long cite 
+2- got to web of science through cmu (https://guides.library.cmu.edu/c.php?g=815316)
+3- go to advanced search, enter in search using dois in the following form: "DO = (XXX OR XXX OR XXX)"
+4 - click on search results
+5 - export (all records, full record, plain text)
+
+then can use bibliometrix shiny app to analyze citations
