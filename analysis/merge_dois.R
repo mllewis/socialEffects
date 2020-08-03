@@ -33,7 +33,8 @@ get_merged_dfs <- function(worksheet_name, manual_doi, automated_doi, output_she
     select(study_short, doi_manual) %>%
     mutate(doi_manual = as.character(doi_manual))
 
-  automatic_doi_data <- read_sheet(automated_doi, worksheet_name)
+  automatic_doi_data <- read_sheet(automated_doi, worksheet_name) %>%
+    select(-doi_manual)
 
   merged_data <- automatic_doi_data %>%
     left_join(manual_doi_data) %>%
@@ -48,17 +49,21 @@ get_merged_dfs <- function(worksheet_name, manual_doi, automated_doi, output_she
 # this is similiar to a for-loop. The first argument is a list of worksheet names (e.g. "hofmann2016"),
 # the second argument is the name of the function (the one we defined above), and the 3rd-5th arguments are the keys to
 # the worksheets that we are reading and writing to
-walk(manual_and_automated_complete_names,
+walk(manual_and_automated_complete_names[33:45],
        get_merged_dfs,
        MANUAL_DOI_SPREADSHEET,
        AUTOMATIC_DOI_SPREADSHEET,
        OUTPUT_SPREADSHEET)
 
+#####
 
+DOI_SPREADSHEET <- "17IAiiTXifta4_yOpeRWj0YLa2AttBk2ORRwaHhK6e8E"
 
-
+current_ma_data <- read_sheet(DOI_SPREADSHEET, "rasing2017") %>%
+  filter(!is.na(doi)) %>%
+  distinct(doi)
 
 string = "DO = ("
-for (i in 1:length(automatic_doi_data$doi_automated)) {
-  string = paste(string, automatic_doi_data$doi_automated[i], sep = " OR ")
+for (i in 1:length(current_ma_data$doi)) {
+  string = paste(string, current_ma_data$doi[i], sep = " OR ")
 }
