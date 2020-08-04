@@ -1,0 +1,616 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Raglio, A
+   Bellandi, D
+   Baiardi, P
+   Gianotti, M
+   Ubezio, MC
+   Zanacchi, E
+   Granieri, E
+   Imbriani, M
+   Stramba-Badiale, M
+AF Raglio, Alfredo
+   Bellandi, Daniele
+   Baiardi, Paola
+   Gianotti, Marta
+   Ubezio, Maria Chiara
+   Zanacchi, Elisa
+   Granieri, Enrico
+   Imbriani, Marcello
+   Stramba-Badiale, Marco
+TI Effect of Active Music Therapy and Individualized Listening to Music on
+   Dementia: A Multicenter Randomized Controlled Trial
+SO JOURNAL OF THE AMERICAN GERIATRICS SOCIETY
+LA English
+DT Article
+DE music therapy; listening to music; dementia; behavioral disturbances
+ID PREFERRED MUSIC; OLDER-PEOPLE; AGITATION; SCALE; INTERVENTIONS;
+   SYMPTOMS; EFFICACY
+AB ObjectivesTo assess the effects of active music therapy (MT) and individualized listening to music (LtM) on behavioral and psychological symptoms of dementia (BPSDs) in persons with dementia (PWDs).
+   DesignRandomized controlled trial.
+   SettingNine Italian institutions.
+   ParticipantsPersons with moderate to severe dementia and BPSDs (N=120) were randomized to one of three treatments.
+   InterventionsAll groups received standard care (SC), and two groups attended 20 individualized MT or LtM sessions, twice a week, in addition to SC.
+   MeasurementsThe Neuropsychiatric Inventory (NPI), Cornell Scale for Depression in Dementia (CSDD), and Cornell-Brown Scale for Quality of Life in Dementia (CBS-QoL) were administered before treatment, after treatment, and at follow-up to evaluate behavioral and psychological outcomes. A specific coding scheme (Music Therapy Check ListDementia) was used to evaluate the MT process.
+   ResultsBehavioral assessment did not show significant differences between groups. All groups showed a reduction over time in NPI global score (P.001), CSDD (P=.001), and CBS-QoL (P=.01). The NPI global score fell 28% in the MT group, 12% in the LtM group, and 21% in the SC group at the end of treatment. An exploratory post hoc analysis showed similar within-group improvements for theNPI Delusion, Anxiety, and Disinhibition subscales. In the MT group, communication and relationships between the music therapists and PWDs showed a positive albeit nonsignificant trend during treatment.
+   ConclusionThe addition of MT or LtM to standard care did not have a significant effect on BPSDs in PWDs. Further studies on the effects of the integration of standard care with different types of music interventions on BPSD in PWD are warranted.
+C1 [Raglio, Alfredo; Imbriani, Marcello] Univ Pavia, Dipartimento Sanita Pubbl Med Sperimentale & Fore, I-27100 Pavia, Italy.
+   [Raglio, Alfredo; Granieri, Enrico] Univ Ferrara, Dept Biomed & Surg Sci, Neurol Clin, I-44100 Ferrara, Italy.
+   [Bellandi, Daniele; Gianotti, Marta; Ubezio, Maria Chiara; Zanacchi, Elisa] Sospiro Fdn, Cremona, Italy.
+   [Baiardi, Paola] Salvatore Maugeri Fdn, Sci Direct, Ist Ricovero & Cura Carattere Sci, Pavia, Italy.
+   [Imbriani, Marcello] Salvatore Maugeri Fdn, Dept Occupat Med Ergon & Disabil, Ist Ricovero & Cura Carattere Sci, Pavia, Italy.
+   [Stramba-Badiale, Marco] Ist Auxol Italiano, Dept Geriatr & Cardiovasc Med, Ist Ricovero & Cura Carattere Sci, Milan, Italy.
+RP Raglio, A (corresponding author), Univ Pavia, Dipartimento Sanita Pubbl Med Sperimentale & Fore, Via Boezio 24, I-27100 Pavia, Italy.
+EM alfredo.raglio@unipv.it
+RI Raglio, Alfredo/AAB-8694-2020; Baiardi, Paola/AAB-9060-2020;
+   Stramba-Badiale, Marco/AAA-6183-2020
+OI IMBRIANI, MARCELLO/0000-0002-2752-1565
+NR 39
+TC 44
+Z9 47
+U1 4
+U2 104
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0002-8614
+EI 1532-5415
+J9 J AM GERIATR SOC
+JI J. Am. Geriatr. Soc.
+PD AUG
+PY 2015
+VL 63
+IS 8
+BP 1534
+EP 1539
+DI 10.1111/jgs.13558
+PG 6
+WC Geriatrics & Gerontology; Gerontology
+SC Geriatrics & Gerontology
+GA CP9IG
+UT WOS:000360207000006
+PM 26289682
+DA 2020-08-04
+ER
+
+PT J
+AU Ridder, HMO
+   Stige, B
+   Qvale, LG
+   Gold, C
+AF Ridder, Hanne Mette O.
+   Stige, Brynjulf
+   Qvale, Liv Gunnhild
+   Gold, Christian
+TI Individual music therapy for agitation in dementia: an exploratory
+   randomized controlled trial
+SO AGING & MENTAL HEALTH
+LA English
+DT Article
+DE agitation disruptiveness; psychotropic medication; quality of life;
+   person-centered care; caregiver burnout
+ID QUALITY-OF-LIFE; NURSING-HOME RESIDENTS; PERSON-CENTERED CARE;
+   NEUROPSYCHIATRIC SYMPTOMS; PEOPLE; INTERVENTIONS; PERFORMANCE;
+   CAREGIVERS; BEHAVIORS; IMPACT
+AB Objectives: Agitation in nursing home residents with dementia leads to increase in psychotropic medication, decrease in quality of life, and to patient distress and caregiver burden. Music therapy has previously been found effective in treatment of agitation in dementia care but studies have been methodologically insufficient. The aim of this study was to examine the effect of individual music therapy on agitation in persons with moderate/severe dementia living in nursing homes, and to explore its effect on psychotropic medication and quality of life.
+   Method: In a crossover trial, 42 participants with dementia were randomized to a sequence of six weeks of individual music therapy and six weeks of standard care. Outcome measures included agitation, quality of life and medication.
+   Results: Agitation disruptiveness increased during standard care and decreased during music therapy. The difference at -6.77 (95% CI (confidence interval): -12.71, -0.83) was significant (p = 0.027), with a medium effect size (0.50). The prescription of psychotropic medication increased significantly more often during standard care than during music therapy (p = 0.02).
+   Conclusion: This study shows that six weeks of music therapy reduces agitation disruptiveness and prevents medication increases in people with dementia. The positive trends in relation to agitation frequency and quality of life call for further research with a larger sample.
+C1 [Ridder, Hanne Mette O.] Aalborg Univ, Dept Commun & Psychol, Doctoral Programme Mus Therapy, Aalborg, Denmark.
+   [Stige, Brynjulf; Qvale, Liv Gunnhild; Gold, Christian] Univ Bergen, Grieg Acad Mus Therapy Res Ctr GAMUT, Bergen, Norway.
+   [Stige, Brynjulf; Qvale, Liv Gunnhild; Gold, Christian] Uni Res, Uni Hlth, Bergen, Norway.
+RP Ridder, HMO (corresponding author), Aalborg Univ, Dept Commun & Psychol, Doctoral Programme Mus Therapy, Aalborg, Denmark.
+EM hanne@hum.aau.dk
+RI Gold, Christian/K-1774-2015
+OI Ridder, Hanne Mette Ochsner/0000-0002-3204-5997
+FU GC Rieber Foundation in Bergen; Aalborg University
+FX The authors would like to thank the GC Rieber Foundation in Bergen and
+   Aalborg University for providing funds for research assistants and
+   statistician, and we wish to thank participants and staff at the
+   participating nursing homes in Denmark 4 and in Norway. 5 Thanks also to
+   the music therapists for their collaboration and contribution to the
+   study, 6 and for the support from Bette S. Black by offering us a free
+   License Agreement for the use of the ADRQL for this study.
+NR 62
+TC 61
+Z9 62
+U1 1
+U2 98
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1360-7863
+EI 1364-6915
+J9 AGING MENT HEALTH
+JI Aging Ment. Health
+PD AUG 1
+PY 2013
+VL 17
+IS 6
+BP 667
+EP 678
+DI 10.1080/13607863.2013.790926
+PG 12
+WC Geriatrics & Gerontology; Gerontology; Psychiatry
+SC Geriatrics & Gerontology; Psychiatry
+GA 187GU
+UT WOS:000322105700002
+PM 23621805
+OA Bronze, Green Published
+DA 2020-08-04
+ER
+
+PT J
+AU Sakamoto, M
+   Ando, H
+   Tsutou, A
+AF Sakamoto, Mayumi
+   Ando, Hiroshi
+   Tsutou, Akimitsu
+TI Comparing the effects of different individualized music interventions
+   for elderly individuals with severe dementia
+SO INTERNATIONAL PSYCHOGERIATRICS
+LA English
+DT Article
+DE Alzheimer's disease (AD); behavioral and psychological symptoms of
+   dementia (BPSD); interactive music intervention; passive music
+   intervention; the autonomic nerve index; the Behavioral Pathology in
+   Alzheimer's Disease (BEHAVE-AD) Rating Scale; residual function;
+   cognitive reserve
+ID ALZHEIMERS-DISEASE; AUTOBIOGRAPHICAL MEMORY; EMOTION; POWER; LIVE
+AB Background: Individuals with dementia often experience poor quality of life (QOL) due to behavioral and psychological symptoms of dementia (BPSD). Music therapy can reduce BPSD, but most studies have focused on patients with mild to moderate dementia. We hypothesized that music intervention would have beneficial effects compared with a no-music control condition, and that interactive music intervention would have stronger effects than passive music intervention.
+   Methods: Thirty-nine individuals with severe Alzheimer's disease were randomly and blindly assigned to two music intervention groups (passive or interactive) and a no-music Control group. Music intervention involved individualized music. Short-term effects were evaluated via emotional response and stress levels measured with the autonomic nerve index and the Faces Scale. Long-term effects were evaluated by BPSD changes using the Behavioral Pathology in Alzheimer's Disease (BEHAVE-AD) Rating Scale.
+   Results: Passive and interactive music interventions caused short-term parasympathetic dominance. Interactive intervention caused the greatest improvement in emotional state. Greater long-term reduction in BPSD was observed following interactive intervention, compared with passive music intervention and a no-music control condition.
+   Conclusion: Music intervention can reduce stress in individuals with severe dementia, with interactive interventions exhibiting the strongest beneficial effects. Since interactive music intervention can restore residual cognitive and emotional function, this approach may be useful for aiding severe dementia patients' relationships with others and improving QOL. The registration number of the trial and the name of the trial registry are UMIN000008801 and "Examination of Effective Nursing Intervention for Music Therapy for Severe Dementia Elderly Person" respectively.
+C1 [Sakamoto, Mayumi; Ando, Hiroshi; Tsutou, Akimitsu] Kobe Univ, Grad Sch Hlth Sci, Kobe, Hyogo 6540142, Japan.
+RP Sakamoto, M (corresponding author), Kobe Univ, Grad Sch Hlth Sci, Suma Ku, 7-10-2 Tomogaoka, Kobe, Hyogo 6540142, Japan.
+EM m-sakamoto@silver.kobe-u.ac.jp
+FU MEXT KAKENHIMinistry of Education, Culture, Sports, Science and
+   Technology, Japan (MEXT)Japan Society for the Promotion of
+   ScienceGrants-in-Aid for Scientific Research (KAKENHI) [19592567,
+   22592586]
+FX We are grateful to Ikuko Yamazaki and Hideyuki Shiotani who provided
+   useful advice, helped implement experiments, and assisted with the first
+   draft. This study was supported by MEXT KAKENHI grant numbers 19592567,
+   22592586 (2007-2009, 2010-2013; Principal Investigator: SB).
+NR 29
+TC 73
+Z9 77
+U1 3
+U2 139
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 1041-6102
+EI 1741-203X
+J9 INT PSYCHOGERIATR
+JI Int. Psychogeriatr.
+PD MAY
+PY 2013
+VL 25
+IS 5
+BP 775
+EP 784
+DI 10.1017/S1041610212002256
+PG 10
+WC Psychology, Clinical; Geriatrics & Gerontology; Gerontology; Psychiatry;
+   Psychology
+SC Psychology; Geriatrics & Gerontology; Psychiatry
+GA 114SD
+UT WOS:000316761800009
+PM 23298693
+OA Green Accepted, Green Published, Bronze
+DA 2020-08-04
+ER
+
+PT J
+AU Sung, HC
+   Lee, WL
+   Li, TL
+   Watson, R
+AF Sung, Huei-chuan
+   Lee, Wen-li
+   Li, Tzai-li
+   Watson, Roger
+TI A group music intervention using percussion instruments with familiar
+   music to reduce anxiety and agitation of institutionalized older adults
+   with dementia
+SO INTERNATIONAL JOURNAL OF GERIATRIC PSYCHIATRY
+LA English
+DT Article
+DE dementia; music intervention; older adults; anxiety; agitated behaviours
+ID ALZHEIMERS-DISEASE; PSYCHOLOGICAL SYMPTOMS; NEUROPSYCHIATRIC SYMPTOMS;
+   PREFERRED MUSIC; THERAPY; TAIWAN
+AB Objective: This experimental study aimed to evaluate the effects of a group music intervention on anxiety and agitation of institutionalized older adults with dementia. Methods: A total of 60 participants were randomly assigned to an experimental or a control group. The experimental group received a 30-min music intervention using percussion instruments with familiar music in a group setting in mid afternoon twice weekly for 6weeks, whereas the control group received usual care with no music intervention. The Rating of Anxiety in Dementia scale was used to assess anxiety, and Cohen-Mansfield Agitation Inventory was used to assess agitation at baseline, week4 and week6. Results: Repeated measures analysis of covariance indicated that older adults who received a group music intervention had a significantly lower anxiety score than those in the control group while controlling for pre-test score and cognitive level (F= 8.98, p= 0.004). However, the reduction of agitation between two groups was not significantly different. Conclusions: Anxiety and agitation are common in older adults with dementia and have been reported by caregivers as challenging care problems. An innovative group music intervention using percussion instruments with familiar music as a cost-effective approach has the potential to reduce anxiety and improve psychological well-being of those with dementia. Copyright (C) 2011 John Wiley & Sons, Ltd.
+C1 [Sung, Huei-chuan] Tzu Chi Coll Technol, Dept Nursing, Hualien, Taiwan.
+   [Li, Tzai-li] Natl Taiwan Sport Univ, Sport Promot & Grad Inst Coaching Sci, Tao Yuan, Taiwan.
+   [Watson, Roger] Univ Sheffield, Sch Nursing & Midwifery, Sheffield, S Yorkshire, England.
+   [Sung, Huei-chuan] Tzu Chi Univ, Hualien, Taiwan.
+RP Sung, HC (corresponding author), Tzu Chi Coll Technol, Dept Nursing, Hualien, Taiwan.
+EM sunghc@mail.tcu.edu.tw
+RI Watson, Roger/A-2969-2009
+OI Watson, Roger/0000-0001-8040-7625
+FU Taiwan National Science CouncilNational Science Council of Taiwan [NSC
+   96-2314-B-277-003-MY2]
+FX This work was supported by Taiwan National Science Council [NSC
+   96-2314-B-277-003-MY2].
+NR 32
+TC 58
+Z9 62
+U1 6
+U2 93
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0885-6230
+EI 1099-1166
+J9 INT J GERIATR PSYCH
+JI Int. J. Geriatr. Psychiatr.
+PD JUN
+PY 2012
+VL 27
+IS 6
+BP 621
+EP 627
+DI 10.1002/gps.2761
+PG 7
+WC Geriatrics & Gerontology; Gerontology; Psychiatry
+SC Geriatrics & Gerontology; Psychiatry
+GA 928PQ
+UT WOS:000302995600009
+PM 21823174
+DA 2020-08-04
+ER
+
+PT J
+AU Lin, Y
+   Chu, H
+   Yang, CY
+   Chen, CH
+   Chen, SG
+   Chang, HJ
+   Hsieh, CJ
+   Chou, KR
+AF Lin, Yu
+   Chu, Hsin
+   Yang, Chyn-Yng
+   Chen, Chiung-Hua
+   Chen, Shyi-Gen
+   Chang, Hsiu-Ju
+   Hsieh, Chia-Jung
+   Chou, Kuei-Ru
+TI Effectiveness of group music intervention against agitated behavior in
+   elderly persons with dementia
+SO INTERNATIONAL JOURNAL OF GERIATRIC PSYCHIATRY
+LA English
+DT Article
+DE music therapy; elderly; dementia; agitated behavior
+ID ALZHEIMERS-DISEASE; NURSING-HOME; THERAPY
+AB Objectives: This study explored the effectiveness of group music intervention against agitated behavior in elderly persons with dementia.
+   Methods: This was an experimental study using repeated measurements. Subjects were elderly persons who suffered from dementia and resided in nursing facilities. In total, 104 participants were recruited by permuted block randomization and of the 100 subjects who completed this study, 49 were in the experimental group and 51 were in the control group. The experimental group received a total of twelve 30-min group music intervention sessions, conducted twice a week for six consecutive weeks, while the control group participated in normal daily activities. In order to measure the effectiveness of the therapeutic sessions, assessments were conducted before the intervention, at the 6th and 12th group sessions, and at 1 month after cessation of the intervention. Longitudinal effects were analyzed by means of generalized estimating equations (GEEs).
+   Results: After the group music therapy intervention, the experimental group showed better performance at the 6th and 12th sessions, and at 1 month after cessation of the intervention based on reductions in agitated behavior in general, physically non-aggressive behavior, verbally non-aggressive behavior, and physically aggressive behavior, while a reduction in verbally aggressive behavior was shown only at the 6th session.
+   Conclusions: Group music intervention alleviated agitated behavior in elderly persons with dementia. We suggest that nursing facilities for demented elderly persons incorporate group music intervention in routine activities in order to enhance emotional relaxation, create inter-personal interactions, and reduce future agitated behaviors. Copyright (C) 2010 John Wiley & Sons, Ltd.
+C1 [Lin, Yu; Yang, Chyn-Yng; Chou, Kuei-Ru] Taipei Med Univ, Coll Nursing, Grad Inst Nursing, Taipei, Taiwan.
+   [Lin, Yu] Kang Ning Jr Coll Med Care & Management, Dept Nursing, Taipei, Taiwan.
+   [Chu, Hsin] Natl Def Med Ctr, Sch Med, Inst Aerosp Med, Taipei, Taiwan.
+   [Chu, Hsin] Triserv Gen Hosp, Dept Neurol, Taipei, Taiwan.
+   [Yang, Chyn-Yng] Taipei Med Univ Hosp, Dept Nursing, Taipei, Taiwan.
+   [Chen, Chiung-Hua] Mei Ho Inst Technol, Sch Nursing, Pingtung, Taiwan.
+   [Chen, Shyi-Gen] Triserv Gen Hosp, Div Plast Surg, Taipei, Taiwan.
+   [Chang, Hsiu-Ju] Taipei Med Univ, Sch Nursing, Coll Nursing, Taipei, Taiwan.
+   [Hsieh, Chia-Jung] Taipei Med Univ, Coll Nursing, Sch Geriatr Nursing & Care Management, Taipei, Taiwan.
+   [Chou, Kuei-Ru] Taipei Med Univ Hosp, Psychiat Res Ctr, Taipei, Taiwan.
+RP Chou, KR (corresponding author), Taipei Med Univ, Coll Nursing, Grad Inst Nursing, Taipei, Taiwan.
+EM kueiru@tmu.edu.tw
+OI chou, kueiru/0000-0002-4882-3503; Lin, Yu/0000-0002-5583-4374
+NR 30
+TC 64
+Z9 66
+U1 2
+U2 56
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0885-6230
+J9 INT J GERIATR PSYCH
+JI Int. J. Geriatr. Psychiatr.
+PD JUL
+PY 2011
+VL 26
+IS 7
+BP 670
+EP 678
+DI 10.1002/gps.2580
+PG 9
+WC Geriatrics & Gerontology; Gerontology; Psychiatry
+SC Geriatrics & Gerontology; Psychiatry
+GA 752MY
+UT WOS:000289697100002
+PM 20672256
+DA 2020-08-04
+ER
+
+PT J
+AU Raglio, A
+   Bellelli, G
+   Traficante, D
+   Gianotti, M
+   Ubezio, MC
+   Gentile, S
+   Villani, D
+   Trabucchi, M
+AF Raglio, A.
+   Bellelli, G.
+   Traficante, D.
+   Gianotti, M.
+   Ubezio, M. C.
+   Gentile, S.
+   Villani, D.
+   Trabucchi, M.
+TI Efficacy of music therapy treatment based on cycles of sessions: A
+   randomised controlled trial
+SO AGING & MENTAL HEALTH
+LA English
+DT Article
+DE dementia; behavioural disorders; music therapy treatment
+ID OLDER-ADULTS; SYMPTOMS; DEMENTIA
+AB We undertook a randomised controlled trial to assess whether a music therapy (MT) scheme of administration, including three working cycles of one month spaced out by one month of no treatment, is effective to reduce behavioural disturbances in severely demented patients. Sixty persons with severe dementia (30 in the experimental and 30 in the control group) were enrolled. Baseline multidimensional assessment included demographics, Mini Mental State Examination (MMSE), Barthel Index and Neuropsychiatry Inventory (NPI) for all patients. All the patients of the experimental and control groups received standard care (educational and entertainment activities). In addition, the experimental group received three cycles of 12 active MT sessions each, three times a week. Each 30-min session included a group of three patients. Every cycle of treatment was followed by one month of wash-out. At the end of this study, MT treatment resulted to be more effective than standard care to reduce behavioural disorders. We observed a significant reduction over time in the NPI global scores in both groups (F7,357 = 9.06, p 0.001) and a significant difference between groups (F1,51 = 4.84, p 0.05) due to a higher reduction of behavioural disturbances in the experimental group at the end of the treatment (Cohen's d = 0.63). The analysis of single NPI items shows that delusions, agitation and apathy significantly improved in the experimental, but not in the control group. This study suggests the effectiveness of MT approach with working cycles in reducing behavioural disorders of severely demented patients.
+C1 [Raglio, A.; Gianotti, M.; Ubezio, M. C.; Gentile, S.; Villani, D.] Sospiro Fdn, Cremona, Italy.
+   [Bellelli, G.] Ancelle Carita Hosp, Alzheimers Evaluat Unit, Cremona, Italy.
+   [Bellelli, G.; Trabucchi, M.] Geriatr Res Grp, Brescia, Italy.
+   [Traficante, D.] Catholic Univ, Dept Psychol, Milan, Italy.
+   [Traficante, D.] Catholic Univ, Educ Technol Res Ctr, Milan, Italy.
+   [Trabucchi, M.] Univ Roma Tor Vergata, Dept Neurosci, Rome, Italy.
+RP Raglio, A (corresponding author), Sospiro Fdn, Cremona, Italy.
+EM raglioa@tin.it
+RI Raglio, Alfredo/AAB-8694-2020; Bellelli, Giuseppe/H-6443-2019;
+   Traficante, Daniela/H-8386-2019
+OI Bellelli, Giuseppe/0000-0001-5430-0947; Traficante,
+   Daniela/0000-0002-6861-1452
+NR 29
+TC 79
+Z9 81
+U1 2
+U2 47
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1360-7863
+EI 1364-6915
+J9 AGING MENT HEALTH
+JI Aging Ment. Health
+PY 2010
+VL 14
+IS 8
+SI SI
+BP 900
+EP 904
+AR PII 929372294
+DI 10.1080/13607861003713158
+PG 5
+WC Geriatrics & Gerontology; Gerontology; Psychiatry
+SC Geriatrics & Gerontology; Psychiatry
+GA 678WW
+UT WOS:000284115000002
+PM 21069596
+DA 2020-08-04
+ER
+
+PT J
+AU Raglio, A
+   Bellelli, G
+   Traficante, D
+   Gianotti, M
+   Ubezio, MC
+   Villani, D
+   Trabucchi, M
+AF Raglio, Alfredo
+   Bellelli, Giuseppe
+   Traficante, Daniela
+   Gianotti, Marta
+   Ubezio, Maria Chiara
+   Villani, Daniele
+   Trabucchi, Marco
+TI Efficacy of music therapy in the treatment of behavioral and psychiatric
+   symptoms of dementia
+SO ALZHEIMER DISEASE & ASSOCIATED DISORDERS
+LA English
+DT Article
+DE dementia; behavioral disorders; music therapy
+ID ALZHEIMERS-DISEASE; PHARMACOLOGICAL-TREATMENT; INTERVENTION
+AB Background: Music therapy (MT) has been proposed as valid approach for behavioral and psychologic symptoms (BPSD) of dementia. However, studies demonstrating the effectiveness of this approach are lacking.
+   Objective: To assess NIT effectiveness in reducing BPSD in subjects with dementia.
+   Method: Fifty-nine persons with dementia were enrolled in this study. All of them underwent a multidimensional assessment including Mini Mental State Examination, Barthel Index and Neuropsychiatry Inventory at enrolment and after 8, 16, and 20 weeks. Subjects were randomly assigned to experimental (n = 30) or control (n = 29) group. The NIT sessions were evaluated with standardized criteria. The experimental group received 30 MT sessions (16 wk of treatment), whereas the control group received educational support or entertainment activities.
+   Results: NPI total score significantly decreased in the experimental group at 8th, 16th, and 20th weeks (interaction time x group: F-3,F- 165 = 5.06, P = 0.002). Specific BPSD (ie, delusions, agitation, anxiety, apathy, irritability, aberrant motor activity, and night-time disturbances) significantly improved. The empathetic relationship and the patients' active participation in the NIT approach, also improved in the experimental group.
+   Conclusions: The study shows that NIT is effective to reduce BPSD in patients with moderate-severe dementia.
+C1 [Raglio, Alfredo; Gianotti, Marta; Ubezio, Maria Chiara; Villani, Daniele] Fdn Sospiro, I-26048 Sospiro, Cremona, Italy.
+   [Bellelli, Giuseppe] Ancelle della Carita Hosp, Alzheimers Evaluat Unit, Cremona, Italy.
+   [Traficante, Daniela] Catholic Univ, Dept Psychol, Milan, Italy.
+   [Traficante, Daniela] Catholic Univ, Educ Technol Res Ctr, Milan, Italy.
+   [Trabucchi, Marco] Tor Vergata Unv, Rome, Italy.
+   [Trabucchi, Marco] Geriatr Res Grp, Brescia, Italy.
+RP Raglio, A (corresponding author), Fdn Sospiro, Pzza Liberta 2, I-26048 Sospiro, Cremona, Italy.
+EM raglioa@tin.it
+RI Traficante, Daniela/H-8386-2019; Bellelli, Giuseppe/H-6443-2019; Raglio,
+   Alfredo/AAB-8694-2020
+OI Traficante, Daniela/0000-0002-6861-1452; Bellelli,
+   Giuseppe/0000-0001-5430-0947; 
+NR 29
+TC 154
+Z9 161
+U1 5
+U2 93
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0893-0341
+J9 ALZ DIS ASSOC DIS
+JI Alzheimer Dis. Assoc. Dis.
+PD APR-JUN
+PY 2008
+VL 22
+IS 2
+BP 158
+EP 162
+DI 10.1097/WAD.0b013e3181630b6f
+PG 5
+WC Clinical Neurology; Pathology
+SC Neurosciences & Neurology; Pathology
+GA 310TP
+UT WOS:000256553600009
+PM 18525288
+DA 2020-08-04
+ER
+
+PT J
+AU Sung, HC
+   Chang, AM
+   Abbey, J
+AF Sung, Huei-chuan
+   Chang, Anne M.
+   Abbey, Jennifer
+TI The effects of preferred music on agitation of older people with
+   dementia in Taiwan
+SO INTERNATIONAL JOURNAL OF GERIATRIC PSYCHIATRY
+LA English
+DT Article
+ID ALZHEIMERS-DISEASE
+C1 Tzu Chi Coll Technol, Dept Nursing, Hualien 970, Taiwan.
+   Queensland Univ Technol, Sch Nursing, St Lucia, Qld, Australia.
+   Prince Charles Hosp, Brisbane, Qld 4032, Australia.
+RP Sung, HC (corresponding author), Tzu Chi Coll Technol, Dept Nursing, 880 Chien Kuo Rd,Sect 2, Hualien 970, Taiwan.
+EM sung@tccn.edu.tw
+RI Chang, Anne M/A-3425-2009
+OI Chang, Anne M/0000-0003-3409-874X
+NR 5
+TC 41
+Z9 42
+U1 2
+U2 12
+PU JOHN WILEY & SONS LTD
+PI CHICHESTER
+PA THE ATRIUM, SOUTHERN GATE, CHICHESTER PO19 8SQ, W SUSSEX, ENGLAND
+SN 0885-6230
+J9 INT J GERIATR PSYCH
+JI Int. J. Geriatr. Psychiatr.
+PD OCT
+PY 2006
+VL 21
+IS 10
+BP 999
+EP 1000
+DI 10.1002/gps.1585
+PG 2
+WC Geriatrics & Gerontology; Gerontology; Psychiatry
+SC Geriatrics & Gerontology; Psychiatry
+GA 101AW
+UT WOS:000241712300014
+PM 16998779
+OA Green Published
+DA 2020-08-04
+ER
+
+PT J
+AU Sung, HC
+   Chang, SM
+   Lee, WL
+   Lee, MS
+AF Sung, Huei-chuan
+   Chang, Shu-min
+   Lee, Wen-li
+   Lee, Ming-shinn
+TI The effects of group music with movement intervention on agitated
+   behaviours of institutionalized elders with dementia in Taiwan
+SO COMPLEMENTARY THERAPIES IN MEDICINE
+LA English
+DT Article
+DE group music with movement; agitated behaviours; dementia;
+   instituionalized elders
+ID ALZHEIMERS-DISEASE; THERAPY INTERVENTION; RELAXATION
+AB Background: Agitated behaviours are identified by caregivers as the most challenging in dementia care. Alternative approaches reducing occurrence of agitated behaviours and the need for chemical or physical restraints become valuable for institutionalized elders with dementia.
+   Objective and setting: This study was to evaluate the effects of group music with movement intervention on occurrence of agitated behaviours of institutionalized elders with dementia in Taiwan.
+   Methods: A randomized controlled trial was used. Thirty-six institutionalized elders with dementia completed the study, with 18 in the experimental group receiving group music with movement intervention twice a week for 4 weeks and 18 in the control group receiving usual care without intervention. Modified Cohen-Mansfield Agitation Inventory was used to assess agitated behaviours at baseline, weeks 2 and 4.
+   Results: Agitated behaviours were significantly reduced in the experimental group following 4 weeks of group music with movement intervention compared to that of the control group (p < 0.001).
+   Conclusions: Group music with movement intervention can be beneficial in managing agitated behaviours of those with dementia and should be incorporated into care routines in residential facilities. (C) 2006 Elsevier Ltd. All rights reserved.
+C1 Tzu Chi Coll Technol, Hualien, Taiwan.
+   Natl Hualien Univ Educ, Hualien, Taiwan.
+RP Sung, HC (corresponding author), 12,Lane 459,Fu Hsin 5th St, Hualien 973, Taiwan.
+EM sung@tccn.edu.tw
+NR 37
+TC 67
+Z9 69
+U1 2
+U2 30
+PU CHURCHILL LIVINGSTONE
+PI EDINBURGH
+PA JOURNAL PRODUCTION DEPT, ROBERT STEVENSON HOUSE, 1-3 BAXTERS PLACE,
+   LEITH WALK, EDINBURGH EH1 3AF, MIDLOTHIAN, SCOTLAND
+SN 0965-2299
+EI 1873-6963
+J9 COMPLEMENT THER MED
+JI Complement. Ther. Med.
+PD JUN
+PY 2006
+VL 14
+IS 2
+BP 113
+EP 119
+DI 10.1016/j.ctim.2006.03.002
+PG 7
+WC Integrative & Complementary Medicine
+SC Integrative & Complementary Medicine
+GA 058AL
+UT WOS:000238636400005
+PM 16765849
+DA 2020-08-04
+ER
+
+PT J
+AU Remington, R
+AF Remington, R
+TI Calming music and hand massage with agitated elderly
+SO NURSING RESEARCH
+LA English
+DT Article
+DE agitation; massage; music
+ID NURSING-HOME RESIDENTS; DISRUPTIVE VOCALIZATIONS; ALZHEIMERS-DISEASE;
+   DEMENTIA; BEHAVIOR; DISORDERS
+AB Background. Agitated behavior is a widespread problem that adversely affects the health of nursing home residents and increases the cost of their care.
+   Objective: To examine whether modifying environmental stimuli by the use of calming music and hand massage affects agitated behavior in persons with dementia.
+   Method. A four group, repeated measures experimental design was used to test the effect of a 10-minute exposure to either calming music, hand massage, or calming music and hand massage simultaneously, or no intervention (control) on the frequency and type of agitated behaviors in nursing home residents with dementia (N = 68). A modified version of the Cohen-Mansfield Agitation Inventory was used to record agitated behaviors.
+   Results: Each of the experimental interventions reduced agitation more than no intervention. The benefit was sustained and increased up to one hour following the intervention (F = 6.47, p < .01). The increase in benefit over time was similar for each intervention group. When types of agitated behaviors were examined separately, none of the interventions significantly reduced physically aggressive behaviors (F = 1.93, p = .09), while physically nonaggressive behaviors decreased during each of the interventions (F = 3.78, p < 01). No additive benefit resulted from simultaneous exposure to calming music and hand massage. At one hour following any intervention, verbally agitated behavior decreased more than no intervention.
+   Conclusion: Calming music and hand massage alter the immediate environment of agitated nursing home residents to a calm structured surrounding, offsetting disturbing stimuli, but no additive benefit was found by combining interventions simultaneously.
+C1 Univ Massachusetts, Lowell, MA 01854 USA.
+RP Remington, R (corresponding author), Univ Massachusetts, 3 Solomont Way,Suite 2, Lowell, MA 01854 USA.
+FU NINR NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Nursing
+   Research (NINR) [F31 NR07271-01A1]
+NR 38
+TC 105
+Z9 108
+U1 0
+U2 25
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0029-6562
+J9 NURS RES
+JI Nurs. Res.
+PD SEP-OCT
+PY 2002
+VL 51
+IS 5
+BP 317
+EP 323
+DI 10.1097/00006199-200209000-00008
+PG 7
+WC Nursing
+SC Nursing
+GA 597BL
+UT WOS:000178202100008
+PM 12352780
+DA 2020-08-04
+ER
+
+EF

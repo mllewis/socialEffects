@@ -1,0 +1,300 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Johansson, B
+   Bjuhr, H
+   Karlsson, M
+   Karlsson, JO
+   Ronnback, L
+AF Johansson, Birgitta
+   Bjuhr, Helena
+   Karlsson, Magdalena
+   Karlsson, Jan-Olof
+   Ronnback, Lars
+TI Mindfulness-Based Stress Reduction (MBSR) Delivered Live on the Internet
+   to Individuals Suffering from Mental Fatigue After an Acquired Brain
+   Injury
+SO MINDFULNESS
+LA English
+DT Article
+DE Mindfulness; Internet; Mental fatigue; Attention; TBI; Stroke
+ID CONTROLLED-TRIAL; DEPRESSION; SYMPTOMS; MEDITATION; DISORDERS; PROGRAM;
+   STROKE; SCALE; MILD; MOOD
+AB An acquired brain injury often leads to long-lasting mental fatigue, which can have a considerable effect on work and social interactions. Fortunately, the Mindfulness-Based Stress Reduction (MBSR) program has been found to alleviate mental fatigue. The purpose of this feasibility study was to evaluate the success of an interactive MBSR program delivered live online to individuals who have experienced a traumatic brain injury or stroke. We included the following three groups in our study: an Internet group, a face-to-face MBSR group, and an active control group who took weekly walks in natural environments. Thirty-four participants completed the study, and all were suffering from long-lasting mental fatigue after either a traumatic brain injury (16 participants) or a stroke (18 participants). However, seven did not accept to attend an Internet MBSR, and Internet was the only choice for others. We found that, according to the Mental Fatigue Scale (MFS), the program leads to significantly reduced mental fatigue in the Internet group compared with the face-to-face and the control group. Individuals in the MBSR groups also exhibited an improved ability to process two temporally close targets (attentional blink task), while this was not detected in the control group. In conclusion, we believe that it is possible for individuals suffering from mental fatigue after an acquired brain injury to obtain positive results through enrollment in a live, interactive, online MBSR program. This is promising, as the Internet is accessible to many individuals, irrespective of where they live. Further randomized control studies comparing are warranted.
+C1 [Johansson, Birgitta; Bjuhr, Helena; Karlsson, Magdalena; Ronnback, Lars] Univ Gothenburg, Dept Clin Neurosci & Rehabil, Inst Neurosci & Physiol, Sahlgrenska Acad, Dubbsgatan 14,1Tr, S-41345 Gothenburg, Sweden.
+   [Karlsson, Jan-Olof] Univ West, Dept Econ & Informat, Trollhattan, Sweden.
+RP Johansson, B (corresponding author), Univ Gothenburg, Dept Clin Neurosci & Rehabil, Inst Neurosci & Physiol, Sahlgrenska Acad, Dubbsgatan 14,1Tr, S-41345 Gothenburg, Sweden.
+EM birgitta.johansson@neuro.gu.se
+FU Health & Medical Care Committee of the Vastra Gotaland Region; Swedish
+   Stroke Association; Swedish Association for Survivors of Accident and
+   Injury
+FX This work was supported by grants from The Health & Medical Care
+   Committee of the Vastra Gotaland Region, The Swedish Stroke Association,
+   and The Swedish Association for Survivors of Accident and Injury.
+NR 41
+TC 7
+Z9 7
+U1 3
+U2 34
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1868-8527
+EI 1868-8535
+J9 MINDFULNESS
+JI Mindfulness
+PD DEC
+PY 2015
+VL 6
+IS 6
+BP 1356
+EP 1365
+DI 10.1007/s12671-015-0406-7
+PG 10
+WC Psychology, Clinical; Psychiatry
+SC Psychology; Psychiatry
+GA DB7IZ
+UT WOS:000368689600014
+DA 2020-08-04
+ER
+
+PT J
+AU Bogosian, A
+   Chadwick, P
+   Windgassen, S
+   Norton, S
+   McCrone, P
+   Mosweu, I
+   Silber, E
+   Moss-Morris, R
+AF Bogosian, A.
+   Chadwick, P.
+   Windgassen, S.
+   Norton, S.
+   McCrone, P.
+   Mosweu, I.
+   Silber, E.
+   Moss-Morris, R.
+TI Distress improves after mindfulness training for progressive MS: A pilot
+   randomised trial
+SO MULTIPLE SCLEROSIS JOURNAL
+LA English
+DT Article
+DE Multiple sclerosis; progressive; mindfulness; distress; anxiety;
+   depression; pilot randomised control trial
+ID QUALITY-OF-LIFE; IMPACT SCALE MSIS-29; MULTIPLE-SCLEROSIS; STRESS
+   REDUCTION; DEPRESSION; FATIGUE; PEOPLE; INTERVENTIONS; THERAPY; ANXIETY
+AB Background: Mindfulness-based interventions have been shown to effectively reduce anxiety, depression and pain in patients with chronic physical illnesses.
+   Objectives: We assessed the potential effectiveness and cost-effectiveness of a specially adapted Skype distant-delivered mindfulness intervention, designed to reduce distress for people affected by primary and secondary progressive MS.
+   Methods Forty participants were randomly assigned to the eight-week intervention (n = 19) or a waiting-list control group (n = 21). Participants completed standardised questionnaires to measure mood, impact of MS and symptom severity, quality of life and service costs at baseline, post-intervention and three-month follow-up.
+   Results: Distress scores were lower in the intervention group compared with the control group at post-intervention and follow-up (p < 0.05), effect size -0.67 post-intervention and -0.97 at follow-up. Mean scores for pain, fatigue, anxiety, depression and impact of MS were reduced for the mindfulness group compared with control group at post-therapy and follow-up; effect sizes ranged from -0.27 to -0.99 post-intervention and -0.29 to -1.12 at follow-up. There were no differences in quality-adjusted life years, but an 87.4% probability that the intervention saves on service costs and improves outcome.
+   Conclusions: A mindfulness intervention delivered through Skype video conferences appears accessible, feasible and potentially effective and cost-effective for people with progressive MS.
+C1 [Bogosian, A.] City Univ London, Dept Psychol, London EC1V 0HB, England.
+   [Chadwick, P.; Windgassen, S.; Norton, S.; Moss-Morris, R.] Kings Coll London, Dept Psychol, Inst Psychiat Psychol & Neurosci, London WC2R 2LS, England.
+   [McCrone, P.; Mosweu, I.] Kings Coll London, Dept Psychol, Ctr Econ Mental & Phys Hlth, London WC2R 2LS, England.
+   [Silber, E.] Kings Coll Hosp London, Dept Neurol, London, England.
+RP Bogosian, A (corresponding author), City Univ London, Dept Psychol, Northampton Sq, London EC1V 0HB, England.
+EM angeliki.bogosian.1@city.ac.uk
+RI Mosweu, Iris/P-4391-2016; Norton, Sam J/A-1898-2009
+OI Mosweu, Iris/0000-0001-6797-2478; Norton, Sam J/0000-0003-1714-9963;
+   Moss-Morris, Rona/0000-0002-2927-3446; Chadwick,
+   Paul/0000-0002-6765-6325
+FU MS Society UK [961/11]
+FX This work was supported by the MS Society UK (961/11).
+NR 45
+TC 34
+Z9 34
+U1 1
+U2 28
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1352-4585
+EI 1477-0970
+J9 MULT SCLER J
+JI Mult. Scler. J.
+PD AUG
+PY 2015
+VL 21
+IS 9
+BP 1184
+EP 1194
+DI 10.1177/1352458515576261
+PG 11
+WC Clinical Neurology; Neurosciences
+SC Neurosciences & Neurology
+GA CN6IF
+UT WOS:000358537400011
+PM 25767124
+OA Green Accepted
+DA 2020-08-04
+ER
+
+PT J
+AU Johansson, B
+   Bjuhr, H
+   Ronnback, L
+AF Johansson, B.
+   Bjuhr, H.
+   Ronnback, L.
+TI Mindfulness-based stress reduction (MBSR) improves long-term mental
+   fatigue after stroke or traumatic brain injury
+SO BRAIN INJURY
+LA English
+DT Article
+DE Mental fatigue; TBI; stroke; MBSR; mindfulness; information processing
+   speed; attention
+ID ATTENTION; SYMPTOMS; MILD; DISORDERS; IMPACT
+AB Objective: Patients who suffer from mental fatigue after a stroke or traumatic brain injury (TBI) have a drastically reduced capacity for work and for participating in social activities. Since no effective therapy exists, the aim was to implement a novel, non-pharmacological strategy aimed at improving the condition of these patients.
+   Methods: This study tested a treatment with mindfulness-based stress reduction (MBSR). The results of the programme were evaluated using a self-assessment scale for mental fatigue and neuropsychological tests. Eighteen participants with stroke and 11 with TBI were included. All the subjects were well rehabilitated physically with no gross impairment to cognitive functions other than the symptom mental fatigue. Fifteen participants were randomized for inclusion in the MBSR programme for 8 weeks, while the other 14 served as controls and received no active treatment. Those who received no active treatment were offered MBSR during the next 8 weeks.
+   Results: Statistically significant improvements were achieved in the primary end-point-the self-assessment for mental fatigue-and in the secondary end-point-neuropsychological tests; Digit Symbol-Coding and Trail Making Test.
+   Conclusion: The results from the present study show that MBSR may be a promising non-pharmacological treatment for mental fatigue after a stroke or TBI.
+C1 [Johansson, B.; Bjuhr, H.; Ronnback, L.] Univ Gothenburg, Sahlgrenska Acad, Inst Neurosci & Physiol, Dept Clin Neurosci & Rehabil, SE-41345 Gothenburg, Sweden.
+RP Johansson, B (corresponding author), Univ Gothenburg, Sahlgrenska Acad, Inst Neurosci & Physiol, Dept Clin Neurosci & Rehabil, Dubbsgatan 14,1Tr, SE-41345 Gothenburg, Sweden.
+EM birgitta.johansson2@vgregion.se
+OI , Birgitta/0000-0003-0240-1142
+FU AFA Insurance; Health & Medical Care Committee of the Region Vastra
+   Gotaland
+FX The authors report no conflicts of interest. This work was supported by
+   grants from AFA Insurance and The Health & Medical Care Committee of the
+   Region Vastra Gotaland.
+NR 43
+TC 63
+Z9 69
+U1 2
+U2 75
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0269-9052
+EI 1362-301X
+J9 BRAIN INJURY
+JI Brain Inj.
+PD DEC
+PY 2012
+VL 26
+IS 13-14
+BP 1621
+EP 1628
+DI 10.3109/02699052.2012.700082
+PG 8
+WC Neurosciences; Rehabilitation
+SC Neurosciences & Neurology; Rehabilitation
+GA 041RU
+UT WOS:000311419700008
+PM 22794665
+DA 2020-08-04
+ER
+
+PT J
+AU Grossman, P
+   Kappos, L
+   Gensicke, H
+   D'Souza, M
+   Mohr, DC
+   Penner, IK
+   Steiner, C
+AF Grossman, P.
+   Kappos, L.
+   Gensicke, H.
+   D'Souza, M.
+   Mohr, D. C.
+   Penner, I. K.
+   Steiner, C.
+TI MS quality of life, depression, and fatigue improve after mindfulness
+   training A randomized trial
+SO NEUROLOGY
+LA English
+DT Article
+ID MULTIPLE-SCLEROSIS PATIENTS; COGNITIVE-BEHAVIOR THERAPY;
+   GROUP-PSYCHOTHERAPY; RATING-SCALES; DISABILITY; BENEFITS; REDUCTION;
+   DIAGNOSIS; GERMANY; ANXIETY
+AB Objective: Health-related quality of life (HRQOL) is often much reduced among individuals with multiple sclerosis (MS), and incidences of depression, fatigue, and anxiety are high. We examined effects of a mindfulness-based intervention (MBI) compared to usual care (UC) upon HRQOL, depression, and fatigue among adults with relapsing-remitting or secondary progressive MS.
+   Methods: A total of 150 patients were randomly assigned to the intervention (n = 76) or to UC (n = 74). MBI consisted of a structured 8-week program of mindfulness training. Assessments were made at baseline, postintervention, and 6 months follow-up. Primary outcomes included disease-specific and disease-aspecific HRQOL, depression, and fatigue. Anxiety, personal goal attainment, and adherence to homework were secondary outcomes.
+   Results: Attrition was low in the intervention group (5%) and attendance rate high (92%). Employing intention-to-treat analysis, MBI, compared with UC, improved nonphysical dimensions of primary outcomes at postintervention and follow-up (p < 0.002); effect sizes, 0.4-0.9 posttreatment and 0.3-0.5 at follow-up. When analyses were repeated among subgroups with clinically relevant levels of preintervention depression, fatigue, or anxiety, postintervention and follow-up effects remained significant and effect sizes were larger than for the total sample.
+   Conclusions: In addition to evidence of improved HRQOL and well-being, these findings demonstrate broad feasibility and acceptance of, as well as satisfaction and adherence with, a program of mindfulness training for patients with MS. The results may also have treatment implications for other chronic disorders that diminish HRQOL.
+   Classification of evidence: This trial provides Class III evidence that MBI compared with UC improved HRQOL, fatigue, and depression up to 6 months postintervention. Neurology (R) 2010;75:1141-1149
+C1 [Grossman, P.; Steiner, C.] Univ Basel Hosp, Div Internal Med, Dept Psychosomat Med, CH-3041 Basel, Switzerland.
+   [Kappos, L.; Gensicke, H.; D'Souza, M.] Univ Basel Hosp, Dept Neurol, CH-3041 Basel, Switzerland.
+   [Mohr, D. C.] Northwestern Univ, Dept Prevent Med, Feinberg Sch Med, Evanston, IL USA.
+   [Penner, I. K.] Univ Basel, Dept Psychol, Basel, Switzerland.
+RP Grossman, P (corresponding author), Univ Basel Hosp, Div Internal Med, Dept Psychosomat Med, Hebelstr 2, CH-3041 Basel, Switzerland.
+EM PGrossman@uhbs.ch
+RI Grossman, Paul/A-6279-2009; Macedo, Ana/L-9912-2018; /AAA-9225-2019
+OI Macedo, Ana/0000-0002-6978-8989; Mohr, David/0000-0002-5443-7596;
+   Gensicke, Henrik/0000-0002-0949-2422; Penner,
+   Iris-Katharina/0000-0002-6746-1034
+FU Swiss National Science FoundationSwiss National Science Foundation
+   (SNSF) [3200B0-112604]; Stanley T. Johnson Foundation; Swiss Multiple
+   Sclerosis Foundation; Sanofi-AventisSanofi-Aventis; Merck SeronoMerck
+   SeronoMerck & Company; Biogen-Dompe AG; Swiss Cancer League; Swiss MS
+   Society; Gianni Rubatto Foundation (Zurich); Acorda Therapeutics Inc.;
+   Actelion Pharmaceuticals Ltd.; AbbottAbbott Laboratories;
+   AstraZenecaAstraZeneca; Bayhill Therapeutics; Bayer Schering PharmaBayer
+   AG; Biogen IdecBiogen; Boehringer IngelheimBoehringer Ingelheim;
+   Centocor Ortho Biotech Inc.; Eisai Inc.Eisai Co Ltd; Genzyme
+   CorporationGenzyme Corporation; GlaxoSmithKlineGlaxoSmithKline; Immune
+   Response Corporation; MediciNova, Inc.; Neurocrine Biosciences;
+   NovartisNovartis; RocheRoche Holding; Teva Pharmaceutical Industries
+   Ltd.; UCBUCB Pharma SA; WyethWyeth; NIHUnited States Department of
+   Health & Human ServicesNational Institutes of Health (NIH) - USA
+   [R01-MH059708, R01-HD043323, R34 MH078922]; US Veterans Administration
+   HSRD
+FX Supported by the Swiss National Science Foundation (3200B0-112604), the
+   Stanley T. Johnson Foundation, the Swiss Multiple Sclerosis Foundation,
+   Sanofi-Aventis, Merck Serono, and Biogen-Dompe AG (all to P.G.).; Dr.
+   Grossman has received research support from the Swiss National Science
+   Foundation, the Swiss Multiple Sclerosis Foundation, the Stanley T.
+   Johnson Foundation, and the Swiss Cancer League, Sanofi-Aventis, Merck
+   Serono, and Biogen Dompe AG. Dr Grossman had full access to all of the
+   data in the study and takes responsibility for the integrity of the data
+   and the accuracy of the data analysis. Dr. Kappos serves on the
+   editorial board of the International MS Journal; receives research
+   support from the Swiss National Research Foundation, the Swiss MS
+   Society, and the Gianni Rubatto Foundation (Zurich); has served on
+   scientific advisory boards and his Department at the University Hospital
+   Basel; and has received research support from Acorda Therapeutics Inc.,
+   Actelion Pharmaceuticals Ltd., Abbott, AstraZeneca, Bayhill
+   Therapeutics, Bayer Schering Pharma, Biogen Idec, Boehringer Ingelheim,
+   Centocor Ortho Biotech Inc., Eisai Inc., Genzyme Corporation,
+   GlaxoSmithKline, The Immune Response Corporation, MediciNova, Inc.,
+   Neurocrine Biosciences, Novartis, Sanofi-Aventis, Merck Serono, Roche,
+   Teva Pharmaceutical Industries Ltd., UCB, and Wyeth. Dr. Gensicke
+   reports no disclosures. Dr. D'Souza has received funding for travel from
+   Bayer Schering Pharma. Dr. Mohr receives research support from the NIH
+   (R01-MH059708 [PI], R01-HD043323 [Co-PI], and R34 MH078922 [PI]) and
+   from the US Veterans Administration HSR&D. Dr. Penner has served on
+   scientific advisory boards for Novartis and Bayer Schering Pharma; and
+   has received funding for travel and speaker honoraria from Bayer
+   Schering Pharma, Novartis, Biogen Idec, Merck Serono, and Teva
+   Pharmaceutical Industries Ltd./Sanofi-Aventis. C. Steiner reports no
+   disclosures.
+NR 40
+TC 184
+Z9 188
+U1 5
+U2 80
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0028-3878
+J9 NEUROLOGY
+JI Neurology
+PD SEP
+PY 2010
+VL 75
+IS 13
+BP 1141
+EP 1149
+DI 10.1212/WNL.0b013e3181f4d80d
+PG 9
+WC Clinical Neurology
+SC Neurosciences & Neurology
+GA 655CD
+UT WOS:000282219300009
+PM 20876468
+OA Green Published
+DA 2020-08-04
+ER
+
+EF

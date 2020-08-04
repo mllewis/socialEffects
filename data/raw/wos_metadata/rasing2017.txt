@@ -1,0 +1,550 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU van Starrenburg, MLA
+   Kuijpers, RCMW
+   Kleinjan, M
+   Hutschemaekers, GJM
+   Engels, RCME
+AF van Starrenburg, Manon L. A.
+   Kuijpers, Rowella C. M. W.
+   Kleinjan, Marloes
+   Hutschemaekers, Giel J. M.
+   Engels, Rutger C. M. E.
+TI Effectiveness of a Cognitive Behavioral Therapy-Based Indicated
+   Prevention Program for Children with Elevated Anxiety Levels: a
+   Randomized Controlled Trial
+SO PREVENTION SCIENCE
+LA English
+DT Article
+DE Anxiety; Children; Prevention; CBT; Group intervention
+ID CLINICAL-TRIAL; ADOLESCENT ANXIETY; FOLLOW-UP; DISORDERS; YOUTH;
+   INTERVENTIONS; COMORBIDITY; PREVALENCE; DIAGNOSES; METAANALYSIS
+AB Childhood anxiety is a problem not only because of its negative consequences on the well-being of children but also because of its adverse effects on society and its role in mental disorders later in life. Adequate prevention might be the key in tackling this problem. The effectiveness of Coping Cat, as an indicated CBT-based prevention program in Dutch primary school children, was assessed by means of a randomized controlled trial. In total, 141 children aged 7-13 with elevated levels of anxiety and their mothers were included and randomly assigned to an intervention group and a waiting list control group. After screening, all participants completed baseline, post-intervention, and 3-month follow-up assessments. The results showed that Coping Cat, as an indicated prevention program, reduces children's self-reported anxiety symptoms, with Cohen's effect size d of 0.66 at the 3-month follow-up. A moderating effect was found for baseline anxiety level; specifically, children with high levels of baseline anxiety who received the Coping Cat program had lower anxiety levels at follow-up compared to children with high levels of anxiety in the control condition. No moderating effects of gender or age were found. An unexpected decline in anxiety levels from screening to pre-assessment was found in both groups, and this decline was stronger in the experimental group. These promising results warrant the implementation of Coping Cat as an indicated prevention program.
+C1 [van Starrenburg, Manon L. A.; Kuijpers, Rowella C. M. W.; Hutschemaekers, Giel J. M.] Radboud Univ Nijmegen, Inst Behav Sci, Montessorilaan 3, NL-6525 HR Nijmegen, Netherlands.
+   [van Starrenburg, Manon L. A.; Kuijpers, Rowella C. M. W.] Ambulatorium KJJ, Toernooiveld 5,Postbus 6909, NL-6503 GK Nijmegen, Netherlands.
+   [Hutschemaekers, Giel J. M.] Pro Persona, Tarweweg 2, NL-6534 AM Nijmegen, Netherlands.
+   [Kleinjan, Marloes; Engels, Rutger C. M. E.] Trimbos, Da Costakade 45, NL-3521 VS Utrecht, Netherlands.
+   [Engels, Rutger C. M. E.] Univ Utrecht, Heidelberglaan 1, NL-3584 CS Utrecht, Netherlands.
+RP van Starrenburg, MLA (corresponding author), Radboud Univ Nijmegen, Inst Behav Sci, Montessorilaan 3, NL-6525 HR Nijmegen, Netherlands.; van Starrenburg, MLA (corresponding author), Ambulatorium KJJ, Toernooiveld 5,Postbus 6909, NL-6503 GK Nijmegen, Netherlands.
+EM m.vanstarrenburg@pwo.ru.nl
+RI Kleinjan, Marloes/AAF-1128-2019
+OI Engels, Rutger/0000-0003-1944-9126; Kleinjan,
+   Marloes/0000-0002-4545-5549
+FU ZonMwNetherlands Organization for Health Research and Development
+   [159010001]
+FX This study is funded by ZonMw (grantnumber: 159010001).
+NR 35
+TC 10
+Z9 10
+U1 1
+U2 12
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1389-4986
+EI 1573-6695
+J9 PREV SCI
+JI Prev. Sci.
+PD JAN
+PY 2017
+VL 18
+IS 1
+BP 31
+EP 39
+DI 10.1007/s11121-016-0725-5
+PG 9
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA EI3MJ
+UT WOS:000392394600004
+PM 27822663
+OA Green Published, Other Gold
+DA 2020-08-04
+ER
+
+PT J
+AU Sportel, BE
+   de Hullu, E
+   de Jong, PJ
+   Nauta, MH
+AF Sportel, B. Esther
+   de Hullu, Eva
+   de Jong, Peter J.
+   Nauta, Maaike H.
+TI Cognitive Bias Modification versus CBT in Reducing Adolescent Social
+   Anxiety: A Randomized Controlled Trial
+SO PLOS ONE
+LA English
+DT Article
+ID IMPLICIT ASSOCIATION TEST; QUALITY-OF-LIFE; AUTOMATIC ASSOCIATIONS;
+   MODIFICATION PROGRAM; SELF-ASSOCIATIONS; CHILD ANXIETY; PHOBIA;
+   ATTENTION; PREVENTION; INTERVENTION
+AB Social anxiety is a common mental disorder among adolescents and is associated with detrimental long term outcomes. Therefore, this study investigated the efficacy of two possible early interventions for adolescent social anxiety and test anxiety. An internet-based cognitive bias modification (CBM; n = 86) was compared to a school-based cognitive behavioral group training (CBT; n = 84) and a control group (n = 70) in reducing symptoms of social and test anxiety in high socially and/or test anxious adolescents aged 13-15 years. Participants (n = 240) were randomized at school level over the three conditions. CBM consisted of a 20-session at home internet-delivered training; CBT was a 10-session at school group training with homework assignments; the control group received no training. Participants were assessed before and after the intervention and at 6 and 12 month follow-up. At 6 month follow-up CBT resulted in lower social anxiety than the control condition, while for CBM, this effect was only trend-significant. At 12 month follow-up this initial benefit was no longer present. Test anxiety decreased more in the CBT condition relative to the control condition in both short and long term. Interestingly, in the long term, participants in the CBM condition improved more with regard to automatic threat-related associations than both other conditions. The results indicate that the interventions resulted in a faster decline of social anxiety symptoms, whereas the eventual end point of social anxiety was not affected. Test anxiety was influenced in the long term by the CBT intervention, and CBM lead to increased positive automatic threat-related associations.
+C1 [Sportel, B. Esther; Nauta, Maaike H.] Univ Groningen, Univ Med Ctr Groningen, Dept Psychiat, Groningen, Netherlands.
+   [Sportel, B. Esther; de Hullu, Eva; de Jong, Peter J.; Nauta, Maaike H.] Univ Groningen, Dept Clin Psychol, Groningen, Netherlands.
+RP Sportel, BE (corresponding author), GGZ Drenthe, Dept Psychot Disorders, Assen, Netherlands.
+EM b.e.sportel@rug.nl
+RI de Jong, Peter/E-9095-2014
+OI de Jong, Peter/0000-0002-3512-3663; Nauta, Maaike/0000-0001-7694-1382;
+   Sportel, Esther/0000-0003-2249-2619
+FU grants from ZonMw [62200027]
+FX This research was supported by grants from ZonMw, nr. 62200027, The
+   Netherlands (http://www.zonmw.nl/nl/). The funders had no role in study
+   design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.
+NR 47
+TC 55
+Z9 58
+U1 0
+U2 79
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAY 14
+PY 2013
+VL 8
+IS 5
+AR e64355
+DI 10.1371/journal.pone.0064355
+PG 11
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 146RE
+UT WOS:000319107400121
+PM 23691203
+OA DOAJ Gold, Green Published
+DA 2020-08-04
+ER
+
+PT J
+AU Gillham, JE
+   Reivich, KJ
+   Brunwasser, SM
+   Freres, DR
+   Chajon, ND
+   Kash-MacDonald, VM
+   Chaplin, TM
+   Abenavoli, RM
+   Matlin, SL
+   Gallop, RJ
+   Seligman, MEP
+AF Gillham, Jane E.
+   Reivich, Karen J.
+   Brunwasser, Steven M.
+   Freres, Derek R.
+   Chajon, Norma D.
+   Kash-MacDonald, V. Megan
+   Chaplin, Tara M.
+   Abenavoli, Rachel M.
+   Matlin, Samantha L.
+   Gallop, Robert J.
+   Seligman, Martin E. P.
+TI Evaluation of a Group Cognitive-Behavioral Depression Prevention Program
+   for Young Adolescents: A Randomized Effectiveness Trial
+SO JOURNAL OF CLINICAL CHILD AND ADOLESCENT PSYCHOLOGY
+LA English
+DT Article
+ID SCHOOL-BASED PREVENTION; HOPELESSNESS DEPRESSION; GENDER-DIFFERENCES;
+   RISK ADOLESCENTS; RESPONSE STYLES; DISC-IV; CHILDREN; SYMPTOMS;
+   INTERVENTION; VULNERABILITY
+AB Depression is a common psychological problem in adolescence. Recent research suggests that group cognitive-behavioral interventions can reduce and prevent symptoms of depression in youth. Few studies have tested the effectiveness of such interventions when delivered by school teachers and counselors (as opposed to research team staff). We evaluated the effectiveness of the Penn Resiliency Program for adolescents (PRP-A), a school-based group intervention that targets cognitive behavioral risk factors for depression. We randomly assigned 408 middle school students (ages 10-15) to one of three conditions: PRP-A, PRP-AP (in which adolescents participated in PRP-A and parents were invited to attend a parent intervention component), or a school-as-usual control. Adolescents completed measures of depression and anxiety symptoms, cognitive style, and coping at baseline, immediately after the intervention, and at 6-month follow-up. PRP-A reduced depression symptoms relative to the school as usual control. Baseline levels of hopelessness moderated intervention effects. Among participants with average and high levels of hopelessness, PRP (A and AP) significantly improved depression symptoms, anxiety symptoms, hopelessness, and active coping relative to control. Among participants with low baseline hopelessness, we found no intervention effects. PRP-AP was not more effective than PRP-A alone. We found no intervention effects on clinical levels of depression or anxiety. These findings suggest that cognitive-behavioral interventions can be beneficial when delivered by school teachers and counselors. These interventions may be most helpful to students with elevated hopelessness.
+C1 [Gillham, Jane E.] Swarthmore Coll, Dept Psychol, Swarthmore, PA 19081 USA.
+   [Gillham, Jane E.; Reivich, Karen J.; Brunwasser, Steven M.; Freres, Derek R.; Chajon, Norma D.; Kash-MacDonald, V. Megan; Chaplin, Tara M.; Abenavoli, Rachel M.; Matlin, Samantha L.; Seligman, Martin E. P.] Univ Penn, Posit Psychol Ctr, Philadelphia, PA 19104 USA.
+   [Gallop, Robert J.] W Chester Univ, Dept Math & Appl Stat, W Chester, PA USA.
+   [Seligman, Martin E. P.] Univ Penn, Dept Psychol, Philadelphia, PA 19104 USA.
+RP Gillham, JE (corresponding author), Swarthmore Coll, Dept Psychol, 500 Coll Ave, Swarthmore, PA 19081 USA.
+EM jgillha1@swarthmore.edu
+OI Gillham, Jane/0000-0002-0820-277X
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [MH52270, R01 MH052270]
+NR 76
+TC 51
+Z9 51
+U1 1
+U2 50
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1537-4416
+EI 1537-4424
+J9 J CLIN CHILD ADOLESC
+JI J. Clin. Child Adolesc. Psychol.
+PY 2012
+VL 41
+IS 5
+SI SI
+BP 621
+EP 639
+DI 10.1080/15374416.2012.706517
+PG 19
+WC Psychology, Clinical; Psychology, Developmental
+SC Psychology
+GA 092TQ
+UT WOS:000315145800008
+PM 22889296
+OA Green Accepted
+DA 2020-08-04
+ER
+
+PT J
+AU Simon, E
+   Bogels, SM
+   Voncken, JM
+AF Simon, Ellin
+   Bogels, Susan Maria
+   Voncken, Jannie Marisol
+TI Efficacy of Child-Focused and Parent-Focused Interventions in a Child
+   Anxiety Prevention Study
+SO JOURNAL OF CLINICAL CHILD AND ADOLESCENT PSYCHOLOGY
+LA English
+DT Article
+ID COGNITIVE-BEHAVIORAL THERAPY; CLINICALLY ANXIOUS YOUTH; DISORDERS
+   SCARED-R; LONG-TERM OUTCOMES; EMOTIONAL DISORDERS; REVISED VERSION;
+   DEPRESSIVE SYMPTOMS; SCHOOL-CHILDREN; DSM-IV; UNIVERSAL
+AB This study examined anxiety development in median- (n=74) and high-anxious children (n=183) aged 8-13, the effect of parent- and child-focused preventive interventions on child/parental anxiety, and the effect of parental anxiety on child anxiety. High-anxious children were randomized into a parent-focused (n=69), child-focused (n=58) or non-intervention (n=56) group. Families completed a pretest and 1- and 2-year follow-ups. Children selected as high-anxious or at risk were found to remain more susceptible to having anxiety problems and developing anxiety disorders than median-anxious children. Both intervention types showed favorable outcomes compared to no intervention on the number of oADIS improvedo children. These findings underline the need for effective preventive interventions for child anxiety. General improvements over time were found for symptoms of child and parental anxiety, however, and parental anxiety did not predict improvement in child anxiety after controlling for intervention. Therefore, it may not be necessary to focus on parental anxiety in interventions aimed at preventing child anxiety.
+C1 [Simon, Ellin; Voncken, Jannie Marisol] Maastricht Univ, Dept Clin Psychol, NL-6200 MD Maastricht, Netherlands.
+   [Bogels, Susan Maria] Univ Amsterdam, Dept Child Dev & Educ, NL-1012 WX Amsterdam, Netherlands.
+RP Simon, E (corresponding author), Maastricht Univ, Dept Clin Psychol, Univ Singel 40, NL-6200 MD Maastricht, Netherlands.
+EM e.simon@maastrichtuniversity.nl
+NR 73
+TC 31
+Z9 31
+U1 0
+U2 22
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1537-4416
+EI 1537-4424
+J9 J CLIN CHILD ADOLESC
+JI J. Clin. Child Adolesc. Psychol.
+PY 2011
+VL 40
+IS 2
+BP 204
+EP 219
+AR PII 934562886
+DI 10.1080/15374416.2011.546039
+PG 16
+WC Psychology, Clinical; Psychology, Developmental
+SC Psychology
+GA 733LS
+UT WOS:000288264800004
+PM 21391018
+DA 2020-08-04
+ER
+
+PT J
+AU Manassis, K
+   Wilansky-Traynor, P
+   Farzan, N
+   Kleiman, V
+   Parker, K
+   Sanford, M
+AF Manassis, Katharina
+   Wilansky-Traynor, Pamela
+   Farzan, Nas
+   Kleiman, Valery
+   Parker, Kevin
+   Sanford, Mark
+TI THE FEELINGS CLUB: RANDOMIZED CONTROLLED EVALUATION OF SCHOOL-BASED CBT
+   FOR ANXIOUS OR DEPRESSIVE SYMPTOMS
+SO DEPRESSION AND ANXIETY
+LA English
+DT Article
+DE anxiety; depression; cognitive behavioral therapy; school-based; early
+   intervention
+ID COGNITIVE-BEHAVIORAL TREATMENT; CHILDHOOD ANXIETY DISORDERS; LONG-TERM
+   OUTCOMES; CHILDREN; PREVENTION; ADOLESCENTS; INTERVENTIONS; COMORBIDITY;
+   THERAPY; PARENT
+AB Background: Children with anxious or depressive symptoms are at risk of developing internalizing disorders and their attendant morbidity. To prevent these outcomes, school-based cognitive-behavioral therapy (CBT) has been developed, but few studies include active control conditions. We evaluated a preventive CBT program targeting internalizing symptoms relative to an activity contrast condition post-intervention and at 1-year follow-up. Methods: One thousand one hundred and thirty-nine children from Grades 3-6 from a diverse sample of schools, were screened with the Multidimensional Anxiety Scale for Children and Children's Depression Inventory. Those with t>460 on either measure were offered participation in a randomized 12-week trial, school-based group CBT versus a structured after-school activity group of equal duration. We explored several therapeutic elements as potential predictors of change. Results: One hundred and forty-eight children participated (84 boys, 64 girls; 78 CBT, 70 contrast; 57% Caucasian) and 145 completed the program. Self-reported anxious and depressive symptoms decreased significantly over time (eta(2) = .15 and .133, respectively), with no group by time interaction. There was a trend toward fewer children meeting diagnostic criteria for an anxiety disorder on the Anxiety Disorders Interview Schedule at 1-year post-CBT than post-contrast (6/76 versus 12/69). Positive reinforcement of child behavior was associated with change in anxiety symptoms; checking homework was understood with change in depressive symptoms. Conclusions: Findings suggest that children with internalizing symptoms may benefit from both school-based CBT and structured activity programs. Replication, longer follow-up, and further studies of therapeutic elements in child CBT are indicated. ISRCTN Registry identifier: ISRCTN88858028, url: http://www.controlled-trials.com/Depression and Anxiety 27:945-952, 2010. (C) 2010 Wiley-Liss, Inc.
+C1 [Manassis, Katharina; Wilansky-Traynor, Pamela; Farzan, Nas; Kleiman, Valery; Sanford, Mark] Univ Toronto, Dept Psychiat, Ctr Addict & Mental Hlth, Toronto, ON, Canada.
+   [Parker, Kevin] Queens Univ, Dept Psychol, Kingston, ON K7L 3N6, Canada.
+RP Manassis, K (corresponding author), Hosp Sick Children, Dept Psychiat, 555 Univ Ave, Toronto, ON M5G 1X8, Canada.
+EM katharina.manassis@sickkids.ca
+FU Canadian Institutes of Health ResearchCanadian Institutes of Health
+   Research (CIHR); Social Sciences and Humanities Research CouncilSocial
+   Sciences and Humanities Research Council of Canada (SSHRC); Tremain
+   Family Fund (private donor)
+FX We acknowledge the individual contributions of Patty Schabas, M. D.,
+   Karen Brozina, Ph.D., Jennifer Crosbie, Ph.D., Lisa Fiksenbaum, M. A.,
+   Anne Simpson, Ph.D., Denise Vallance, Ph.D., and Hayley Wood, Ph.D., and
+   the collective contributions of the Board of Jewish Education, Toronto,
+   Toronto District School Board, Toronto Separate School Board, and York
+   Region District School Board. We acknowledge funding by the Canadian
+   Institutes of Health Research, the Social Sciences and Humanities
+   Research Council, and the Tremain Family Fund (private donor).
+NR 41
+TC 37
+Z9 37
+U1 0
+U2 26
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1091-4269
+EI 1520-6394
+J9 DEPRESS ANXIETY
+JI Depress. Anxiety
+PD OCT
+PY 2010
+VL 27
+IS 10
+BP 945
+EP 952
+DI 10.1002/da.20724
+PG 8
+WC Psychology, Clinical; Psychiatry; Psychology
+SC Psychology; Psychiatry
+GA 661PR
+UT WOS:000282740700005
+PM 20602433
+DA 2020-08-04
+ER
+
+PT J
+AU Balle, M
+   Tortella-Feliu, M
+AF Balle, Maria
+   Tortella-Feliu, Miquel
+TI Efficacy of a brief school-based program for selective prevention of
+   childhood anxiety
+SO ANXIETY STRESS AND COPING
+LA English
+DT Article
+DE anxiety; selective prevention; childhood; risk; anxiety sensitivity;
+   randomized controlled trial
+ID DEPRESSIVE SYMPTOMS; EARLY INTERVENTION; SENSITIVITY INDEX; CHILDREN;
+   DISORDERS; UNIVERSAL; TRIAL; PSYCHOPATHOLOGY; DIAGNOSIS; INTERVIEW
+AB Anxiety sensitivity (AS) is recognized as an early risk factor for the development of anxiety disorders. This study evaluates whether a brief school-based selective prevention program reduces AS and anxious and depressive symptoms in children and youth. Participants scoring high in AS but without any current psychopathological disorder were selected from a sample of 613 individuals (61% female, 11-17 years old) and randomly assigned to the prevention program (n=47) or to a waiting-list control (WLC) (n=45) group. A normal control (NC) group (n=53) was also included. After treatment, a significant decrease in AS and in anxiety and depressive symptoms were observed in both prevention and WLC groups. Differences between experimental conditions only emerged, partially, at six-month follow-up (FU) with the prevention group (PG) exhibiting significantly lower AS (p.05), and equalling NCs. Although the magnitude of change in the PG is comparable to that reported in previous studies with longer and more complex prevention programs, a parallel reduction in the WLCs suggests that the observed decrease in the short term could be mostly time-linked. Despite this, our results encourage research into brief preventive interventions at an individual level.
+C1 [Balle, Maria; Tortella-Feliu, Miquel] Univ Balearic Isl, Dept Psychol, Palma De Mallorca, Spain.
+RP Balle, M (corresponding author), Univ Balearic Isl, Dept Psychol, Palma De Mallorca, Spain.
+EM maria.balle-cabot@uib.es
+RI Balle, Maria/G-1664-2016; Tortella-Feliu, Miquel/C-3308-2012
+OI Balle, Maria/0000-0002-8446-3090; 
+NR 55
+TC 33
+Z9 33
+U1 0
+U2 10
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1061-5806
+EI 1477-2205
+J9 ANXIETY STRESS COPIN
+JI Anxiety Stress Coping
+PY 2010
+VL 23
+IS 1
+BP 71
+EP 85
+AR PII 909926138
+DI 10.1080/10615800802590652
+PG 15
+WC Neurosciences; Psychiatry; Psychology, Multidisciplinary
+SC Neurosciences & Neurology; Psychiatry; Psychology
+GA 525JV
+UT WOS:000272212900006
+PM 19326270
+DA 2020-08-04
+ER
+
+PT J
+AU Gillham, JE
+   Reivich, KJ
+   Freres, DR
+   Lascher, M
+   Litzinger, S
+   Shatte, A
+   Seligman, MEP
+AF Gillham, Jane E.
+   Reivich, Karen J.
+   Freres, Derek R.
+   Lascher, Marisa
+   Litzinger, Samantha
+   Shatte, Andrew
+   Seligman, Martin E. P.
+TI School-based prevention of depression and anxiety symptoms in early
+   adolescence: A pilot of a parent intervention component
+SO SCHOOL PSYCHOLOGY QUARTERLY
+LA English
+DT Article
+ID PSYCHOSOCIAL INTERVENTIONS; RANDOMIZED-TRIAL; MENTAL-HEALTH; CHILDREN;
+   DISORDERS; SCHOOLCHILDREN; CHILDHOOD; INVENTORY; OUTCOMES; PROGRAM
+AB This section called "Changing Practice, Changing Schools" will feature reviews of either intervention or training programs that reflect innovative, psychologically based, empirically supported approaches to solving problems of practice. We envision this section as one that considers more systemic methods for meeting the needs of children, families, schools and communities and one that clearly communicates the variety of skills and expertise that school psychologists bring to their settings.
+C1 Swarthmore Coll, Dept Psychol, Swarthmore, PA 19081 USA.
+   Univ Penn, Annenberg Sch Commun, Philadelphia, PA 19104 USA.
+   Univ Penn, Dept Psychol, Philadelphia, PA 19104 USA.
+RP Gillham, JE (corresponding author), Swarthmore Coll, Dept Psychol, 500 Coll Ave, Swarthmore, PA 19081 USA.
+EM jgillha1@swarthmore.edu
+NR 55
+TC 78
+Z9 78
+U1 2
+U2 27
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1045-3830
+EI 1939-1560
+J9 SCHOOL PSYCHOL QUART
+JI Sch. Psychol. Q.
+PD FAL
+PY 2006
+VL 21
+IS 3
+BP 323
+EP 348
+DI 10.1521/scpq.2006.21.3.323
+PG 26
+WC Psychology, Educational
+SC Psychology
+GA 085OJ
+UT WOS:000240613100004
+DA 2020-08-04
+ER
+
+PT J
+AU Lock, S
+   Barrett, PM
+AF Lock, S
+   Barrett, PM
+TI A longitudinal study of developmental differences in universal
+   preventive intervention for child anxiety
+SO BEHAVIOUR CHANGE
+LA English
+DT Article
+ID TEST-RETEST RELIABILITY; DISORDERS; DEPRESSION; SYMPTOMS; SYMPTOMATOLOGY
+AB The present paper presents the results of a longitudinal study evaluating the effects of a universal school-based intervention for child anxiety at two developmental stages. The study involved a cohort of 733 children enrolled in grade 6 (n = 336, 45.6%) aged between 9 and 10 years, and grade 9 (n = 401, 54.4%) aged between 14 and 16 years. Participants were allocated to either a school-based cognitive-behavioural intervention or to a monitoring group, and completed standardised measures of anxiety, depression and coping style. Young people identified as "at risk" of an anxiety disorder were assessed for a clinical diagnosis with a structured diagnostic interview. Findings showed universal intervention as potentially successful in reducing symptoms of anxiety and increasing coping skills in children. Primary school children reported the greatest changes in anxiety symptoms, suggesting earlier preventive intervention was potentially more advantageous than later intervention. Developmental differences in anxiety, depression and coping strategies are discussed in addition to the implications and limitations of this study and directions for future research.
+C1 Griffith Univ, Fac Hlth Sci, Sch Appl Psychol, Brisbane, Qld 4111, Australia.
+RP Barrett, PM (corresponding author), Griffith Univ, Fac Hlth Sci, Sch Appl Psychol, Psychol Bldg Mt Gravatt, Brisbane, Qld 4111, Australia.
+EM P.Barrett@griffith.edu.an
+NR 44
+TC 88
+Z9 87
+U1 0
+U2 19
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0813-4839
+EI 2049-7768
+J9 BEHAV CHANGE
+JI Behav. Change
+PY 2003
+VL 20
+IS 4
+BP 183
+EP 199
+DI 10.1375/bech.20.4.183.29383
+PG 17
+WC Psychology, Clinical
+SC Psychology
+GA 823IS
+UT WOS:000221605100001
+DA 2020-08-04
+ER
+
+PT J
+AU Lowry-Webster, HM
+   Barrett, PM
+   Dadds, MR
+AF Lowry-Webster, HM
+   Barrett, PM
+   Dadds, MR
+TI A universal prevention trial of anxiety and depressive symptomatology in
+   childhood: Preliminary data from an Australian study
+SO BEHAVIOUR CHANGE
+LA English
+DT Article
+ID MENTAL-HEALTH-SERVICES; EARLY INTERVENTION; MAJOR DEPRESSION; CHILDREN;
+   DISORDERS; SYMPTOMS; PREVALENCE; INVENTORY
+AB This paper describes the development and preliminary findings of a program designed to prevent the development of anxiety and depressive symptoms in children aged 10 to 13 years. Using a universal prevention approach, a total of 594 children were randomly assigned on a class-by-class basis to either a 10-session family.-roup CBT program (FRIENDS) routinely implemented as part of the school curriculum, or to a comparison group. Pre-post intervention changes were examined universally, and for children who scored above the clinical cut-off for anxiety at pretest. Results revealed that children in the FRIENDS intervention group reported fewer anxiety symptoms, regardless of their risk status, than the comparison group at posttest. In terms of reported levels of depression, only the high anxiety group who completed the FRIENDS intervention evidenced improvements at posttest. Overall, these preliminary results appear to support the benefits of a school-based universal cognitive-behavioural intervention program. Implications of this study are discussed, and long-term follow-up measures are currently underway.
+C1 Griffith Univ, Brisbane, Qld, Australia.
+RP Lowry-Webster, HM (corresponding author), Griffith Univ, Mt Gravatt Campus, Brisbane, Qld, Australia.
+EM h.lowry@gu.edu.au
+RI Dadds, Mark/F-8017-2011
+OI Dadds, Mark/0000-0002-2900-1715
+NR 52
+TC 167
+Z9 166
+U1 0
+U2 27
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0813-4839
+EI 2049-7768
+J9 BEHAV CHANGE
+JI Behav. Change
+PY 2001
+VL 18
+IS 1
+BP 36
+EP 50
+DI 10.1375/bech.18.1.36
+PG 15
+WC Psychology, Clinical
+SC Psychology
+GA 457LA
+UT WOS:000170137500005
+DA 2020-08-04
+ER
+
+PT J
+AU Dadds, MR
+   Spence, SH
+   Holland, DE
+   Barrett, PM
+   Laurens, KR
+AF Dadds, MR
+   Spence, SH
+   Holland, DE
+   Barrett, PM
+   Laurens, KR
+TI Prevention and early intervention for anxiety disorders: A controlled
+   trial
+SO JOURNAL OF CONSULTING AND CLINICAL PSYCHOLOGY
+LA English
+DT Article
+ID CHILDREN; ADOLESCENTS
+AB The Queensland Early Intervention and Prevention of Anxiety Project evaluated the effectiveness of a cognitive-behavioral and family-based group intervention for preventing the onset and development of anxiety problems in children. A total of 1,786 7- to 14-year-olds were screened for anxiety problems using teacher nominations and children's self-report. After recruitment and diagnostic interviews, 128 children were selected and assigned to a l0-week school-based child- and parent-focused psychosocial intervention or to a monitoring group. Both groups showed improvements immediately postintervention. At 6 months follow-up, the improvement maintained in the intervention group only, reducing the rate of existing anxiety disorder and preventing the onset of new anxiety disorders. Overall, the results showed that anxiety problems and disorders identified using child and teacher reports can be successfully targeted through an early intervention school-based program.
+C1 UNIV QUEENSLAND, DEPT PSYCHOL, ST LUCIA, QLD, AUSTRALIA.
+RP Dadds, MR (corresponding author), GRIFFITH UNIV, FAC HLTH & BEHAV SCI, SCH APPL PSYCHOL, NATHAN, QLD 4111, AUSTRALIA.
+RI Dadds, Mark/F-8017-2011; Laurens, Kristin R/B-3937-2010
+OI Laurens, Kristin R/0000-0002-3987-6486; Dadds, Mark/0000-0002-2900-1715;
+   Spence, Susan/0000-0002-7022-6676
+NR 31
+TC 263
+Z9 266
+U1 1
+U2 29
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-006X
+J9 J CONSULT CLIN PSYCH
+JI J. Consult. Clin. Psychol.
+PD AUG
+PY 1997
+VL 65
+IS 4
+BP 627
+EP 635
+DI 10.1037/0022-006X.65.4.627
+PG 9
+WC Psychology, Clinical
+SC Psychology
+GA XM674
+UT WOS:A1997XM67400012
+PM 9256564
+DA 2020-08-04
+ER
+
+EF

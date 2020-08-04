@@ -1,0 +1,467 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Livingston, RW
+   Rosette, AS
+   Washington, EF
+AF Livingston, Robert W.
+   Rosette, Ashleigh Shelby
+   Washington, Ella F.
+TI Can an Agentic Black Woman Get Ahead? The Impact of Race and
+   Interpersonal Dominance on Perceptions of Female Leaders
+SO PSYCHOLOGICAL SCIENCE
+LA English
+DT Article
+DE prejudice; racial and ethnic attitudes and relations
+ID GENDER STEREOTYPES; BACKLASH; WOMEN; BIAS; CATEGORIZATION; INVISIBILITY;
+   IDENTITIES; MANAGEMENT; PREJUDICE; PROTOTYPE
+AB Prior research has demonstrated that the display of agentic behaviors, such as dominance, can produce backlash against female leaders because of the incongruence between these behaviors and prescribed gender roles. The current study was designed to fill a gap in existing research by investigating whether these well-established findings are moderated by race. Results revealed that dominant Black female leaders did not create the same backlash that dominant White female leaders did. Experimental evidence confirmed that White female (and Black male) leaders were conferred lower status when they expressed dominance rather than communality, whereas Black female (and White male) leaders were not. These findings highlight the importance, and complexity, of considering the intersection of gender and race when examining penalties for and proscriptions against dominant behavior of female leaders.
+C1 [Livingston, Robert W.; Washington, Ella F.] Northwestern Univ, Kellogg Sch Management, Evanston, IL 60208 USA.
+   [Rosette, Ashleigh Shelby] Duke Univ, Fuqua Sch, Durham, NC 27706 USA.
+RP Livingston, RW (corresponding author), Northwestern Univ, Kellogg Sch Management, 2001 Sheridan Rd, Evanston, IL 60208 USA.
+EM rwlivingston@kellogg.northwestern.edu
+NR 30
+TC 126
+Z9 127
+U1 1
+U2 44
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0956-7976
+J9 PSYCHOL SCI
+JI Psychol. Sci.
+PD APR
+PY 2012
+VL 23
+IS 4
+BP 354
+EP 358
+DI 10.1177/0956797611428079
+PG 5
+WC Psychology, Multidisciplinary
+SC Psychology
+GA 931IJ
+UT WOS:000303209300003
+PM 22421203
+DA 2020-08-04
+ER
+
+PT J
+AU Rudman, LA
+   Moss-Racusin, CA
+   Phelan, JE
+   Nauts, S
+AF Rudman, Laurie A.
+   Moss-Racusin, Corinne A.
+   Phelan, Julie E.
+   Nauts, Sanne
+TI Status incongruity and backlash effects: Defending the gender hierarchy
+   motivates prejudice against female leaders
+SO JOURNAL OF EXPERIMENTAL SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE Backlash effect; Sex discrimination; Gender stereotype; Gender
+   prejudice; System justification theory; Impression management
+ID SYSTEM-JUSTIFICATION; STEREOTYPE CONTENT; CONFIDENCE-LIMITS; SOCIAL
+   JUDGMENT; WOMEN; SEX; COMPETENCE; DISCRIMINATION; CONSEQUENCES;
+   COMMUNALITY
+AB Agentic female leaders risk social and economic penalties for behaving counter-stereotypically (i.e., backlash; Rudman, 1998), but what motivates prejudice against female leaders? The status incongruity hypothesis (SIH) proposes that agentic women are penalized for status violations because doing so defends the gender hierarchy. Consistent with this view, Study 1 found that women are proscribed from dominant, high status displays (which are reserved for leaders and men); Studies 2-3 revealed that prejudice against agentic female leaders was mediated by a dominance penalty; and in Study 3, participants' gender system-justifying beliefs moderated backlash effects. Study 4 found that backlash was exacerbated when perceivers were primed with a system threat. Study 5 showed that only female leaders who threatened the status quo suffered sabotage. In concert, support for the SIH suggests that backlash functions to preserve male dominance by reinforcing a double standard for power and control. (C) 2011 Elsevier Inc. All rights reserved.
+C1 [Rudman, Laurie A.] Rutgers State Univ, New Brunswick, NJ 08903 USA.
+   [Moss-Racusin, Corinne A.] Yale Univ, New Haven, CT 06520 USA.
+   [Nauts, Sanne] Radboud Univ Nijmegen, Inst Behav Sci, Nijmegen, Netherlands.
+RP Rudman, LA (corresponding author), Rutgers State Univ, Dept Psychol, Tillett Hall,53 Ave E, Piscataway, NJ 08854 USA.
+EM rudman@rci.rutgers.edu
+RI Nauts, Sanne/D-6070-2012
+NR 70
+TC 322
+Z9 325
+U1 8
+U2 160
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0022-1031
+EI 1096-0465
+J9 J EXP SOC PSYCHOL
+JI J. Exp. Soc. Psychol.
+PD JAN
+PY 2012
+VL 48
+IS 1
+BP 165
+EP 179
+DI 10.1016/j.jesp.2011.10.008
+PG 15
+WC Psychology, Social
+SC Psychology
+GA 874DP
+UT WOS:000298935900017
+HC Y
+HP N
+DA 2020-08-04
+ER
+
+PT J
+AU Brescoll, VL
+AF Brescoll, Victoria L.
+TI Who Takes the Floor and Why: Gender, Power, and Volubility in
+   Organizations
+SO ADMINISTRATIVE SCIENCE QUARTERLY
+LA English
+DT Article
+DE volubility; power; gender; organizations; stereotyping
+ID SEX-DIFFERENCES; SELF-PROMOTION; WOMEN; DOMINANCE; BACKLASH;
+   METAANALYSIS; STEREOTYPES; LEADERSHIP; ROLES; TASKS
+AB Although past research has noted the importance of both power and gender for understanding volubility-the total amount of time spent talking-in organizations, to date, identifying the unique contributions of power and gender to volubility has been somewhat elusive. Using both naturalistic data sets and experiments, the present studies indicate that while power has a strong, positive effect on volubility for men, no such effect exists for women. Study 1 uses archival data to examine the relationship between the relative power of United States senators and their talking behavior on the Senate floor. Results indicate a strong positive relationship between power and volubility for male senators, but a non-significant relationship for female senators. Study 2 replicates this effect in an experimental setting by priming the concept of power and shows that though men primed with power talk more, women show no effect of power on volubility. Mediation analyses indicate that this difference is explained by women's concern that being highly voluble will result in negative consequences (i.e., backlash). Study 3 shows that powerful women are in fact correct in assuming that they will incur backlash as a result of talking more than others-an effect that is observed among both male and female perceivers. Implications for the literatures on volubility, power, and previous studies of backlash are discussed.
+C1 Yale Univ, Sch Management, New Haven, CT 06520 USA.
+RP Brescoll, VL (corresponding author), Yale Univ, Sch Management, 135 Prospect St, New Haven, CT 06520 USA.
+EM victoria.brescoll@yale.edu
+NR 54
+TC 93
+Z9 93
+U1 0
+U2 79
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0001-8392
+J9 ADMIN SCI QUART
+JI Adm. Sci. Q.
+PD DEC
+PY 2011
+VL 56
+IS 4
+SI SI
+BP 622
+EP 641
+DI 10.1177/0001839212439994
+PG 20
+WC Business; Management
+SC Business & Economics
+GA 916SF
+UT WOS:000302122800007
+DA 2020-08-04
+ER
+
+PT J
+AU Okimoto, TG
+   Brescoll, VL
+AF Okimoto, Tyler G.
+   Brescoll, Victoria L.
+TI The Price of Power: Power Seeking and Backlash Against Female
+   Politicians
+SO PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+LA English
+DT Article
+DE gender stereotypes; backlash; power; politics; intention; moral outrage
+ID GENDER STEREOTYPES; WOMEN; COMPETENCE; PERCEPTION; WORKPLACE; LEADERS;
+   WARMTH; SELF; BIAS; INFORMATION
+AB Two experimental studies examined the effect of power-seeking intentions on backlash toward women in political office. It was hypothesized that a female politician's career progress may be hindered by the belief that she seeks power, as this desire may violate prescribed communal expectations for women and thereby elicit interpersonal penalties. Results suggested that voting preferences for female candidates were negatively influenced by her power-seeking intentions (actual or perceived) but that preferences for male candidates were unaffected by power-seeking intentions. These differential reactions were partly explained by the perceived lack of communality implied by women's power-seeking intentions, resulting in lower perceived competence and feelings of moral outrage. The presence of moral-emotional reactions suggests that backlash arises from the violation of communal prescriptions rather than normative deviations more generally. These findings illuminate one potential source of gender bias in politics.
+C1 [Okimoto, Tyler G.] Yale Univ, Sch Management, New Haven, CT 06520 USA.
+RP Okimoto, TG (corresponding author), Yale Univ, Sch Management, 135 Prospect St,POB 208200, New Haven, CT 06520 USA.
+EM tyler.okimoto@yale.edu; victoria.brescoll@yale.edu
+RI Okimoto, Tyler/D-6634-2011
+OI Okimoto, Tyler/0000-0002-4506-6826
+NR 86
+TC 121
+Z9 122
+U1 2
+U2 87
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0146-1672
+EI 1552-7433
+J9 PERS SOC PSYCHOL B
+JI Pers. Soc. Psychol. Bull.
+PD JUL
+PY 2010
+VL 36
+IS 7
+BP 923
+EP 936
+DI 10.1177/0146167210371949
+PG 14
+WC Psychology, Social
+SC Psychology
+GA 615EE
+UT WOS:000279115500006
+PM 20519573
+DA 2020-08-04
+ER
+
+PT J
+AU Hoyt, CL
+   Simon, S
+   Reid, L
+AF Hoyt, Crystal L.
+   Simon, Stefanie
+   Reid, Lindsey
+TI Choosing the best (wo)man for the job: The effects of mortality
+   salience, sex, and gender stereotypes on leader evaluations
+SO LEADERSHIP QUARTERLY
+LA English
+DT Article
+DE Sex; Gender stereotypes; Leadership; Mortality salience; Terror
+   management theory
+ID TERROR MANAGEMENT THEORY; SELF-ESTEEM; BIAS; IDENTIFICATION; WOMEN;
+   PREJUDICE; RESPONSES; MODEL; DISCRIMINATION; PREFERENCES
+AB The present research investigated the impact of death-related thoughts on preferences for male and female leaders and tested alternative predictions derived from terror management theory: the stereotype bias effect was predicted to result in a global preference for male leaders (Study1) and a preference for agentic leaders (Study 2), whereas the ingroup bias effect was predicted to result in women favoring female leaders and men preferring male leaders. These hypotheses were examined in two experimental studies wherein participants were presented with a mortality salience or control manipulation and subsequently presented with campaign statements from male and female gubernatorial candidates. Results from Study 1 were in accord with the enhanced ingroup bias predictions: under mortality salience women preferred and voted for the female candidate more so than the male candidate, while men showed the reverse preference. Results from Study 2, which also manipulated gender stereotypic traits of the candidates, support the enhanced stereotype bias effect: under mortality salience female participants preferred and voted for the agentic candidate regardless of sex, and males preferred the agentic male candidate. Results support previous TMT research demonstrating both ingroup bias and stereotype bias processes. (C) 2009 Elsevier Inc. All rights reserved.
+C1 [Hoyt, Crystal L.] Univ Richmond, Jepson Sch Leadership Studies, Richmond, VA 23173 USA.
+   [Simon, Stefanie] Univ Calif Santa Barbara, Dept Psychol, Santa Barbara, CA 93106 USA.
+   [Reid, Lindsey] Univ Penn, Philadelphia VAMC, Behav Hlth Lab, Philadelphia, PA 19104 USA.
+RP Hoyt, CL (corresponding author), Univ Richmond, Jepson Sch Leadership Studies, Richmond, VA 23173 USA.
+EM choyt@richmond.edu; simon@psych.ucsb.edu; lindsey.lindseyreid@gmail.com
+OI hoyt, crystal/0000-0001-9108-3910
+NR 67
+TC 35
+Z9 35
+U1 4
+U2 45
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 1048-9843
+EI 1873-3409
+J9 LEADERSHIP QUART
+JI Leadersh. Q.
+PD APR
+PY 2009
+VL 20
+IS 2
+BP 233
+EP 246
+DI 10.1016/j.leaqua.2009.01.016
+PG 14
+WC Psychology, Applied; Management
+SC Psychology; Business & Economics
+GA 423ZW
+UT WOS:000264536300015
+DA 2020-08-04
+ER
+
+PT J
+AU Phelan, JE
+   Moss-Racusin, CA
+   Rudman, LA
+AF Phelan, Julie E.
+   Moss-Racusin, Corinne A.
+   Rudman, Laurie A.
+TI COMPETENT YET OUT IN THE COLD: SHIFTING CRITERIA FOR HIRING REFLECT
+   BACKLASH TOWARD AGENTIC WOMEN
+SO PSYCHOLOGY OF WOMEN QUARTERLY
+LA English
+DT Article
+ID GENDER STEREOTYPES; DISCRIMINATION; SUCCESS; MANAGEMENT; WORKPLACE;
+   COSTS
+AB We present evidence that shifting hiring criteria reflects backlash toward agentic ("masterful") women (Rudman, 1998). Participants (N = 428) evaluated male or female agentic or communal managerial applicants on dimensions of competence, social skills, and hireability. Consistent with past research, agentic women were perceived as highly competent but deficient in social skills, compared with agentic men. New to the present research, social skills predicted hiring decisions more than competence for agentic women; for all other applicants, competence received more weight than social skills. Thus, evaluators shifted the job criteria away from agentic women's strong suit (competence) and toward their perceived deficit (social skills) to justify hiring discrimination. The implications of these findings for women's professional success are discussed.
+C1 [Phelan, Julie E.; Moss-Racusin, Corinne A.; Rudman, Laurie A.] Rutgers Univ New Brunswick, Dept Psychol, New Brunswick, NJ USA.
+RP Phelan, JE (corresponding author), Rutgers State Univ, Dept Psychol, Tillett Hall,53 Ave E, Piscataway, NJ 08854 USA.
+EM jephelan@eden.rutgers.edu
+NR 34
+TC 133
+Z9 135
+U1 1
+U2 44
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0361-6843
+EI 1471-6402
+J9 PSYCHOL WOMEN QUART
+JI Psychol. Women Q.
+PD DEC
+PY 2008
+VL 32
+IS 4
+BP 406
+EP 413
+DI 10.1111/j.1471-6402.2008.00454.x
+PG 8
+WC Psychology, Multidisciplinary; Women's Studies
+SC Psychology; Women's Studies
+GA 403GD
+UT WOS:000263070200005
+DA 2020-08-04
+ER
+
+PT J
+AU Bowles, HR
+   Babcock, L
+   Lai, L
+AF Bowles, Hannah Riley
+   Babcock, Linda
+   Lai, Lei
+TI Social incentives for gender differences in the propensity to initiate
+   negotiations: Sometimes it does hurt to ask
+SO ORGANIZATIONAL BEHAVIOR AND HUMAN DECISION PROCESSES
+LA English
+DT Article
+DE ask; compensation; gender differences; gender role; negotiation;
+   prescriptive sex stereotypes; social outcomes; status
+ID SALARY NEGOTIATION; BENEVOLENT SEXISM; WOMEN; STEREOTYPES; SELF;
+   BEHAVIOR; MEN; CONSEQUENCES; LEADERS; COSTS
+AB Four experiments show that gender differences in the propensity to initiate negotiations may be explained by differential treatment of men and women when they attempt to negotiate. In Experiments I and 2, participants evaluated written accounts of candidates who did or did not initiate negotiations for higher compensation. Evaluators penalized female candidates more than male candidates for initiating negotiations. In Experiment 3, participants evaluated videotapes of candidates who accepted compensation offers or initiated negotiations. Male evaluators penalized female candidates more than male candidates for initiating negotiations; female evaluators penalized all candidates for initiating negotiations. Perceptions of niceness and demandingness explained resistance to female negotiators. In Experiment 4, participants adopted the candidate's perspective and assessed whether to initiate negotiations in same scenario used in Experiment 3. With male evaluators, women were less inclined than men to negotiate, and nervousness explained this effect. There was no gender difference when evaluator was female. (c) 2006 Elsevier Inc. All rights reserved.
+C1 Harvard Univ, John F Kennedy Sch Govt, Cambridge, MA 02138 USA.
+   Carnegie Mellon Univ, H John Heinz III Sch Publ Policy & Management, Pittsburgh, PA 15213 USA.
+RP Bowles, HR (corresponding author), Harvard Univ, John F Kennedy Sch Govt, 79 JFK St, Cambridge, MA 02138 USA.
+EM hannah_bowles@harvard.edu
+RI Bowles, Hannah Riley/AAI-1346-2019
+NR 90
+TC 291
+Z9 294
+U1 11
+U2 313
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0749-5978
+EI 1095-9920
+J9 ORGAN BEHAV HUM DEC
+JI Organ. Behav. Hum. Decis. Process.
+PD MAY
+PY 2007
+VL 103
+IS 1
+BP 84
+EP 103
+DI 10.1016/j.obhdp.2006.09.001
+PG 20
+WC Psychology, Applied; Management; Psychology, Social
+SC Psychology; Business & Economics
+GA 172MH
+UT WOS:000246807900006
+OA Green Accepted
+DA 2020-08-04
+ER
+
+PT J
+AU Bolino, MC
+   Turnley, WH
+AF Bolino, MC
+   Turnley, WH
+TI Counternormative impression management, likeability, and performance
+   ratings: the use of intimidation in an organizational setting
+SO JOURNAL OF ORGANIZATIONAL BEHAVIOR
+LA English
+DT Article
+ID INFLUENCE TACTICS; LABORATORY EXPERIMENT; WOMEN; BEHAVIOR; GENDER;
+   METAANALYSIS; MEN
+AB Social-role theory suggests that women are likely to be penalized for acting assertively (or in other ways that are counter to stereotypical expectations). Using a sample of 76 supervisor-subordinate dyads, this research investigates the reactions of supervisors to the use of intimidation strategies by men and women working in a law enforcement agency. The findings suggest that, among female employees, the use of intimidation tactics of impression management is negatively related to supervisor ratings of likeability. In contrast, among mates, the use of intimidation is unrelated to supervisor ratings of likeability. In addition, for females, the use of intimidation is unrelated to performance ratings; among male employees, though, the relationship between intimidation and performance evaluations is positive. The implications of this study for management practice and future research are also discussed. Copyright (C) 2003 John Wiley Sons, Ltd.
+C1 Univ Notre Dame, Mendoza Coll Business, Dept Management, Notre Dame, IN 46556 USA.
+   Kansas State Univ, Coll Business Adm, Dept Management, Manhattan, KS 66506 USA.
+RP Bolino, MC (corresponding author), Univ Notre Dame, Mendoza Coll Business, Dept Management, 379, Notre Dame, IN 46556 USA.
+RI Bolino, Mark/AAF-2762-2020
+OI Bolino, Mark/0000-0003-0736-140X
+NR 36
+TC 81
+Z9 83
+U1 1
+U2 28
+PU JOHN WILEY & SONS LTD
+PI W SUSSEX
+PA BAFFINS LANE CHICHESTER, W SUSSEX PO19 1UD, ENGLAND
+SN 0894-3796
+J9 J ORGAN BEHAV
+JI J. Organ. Behav.
+PD MAR
+PY 2003
+VL 24
+IS 2
+BP 237
+EP 250
+DI 10.1002/job.185
+PG 14
+WC Business; Psychology, Applied; Management
+SC Business & Economics; Psychology
+GA 652HC
+UT WOS:000181372900006
+DA 2020-08-04
+ER
+
+PT J
+AU Rudman, LA
+   Glick, P
+AF Rudman, LA
+   Glick, P
+TI Prescriptive gender stereotypes and backlash toward agentic women
+SO JOURNAL OF SOCIAL ISSUES
+LA English
+DT Article
+ID IMPRESSION MANAGEMENT; AMBIVALENT SEXISM; ATTITUDES; MEN; ATTAINMENT;
+   MOTIVATION; PREJUDICE; COGNITION; COSTS
+AB In an experiment, job description and applicants' attributes were examined as moderators of the backlash effect, the negative evaluation of agentic women for violating prescriptions of feminine niceness (Rudman, 1998). Rutgers University students made hiring decisions for a masculine or "feminized" managerial job. Applicants were presented as either agentic or androgynous. Replicating Rudman and Glick (1999), a feminized job description promoted hiring discrimination against an agentic female because she was perceived as insufficiently nice. Unique to the present research, this perception was related to participants' possession of an implicit (but not explicit) agency-communality stereotype. By contrast, androgynous female applicants were not discriminated against. The findings suggest that the prescription for female niceness is an implicit belief that penalizes women unless they temper their agency with niceness.
+C1 Rutgers State Univ, Dept Psychol, Piscataway, NJ 08854 USA.
+   Lawrence Univ, Appleton, WI 54912 USA.
+RP Rudman, LA (corresponding author), Rutgers State Univ, Dept Psychol, Tillett Hall,53 Ave E, Piscataway, NJ 08854 USA.
+NR 45
+TC 741
+Z9 746
+U1 6
+U2 134
+PU BLACKWELL PUBLISHERS
+PI MALDEN
+PA 350 MAIN STREET, STE 6, MALDEN, MA 02148 USA
+SN 0022-4537
+J9 J SOC ISSUES
+JI J. Soc. Issues
+PD WIN
+PY 2001
+VL 57
+IS 4
+BP 743
+EP 762
+DI 10.1111/0022-4537.00239
+PG 20
+WC Social Issues; Psychology, Social
+SC Social Issues; Psychology
+GA 494WP
+UT WOS:000172309100008
+DA 2020-08-04
+ER
+
+PT J
+AU Rudman, LA
+   Glick, P
+AF Rudman, LA
+   Glick, P
+TI Feminized management and backlash toward agentic women: The hidden costs
+   to women of a kinder, gentler image of middle managers
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+ID IMPRESSION MANAGEMENT; SOCIAL JUDGEABILITY; GENDER; STEREOTYPES; SELF;
+   CONSEQUENCES; IMPACT
+AB Women who display masculine, agentic traits are viewed as violating prescriptions of feminine niceness (L. A. Rudman, 1998). By legitimizing niceness as an employment criterion, "feminization" of management (requiring both agentic and communal traits for managers) may unintentionally promote discrimination against competent women. Participants made hiring recommendations for a feminized or masculine managerial job. Agentic female job applicants were viewed as less socially skilled than agentic males, but this perception only resulted in hiring discrimination for the feminized, not the masculine, job. Communal applicants (regardless of sex) invariably received low hiring ratings. Thus, women must present themselves as agentic to be hireable, but may therefore be seen as interpersonally deficient. Ironically, the feminization of management may legitimize discrimination against competent, agentic women.
+C1 Rutgers State Univ, Dept Psychol, Piscataway, NJ 08854 USA.
+   Lawrence Univ, Dept Psychol, Appleton, WI 54912 USA.
+RP Rudman, LA (corresponding author), Rutgers State Univ, Dept Psychol, Tillett Hall,53 Ave E, Piscataway, NJ 08854 USA.
+NR 34
+TC 418
+Z9 420
+U1 1
+U2 65
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD NOV
+PY 1999
+VL 77
+IS 5
+BP 1004
+EP 1010
+DI 10.1037/0022-3514.77.5.1004
+PG 7
+WC Psychology, Social
+SC Psychology
+GA 252UC
+UT WOS:000083519800008
+PM 10573877
+DA 2020-08-04
+ER
+
+EF

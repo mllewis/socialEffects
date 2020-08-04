@@ -1,0 +1,270 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Obeid, R
+   Brooks, PJ
+   Powers, KL
+   Gillespie-Lynch, K
+   Lum, JAG
+AF Obeid, Rita
+   Brooks, Patricia J.
+   Powers, Kasey L.
+   Gillespie-Lynch, Kristen
+   Lum, Jarrad A. G.
+TI Statistical Learning in Specific Language Impairment and Autism Spectrum
+   Disorder: A Meta-Analysis
+SO FRONTIERS IN PSYCHOLOGY
+LA English
+DT Article
+DE statistical learning; specific language impairment; autism spectrum
+   disorder; meta-analysis; procedural deficit hypothesis
+ID HIGH-FUNCTIONING AUTISM; REACTION-TIME-TASK; YOUNG-CHILDREN; DECLARATIVE
+   MEMORY; PROCEDURAL MEMORY; READING-ABILITY; PAST TENSE; IMPLICIT; MOTOR;
+   ADOLESCENTS
+AB Impairments in statistical learning might be a common deficit among individuals with Specific Language Impairment (SLI) and Autism Spectrum Disorder (ASD). Using meta analysis, we examined statistical learning in SLI (14 studies, 15 comparisons) and ASD (13 studies, 20 comparisons) to evaluate this hypothesis. Effect sizes were examined as a function of diagnosis across multiple statistical learning tasks (Serial Reaction Time, Contextual Cueing, Artificial Grammar Learning, Speech Stream, Observational Learning, and Probabilistic Classification). Individuals with SLI showed deficits in statistical learning relative to age-matched controls. In contrast, statistical learning was intact in individuals with ASD relative to controls. Effect sizes did not vary as a function of task modality or participant age. Our findings inform debates about overlapping social communicative difficulties in children with SLI and ASD by suggesting distinct underlying mechanisms. In line with the procedural deficit hypothesis (Ullman and Pierpont, 2005), impaired statistical learning may account for phonological and syntactic difficulties associated with SLI. In contrast, impaired statistical learning fails to account for the social-pragmatic difficulties associated with ASD.
+C1 [Obeid, Rita; Brooks, Patricia J.; Powers, Kasey L.; Gillespie-Lynch, Kristen] CUNY Coll Staten Isl, Dept Psychol, New York, NY USA.
+   [Obeid, Rita; Brooks, Patricia J.; Powers, Kasey L.; Gillespie-Lynch, Kristen] CUNY, Grad Ctr, New York, NY USA.
+   [Lum, Jarrad A. G.] Deakin Univ, Melbourne, Vic, Australia.
+RP Obeid, R (corresponding author), CUNY Coll Staten Isl, Dept Psychol, New York, NY USA.; Obeid, R (corresponding author), CUNY, Grad Ctr, New York, NY USA.
+EM robeid@gradcenter.cuny.edu
+RI Lum, Jarrad/K-3912-2016; Obeid, Rita/AAS-5332-2020
+OI Lum, Jarrad/0000-0003-2098-2403; Gillespie-Lynch,
+   Kristen/0000-0001-7292-3945; Brooks, Patricia/0000-0001-8030-8811
+NR 134
+TC 27
+Z9 27
+U1 1
+U2 38
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1664-1078
+J9 FRONT PSYCHOL
+JI Front. Psychol.
+PD AUG 23
+PY 2016
+VL 7
+AR 1245
+DI 10.3389/fpsyg.2016.01245
+PG 18
+WC Psychology, Multidisciplinary
+SC Psychology
+GA DT8JV
+UT WOS:000381737300001
+PM 27602006
+OA DOAJ Gold, Green Published
+DA 2020-08-04
+ER
+
+PT J
+AU Clark, GM
+   Lum, JAG
+   Ullman, MT
+AF Clark, Gillian M.
+   Lum, Jarrad A. G.
+   Ullman, Michael T.
+TI A Meta-Analysis and Meta-regression of Serial Reaction Time Task
+   Performance in Parkinson's Disease
+SO NEUROPSYCHOLOGY
+LA English
+DT Article
+DE serial reaction time (RT); implicit learning; procedural learning;
+   Parkinson's disease; meta-analysis
+ID MEMORY-SYSTEMS; BASAL GANGLIA; IMPLICIT MEMORY; WORKING-MEMORY; VERBAL
+   VERSION; SEQUENCE; LANGUAGE; FMRI; ASSOCIATIONS; PALLIDOTOMY
+AB Objective: This article reports findings of a meta-analysis and meta-regression summarizing research on implicit sequence learning in individuals with Parkinson's disease (PD), as measured by the Serial Reaction Time (SRT) task. Method: Following a systematic search of the literature, we analyzed a total of 27 studies, representing data from 505 participants with PD and 460 neurologically intact control participants. Results: Overall, the meta-analysis indicated significantly (p < .001) worse sequence learning by the PD group than the control group. The average weighted effect size was found to be .531 (95% CI [.332, .470]), which is a medium effect size. However, moderate to high levels of heterogeneity (differences) were found between study effect sizes (I-2 = 58%). Meta-regression analysis suggested that presentation of the SRT task under dual task conditions coupled with PD severity or characteristics of the sequence might affect study effect sizes. Conclusions: The meta-analysis provides clear support that learning in procedural memory (procedural learning), which underlies implicit sequence learning in the SRT task, is impaired in PD.
+C1 [Clark, Gillian M.; Lum, Jarrad A. G.] Deakin Univ, Sch Psychol, Burwood, Vic 3121, Australia.
+   [Ullman, Michael T.] Georgetown Univ, Dept Neurosci, Washington, DC 20057 USA.
+RP Lum, JAG (corresponding author), Deakin Univ, Sch Psychol, 221 Burwood Highway, Burwood, Vic 3121, Australia.
+EM jarrad.lum@deakin.edu.au
+RI Lum, Jarrad/K-3912-2016; Clark, Gillian/AAC-3917-2020
+OI Lum, Jarrad/0000-0003-2098-2403; Clark, Gillian/0000-0002-6541-5130
+NR 85
+TC 30
+Z9 30
+U1 0
+U2 25
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0894-4105
+EI 1931-1559
+J9 NEUROPSYCHOLOGY
+JI Neuropsychology
+PD NOV
+PY 2014
+VL 28
+IS 6
+SI SI
+BP 945
+EP 958
+DI 10.1037/neu0000121
+PG 14
+WC Psychology, Clinical; Neurosciences; Psychology
+SC Psychology; Neurosciences & Neurology
+GA AT8BI
+UT WOS:000345158400013
+PM 25000326
+DA 2020-08-04
+ER
+
+PT J
+AU Lum, JAG
+   Ullman, MT
+   Conti-Ramsden, G
+AF Lum, Jarrad A. G.
+   Ullman, Michael T.
+   Conti-Ramsden, Gina
+TI Procedural learning is impaired in dyslexia: Evidence from a
+   meta-analysis of serial reaction time studies
+SO RESEARCH IN DEVELOPMENTAL DISABILITIES
+LA English
+DT Review
+DE Dyslexia; Serial reaction time; Procedural learning; Implicit learning;
+   Meta-analysis; Systematic review
+ID MEDIAL TEMPORAL-LOBE; DEVELOPMENTAL DYSLEXIA; LANGUAGE IMPAIRMENT;
+   PARKINSONS-DISEASE; READING-DISABILITY; DECLARATIVE MEMORY; IMPLICIT;
+   CHILDREN; DEFICIT; ACTIVATION
+AB A number of studies have investigated procedural learning in dyslexia using serial reaction time (SRT) tasks. Overall, the results have been mixed, with evidence of both impaired and intact learning reported. We undertook a systematic search of studies that examined procedural learning using SRT tasks, and synthesized the data using meta-analysis. A total of 14 studies were identified, representing data from 314 individuals with dyslexia and 317 typically developing control participants. The results indicate that, on average, individuals with dyslexia have worse procedural learning abilities than controls, as indexed by sequence learning on the SRT task. The average weighted standardized mean difference (the effect size) was found to be 0.449 (CI95: .204, .693), and was significant (p < .001). However, moderate levels of heterogeneity were found between study-level effect sizes. Meta-regression analyses indicated that studies with older participants that used SRT tasks with second order conditional sequences, or with older participants that used sequences that were presented a large number of times, were associated with smaller effect sizes. These associations are discussed with respect to compensatory and delayed memory systems in dyslexia. (C) 2013 The Authors. Published by Elsevier Ltd. All rights reserved.
+C1 [Lum, Jarrad A. G.] Deakin Univ, Melbourne, Vic, Australia.
+   [Ullman, Michael T.] Georgetown Univ, Washington, DC USA.
+   [Conti-Ramsden, Gina] Univ Manchester, Manchester M13 9PL, Lancs, England.
+RP Lum, JAG (corresponding author), Deakin Univ, Sch Psychol, Melbourne, Vic, Australia.
+EM jarrad.lum@deakin.edu.au
+RI Lum, Jarrad/K-3912-2016
+OI Lum, Jarrad/0000-0003-2098-2403
+FU Wellcome TrustWellcome Trust [079305]
+NR 91
+TC 76
+Z9 77
+U1 0
+U2 50
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0891-4222
+J9 RES DEV DISABIL
+JI Res. Dev. Disabil.
+PD OCT
+PY 2013
+VL 34
+IS 10
+BP 3460
+EP 3476
+DI 10.1016/j.ridd.2013.07.017
+PG 17
+WC Education, Special; Rehabilitation
+SC Education & Educational Research; Rehabilitation
+GA 225NB
+UT WOS:000324968500043
+PM 23920029
+OA Green Published, Other Gold
+DA 2020-08-04
+ER
+
+PT J
+AU Wilson, PH
+   Ruddock, S
+   Smits-Engelsman, B
+   Polatajko, H
+   Blank, R
+AF Wilson, Peter H.
+   Ruddock, Scott
+   Smits-Engelsman, Bouwien
+   Polatajko, Helene
+   Blank, Rainer
+TI Understanding performance deficits in developmental coordination
+   disorder: a meta-analysis of recent research
+SO DEVELOPMENTAL MEDICINE AND CHILD NEUROLOGY
+LA English
+DT Article
+AB Aim Developmental coordination disorder (DCD) is a significant disorder of childhood, characterized by core difficulties in learning fine and/or gross motor skills, and the attendant psychosocial problems. The aim of the meta-analysis presented here (the first on DCD since 1998) was to summarize trends in the literature over the past 14years and to identify and describe the main motor control and cognitive deficits that best discriminate children with DCD from those without. Method A systematic review of the literature published between January 1997 and August 2011 was conducted. All available journal papers reporting a comparison between a group of children with DCD and a group of typically developing children on behavioural measures were included. Results One hundred and twenty-nine studies yielded 1785 effect sizes based on a total of 2797 children with DCD and 3407 typically developing children. Across all outcome measures, a moderate to large effect size was found, suggesting a generalized performance deficit in children with DCD. The pattern of deficits suggested several areas of pronounced difficulty, including internal (forward) modelling, rhythmic coordination, executive function, gait and postural control, catching and interceptive action, and aspects of sensoriperceptual function. Interpretation The results suggest that the predictive control of action may be a fundamental disruption in DCD, along with the ability to develop stable coordination patterns. Implications for theory development and intervention are discussed.
+C1 [Wilson, Peter H.; Ruddock, Scott] Australian Catholic Univ, Sch Psychol, Melbourne, Vic 3065, Australia.
+   [Smits-Engelsman, Bouwien] Katholieke Univ Leuven, Dept Rehabil Sci, Louvain, Belgium.
+   [Smits-Engelsman, Bouwien] Avans Univ Profess, Breda, Netherlands.
+   [Polatajko, Helene] Univ Toronto, Dept Occupat Sci & Occupat Therapy, Toronto, ON, Canada.
+   [Blank, Rainer] Univ Heidelberg & Child Ctr, Maulbronn, Germany.
+RP Wilson, PH (corresponding author), Australian Catholic Univ, Sch Psychol, 115 Victoria Parade, Melbourne, Vic 3065, Australia.
+EM peterh.wilson@acu.edu.au
+RI Wilson, Peter/E-2881-2018
+OI Wilson, Peter/0000-0003-3747-0287; Ruddock, Scott/0000-0002-8245-1205
+NR 0
+TC 191
+Z9 192
+U1 3
+U2 136
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0012-1622
+J9 DEV MED CHILD NEUROL
+JI Dev. Med. Child Neurol.
+PD MAR
+PY 2013
+VL 55
+IS 3
+BP 217
+EP 228
+DI 10.1111/j.1469-8749.2012.04436.x
+PG 12
+WC Clinical Neurology; Pediatrics
+SC Neurosciences & Neurology; Pediatrics
+GA 089VJ
+UT WOS:000314937800009
+PM 23106668
+DA 2020-08-04
+ER
+
+PT J
+AU Siegert, RJ
+   Weatherall, M
+   Bell, EM
+AF Siegert, Richard J.
+   Weatherall, Mark
+   Bell, Elliot M.
+TI Is implicit sequence learning impaired in schizophrenia? A meta-analysis
+SO BRAIN AND COGNITION
+LA English
+DT Article
+DE schizophrenia; implicit learning; serial reaction time; SRT;
+   meta-analysis
+ID MEMORY; STRIATUM; DEFICIT; DISEASE
+AB Cognition in schizophrenia seems to be characterized by impaired performance on most tests of explicit or declarative learning contrasting with relatively intact performance on most tests of implicit or procedural learning. At the same time there have been conflicting results for studies that have used the Serial Reaction Time (SRT) task to examine implicit learning in people with schizophrenia. In the present research, we used meta-analysis to clarify whether or not people with schizophrenia show impaired performance on the SRT task. A systematic review found nine studies published in peer review journals that had each compared the performance of a group of people with schizophrenia with healthy controls on the standard SRT task or a variant of it. The resulting meta-analysis represented the responses of 205 participants with schizophrenia and 159 healthy controls on the SRT task. The analysis found that participants with schizophrenia perform less well than controls reflected by a pooled effect size of 0.51. A secondary analysis of all nine studies found that they all reported a point estimate of the change in reaction time between sequence and random trials that was greater for the controls. We conclude that there is a moderate impairment in implicit sequence learning among people with schizophrenia and speculate on the implications of this for understanding this disorder. Suggestions for improving the methodological quality and statistical reporting of studies of this topic are made. Crown copyright (c) 2008 Published by Elsevier Inc. All rights reserved.
+C1 [Siegert, Richard J.] Kings Coll London, Dept Palliat Care Policy & Rehabil, Sch Med Guys, London SE5 9RJ, England.
+   [Siegert, Richard J.] St Thomas Hosp, Weston Educ Ctr, London SE5 9RJ, England.
+   [Weatherall, Mark; Bell, Elliot M.] Univ Otago, Wellington, New Zealand.
+RP Siegert, RJ (corresponding author), Kings Coll London, Dept Palliat Care Policy & Rehabil, Sch Med Guys, 3rd Floor,Cutcombe Rd,Denmark Hill, London SE5 9RJ, England.
+EM richard.siegert@kcl.ac.uk
+RI Siegert, Richard J./K-2030-2019; Siegert, Richard/C-3241-2009;
+   Weatherall, Mark/Y-6824-2019
+OI Weatherall, Mark/0000-0002-0051-9107; Siegert,
+   Richard/0000-0002-3074-0929
+NR 47
+TC 39
+Z9 39
+U1 1
+U2 9
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0278-2626
+EI 1090-2147
+J9 BRAIN COGNITION
+JI Brain Cogn.
+PD AUG
+PY 2008
+VL 67
+IS 3
+BP 351
+EP 359
+DI 10.1016/j.bandc.2008.02.005
+PG 9
+WC Neurosciences; Psychology, Experimental
+SC Neurosciences & Neurology; Psychology
+GA 343PM
+UT WOS:000258866000008
+PM 18378373
+DA 2020-08-04
+ER
+
+EF

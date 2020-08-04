@@ -1,0 +1,543 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Laborde, S
+   Dosseville, F
+   Guillen, F
+   Chavez, E
+AF Laborde, Sylvain
+   Dosseville, Fabrice
+   Guillen, Felix
+   Chavez, Enrique
+TI Validity of the trait emotional intelligence questionnaire in sports and
+   its links with performance satisfaction
+SO PSYCHOLOGY OF SPORT AND EXERCISE
+LA English
+DT Article
+DE Emotional intelligence; Path analysis; Challenge/threat; Stress
+   appraisal; Emotions; Coping effectiveness
+ID HEART-RATE-VARIABILITY; PSYCHOMETRIC PROPERTIES; COPING EFFECTIVENESS;
+   STRESS APPRAISALS; SELF-EFFICACY; PATH-ANALYSIS; ANXIETY; ADAPTATION;
+   VALIDATION; RESPONSES
+AB Objective: This research project consisted of two studies aimed at validating the trait emotional intelligence questionnaire (TEIQue) in a sports sample.
+   Design: Study 1 used a confirmatory factor analysis (CFA) to investigate if the original 4-factor structure of the TEIQue could be replicated in a sample of athletes. In addition, we explored the relationship between trait emotional intelligence (trait El) and the demographic variables age, sex, type of sport (individual vs. team), expertise, and years of training. Study 2 used a path analysis approach to explore if trait El is related to performance satisfaction through stress appraisal and coping behaviors.
+   Method: In Study 1, 973 athletes completed the TEIQue and a demographic questionnaire. In Study 2,291 athletes completed the TEIQue. Moreover, with a recent competition in mind, they completed the Coping Inventory for Competitive Sports, as well as items on perceived intensity of stress, perceived controllability of stress, challenge and threat appraisals, coping effectiveness, and performance satisfaction.
+   Results: Study 1 showed with a CFA that the original 4-factor structure of the TEIQue could be replicated in a sports sample. Of the demographic variables, only age showed a significant positive relationship with trait EI. Study 2 showed that trait El was related to performance satisfaction through stress appraisal and coping variables.
+   Conclusions: This research showed that the TEIQue can be used with athletes and that trait El is useful for understanding certain aspects of sports performance satisfaction.(C) 2014 Elsevier Ltd. All rights reserved.
+C1 [Laborde, Sylvain; Dosseville, Fabrice] Univ Caen, CESAMS, EA 4260, F-14032 Caen, France.
+   [Laborde, Sylvain] German Sport Univ Cologne, Inst Psychol, Dept Performance Psychol, D-50933 Cologne, Germany.
+   [Guillen, Felix] Univ Las Palmas de Gran, Las Palmas Gran Canaria, Spain.
+   [Chavez, Enrique] ESPE Escuela Politecn Ejercito, Quito, Ecuador.
+RP Laborde, S (corresponding author), German Sport Univ Cologne, Inst Psychol, Sportpk Mungersdorf 6, D-50933 Cologne, Germany.
+EM sylvain.laborde@yahoo.fr
+RI Laborde, Sylvain/A-6087-2012; Guillen, Felix/C-7331-2011; Guillen,
+   Felix/H-1716-2019
+OI Laborde, Sylvain/0000-0003-4842-6548; Guillen,
+   Felix/0000-0002-1543-1351; Dosseville, Fabrice/0000-0001-7727-3662
+FU Conseil Regional de Basse-NormandieRegion Normandie; Performance Group
+   of the Institute of Psychology of the German Sport University
+FX This research was supported by a PhD Young Investigator grant from
+   Conseil Regional de Basse-Normandie. We would like to thank the
+   Performance Group of the Institute of Psychology of the German Sport
+   University for their support and their helpful comments during the
+   realization of this project.
+NR 58
+TC 32
+Z9 32
+U1 0
+U2 68
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1469-0292
+EI 1878-5476
+J9 PSYCHOL SPORT EXERC
+JI Psychol. Sport Exerc.
+PD SEP
+PY 2014
+VL 15
+IS 5
+BP 481
+EP 490
+DI 10.1016/j.psychsport.2014.05.001
+PG 10
+WC Hospitality, Leisure, Sport & Tourism; Psychology, Applied; Psychology;
+   Sport Sciences
+SC Social Sciences - Other Topics; Psychology; Sport Sciences
+GA AN1HA
+UT WOS:000340332100006
+DA 2020-08-04
+ER
+
+PT J
+AU Evans, MB
+   Hoar, SD
+   Gebotys, RJ
+   Marchesin, CA
+AF Evans, Michael Blair
+   Hoar, Sharleen D.
+   Gebotys, Robert J.
+   Marchesin, Courtney A.
+TI Endurance athletes' coping function use during competitive suffering
+   episodes
+SO EUROPEAN JOURNAL OF SPORT SCIENCE
+LA English
+DT Article
+DE Endurance; psychology; quantitative study
+ID PERFORMANCE; SPORT; EMOTION; ACHIEVEMENT; STRATEGIES; RESPONSES
+AB Endurance athletes who realise that they are falling short of important personal goals during competition are expected to experience competitive suffering. As a negative affective state with implications for performance and personal experiences, it is important to understand how endurance athletes cope with competitive suffering. Thus, the purpose of this study was to investigate differences in athletes' momentary coping function use over time during a competitive suffering episode. Twenty-six runners (mean age: 35.8 years) completed a 5-km running time trial that evoked an experience of competitive suffering using false failure-oriented feedback. Momentary assessments of goal attainment feelings and coping function use were completed immediately following the running time trial using video-mediated recall. Pooled time series analysis was used to predict coping function use across several points in time (i.e. earlier and later stages of a competitive suffering episode) and at different ratings of goal attainment feelings. Analyses revealed that negative feelings about goal attainment moderately predicted problem-focused coping use, and strongly predicted emotion-focused coping use. Although it was not predicted by goal attainment feelings, avoidance coping use was decreased over time throughout suffering episodes. Overall, this study supports propositions that the coping process is continually adapted to competitive demands and identifies the roles of distinct coping functions within the total coping effort.
+C1 [Evans, Michael Blair; Gebotys, Robert J.] Wilfrid Laurier Univ, Dept Psychol, Waterloo, ON N2L 3C5, Canada.
+   [Hoar, Sharleen D.; Marchesin, Courtney A.] Univ Lethbridge, Dept Kinesiol & Phys Educ, Lethbridge, AB T1K 3M4, Canada.
+RP Evans, MB (corresponding author), Wilfrid Laurier Univ, Dept Psychol, Waterloo, ON N2L 3C5, Canada.
+EM evan5210@mylaurier.ca
+OI Evans, Blair/0000-0003-0668-4928
+FU Sport Sciences Association of Alberta
+FX The authors would like to thank the Sport Sciences Association of
+   Alberta for their support of this project.
+NR 30
+TC 7
+Z9 7
+U1 0
+U2 7
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1746-1391
+EI 1536-7290
+J9 EUR J SPORT SCI
+JI Eur. J. Sport Sci.
+PD MAY 19
+PY 2014
+VL 14
+IS 4
+BP 368
+EP 375
+DI 10.1080/17461391.2013.832803
+PG 8
+WC Sport Sciences
+SC Sport Sciences
+GA AG1YT
+UT WOS:000335212800009
+PM 24003768
+DA 2020-08-04
+ER
+
+PT J
+AU Laborde, S
+   Dosseville, F
+   Kinrade, NP
+AF Laborde, Sylvain
+   Dosseville, Fabrice
+   Kinrade, Noel P.
+TI Decision-specific reinvestment scale: An exploration of its construct
+   validity, and association with stress and coping appraisals
+SO PSYCHOLOGY OF SPORT AND EXERCISE
+LA English
+DT Article
+DE Conscious processing; Choking under pressure; Stress; Decision making;
+   Emotions; Handball
+ID SELF-EFFICACY; SUBJECTIVE PERFORMANCE; FIT INDEXES; QUESTIONNAIRE;
+   VALIDATION; RESPONSES; EMOTIONS; SPORTS; FOCUS
+AB Objective: This research project aimed to explore the construct validity of the Decision-Specific Reinvestment Scale (DSRS); more specifically, its links with stress and coping appraisals.
+   Design: Study 1 validated the DSRS and the Movement-Specific Reinvestment Scale (MSRS) to the French language, in order to examine the construct validity of the DSRS using the MSRS, the Preference for Intuition and Deliberation (PID) inventory and the Melbourne Decision-Making Questionnaire (MDMQ). In addition, sex differences in reinvestment were investigated. Study 2 examined stress and coping appraisals of high and low reinvesters.
+   Method: In study 1, 379 athletes completed the DSRS, MSRS, PID, and MDMQ. In study 2, 100 handball players, classified as low and high reinvesters, completed surveys aimed to assess stressor intensity, stressor perceived controllability, coping effectiveness, subjective performance and coping strategies with the Coping Inventory for Competitive Sport over three games.
+   Results: In study 1, we found that intuitive athletes scored lower on the DSRS in comparison to deliberative athletes, whilst no difference was found for the MSRS. Convergent and discriminant validity was illustrated with the subscales of the MDMQ. No sex differences were found regarding reinvestment. In study 2, findings showed that low reinvesters scored higher than high reinvesters in terms of stressor perceived controllability, coping effectiveness and subjective performance.
+   Discussion: In addition to confirmation of construct validity, these findings strengthen our understanding of how high decision reinvesters perceive a pressured situation. Key applications are derived from our findings informing coaches and athletes in offsetting the negative effects of reinvestment on sport performance. (C) 2014 Elsevier Ltd. All rights reserved.
+C1 [Laborde, Sylvain; Dosseville, Fabrice] Univ Caen, CESAMS, EA 4260, F-14032 Caen, France.
+   [Laborde, Sylvain] German Sport Univ Cologne, Dept Performance Psychol, Cologne, Germany.
+   [Kinrade, Noel P.] Brunel Univ, Ctr Sports Med & Human Performance, Uxbridge UB8 3PH, Middx, England.
+RP Laborde, S (corresponding author), Deutsch Sporthsch, Inst Psychol, Am Sportpk Mungersdorf 6, D-50933 Cologne, Germany.
+EM sylvain.laborde@yahoo.fr
+RI Laborde, Sylvain/A-6087-2012
+OI Laborde, Sylvain/0000-0003-4842-6548; Kinrade, Noel/0000-0001-6370-4628;
+   Dosseville, Fabrice/0000-0001-7727-3662
+NR 52
+TC 10
+Z9 11
+U1 0
+U2 32
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1469-0292
+EI 1878-5476
+J9 PSYCHOL SPORT EXERC
+JI Psychol. Sport Exerc.
+PD MAY
+PY 2014
+VL 15
+IS 3
+BP 238
+EP 246
+DI 10.1016/j.psychsport.2014.01.004
+PG 9
+WC Hospitality, Leisure, Sport & Tourism; Psychology, Applied; Psychology;
+   Sport Sciences
+SC Social Sciences - Other Topics; Psychology; Sport Sciences
+GA AH9PG
+UT WOS:000336473700002
+DA 2020-08-04
+ER
+
+PT J
+AU Schellenberg, BJI
+   Gaudreau, P
+   Crocker, PRE
+AF Schellenberg, Benjamin J. I.
+   Gaudreau, Patrick
+   Crocker, Peter R. E.
+TI Passion and Coping: Relationships With Changes in Burnout and Goal
+   Attainment in Collegiate Volleyball Players
+SO JOURNAL OF SPORT & EXERCISE PSYCHOLOGY
+LA English
+DT Article
+DE harmonious passion; obsessive passion; intra-individual change;
+   motivation; stress; suppression
+ID SPORT; MOTIVATION; MODEL; FIT; QUESTIONNAIRE; PERFORMANCE; STRATEGIES;
+   MEDIATION; CRITERIA; VERSION
+AB This study examined the relationship between harmonious and obsessive passion and coping, and assessed whether coping mediated the relationship between passion types and changes in burnout and goal attainment. College- and university-level volleyball players (N = 421) completed measures of passion, coping, burnout, and goal attainment at the start and end of a season. Results of structural equation modeling, using a true latent change approach, supported a model whereby types of passion were indirectly related to changes in burnout and goal attainment via coping. Harmonious passion was positively related to task-oriented coping which, in turn, was positively associated with change in goal attainment. Obsessive passion was positively associated with disengagement-oriented coping which, in turn, was positively and negatively associated with changes in burnout and goal attainment, respectively. This study identifies coping as a reason why passionate athletes may experience changes in burnout and goal attainment over the course of a season.
+C1 [Schellenberg, Benjamin J. I.] Univ British Columbia, Vancouver, BC V5Z 1M9, Canada.
+   [Gaudreau, Patrick] Univ Ottawa, Sch Psychol, Ottawa, ON K1N 6N5, Canada.
+   [Crocker, Peter R. E.] Univ British Columbia, Sch Kinesiol, Vancouver, BC V5Z 1M9, Canada.
+RP Schellenberg, BJI (corresponding author), Univ Manitoba, Dept Psychol, Winnipeg, MB R3T 2N2, Canada.
+OI Schellenberg, Benjamin/0000-0002-9179-3776
+FU Social Sciences and Humanities Research Council of CanadaSocial Sciences
+   and Humanities Research Council of Canada (SSHRC); Faculty of Education
+   Graduate Award from the University of British Columbia; Teaching Release
+   Award from the Faculty of Social Sciences awarded
+FX This research was funded by the Social Sciences and Humanities Research
+   Council of Canada and by a Faculty of Education Graduate Award from the
+   University of British Columbia awarded to the first author and a
+   Teaching Release Award from the Faculty of Social Sciences awarded to
+   the second author. We also thank Mark Beauchamp for his collaboration
+   during the design of this project and Kristina Kljajic for her help in
+   preparing this manuscript
+NR 45
+TC 39
+Z9 43
+U1 0
+U2 44
+PU HUMAN KINETICS PUBL INC
+PI CHAMPAIGN
+PA 1607 N MARKET ST, PO BOX 5076, CHAMPAIGN, IL 61820-2200 USA
+SN 0895-2779
+EI 1543-2904
+J9 J SPORT EXERCISE PSY
+JI J. Sport Exerc. Psychol.
+PD JUN
+PY 2013
+VL 35
+IS 3
+BP 270
+EP 280
+DI 10.1123/jsep.35.3.270
+PG 11
+WC Hospitality, Leisure, Sport & Tourism; Psychology, Applied; Psychology;
+   Sport Sciences
+SC Social Sciences - Other Topics; Psychology; Sport Sciences
+GA 186PH
+UT WOS:000322056100005
+PM 23798590
+DA 2020-08-04
+ER
+
+PT J
+AU Nicholls, AR
+   Polman, RCJ
+   Levy, AR
+AF Nicholls, Adam R.
+   Polman, Remco C. J.
+   Levy, Andrew R.
+TI A path analysis of stress appraisals, emotions, coping, and performance
+   satisfaction among athletes
+SO PSYCHOLOGY OF SPORT AND EXERCISE
+LA English
+DT Article
+DE Coping; Appraisal; Challenge; Threat
+ID SPORT PERFORMANCE; COMPETITIVE SPORT; ANXIETY; ACHIEVEMENT; EFFICACY
+AB Objectives: In this study we examined athletes' stress appraisals, emotions, coping, and performance satisfaction ratings using a path analysis model. This is the first study to explore all of these constructs in a single study and provides a more holistic examination of the overall stressful experience that athletes encounter.
+   Design: Cross-sectional.
+   Methods: Participants were 557 athletes, aged between 18 and 64 years (M age = 22.28 years, SD = 5.72), who completed a pre-competition measure of stress appraisals and emotions. Participants also completed a coping questionnaire and a subjective performance measure after competing, with regards to how they coped during competition and how satisfied they were with their performance.
+   Results: Path analysis revealed that appraisals of uncontrollable-by-self, stressfulness, and centrality were positively associated with the relational meaning threat appraisals. Threat appraisals were associated with unpleasant emotions, prior to competition, and pre-ceded distraction- and disengagement-oriented coping. The pre-competition appraisals of controllable-by-self, centrality, controllable-by-others, and stressfulness were associated with challenge relational meanings, which in turn were linked to task-oriented coping during competition. Task-oriented coping was positively related to superior subjective performance.
+   Conclusions: Our findings support the notion that stress appraisals, emotions, and coping are highly related constructs that are also associated with performance satisfaction. (C) 2011 Elsevier Ltd. All rights reserved.
+C1 [Nicholls, Adam R.] Univ Hull, Dept Psychol, Kingston Upon Hull HU6 7RX, N Humberside, England.
+   [Polman, Remco C. J.] Victoria Univ, Inst Sport, Melbourne, Vic 8001, Australia.
+   [Levy, Andrew R.] Edge Hill Univ, Dept Social & Psychol Sci, Ormskirk L39 4QP, England.
+RP Nicholls, AR (corresponding author), Univ Hull, Dept Psychol, Cottingham Rd, Kingston Upon Hull HU6 7RX, N Humberside, England.
+EM A.Nicholls@hull.ac.uk
+RI Polman, Remco C J/D-1877-2013
+OI Polman, Remco C J/0000-0003-2951-0904; Levy, Andrew/0000-0002-6709-4190
+NR 44
+TC 72
+Z9 75
+U1 1
+U2 66
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1469-0292
+EI 1878-5476
+J9 PSYCHOL SPORT EXERC
+JI Psychol. Sport Exerc.
+PD MAY
+PY 2012
+VL 13
+IS 3
+BP 263
+EP 270
+DI 10.1016/j.psychsport.2011.12.003
+PG 8
+WC Hospitality, Leisure, Sport & Tourism; Psychology, Applied; Psychology;
+   Sport Sciences
+SC Social Sciences - Other Topics; Psychology; Sport Sciences
+GA 914QD
+UT WOS:000301965500004
+DA 2020-08-04
+ER
+
+PT J
+AU Levy, AR
+   Nicholls, AR
+   Polman, RCJ
+AF Levy, A. R.
+   Nicholls, A. R.
+   Polman, R. C. J.
+TI Pre-competitive confidence, coping, and subjective performance in sport
+SO SCANDINAVIAN JOURNAL OF MEDICINE & SCIENCE IN SPORTS
+LA English
+DT Article
+DE self-belief; coping effectiveness; imagery
+ID SELF-EFFICACY; ANXIETY; STRATEGIES; CONCEPTUALIZATION; ORIENTATION;
+   MODERATOR; PLAYERS
+AB The primary aim of this study was to investigate the relationship between confidence and subjective performance in addition to exploring whether coping mediated this relationship. A sample of 414 athletes completed a measure of confidence before performance. Athletes also completed a measure of coping and subjective performance after competing. Correlational findings revealed that confidence was positively and significantly associated with subjective performance. Furthermore, mediational analysis found that coping partly mediated this relationship. In particular, task-oriented coping (i.e., mental imagery) and disengagement-oriented coping (i.e., resignation) had positive and negative mediational effects, respectively. Additionally, athletes who employed mental imagery generally coped more effectively than those using resignation. These findings imply mental imagery has the potential not only to improve confidence, but also subsequent performance, while resignation coping may have the opposite effect. Overall, these results lend some credence to Vealey's integrated sports confidence model.
+C1 [Levy, A. R.] Univ Leeds, Ctr Sport & Exercise Sci, Leeds, W Yorkshire, England.
+   [Nicholls, A. R.] Univ Hull, Dept Psychol, Kingston Upon Hull HU6 7RX, N Humberside, England.
+   [Polman, R. C. J.] Univ Cent Lancashire, Ctr Appl Sport & Exercise Sci, Preston PR1 2HE, Lancs, England.
+RP Levy, AR (corresponding author), Univ Leeds, Ctr Sport & Exercise Sci, Worsley Bldg, Leeds, W Yorkshire, England.
+EM a.levy@leeds.ac.uk
+RI Polman, Remco C J/D-1877-2013
+OI Polman, Remco C J/0000-0003-2951-0904; Levy, Andrew/0000-0002-6709-4190
+NR 40
+TC 24
+Z9 25
+U1 2
+U2 50
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0905-7188
+EI 1600-0838
+J9 SCAND J MED SCI SPOR
+JI Scand. J. Med. Sci. Sports
+PD OCT
+PY 2011
+VL 21
+IS 5
+BP 721
+EP 729
+DI 10.1111/j.1600-0838.2009.01075.x
+PG 9
+WC Sport Sciences
+SC Sport Sciences
+GA 822WW
+UT WOS:000295082200013
+PM 20459476
+DA 2020-08-04
+ER
+
+PT J
+AU Gaudreau, P
+   Nicholls, A
+   Levy, AR
+AF Gaudreau, Patrick
+   Nicholls, Adam
+   Levy, Andrew R.
+TI The Ups and Downs of Coping and Sport Achievement: An Episodic Process
+   Analysis of Within-Person Associations
+SO JOURNAL OF SPORT & EXERCISE PSYCHOLOGY
+LA English
+DT Article
+DE self-regulation; sport performance; performance episodes; diary
+   methodology; multilevel modeling
+ID PERFORMANCE; STRESSORS; SELF; QUESTIONNAIRE; COMPETITIONS; ADOLESCENTS;
+   BEHAVIOR; SUPPORT; MODEL
+AB This study examined the relationship between coping and sport achievement at the within-person level of analysis. Fifty-four golfers completed diary measures of coping, stress, and sport achievement after six consecutive rounds of golf. Results of hierarchical linear modeling revealed golfers' episodic task-oriented coping and disengagement-oriented coping were associated, respectively, with their better and worst levels of subjective and objective achievement. Distraction-oriented coping was not significantly associated with achievement. These results were obtained after accounting for between-subjects differences in ability level and for within-person variations in perceived stress across both practice and competitive golf rounds. These results contribute to an emerging literature on the relationship between coping and sport achievement, and highlight the promises of an episodic process model of sport achievement to understand the transient self-regulatory factors associated with within-person variations in athletic achievement.
+C1 [Gaudreau, Patrick] Univ Ottawa, Sch Psychol, Ottawa, ON K1N 6N5, Canada.
+   [Nicholls, Adam] Univ Hull, Dept Psychol, Kingston Upon Hull HU6 7RX, N Humberside, England.
+   [Levy, Andrew R.] Univ Leeds, Ctr Sport & Exercise Sci, Leeds, W Yorkshire, England.
+RP Gaudreau, P (corresponding author), Univ Ottawa, Sch Psychol, Ottawa, ON K1N 6N5, Canada.
+OI Levy, Andrew/0000-0002-6709-4190
+FU Social Sciences and Humanities Research Council of CanadaSocial Sciences
+   and Humanities Research Council of Canada (SSHRC)
+FX We thank Stuart Rank, Chris Miller, and John Hughes for their help in
+   collecting the data. This study was partially supported by a regular
+   research grant from the Social Sciences and Humanities Research Council
+   of Canada awarded to the first author.
+NR 33
+TC 44
+Z9 45
+U1 1
+U2 11
+PU HUMAN KINETICS PUBL INC
+PI CHAMPAIGN
+PA 1607 N MARKET ST, PO BOX 5076, CHAMPAIGN, IL 61820-2200 USA
+SN 0895-2779
+J9 J SPORT EXERCISE PSY
+JI J. Sport Exerc. Psychol.
+PD JUN
+PY 2010
+VL 32
+IS 3
+BP 298
+EP 311
+DI 10.1123/jsep.32.3.298
+PG 14
+WC Hospitality, Leisure, Sport & Tourism; Psychology, Applied; Psychology;
+   Sport Sciences
+SC Social Sciences - Other Topics; Psychology; Sport Sciences
+GA 616TV
+UT WOS:000279233600002
+PM 20587819
+OA Green Published
+DA 2020-08-04
+ER
+
+PT J
+AU Van Yperen, NW
+AF Van Yperen, Nico W.
+TI Why Some Make It and Others Do Not: Identifying Psychological Factors
+   That Predict Career Success in Professional Adult Soccer
+SO SPORT PSYCHOLOGIST
+LA English
+DT Article
+ID TALENT IDENTIFICATION; SOCIAL SUPPORT; DELIBERATE PRACTICE; PERFORMANCE;
+   SPORT; COMMITMENT; RESOURCES; STRESSORS; INTERVIEW
+AB This prospective study was designed to identify psychological factors that predict career success in professional adult soccer. Post hoc, two groups were distinguished: (1) Male soccer players who Successfully progressed into professional adult soccer (n = 18) and (2) Male soccer players who did not reach this level (n = 47). Differences between the two groups were examined on the basis of data gathered in the initial phase of their careers, 15 years earlier. The psychological factors that predicted career success while statistically controlling for initial performance level and demographic variables were goal commitment, engagement in problem-focused coping behaviors. and social support seeking. On the basis of their scores on the significant predictor and control variables, 84.6% of the adolescent youth players were classified correctly as successful or unsuccessful.
+C1 Univ Groningen, Dept Social & Org Psychol, Groningen, Netherlands.
+RP Van Yperen, NW (corresponding author), Univ Groningen, Dept Social & Org Psychol, Groningen, Netherlands.
+RI Van Yperen, Nico W./C-2341-2012
+OI Van Yperen, Nico W./0000-0003-2116-8841
+NR 39
+TC 83
+Z9 84
+U1 5
+U2 54
+PU HUMAN KINETICS PUBL INC
+PI CHAMPAIGN
+PA 1607 N MARKET ST, PO BOX 5076, CHAMPAIGN, IL 61820-2200 USA
+SN 0888-4781
+EI 1543-2793
+J9 SPORT PSYCHOL
+JI Sport Psychol.
+PD SEP
+PY 2009
+VL 23
+IS 3
+BP 317
+EP 329
+DI 10.1123/tsp.23.3.317
+PG 13
+WC Hospitality, Leisure, Sport & Tourism; Psychology, Applied; Psychology;
+   Sport Sciences
+SC Social Sciences - Other Topics; Psychology; Sport Sciences
+GA 496RS
+UT WOS:000269994700002
+OA Green Published
+DA 2020-08-04
+ER
+
+PT J
+AU Gaudreau, P
+   Antl, S
+AF Gaudreau, Patrick
+   Antl, Sheilah
+TI Athletes' broad dimensions of dispositional perfectionism: Examining
+   changes in life satisfaction and the mediating role of sport-related
+   motivation and coping
+SO JOURNAL OF SPORT & EXERCISE PSYCHOLOGY
+LA English
+DT Article
+DE personality; self-regulation; subjective well-being; intrinsic
+   motivation; stress management
+ID SELF-CRITICAL PERFECTIONISM; IMPLEMENTATION INTENTIONS; ACHIEVEMENT
+   GOALS; PERSONAL GOALS; DEPRESSION; CONCORDANCE; MODERATORS; ADJUSTMENT;
+   HAPPINESS; DISTRESS
+AB This study examined the associations of dispositional perfectionism, contextual motivation, sport-related coping, goal attainment, and changes in life satisfaction during a sport competition. A sample of 186 athletes completed measures of dispositional perfectionism, contextual motivation, and life satisfaction at Time 1 (before a competition) as well as measures of coping, goal attainment, and life satisfaction at Time 2 (after a competition). Results of structural equation modeling supported a model in which self-determined and non-self-determined motivation partially mediated the relationships between different dimensions of perfectionism and coping. It was also shown that disengagement-oriented coping mediated the negative relationship between evaluative concerns perfectionism and change in life satisfaction. In a similar way, goal attainment mediated the relationships of both task- and disengagement-oriented coping with change in life satisfaction. For the most part, these results are consistent with the motivational properties of evaluative concerns and personal standards perfectionism and with literature regarding coping and self-determination theory.
+C1 [Gaudreau, Patrick; Antl, Sheilah] Univ Ottawa, Sch Psychol, Ottawa, ON K1N 6N5, Canada.
+RP Gaudreau, P (corresponding author), Univ Ottawa, Sch Psychol, Ottawa, ON K1N 6N5, Canada.
+NR 72
+TC 78
+Z9 81
+U1 1
+U2 31
+PU HUMAN KINETICS PUBL INC
+PI CHAMPAIGN
+PA 1607 N MARKET ST, PO BOX 5076, CHAMPAIGN, IL 61820-2200 USA
+SN 0895-2779
+EI 1543-2904
+J9 J SPORT EXERCISE PSY
+JI J. Sport Exerc. Psychol.
+PD JUN
+PY 2008
+VL 30
+IS 3
+BP 356
+EP 382
+DI 10.1123/jsep.30.3.356
+PG 27
+WC Hospitality, Leisure, Sport & Tourism; Psychology, Applied; Psychology;
+   Sport Sciences
+SC Social Sciences - Other Topics; Psychology; Sport Sciences
+GA 322UI
+UT WOS:000257400400005
+PM 18648110
+DA 2020-08-04
+ER
+
+PT J
+AU Hatzigeorgiadis, A
+AF Hatzigeorgiadis, A
+TI Approach and avoidance coping during task performance in young men: The
+   role of goal attainment expectancies
+SO JOURNAL OF SPORTS SCIENCES
+LA English
+DT Article
+DE coping experiment; approach-avoidance coping; control process model;
+   goal attainment expectancies
+ID COMPETITIVE STATE ANXIETY; ACUTE STRESS; NEGATIVE AFFECT; STRATEGIES;
+   SPORT; SELF; DISCREPANCY
+AB The present study investigated approach and avoidance coping strategies as a function of goal attainment expectancies in young men. Twenty-four male students participated in an experiment consisting of two rowing tests. After the initial test, participants were divided into two experimental groups and were assigned to conditions of attainable and unattainable goals for the final test, depending on performance in the initial test and experimental condition. Participants of the two groups reported similar goal attainment expectancies before the start of the final test; however, during the task expectancies for the attainable goal group increased, whereas those for the unattainable goal group decreased. After the conclusion of the task, participants were asked to respond with regard to coping strategies they used during the latest part of the final test, when goal attainment expectancies had been differentiated. The analysis revealed significant effects for effort increase, and mental and behavioural disengagement, whereas a non-significant but considerable effect was identified for planning. The higher goal attainment expectancies group scored higher on effort increase and planning, and lower on behavioural and mental disengagement, than the lower goal attainment expectancies group. The results of the present study are in accordance with the general theoretical assumptions of the control process theory, and more particularly highlight the importance of goal attainment expectancies as a factor influencing the employment of approach and avoidance coping strategies in achievement situations.
+C1 Univ Thessaly, Dept Phys Educ & Sport, Trikala 42100, Greece.
+RP Hatzigeorgiadis, A (corresponding author), Univ Thessaly, Dept Phys Educ & Sport, Trikala 42100, Greece.
+EM ahatzi@pe.uth.gr
+RI Hatzigeorgiadis, Antonis/AAN-2725-2020
+OI Hatzigeorgiadis, Antonis/0000-0001-7062-479X
+NR 35
+TC 11
+Z9 11
+U1 0
+U2 4
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0264-0414
+EI 1466-447X
+J9 J SPORT SCI
+JI J. Sports Sci.
+PD MAR
+PY 2006
+VL 24
+IS 3
+BP 299
+EP 307
+DI 10.1080/17461390500188645
+PG 9
+WC Sport Sciences
+SC Sport Sciences
+GA 011TH
+UT WOS:000235290500008
+PM 16368639
+DA 2020-08-04
+ER
+
+EF

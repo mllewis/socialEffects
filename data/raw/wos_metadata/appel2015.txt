@@ -1,0 +1,426 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Appel, M
+AF Appel, Markus
+TI Anti-Immigrant Propaganda by Radical Right Parties and the Intellectual
+   Performance of Adolescents
+SO POLITICAL PSYCHOLOGY
+LA English
+DT Article
+DE radical right political parties; immigration; intelligence;
+   discrimination; social exclusion; stereotype threat; social identity
+   threat
+ID STEREOTYPE THREAT; ETHNIC-IDENTITY; RACIAL IDENTITY; PERCEIVED
+   DISCRIMINATION; SOCIAL IDENTITY; AMERICAN; REJECTION; STRESS; HEALTH;
+   MEMORY
+AB In recent years radical right political parties have become a substantial electoral force in many countries around the world. Based on the vision of a mono-ethnic state, anti-immigration is these parties' core message. Connecting research on discrimination, social exclusion, and social identity threat, it was assumed that this anti-immigrant propaganda undermines the intellectual performance of immigrant adolescents. In an experiment conducted at Austrian schools, the intelligence test performance of adolescents with an immigration background decreased after they were exposed to radical right election posters whereas ethnic majority adolescents remained unaffected. The results further suggest that individuals with a strong ethnic minority identity are less vulnerable to the detrimental impact of the radical right propaganda.
+C1 Johannes Kepler Univ Linz, Dept Educ & Psychol, A-4040 Linz, Austria.
+RP Appel, M (corresponding author), Johannes Kepler Univ Linz, Dept Educ & Psychol, Altenberger Str 69, A-4040 Linz, Austria.
+EM markus.appel@jku.at
+NR 54
+TC 17
+Z9 17
+U1 2
+U2 36
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0162-895X
+EI 1467-9221
+J9 POLIT PSYCHOL
+JI Polit. Psychol.
+PD AUG
+PY 2012
+VL 33
+IS 4
+BP 483
+EP 493
+DI 10.1111/j.1467-9221.2012.00902.x
+PG 11
+WC Political Science; Psychology, Social
+SC Government & Law; Psychology
+GA 976SN
+UT WOS:000306605000004
+DA 2020-08-04
+ER
+
+PT J
+AU Berjot, S
+   Roland-Levy, C
+   Girault-Lidvan, N
+AF Berjot, S.
+   Roland-Levy, C.
+   Girault-Lidvan, N.
+TI COGNITIVE APPRAISALS OF STEREOTYPE THREAT
+SO PSYCHOLOGICAL REPORTS
+LA English
+DT Article
+ID WOMENS MATH PERFORMANCE; CHALLENGE APPRAISAL; AFRICAN-AMERICANS; SELF;
+   STUDENTS; ANXIETY; STIGMA; MODEL; PSYCHOLOGY; EMOTION
+AB Using the cognitive appraisal conceptualisation of the transactional model of stress, the goal was to assess how victims of stereotype threat respond to this situation in terms of primary appraisals (threat/challenge) and to investigate whether those appraisals may mediate the relation between stereotype threat and performance. Results show that, while participants from North Africa living in France did appraise the situation more as a threat and less as a challenge, only challenge appraisal mediated between stereotype threat and performance.
+C1 [Berjot, S.] Univ Reims, Lab Psychol Appl, F-51100 Reims, France.
+   [Girault-Lidvan, N.] Univ Paris 05, Paris, France.
+RP Berjot, S (corresponding author), Univ Reims, Lab Psychol Appl, 55 Rue Pierre Taitteinger, F-51100 Reims, France.
+EM sophie.berjot@univ-reims.fr
+OI Roland-Levy, Christine/0000-0002-4876-8639
+NR 53
+TC 6
+Z9 6
+U1 0
+U2 16
+PU AMMONS SCIENTIFIC, LTD
+PI MISSOULA
+PA PO BOX 9229, MISSOULA, MT 59807-9229 USA
+SN 0033-2941
+J9 PSYCHOL REP
+JI Psychol. Rep.
+PD APR
+PY 2011
+VL 108
+IS 2
+BP 585
+EP 598
+DI 10.2466/04.07.21.PR0.108.2.585-598
+PG 14
+WC Psychology, Multidisciplinary
+SC Psychology
+GA 766XB
+UT WOS:000290818800024
+PM 21675572
+DA 2020-08-04
+ER
+
+PT J
+AU Armenta, BE
+AF Armenta, Brian E.
+TI Stereotype Boost and Stereotype Threat Effects: The Moderating Role of
+   Ethnic Identification
+SO CULTURAL DIVERSITY & ETHNIC MINORITY PSYCHOLOGY
+LA English
+DT Article
+DE stereotype threat; stereotype boost; ethnic identification;
+   self-categorization
+ID WOMENS MATH PERFORMANCE; SELF-ESTEEM; IDENTITY; DISCRIMINATION;
+   ADOLESCENTS; ACTIVATION; BEHAVIOR; IMPACT
+AB Belonging to a stereotyped social group can affect performance in stereotype-relevant situations, often shifting performance in the direction of the stereotype. This effect occurs similarly for members of positively and negatively stereotyped groups (i.e.. stereotype boost and stereotype threat, respectively). This study examined ethnic group identification as a moderator of these effects in the math performance of Asian Americans and Latinos, who are positively and negatively stereotyped in this domain, respectively. Results showed that high ethnically identified Asian Americans performed better and high ethnically identified Latinos performed worse when an ethnicity-ethnic stereotype cue was present. The performance of low ethnically identified Asian Americans and Latinos was not affected by this cue.
+C1 Univ Nebraska, Dept Psychol, Lincoln, NE 68588 USA.
+RP Armenta, BE (corresponding author), Univ Nebraska, Dept Psychol, 238 Burnett Hall, Lincoln, NE 68588 USA.
+EM barmenta@earthlink.net
+NR 24
+TC 48
+Z9 50
+U1 1
+U2 24
+PU EDUCATIONAL PUBLISHING FOUNDATION
+PI WASHINGTON
+PA 750 FIRST ST, NE, WASHINGTON, DC 20002-4242 USA
+SN 1099-9809
+J9 CULT DIVERS ETHN MIN
+JI Cult. Divers. Ethn. Minor. Psychol.
+PD JAN
+PY 2010
+VL 16
+IS 1
+BP 94
+EP 98
+DI 10.1037/a0017564
+PG 5
+WC Ethnic Studies; Psychology, Social
+SC Ethnic Studies; Psychology
+GA 555OP
+UT WOS:000274522100011
+PM 20099969
+OA Green Published
+DA 2020-08-04
+ER
+
+PT J
+AU Chateignier, C
+   Dutrevis, M
+   Nugier, A
+   Chekroun, P
+AF Chateignier, Cindy
+   Dutrevis, Marion
+   Nugier, Armelle
+   Chekroun, Peggy
+TI French-Arab students and verbal intellectual performance: Do they really
+   suffer from a negative intellectual stereotype?
+SO EUROPEAN JOURNAL OF PSYCHOLOGY OF EDUCATION
+LA English
+DT Article
+DE French Arab students; Implicit stereotypes; Intellectual performance;
+   Stereotype threat
+ID IMPLICIT ASSOCIATION TEST; WOMENS MATH PERFORMANCE; RACIAL STEREOTYPES;
+   WORKING-MEMORY; THREAT; SUSCEPTIBILITY; ACTIVATION; PREJUDICE; IDENTITY;
+   COMPETENCE
+AB Stigmatized group membership leads to deleterious consequences for individuals. More specifically, according to stereotype threat literature, the awareness of negative intellectual stereotypes can impair stereotyped group members' performance. Based on this framework, two studies were designed to explain the lower grades obtained by French-Arab students, compared to French students. An Implicit Association Test (Study 1) revealed that native French students automatically expressed a negative stereotype regarding French-Arab students intellectual abilities. The second study (Study 2) examined whether this negative stereotype could alter French-Arab students' intellectual performance in a threatening context. As expected, French-Arab students underperformed when the verbal task was presented as a measure of intellectual ability, compared to French students. When the task was presented as non-diagnostic, their performance equaled that of French students. The discussion herein addressed implications of these results in terms of discrimination against the French-Arab population.
+C1 [Chateignier, Cindy] Univ Paris 10, Lab Psychol Sociale Comportements & Cognit, Dept Psychol, F-92000 Nanterre, France.
+   [Dutrevis, Marion] FPSE, CH-1211 Geneva 4, Switzerland.
+   [Nugier, Armelle] Univ Blaise Pascal, Lab Psychol Sociale & Cognit LAPSCO, F-63037 Clermont Ferrand, France.
+   [Chekroun, Peggy] Univ Paris Ouest, UFR SPSE, Dept Psychol, Lab Psychol Sociale Comportements & Cognit, F-92001 Nanterre, France.
+RP Chateignier, C (corresponding author), Univ Paris 10, Lab Psychol Sociale Comportements & Cognit, Dept Psychol, 200 Ave Republ, F-92000 Nanterre, France.
+EM cindychateignier@yahoo.fr; Marion.Dutrevis@unige.ch;
+   armelle.nugier@univ-bpclermont.fr; peggy.chekroun@u-paris10.fr
+NR 65
+TC 13
+Z9 13
+U1 0
+U2 2
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0256-2928
+EI 1878-5174
+J9 EUR J PSYCHOL EDUC
+JI Eur. J. Psychol. Educ.
+PD JUN
+PY 2009
+VL 24
+IS 2
+SI SI
+BP 219
+EP 234
+DI 10.1007/BF03173013
+PG 16
+WC Psychology, Educational
+SC Psychology
+GA 458ZT
+UT WOS:000267070100009
+DA 2020-08-04
+ER
+
+PT J
+AU Hollis-Sawyer, LA
+   Sawyer, TP
+AF Hollis-Sawyer, Lisa A.
+   Sawyer, Thomas P., Jr.
+TI Potential stereotype threat and face validity effects on cognitive-based
+   test performance in the classroom
+SO EDUCATIONAL PSYCHOLOGY
+LA English
+DT Article
+DE testing; anxiety; stereotypes; diversity
+ID PERCEIVED SELF-EFFICACY; WOMENS MATH PERFORMANCE; TEST ANXIETY; COPING
+   SKILLS; MOTIVATION; MODEL; INTELLIGENCE; EXPECTATIONS; PERCEPTIONS;
+   ABILITY
+AB Evaluation is an inherent part of education for an increasingly diverse student population. Confidence in one's test-taking skills, and the associated testing environment, needs to be examined from a perspective that combines the concept of Bandurian self-efficacy with the concept of stereotype threat reactions in a diverse student sample. Factors underlying testing reactions and performance on a cognitive ability test in four different testing conditions (high or low stereotype threat and high or low test face validity) were examined in this exploratory study. The stereotype threat manipulation seemed to lower African-American and Hispanic participants' test scores. However, the hypothesis that there would be an interaction with face validity was only partially supported. Participants' highest scores resulted from low stereotype threat and high face validity, as predicted. However, the lowest scores were not in the high stereotype threat/ low face validity condition as expected. Instead, most groups tended to score lower when the test was perceived to be more face valid. Stereotype threat manipulation affected Whites as well as non-Whites, although differently. Specifically, high stereotype threat increased Whites' cognitive ability test scores in the low face validity condition, but decreased them in the high face validity condition. Implications for testing and classroom environment design are discussed.
+C1 [Hollis-Sawyer, Lisa A.] NE Illinois Univ, Dept Pathol, Elmhurst, IL USA.
+   [Sawyer, Thomas P., Jr.] Elmhurst Coll, Elmhurst, IL USA.
+RP Hollis-Sawyer, LA (corresponding author), NE Illinois Univ, Dept Pathol, Elmhurst, IL USA.
+EM l-hollissawyer@neiu.edu
+NR 41
+TC 6
+Z9 6
+U1 0
+U2 12
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0144-3410
+EI 1469-5820
+J9 EDUC PSYCHOL-UK
+JI Educ. Psychol.
+PY 2008
+VL 28
+IS 3
+BP 291
+EP 304
+DI 10.1080/01443410701532313
+PG 14
+WC Education & Educational Research; Psychology, Educational
+SC Education & Educational Research; Psychology
+GA 287WY
+UT WOS:000254948500004
+DA 2020-08-04
+ER
+
+PT J
+AU Klein, O
+   Pohl, S
+   Ndagijimana, C
+AF Klein, Olivier
+   Pohl, Sabine
+   Ndagijimana, Chantal
+TI The influence of intergroup comparisons on Africans' intelligence test
+   performance in a job selection context
+SO JOURNAL OF PSYCHOLOGY
+LA English
+DT Article
+DE Africans; intelligence; job selection; stereotype threat; testing
+ID WOMENS MATH PERFORMANCE; STEREOTYPE THREAT; ACADEMIC-PERFORMANCE;
+   META-STEREOTYPES; IDENTITY; RACE; SELF; EXPERIMENTER; CONFIRMATION;
+   AMERICANS
+AB Sub-Saharan Africans living in Belgium (N = 69) completed a culture-free intelligence test in a simulated job selection environment. Prior to testing, the authors instructed participants that Africans' average perfonnance on this test was generally better (positive comparison), worse (negative comparison), or equal to Belgians' performance. In a control condition, no such information was given. Results indicated that, compared with the equal and control conditions, performance was lower when intergroup comparisons were negative. In the former condition, participants were also more likely to endorse external factors that may account for lower perfonnance. The authors interpreted the findings in line with stereotype threat theory (C. M. Steele & J. Aronson, 1995). In the context of job selection, the validity of intelligence tests conducted with members of stigmatized groups may be affected by the salience of social stereotypes and intergroup social comparisons.
+C1 Univ Libre Bruxelles, Serv Psychol Sociale, B-1050 Brussels, Belgium.
+RP Klein, O (corresponding author), Univ Libre Bruxelles, Serv Psychol Sociale, CP 122,50 Av F Roosevelt, B-1050 Brussels, Belgium.
+EM oklein@ulb.ac.be
+NR 62
+TC 16
+Z9 16
+U1 0
+U2 7
+PU HELDREF PUBLICATIONS
+PI WASHINGTON
+PA 1319 EIGHTEENTH ST NW, WASHINGTON, DC 20036-1802 USA
+SN 0022-3980
+J9 J PSYCHOL
+JI J. Psychol.
+PD SEP
+PY 2007
+VL 141
+IS 5
+BP 453
+EP 467
+DI 10.3200/JRLP.141.5.453-468
+PG 15
+WC Psychology, Multidisciplinary
+SC Psychology
+GA 212AC
+UT WOS:000249564900001
+PM 17933401
+DA 2020-08-04
+ER
+
+PT J
+AU Wicherts, JM
+   Dolan, CV
+   Hessen, DJ
+AF Wicherts, JM
+   Dolan, CV
+   Hessen, DJ
+TI Stereotype threat and group differences in test performance: A question
+   of measurement invariance
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE measurement invariance; stereotype threat; ethnic differences; sex
+   differences; test performance
+ID FIT INDEXES; SPEARMANS HYPOTHESIS; SEX-DIFFERENCES; WORKING-MEMORY;
+   MATH; ETHNICITY; VARIABLES; PRESSURE; IDENTITY; AROUSAL
+AB Studies into the effects of stereotype threat (ST) on test performance have shed new light on race and sex differences in achievement and intelligence test scores. In this article, the authors relate ST theory to the psychometric concept of measurement invariance and show that ST effects may be viewed as a source of measurement bias. As such, ST effects are detectable by means of multigroup confirmatory factor analysis. This enables research into the generalizability of ST effects to real-life or high-stakes testing. The modeling approach is described in detail and applied to 3 experiments in which the amount of ST for minorities and women was manipulated. Results indicate that ST results in measurement bias of intelligence and mathematics tests.
+C1 Univ Amsterdam, Dept Psychol, NL-1018 WB Amsterdam, Netherlands.
+RP Wicherts, JM (corresponding author), Univ Amsterdam, Dept Psychol, Roetersstr 15, NL-1018 WB Amsterdam, Netherlands.
+EM j.m.wicherts@uva.nl
+RI Wicherts, Jelte M./A-2664-2008; Meierer, Markus J./C-6234-2008
+OI Wicherts, Jelte M./0000-0003-2415-2933; 
+NR 80
+TC 68
+Z9 69
+U1 1
+U2 18
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+EI 1939-1315
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD NOV
+PY 2005
+VL 89
+IS 5
+BP 696
+EP 716
+DI 10.1037/0022-3514.89.5.696
+PG 21
+WC Psychology, Social
+SC Psychology
+GA 994UZ
+UT WOS:000234058000004
+PM 16351363
+OA Green Published
+DA 2020-08-04
+ER
+
+PT J
+AU Schmader, T
+   Johns, M
+AF Schmader, T
+   Johns, M
+TI Converging evidence that stereotype threat reduces working memory
+   capacity
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article; Proceedings Paper
+CT 4th Annual Meeting of the Society-for-Personality-and-Social-Psychology
+CY FEB, 2003
+CL Los Angeles, CA
+SP Soc Personal & Social Psychol
+ID WOMENS MATH PERFORMANCE; AFRICAN-AMERICANS; ANXIETY; TASK; IDENTITY;
+   STRESS
+AB Although research has shown that priming negative stereotypes leads to lower performance among stigmatized individuals, little is understood about the cognitive mechanism that accounts for these effects. Three experiments tested the hypothesis that stereotype threat interferes with test performance because it reduces individuals' working memory capacity. Results show that priming self-relevant negative stereotypes reduces women's (Experiment 1) and Latinos' (Experiment 2) working memory capacity. The final study revealed that a reduction in working memory capacity mediates the effect of stereotype threat on Women's math performance (Experiment 3). Implications for future research on stereotype threat and working memory are discussed.
+C1 Univ Arizona, Dept Psychol, Tucson, AZ 85721 USA.
+RP Schmader, T (corresponding author), Univ Arizona, Dept Psychol, Tucson, AZ 85721 USA.
+EM schmader@u.arizona.edu
+NR 37
+TC 548
+Z9 555
+U1 6
+U2 118
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD SEP
+PY 2003
+VL 85
+IS 3
+BP 440
+EP 452
+DI 10.1037/0022-3514.85.3.440
+PG 13
+WC Psychology, Social
+SC Psychology
+GA 720KD
+UT WOS:000185259200004
+PM 14498781
+DA 2020-08-04
+ER
+
+PT J
+AU Gonzales, PM
+   Blanton, H
+   Williams, KJ
+AF Gonzales, PM
+   Blanton, H
+   Williams, KJ
+TI The effects of stereotype threat and double-minority status on the test
+   performance of Latino women
+SO PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+LA English
+DT Article
+ID SALIENCE; GENDER; SELF; MARGINALITY; PERCEPTIONS; IDENTITY
+AB This study investigated the interactive influences of diagnosticity instructions, gender, and ethnicity as they related to task performance. In a laboratory experiment of 120 male and female, Latino and White college students, both a gender-based and an ethnicity-based stereotype-threat effect were found to influence performance on a test of mathematical and spatial ability. Closer inspection revealed that the gender effect was qualified by ethnicity, whereas the ethnicity effect was not qualified by gender: This suggests that the ethnicity of Latino women sensitized them to negative stereotypes about their gender, leading to a. performance decrement in a context in which stereotype threat was activated. In contrast, it appeared that the gender of Latino women did not sensitize them to negative stereotypes about their ethnicity, because both male and female Latinos evidenced ethnicity-based stereotype threat. These findings have implications for the interplay between multiple group identities as they relate to concern for confirming negative stereotypes.
+C1 SUNY Albany, Dept Psychol, Albany, NY 12222 USA.
+RP Gonzales, PM (corresponding author), SUNY Albany, Dept Psychol, 1400 Washington Ave, Albany, NY 12222 USA.
+NR 37
+TC 207
+Z9 208
+U1 0
+U2 23
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0146-1672
+J9 PERS SOC PSYCHOL B
+JI Pers. Soc. Psychol. Bull.
+PD MAY
+PY 2002
+VL 28
+IS 5
+BP 659
+EP 670
+DI 10.1177/0146167202288010
+PG 12
+WC Psychology, Social
+SC Psychology
+GA 542VL
+UT WOS:000175064900010
+OA DOAJ Gold
+DA 2020-08-04
+ER
+
+EF

@@ -1,0 +1,701 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Mehlum, L
+   Tormoen, AJ
+   Ramberg, M
+   Haga, E
+   Diep, LM
+   Laberg, S
+   Larsson, BS
+   Stanley, BH
+   Miller, AL
+   Sund, AM
+   Groholt, B
+AF Mehlum, Lars
+   Tormoen, Anita J.
+   Ramberg, Maria
+   Haga, Egil
+   Diep, Lien M.
+   Laberg, Stine
+   Larsson, Bo S.
+   Stanley, Barbara H.
+   Miller, Alec L.
+   Sund, Anne M.
+   Groholt, Berit
+TI Dialectical Behavior Therapy for Adolescents With Repeated Suicidal and
+   Self-harming Behavior: A Randomized Trial
+SO JOURNAL OF THE AMERICAN ACADEMY OF CHILD AND ADOLESCENT PSYCHIATRY
+LA English
+DT Article
+DE self-harm; attempted suicide; psychotherapy; randomized trial
+ID BORDERLINE PERSONALITY-DISORDER; CHILDREN; WOMEN; QUESTIONNAIRE;
+   RELIABILITY; DEPRESSION; COMMUNITY; VALIDITY
+AB Objective: We examined whether a shortened form of dialectical behavior therapy, dialectical behavior therapy for adolescents (DBT-A) is more effective than enhanced usual care (EUC) to reduce self-harm in adolescents. Method: This was a randomized study of 77 adolescents with recent and repetitive self-harm treated at community child and adolescent psychiatric outpatient clinics who were randomly allocated to either DBT-A or EUC. Assessments of self-harm, suicidal ideation, depression, hopelessness, and symptoms of borderline personality disorder were made at baseline and after 9,15, and 19 weeks (end of trial period), and frequency of hospitalizations and emergency department visits over the trial period were recorded. Results: Treatment retention was generally good in both treatment conditions, and the use of emergency services was low. DBT-A was superior to EUC in reducing self-harm, suicidal ideation, and depressive symptoms. Effect sizes were large for treatment outcomes in patients who received DBT-A, whereas effect sizes were small for outcomes in patients receiving EUC. Total number of treatment contacts was found to be a partial mediator of the association between treatment and changes in the severity of suicidal ideation, whereas no mediation effects were found on the other outcomes or for total treatment time. Conclusion: DBT-A may be an effective intervention to reduce self-harm, suicidal ideation, and depression in adolescents with repetitive self-harming behavior. Clinical trial registration information-Treatment for Adolescents With Deliberate Self Harm; http://ClinicalTrials.gov/; NCT00675129.
+C1 [Mehlum, Lars; Tormoen, Anita J.; Ramberg, Maria; Haga, Egil; Diep, Lien M.; Laberg, Stine; Groholt, Berit] Univ Oslo, Inst Clin Med, Natl Ctr Suicide Res & Prevent, N-0372 Oslo, Norway.
+   [Larsson, Bo S.; Sund, Anne M.] Norwegian Univ Sci & Technol, N-7034 Trondheim, Norway.
+   [Stanley, Barbara H.] Columbia Univ, New York, NY USA.
+   [Stanley, Barbara H.] Univ Oslo, N-0372 Oslo, Norway.
+   [Miller, Alec L.] Montefiore Med Ctr, New York, NY USA.
+   [Miller, Alec L.] Albert Einstein Coll Med, New York, NY USA.
+   [Sund, Anne M.] St Olavs Univ Hosp, Trondheim, Norway.
+RP Mehlum, L (corresponding author), Univ Oslo, Inst Clin Med, Natl Ctr Suicide Res & Prevent, Sognsvannsveien 21,Bygg 12, N-0372 Oslo, Norway.
+EM lars.mehlum@medisin.uio.no
+FU Norwegian Directorate of Health; South Eastern Regional Health
+   Authority; Extra-Foundation for Health and Rehabilitation; University of
+   Oslo
+FX The study was funded by grants from the Norwegian Directorate of Health,
+   the South Eastern Regional Health Authority, the Extra-Foundation for
+   Health and Rehabilitation, and the University of Oslo
+NR 43
+TC 163
+Z9 165
+U1 12
+U2 97
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0890-8567
+EI 1527-5418
+J9 J AM ACAD CHILD PSY
+JI J. Am. Acad. Child Adolesc. Psychiatr.
+PD OCT
+PY 2014
+VL 53
+IS 10
+BP 1082
+EP 1091
+DI 10.1016/j.jaac.2014.07.003
+PG 10
+WC Psychology, Developmental; Pediatrics; Psychiatry
+SC Psychology; Pediatrics; Psychiatry
+GA AP9MO
+UT WOS:000342404100009
+PM 25245352
+OA Green Published
+HC Y
+HP N
+DA 2020-08-04
+ER
+
+PT J
+AU Esposito-Smythers, C
+   Spirito, A
+   Kahler, CW
+   Hunt, J
+   Monti, P
+AF Esposito-Smythers, Christianne
+   Spirito, Anthony
+   Kahler, Christopher W.
+   Hunt, Jeffrey
+   Monti, Peter
+TI Treatment of Co-Occurring Substance Abuse and Suicidality Among
+   Adolescents: A Randomized Trial
+SO JOURNAL OF CONSULTING AND CLINICAL PSYCHOLOGY
+LA English
+DT Article
+DE adolescent suicide; alcohol abuse; substance abuse; cognitive-behavioral
+   therapy
+ID BORDERLINE PERSONALITY-DISORDER; DIALECTICAL BEHAVIOR-THERAPY;
+   DELIBERATE SELF-HARM; PSYCHOMETRIC PROPERTIES; STAGE-I; CHILDREN;
+   FAMILY; REPLICATION; RELIABILITY; VALIDITY
+AB This study tested a cognitive-behavioral treatment protocol for adolescents with a co-occurring alcohol or other drug use disorder (AOD) and suicidality in a randomized clinical trial. Method: Forty adolescents (M-age = 15 years; 68% female, 89% White) and their families recruited from an inpatient psychiatric hospital were randomly assigned to an integrated outpatient cognitive-behavioral intervention for co-occurring AOD and suicidality (I-CBT) or enhanced treatment as usual (E-TAU). Primary measures include the Schedule for Affective Disorders and Schizophrenia for School-Age Children, Suicide Ideation Questionnaire, Columbia Impairment Scale, Timeline Followback, Rutgers Alcohol Problem Index, and Rutgers Marijuana Problem Index. Assessments were completed at pretreatment as well as 3, 6, 12, and 18 months postenrollment. Results: In intent-to-treat analyses, I-CBT was associated with significantly fewer heavy drinking days and days of marijuana use relative to E-TAU but not with fewer drinking days. Those randomized to I-CBT in comparison to E-TAU also reported significantly less global impairment as well as fewer suicide attempts, inpatient psychiatric hospitalizations, emergency department visits, and arrests. Adolescents across groups showed equivalent reductions in suicidal ideation. Conclusions: I-CBT for adolescents with co-occurring AOD and suicidality is associated with significant improvement in both substance use and suicidal behavior, as well as markedly decreased use of additional health services including inpatient psychiatric hospitalizations and emergency department visits. Further testing of integrated protocols for adolescent AOD and suicidality with larger and more diverse samples is warranted.
+C1 [Esposito-Smythers, Christianne] George Mason Univ, Dept Psychol, Fairfax, VA 22030 USA.
+   [Spirito, Anthony; Hunt, Jeffrey] Brown Univ, Alpert Med Sch, Dept Psychiat & Human Behav, Providence, RI 02912 USA.
+   [Kahler, Christopher W.; Monti, Peter] Brown Univ, Ctr Alcohol & Addict Studies, Providence, RI 02912 USA.
+RP Esposito-Smythers, C (corresponding author), George Mason Univ, Dept Psychol, MSN 3F5,4400 Univ Dr, Fairfax, VA 22030 USA.
+EM cesposi1@gmu.edu
+FU NIAAA NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute on Alcohol Abuse
+   & Alcoholism (NIAAA) [R01 AA014191, R01 AA014191-01A1]
+NR 41
+TC 98
+Z9 100
+U1 3
+U2 54
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-006X
+EI 1939-2117
+J9 J CONSULT CLIN PSYCH
+JI J. Consult. Clin. Psychol.
+PD DEC
+PY 2011
+VL 79
+IS 6
+BP 728
+EP 739
+DI 10.1037/a0026074
+PG 12
+WC Psychology, Clinical
+SC Psychology
+GA 855FG
+UT WOS:000297548600002
+PM 22004303
+OA Green Accepted
+DA 2020-08-04
+ER
+
+PT J
+AU Asarnow, JR
+   Baraff, LJ
+   Berk, M
+   Grob, CS
+   Devich-Navarro, M
+   Suddath, R
+   Piacentini, JC
+   Rotheram-Borus, MJ
+   Cohen, D
+   Tang, LQ
+AF Asarnow, Joan Rosenbaum
+   Baraff, Larry J.
+   Berk, Michele
+   Grob, Charles S.
+   Devich-Navarro, Mona
+   Suddath, Robert
+   Piacentini, John C.
+   Rotheram-Borus, Mary Jane
+   Cohen, Daniel
+   Tang, Lingqi
+TI An Emergency Department Intervention for Linking Pediatric Suicidal
+   Patients to Follow-Up Mental Health Treatment
+SO PSYCHIATRIC SERVICES
+LA English
+DT Article
+ID DIALECTICAL BEHAVIOR-THERAPY; COGNITIVE THERAPY; ADOLESCENTS;
+   PREVENTION; ATTEMPTERS; TRIAL; CARE; DEPRESSION; ADHERENCE; DISORDER
+AB Objective: Suicide is the third leading cause of death among adolescents. Many suicidal youths treated in emergency departments do not receive follow-up treatment as advocated by the National Strategy for Suicide Prevention. Two strategies for improving rates of follow-up treatment were compared. Methods: In a randomized controlled trial, suicidal youths at two emergency departments (N=181; ages ten to 18) were individually assigned between April 2003 and August 2005 to one of two conditions: an enhanced mental health intervention involving a family-based cognitive-behavioral therapy session designed to increase motivation for follow-up treatment and safety, supplemented by care linkage telephone contacts after emergency department discharge, or usual emergency department care enhanced by provider education. Assessments were conducted at baseline and approximately two months after discharge from the emergency department or hospital. The primary outcome measure was rates of outpatient mental health treatment after discharge. Results: Intervention patients were significantly more likely than usual care patients to attend outpatient treatment (92% versus 76%; p=.004). The intervention group also had significantly higher rates of psychotherapy (76% versus 49%; p=.001), combined psychotherapy and medication (58% versus 37%; p=.003), and psychotherapy visits (mean 5.3 versus 3.1; p=.003). Neither the emergency department intervention nor community outpatient treatment (in exploratory analyses) was significantly associated with improved clinical or functioning outcomes. Conclusions: Results support efficacy of the enhanced emergency department intervention for improving linkage to outpatient mental health treatment but underscore the need for improved community outpatient treatment to prevent suicide, suicide attempts, and poor clinical and functioning outcomes for suicidal youths treated in emergency departments. (Psychiatric Services 62:1303-1309, 2011)
+C1 [Asarnow, Joan Rosenbaum] Univ Calif Los Angeles, Dept Psychiat, Los Angeles, CA 90024 USA.
+   [Asarnow, Joan Rosenbaum] Univ Calif Los Angeles, Semel Inst, Los Angeles, CA 90024 USA.
+   [Baraff, Larry J.] Univ Calif Los Angeles, Dept Emergency Med Pediat, Los Angeles, CA 90024 USA.
+   [Berk, Michele; Grob, Charles S.] Harbor UCLA, Med Ctr, Dept Psychiat, Torrance, CA USA.
+   [Suddath, Robert; Piacentini, John C.; Rotheram-Borus, Mary Jane; Tang, Lingqi] Univ Calif Los Angeles, Dept Psychiat & Biobehav Sci, Los Angeles, CA 90024 USA.
+   [Devich-Navarro, Mona] Santa Monica Coll, Dept Psychol, Santa Monica, CA USA.
+   [Cohen, Daniel] Johns Hopkins Univ, Dept Publ Hlth, Baltimore, MD USA.
+RP Asarnow, JR (corresponding author), Univ Calif Los Angeles, Dept Psychiat, 760 Westwood Plaza, Los Angeles, CA 90024 USA.
+EM jasarnow@mednet.ucla.edu
+OI , Daniel/0000-0003-0937-0836
+FU Centers for Disease Control and PreventionUnited States Department of
+   Health & Human ServicesCenters for Disease Control & Prevention - USA
+   [CCR921708]; National Institute of Mental HealthUnited States Department
+   of Health & Human ServicesNational Institutes of Health (NIH) - USANIH
+   National Institute of Mental Health (NIMH) [R01 MH082856, P30M H082760];
+   American Foundation for Suicide Prevention; Oxford University; Guilford
+   Press; American Psychological Association Press for books on child
+   mental health; Bayer Schering PharmaBayer AG
+FX This work was funded by grant CCR921708 from the Centers for Disease
+   Control and Prevention. Additional support was provided by grants R01
+   MH082856 and P30M H082760 from the National Institute of Mental Health
+   and by a grant from the American Foundation for Suicide Prevention. The
+   authors thank the youths, families, staff, and colleagues who made this
+   project possible. In addition, the authors thank Lily Zhang for her
+   contributions to data management and analysis and Donald Guthrie, Ph.D.,
+   Gabrielle Carlson, M.D., and Lisa Jaycox, Ph.D., for serving on the Data
+   Safety and Management Board. Manuals can be obtained from the first
+   author.; Dr. Asamow reports receiving honoraria from
+   Hathaways-Sycamores; Casa Pacifica, the California Institute of Mental
+   Health, and the Melissa Institute. Dr. Piacentini has received royalties
+   from Oxford University Press for treatment manuals and from Guilford
+   Press and the American Psychological Association Press for books on
+   child mental health. In addition, he has received a consultancy fee from
+   Bayer Schering Pharma. The other authors report no competing interests.
+NR 37
+TC 95
+Z9 98
+U1 1
+U2 28
+PU AMER PSYCHIATRIC PUBLISHING, INC
+PI WASHINGTON
+PA 800 MAINE AVE SW, SUITE 900, WASHINGTON, DC 20024 USA
+SN 1075-2730
+EI 1557-9700
+J9 PSYCHIAT SERV
+JI Psychiatr. Serv.
+PD NOV
+PY 2011
+VL 62
+IS 11
+BP 1303
+EP 1309
+DI 10.1176/ps.62.11.pss6211_1303
+PG 7
+WC Health Policy & Services; Public, Environmental & Occupational Health;
+   Psychiatry
+SC Health Care Sciences & Services; Public, Environmental & Occupational
+   Health; Psychiatry
+GA 843LT
+UT WOS:000296674000009
+PM 22211209
+OA Green Accepted
+DA 2020-08-04
+ER
+
+PT J
+AU Green, JM
+   Wood, AJ
+   Kerfoot, MJ
+   Trainor, G
+   Roberts, C
+   Rothwell, J
+   Woodham, A
+   Ayodeji, E
+   Barrett, B
+   Byford, S
+   Harrington, R
+AF Green, J. M.
+   Wood, A. J.
+   Kerfoot, M. J.
+   Trainor, G.
+   Roberts, C.
+   Rothwell, J.
+   Woodham, A.
+   Ayodeji, E.
+   Barrett, B.
+   Byford, S.
+   Harrington, R.
+TI Group therapy for adolescents with repeated self harm: randomised
+   controlled trial with economic evaluation
+SO BMJ-BRITISH MEDICAL JOURNAL
+LA English
+DT Article
+ID DELIBERATELY POISONED THEMSELVES; SUICIDE ATTEMPTS; COST-EFFECTIVENESS;
+   RISK-FACTORS; YOUNG-PEOPLE; SERVICE USE; CHILDREN; INTERVENTION;
+   BEHAVIOR; HEALTH
+AB Objective To examine the effectiveness and cost-effectiveness of group therapy for self harm in young people.
+   Design Two arm, single (assessor) blinded parallel randomised allocation trial of a group therapy intervention in addition to routine care, compared with routine care alone. Randomisation was by minimisation controlling for baseline frequency of self harm, presence of conduct disorder, depressive disorder, and severity of psychosocial stress.
+   Participants Adolescents aged 12-17 years with at least two past episodes of self harm within the previous 12 months. Exclusion criteria were: not speaking English, low weight anorexia nervosa, acute psychosis, substantial learning difficulties (defined by need for specialist school), current containment in secure care.
+   Setting Eight child and adolescent mental health services in the northwest UK.
+   Interventions Manual based developmental group therapy programme specifically designed for adolescents who harm themselves, with an acute phase over six weekly sessions followed by a booster phase of weekly groups as long as needed. Details of routine care were gathered from participating centres.
+   Main outcome measures Primary outcome was frequency of subsequent repeated episodes of self harm. Secondary outcomes were severity of subsequent self harm, mood disorder, suicidal ideation, and global functioning. Total costs of health, social care, education, and criminal justice sector services, plus family related costs and productivity losses, were recorded.
+   Results 183 adolescents were allocated to each arm (total n=366). Loss to follow-up was low (<4%). On all outcomes the trial cohort as a whole showed significant improvement from baseline to follow-up. On the primary outcome of frequency of self harm, proportional odds ratio of group therapy versus routine care adjusting for relevant baseline variables was 0.99 (95% confidence interval 0.68 to 1.44, P=0.95) at 6 months and 0.88 (0.59 to 1.33, P=0.52) at 1 year. For severity of subsequent self harm the equivalent odds ratios were 0.81 (0.54 to 1.20, P=0.29) at 6 months and 0.94 (0.63 to 1.40, P=0.75) at 1 year. Total 1 year costs were higher in the group therapy arm (21 pound 781) than for routine care (15 pound 372) but the difference was not significant (95% CI -1416 to 10782, P=0.132).
+   Conclusions The addition of this targeted group therapy programme did not improve self harm outcomes for adolescents who repeatedly self harmed, nor was there evidence of cost effectiveness. The outcomes to end point for the cohort as a whole were better than current clinical expectations.
+C1 [Green, J. M.; Kerfoot, M. J.; Roberts, C.; Rothwell, J.; Woodham, A.; Harrington, R.] Univ Manchester, Psychiat Res Grp, Manchester M13 9PL, Lancs, England.
+   [Wood, A. J.] Young Peoples Ctr, Tier Child & Adolescent Mental Hlth Serv 4, Chester, Cheshire, England.
+   [Trainor, G.] Greater Manchester W Mental Hlth NHS Fdn Trust, Manchester, Lancs, England.
+   [Barrett, B.; Byford, S.] Univ Salford, Sch Nursing & Midwifery, Salford M5 4WT, Lancs, England.
+   [Green, J. M.] Manchester Biomed Res Ctr, Manchester, Lancs, England.
+   [Green, J. M.] Acad Hlth Sci Ctr, Manchester, Lancs, England.
+RP Green, JM (corresponding author), Univ Manchester, Psychiat Res Grp, Manchester M13 9PL, Lancs, England.
+EM jonathan.green@manchester.ac.uk
+RI Barrett, Barbara M/F-7606-2010; Byford, Sarah/D-1699-2010
+OI Barrett, Barbara M/0000-0002-0270-6256; Byford,
+   Sarah/0000-0001-7084-1495; Green, Jonathan/0000-0002-0143-181X
+FU Health Foundation; University of Manchester; Trial Steering Committee
+FX The study was funded by the Health Foundation and sponsored by the
+   University of Manchester. Neither funder nor sponsor had any role in the
+   design, data collection, interpretation, or write up of the study. All
+   researchers in the study were independent of the funding body.; We thank
+   all the participating teams that contributed to referrals and
+   interventions. We particularly acknowledge the involvement of the young
+   people and their families at a difficult time in their lives. Professor
+   Dick Harrington inspired and led this study before his untimely death in
+   2004. We are grateful for the support of the Trial Steering Committee
+   (Simon Gowers (chair), Sally Hollis, Andy Clarke, Ian McKinnon).
+NR 60
+TC 57
+Z9 57
+U1 1
+U2 30
+PU BMJ PUBLISHING GROUP
+PI LONDON
+PA BRITISH MED ASSOC HOUSE, TAVISTOCK SQUARE, LONDON WC1H 9JR, ENGLAND
+SN 1756-1833
+J9 BMJ-BRIT MED J
+JI BMJ-British Medical Journal
+PD APR 1
+PY 2011
+VL 342
+AR d682
+DI 10.1136/bmj.d682
+PG 12
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA 745WJ
+UT WOS:000289201700001
+PM 21459975
+OA Other Gold, Green Published
+DA 2020-08-04
+ER
+
+PT J
+AU Ougrin, D
+   Latif, S
+AF Ougrin, Dennis
+   Latif, Saqib
+TI Specific Psychological Treatment Versus Treatment as Usual in
+   Adolescents with Self-Harm Systematic Review and Meta-Analysis
+SO CRISIS-THE JOURNAL OF CRISIS INTERVENTION AND SUICIDE PREVENTION
+LA English
+DT Article
+DE self-harm; adolescents; engagement; psychological treatment
+ID RANDOMIZED CONTROLLED-TRIAL; SUICIDE ATTEMPTERS; FOLLOW-UP; TREATMENT
+   ADHERENCE; EMPIRICAL-EVIDENCE; CLINICAL-TRIALS; GROUP-THERAPY;
+   YOUNG-PEOPLE; INTERVENTION; REPLICATION
+AB Background: Despite recent advances in the understanding and treatment of self-harm, poor engagement with therapy remains a serious problem. Aims: To investigate whether offering specific psychological treatment (SPT) leads to better engagement than offering treatment as usual (TAU) in adolescents who have self-harmed. Methods: Data sources were identified by searching Medline, PsychINFO, EMBASE, and PubMed for randomized controlled trials comparing SPT versus TAU in adolescents presenting with self-harm. Results: Seven studies met inclusion criteria, and six were entered into the meta-analysis. There was no statistically significant difference between the number of subjects not completing four or more sessions of an SPT (27.7%, 70/253) than TAU (43.3%, 106/245), RR = 0.71 (95% CI: 0.49-1.05). Conclusions: Engaging adolescents with psychological treatment is necessary although not sufficient to achieve treatment goals. Further research is needed to develop tools for maximizing engagement.
+C1 [Ougrin, Dennis] Kings Coll London, Inst Psychiat, Dept Child & Adolescent Psychiat, London SE5 8AF, England.
+   [Latif, Saqib] S London & Maudsley NHS Fdn Trust, London, England.
+RP Ougrin, D (corresponding author), Kings Coll London, Inst Psychiat, Dept Child & Adolescent Psychiat, PO 85,De Crespigny Pk, London SE5 8AF, England.
+EM dennis.ougrin@kcl.ac.uk
+OI Ougrin, Dennis/0000-0003-1995-5408
+NR 44
+TC 28
+Z9 29
+U1 2
+U2 22
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA ROHNSWEG 25, D-37085 GOTTINGEN, GERMANY
+SN 0227-5910
+J9 CRISIS
+JI Crisis
+PY 2011
+VL 32
+IS 2
+BP 74
+EP 80
+DI 10.1027/0227-5910/a000060
+PG 7
+WC Psychiatry; Psychology, Multidisciplinary
+SC Psychiatry; Psychology
+GA 782JT
+UT WOS:000292005300004
+PM 21616756
+DA 2020-08-04
+ER
+
+PT J
+AU Diamond, GS
+   Wintersteen, MB
+   Brown, GK
+   Diamond, GM
+   Gallop, R
+   Shelef, K
+   Levy, S
+AF Diamond, Guy S.
+   Wintersteen, Matthew B.
+   Brown, Gregory K.
+   Diamond, Gary M.
+   Gallop, Robert
+   Shelef, Karni
+   Levy, Suzanne
+TI Attachment-Based Family Therapy for Adolescents with Suicidal Ideation:
+   A Randomized Controlled Trial
+SO JOURNAL OF THE AMERICAN ACADEMY OF CHILD AND ADOLESCENT PSYCHIATRY
+LA English
+DT Article
+DE adolescents; suicide; family therapy
+ID DIALECTICAL BEHAVIOR-THERAPY; DEPRESSED ADOLESCENTS; RISK-FACTORS;
+   INTERVENTION; YOUTH; ADHERENCE; CHILDREN
+AB Objective: To evaluate whether Attachment-Based Family Therapy (ABFT) is more effective than Enhanced Usual Care (EUC) for reducing suicidal ideation and depressive symptoms in adolescents. Method: This was a randomized controlled trial of suicidal adolescents between the ages of 12 and 17, identified in primary care and emergency departments. Of 341 adolescents screened, 66 (70% African American) entered the study for 3 months of treatment. Assessment occurred at baseline, 6 weeks, 12 weeks, and 24 weeks. ABFT consisted of individual and family meetings, and EUC consisted of a facilitated referral to other providers. All participants received weekly monitoring and access to a 24-hour crisis phone. Trajectory of change and clinical recovery were measured for suicidal ideation and depressive symptoms. Results: Using intent to treat, patients in ABFT demonstrated significantly greater rates of change on self-reported suicidal ideation at post-treatment evaluation, and benefits were maintained at follow-up, with a strong overall effect size (ES = 0.97). Between-group differences were similar on clinician ratings. Significantly more patients in ABFT met criteria for clinical recovery on suicidal ideation post-treatment (87%; 95% confidence interval [CI] = 74.6-99.6) than patients in EUC (51.7%; 95% CI = 32.4-54.32). Benefits were maintained at follow-up (ABFT, 70%; 95% CI = 52.6-87.4; EUC 34.6%; 959% CI = 15.6-54.2; odds ratio = 4.41). Patterns of depressive symptoms over time were similar, as were results for a subsample of adolescents with diagnosed depression. Retention in ABFT was higher than in EUC (mean = 9.7 versus 2.9). Conclusions: ABFT is more efficacious than EUC in reducing suicidal ideation and depressive symptoms in adolescents. Additional research is warranted to confirm treatment efficacy and to test the proposed mechanism of change (the Family Safety Net Study). J. Am. Acad. Child Adolesc. Psychiatry, 2010;49(2):122-131. Clinical Trial Registry Information: Preventing Youth Suicide in Primary Care: A Family Model, URL: http://www.clinicaltrials.gov, unique identifier: NCT00604097.
+C1 [Diamond, Guy S.] Childrens Hosp Philadelphia, Ctr Family Intervent Sci, Philadelphia, PA 19104 USA.
+   [Diamond, Guy S.; Brown, Gregory K.] Univ Penn, Sch Med, Philadelphia, PA 19104 USA.
+   [Wintersteen, Matthew B.] Thomas Jefferson Univ, Philadelphia, PA 19107 USA.
+   [Gallop, Robert] W Chester Univ, Chester, PA 19383 USA.
+   [Diamond, Guy S.] Ben Gurion Univ Negev, IL-84105 Beer Sheva, Israel.
+RP Diamond, GS (corresponding author), Childrens Hosp Philadelphia, Ctr Family Intervent Sci, 34th & Civ Ctr Blvd, Philadelphia, PA 19104 USA.
+EM diamondg@email.chop.edu
+RI DIAMOND, GARY/F-1270-2012
+FU Ceners for Disease Control and Prevention [R49 CE000428]
+FX Funded by grant R49 CE000428 from the Ceners for Disease Control and
+   Prevention (Dr. G.S. Diamond, PI).
+NR 32
+TC 221
+Z9 222
+U1 4
+U2 69
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0890-8567
+EI 1527-5418
+J9 J AM ACAD CHILD PSY
+JI J. Am. Acad. Child Adolesc. Psychiatr.
+PD FEB
+PY 2010
+VL 49
+IS 2
+BP 122
+EP 131
+DI 10.1016/j.jaac.2009.11.002
+PG 10
+WC Psychology, Developmental; Pediatrics; Psychiatry
+SC Psychology; Pediatrics; Psychiatry
+GA 558HL
+UT WOS:000274731600005
+PM 20215934
+DA 2020-08-04
+ER
+
+PT J
+AU Hazell, PL
+   Martin, G
+   McGill, K
+   Kay, T
+   Wood, A
+   Trainor, G
+   Harrington, R
+AF Hazell, Philip L.
+   Martin, Graham
+   McGill, Katherine
+   Kay, Tracey
+   Wood, Alison
+   Trainor, Gemma
+   Harrington, Richard
+TI Group Therapy for Repeated Deliberate Self-Harm in Adolescents: Failure
+   of Replication of a Randomized Trial
+SO JOURNAL OF THE AMERICAN ACADEMY OF CHILD AND ADOLESCENT PSYCHIATRY
+LA English
+DT Article
+DE self-injurious behavior; psychotherapy; group; suicide; attempted
+ID SUICIDE ATTEMPTERS; DIFFICULTIES QUESTIONNAIRE; PSYCHOMETRIC PROPERTIES;
+   COPING STRATEGIES; STRENGTHS; SAMPLE
+AB Objective: To replicate a study, which found group therapy superior to routine care in preventing the recurrence of self-harming behavior in adolescents who had deliberately harmed themselves on at least two occasions. Method: Single blind study with parallel randomized groups undertaken in three sites in Australia. The primary outcome measure was repetition of self-harm, assessed on average after 6 and 12 months. Secondary outcome measures included suicidal ideation, psychiatric disorder, and service use. Results: Seventy-two adolescents aged 12 to 16 years (91% female subjects) were randomized to group therapy or routine care. Primary outcome data were available for 68 of the 72 randomized participants. More adolescents randomized to group therapy than those randomized to routine care had self-harmed by 6 months (30/34 versus 23/34, chi(2) = 4.19, p = .04), and there was a statistically nonsignificant trend for this pattern to be repeated in the interval of 6 to 12 months (30/34 versus 24/34, chi(2) = 3.24, p = .07). There were few differences between the treatment groups on secondary outcome measures, other than a trend for greater improvement over time on global symptom ratings among the experimental group compared with the control group. Conclusions: Our findings contradict those of the original study. Some differences in participant characteristics between the studies, along with less experience at the Australian sites in delivering the intervention, may have accounted for the different outcome. The benefit of group therapy for deliberate self-harm is unproven outside the environment in which it was originally developed. J. Am. Acad. Child Addlesc. Psychiatry, 2009;48(6):662-670.
+C1 [Hazell, Philip L.] Univ Sydney, Sydney, NSW 2006, Australia.
+   [Martin, Graham; Kay, Tracey] Univ Queensland, Brisbane, Qld 4072, Australia.
+   [Trainor, Gemma] Greater Manchester W NHS Fdn Trust, Manchester, Lancs, England.
+   [Harrington, Richard] Univ Manchester, Manchester M13 9PL, Lancs, England.
+EM philip.hazell@sswahs.nsw.gov.au
+RI Martin, Graham/N-8558-2019; Martin, Graham E D/F-4109-2010
+OI Martin, Graham/0000-0001-7327-6997; Martin, Graham E
+   D/0000-0001-7327-6997; Trainor, Gemma/0000-0003-2793-6071
+FU American Foundation for Suicide Prevention; Celltech; Eli LillyEli Lilly
+FX The research was supported by the American Foundation for Suicide
+   Prevention.; Prof Hazell has received research funding from Celltech and
+   Eli Lilly; has served as a consultant to Eli Lilly, Janssen-Cilag,
+   Novartis, and Shire; and has participated in the speakers' bureaus of
+   Eli Lilly, Janssen-Cilag, and Pfizer. The other authors report no
+   conflicts of interest.
+NR 26
+TC 76
+Z9 77
+U1 2
+U2 25
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0890-8567
+EI 1527-5418
+J9 J AM ACAD CHILD PSY
+JI J. Am. Acad. Child Adolesc. Psychiatr.
+PD JUN
+PY 2009
+VL 48
+IS 6
+BP 662
+EP 670
+DI 10.1097/CHI.0b013e3181a0acec
+PG 9
+WC Psychology, Developmental; Pediatrics; Psychiatry
+SC Psychology; Pediatrics; Psychiatry
+GA 448YO
+UT WOS:000266298100011
+PM 19454922
+DA 2020-08-04
+ER
+
+PT J
+AU Chanen, AM
+   Jackson, HJ
+   McCutcheon, LK
+   Jovev, M
+   Dudgeon, P
+   Yuen, HP
+   Germano, D
+   Nistico, H
+   McDougall, E
+   Weinstein, C
+   Clarkson, V
+   McGorry, PD
+AF Chanen, Andrew M.
+   Jackson, Henry J.
+   McCutcheon, Louise K.
+   Jovev, Martina
+   Dudgeon, Paul
+   Yuen, Hok Pan
+   Germano, Dominic
+   Nistico, Helen
+   McDougall, Emma
+   Weinstein, Caroline
+   Clarkson, Verity
+   McGorry, Patrick D.
+TI Early intervention for adolescents with borderline personality disorder
+   using cognitive analytic therapy: randomised controlled trial
+SO BRITISH JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+ID SUICIDAL BEHAVIORS; RATIONALE; DIAGNOSIS; SYMPTOMS; ISSUES
+AB Background
+   No accepted intervention exists for borderline personality disorder presenting in adolescence.
+   Aims
+   To compare the effectiveness of up to 24 sessions of cognitive analytic therapy (CAT) or manualised good clinical care (GCC) in addition to a comprehensive service model of care.
+   Method
+   In a randomised controlled trial, CAT and GCC were compared in out-patients aged 15-18 years who fulfilled two to nine of the DSM-IV criteria for borderline personality disorder. We predicted that, compared with the GCC group, the CAT group would show greater reductions in psychopathology and parasuicidal behaviour and greater improvement in global functioning over 24 months.
+   Results
+   Eighty-six patients were randomised and 78 (CAT n=41; GCC n=37) provided follow-up data. There was no significant difference between the outcomes of the treatment groups at 24 months on the pre-chosen measures but there was some evidence that patients allocated to CAT improved more rapidly. No adverse effect was shown with either treatment.
+   Conclusions
+   Both CAT and GCC are effective in reducing externalsing psychopathology in teenagers with sub-syndromal or full-syndrome bipolar personality disorder. Larger studies are required to determine the specific value of CAT in this population.
+C1 [Chanen, Andrew M.; McCutcheon, Louise K.; Jovev, Martina; Yuen, Hok Pan; McDougall, Emma; Weinstein, Caroline; Clarkson, Verity; McGorry, Patrick D.] Univ Melbourne, Dept Psychiat, ORYGEN Res Ctr, Parkville, Vic 3052, Australia.
+   [Chanen, Andrew M.; McCutcheon, Louise K.; Germano, Dominic; Nistico, Helen; McGorry, Patrick D.] Northwestern Mental Hlth, ORYGEN Youth Hlth, Melbourne, Vic, Australia.
+   [Jackson, Henry J.; Dudgeon, Paul] Univ Melbourne, Sch Behav Sci, Melbourne, Vic 3010, Australia.
+RP Chanen, AM (corresponding author), Univ Melbourne, Dept Psychiat, ORYGEN Res Ctr, Locked Bag 10, Parkville, Vic 3052, Australia.
+EM achanen@unimelb.edu.au
+RI McGorry, Patrick/O-4115-2019
+OI Dudgeon, Paul/0000-0003-4934-6144; Jackson, Henry/0000-0002-0022-7315;
+   Chanen, Andrew/0000-0003-4468-622X; McCutcheon,
+   Louise/0000-0001-6130-2238
+FU Victorian Health Promotion Foundation, Melbourne, Australia [98-0198];
+   National Health and Medical Research Council Canberra, AustraliaNational
+   Health and Medical Research Council of Australia [990748]; Colonial
+   Foundation, Melbourne, Australia
+FX The authors thank all participants in this study and the staff of ORYGEN
+   Youth Health. Particular thanks go to or Anthony Ryle, Dr Ian Kerr, Ms
+   Eva Burns-Lundgren, Dr Dawn Bennett, Dr Jackie Withers and the
+   Association for Cognitive Analytic Therapy (UK) for training and
+   supervision in cognitive analytic therapy, Thanks also go to Associate
+   Professor John Gleeson for Supervision of standardised good clinical
+   care, Dr Andrew Court for independent psychiatric assessments, Dr Carol
+   Hulbert, Ms Helen Mildred and Dr Denise Chairman for advice on the
+   implementation of the study and to Professor Anthony Jorm and Dr Sarah
+   Hetrick for comments on an earlier version of this manuscript. This work
+   was supported by grants 98-0198 from the Victorian Health Promotion
+   Foundation, Melbourne, Australia and grant 990748 from the National
+   Health and Medical Research Council Canberra, Australia, The ORYGEN
+   Research Centre is supported by an unrestricted grant from the Colonial
+   Foundation, Melbourne, Australia.
+NR 40
+TC 164
+Z9 164
+U1 1
+U2 34
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 0007-1250
+EI 1472-1465
+J9 BRIT J PSYCHIAT
+JI Br. J. Psychiatry
+PD DEC
+PY 2008
+VL 193
+IS 6
+BP 477
+EP 484
+DI 10.1192/bjp.bp.107.048934
+PG 8
+WC Psychiatry
+SC Psychiatry
+GA 381ZO
+UT WOS:000261574600010
+PM 19043151
+OA Bronze
+DA 2020-08-04
+ER
+
+PT J
+AU Donaldson, D
+   Spirito, A
+   Esposito-Smythers, C
+AF Donaldson, D
+   Spirito, A
+   Esposito-Smythers, C
+TI Treatment for adolescents following a suicide attempt: Results of a
+   pilot trial
+SO JOURNAL OF THE AMERICAN ACADEMY OF CHILD AND ADOLESCENT PSYCHIATRY
+LA English
+DT Article
+DE adolescent suicide attempts; cognitive-behavioral therapy; supportive
+   therapy
+ID DIAGNOSTIC INTERVIEW SCHEDULE; PROBLEM-SOLVING INVENTORY; DELIBERATE
+   SELF-HARM; RANDOMIZED-TRIAL; YOUNG-ADULTS; INTERVENTION; DEPRESSION;
+   CHILDREN; THERAPIES; BEHAVIOR
+AB Objective: To compare the efficacy of a skills-based treatment protocol to a supportive relationship therapy for adolescents after a suicide attempt. Method: Thirty-nine adolescents (12-17 years old) and parents who presented to a general pediatric emergency department or inpatient unit of a child psychiatric hospital after a suicide attempt were randomized to either a skills-based or a supportive relationship treatment condition. Follow-up assessments were conducted at intake and 3 and 6 months post-attempt. Results: In contrast to the low rates of treatment received by adolescent suicide attempters in the community, approximately 60% of this sample completed the entire treatment protocol. Significant decreases in suicidal ideation and depressed mood at 3- and 6-month follow-ups were obtained, but there were no differences between treatment groups. There were six reattempts in the follow-up period. Conclusions: When adolescents who attempt suicide are maintained in treatment, significant improvements in functioning can be realized for the majority of patients.
+C1 May Inst, Norwood, MA 02063 USA.
+   Brown Univ, Sch Med, Providence, RI 02912 USA.
+RP Donaldson, D (corresponding author), May Inst, 1 Commerce Way, Norwood, MA 02063 USA.
+EM ddonaldson@mayinstitute.org
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [MH057349]
+NR 30
+TC 83
+Z9 83
+U1 2
+U2 15
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0890-8567
+J9 J AM ACAD CHILD PSY
+JI J. Am. Acad. Child Adolesc. Psychiatr.
+PD FEB
+PY 2005
+VL 44
+IS 2
+BP 113
+EP 120
+DI 10.1097/00004583-200502000-00003
+PG 8
+WC Psychology, Developmental; Pediatrics; Psychiatry
+SC Psychology; Pediatrics; Psychiatry
+GA 893HP
+UT WOS:000226710200003
+PM 15689724
+DA 2020-08-04
+ER
+
+PT J
+AU Spirito, A
+   Boergers, J
+   Donaldson, D
+   Bishop, D
+   Lewander, W
+AF Spirito, A
+   Boergers, J
+   Donaldson, D
+   Bishop, D
+   Lewander, W
+TI An intervention trial to improve adherence to community treatment by
+   adolescents after a suicide attempt
+SO JOURNAL OF THE AMERICAN ACADEMY OF CHILD AND ADOLESCENT PSYCHIATRY
+LA English
+DT Article
+DE adolescent suicide attempts; treatment compliance; family barriers;
+   service barriers
+ID FAMILY ASSESSMENT DEVICE; CHILDREN; DEPRESSION; SCALE; HOPELESSNESS;
+   INTENT
+AB Objective: To determine whether a problem-solving intervention would increase adherence to outpatient treatment for adolescents after a suicide attempt. Method: Sixty-three adolescents who had attempted suicide and were evaluated in an emergency department between 1997 and 2000 were randomly assigned to undergo standard disposition planning or a compliance enhancement intervention using a problem-solving format. At 3 months after the intervention, all evaluable adolescents, guardians, and outpatient therapists were contacted to determine adherence to outpatient treatment. Results: At 3-month follow-up, the compliance enhancement group attended an average of 7.7 sessions compared with 6.4 sessions for the standard disposition group, but this difference was not statistically significant. However, after covarying barriers to receiving services in the community (such as being placed on a waiting list and insurance coverage difficulties), the compliance enhancement group attended significantly more treatment sessions than the standard disposition-planning group (mean = 8.4 versus 5.8 sessions). Conclusion: Interventions designed to improve treatment attendance must address not only individual and family factors but also service barriers encountered in the community that can impede access to services.
+C1 Brown Univ, Clin Psychol Training Consortium, Sch Med, Dept Psychiat & Human Behav, Providence, RI 02912 USA.
+   Brown Univ, Dept Pediat, Sch Med, Providence, RI 02912 USA.
+RP Spirito, A (corresponding author), Brown Univ, Clin Psychol Training Consortium, Sch Med, Dept Psychiat & Human Behav, Box G-BH, Providence, RI 02912 USA.
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [MH52411]
+NR 26
+TC 104
+Z9 104
+U1 1
+U2 11
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0890-8567
+J9 J AM ACAD CHILD PSY
+JI J. Am. Acad. Child Adolesc. Psychiatr.
+PD APR
+PY 2002
+VL 41
+IS 4
+BP 435
+EP 442
+DI 10.1097/00004583-200204000-00016
+PG 8
+WC Psychology, Developmental; Pediatrics; Psychiatry
+SC Psychology; Pediatrics; Psychiatry
+GA 533HM
+UT WOS:000174523600017
+PM 11931600
+DA 2020-08-04
+ER
+
+EF

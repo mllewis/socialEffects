@@ -1,0 +1,521 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Outhwaite, LA
+   Faulder, M
+   Gulliford, A
+   Pitchford, NJ
+AF Outhwaite, Laura A.
+   Faulder, Marc
+   Gulliford, Anthea
+   Pitchford, Nicola J.
+TI Raising Early Achievement in Math With Interactive Apps: A Randomized
+   Control Trial
+SO JOURNAL OF EDUCATIONAL PSYCHOLOGY
+LA English
+DT Article
+DE math achievement; improving classroom teaching; interactive learning
+   environments; elementary education
+ID EARLY MATHEMATICAL SKILLS; ELEMENTARY MATHEMATICS; TABLET INTERVENTION;
+   NUMBER COMPETENCE; CHILDREN; STUDENTS; INSTRUCTION; DIFFICULTIES;
+   COMPUTER; DISABILITIES
+AB Improving provision and raising achievement in early math for young children is of national importance. Child-centered apps offer an opportunity to develop strong foundations in learning math as they deliver one-to-one instruction. Reported here is the first pupil-level randomized control trial in the United Kingdom of interactive math apps designed for early years education, with 389 children aged 4-5 years. The original and rigorous research design disentangled the impact of the math apps as a form of quality math instruction from additional exposure to math. It was predicted that using the apps would increase math achievement when implemented by teachers in addition to standard math activities (treatment) or instead of a regular small group-based math activity (time-equivalent treatment) compared with standard math practice only (control). After a 12-week intervention period, results showed significantly greater math learning gains for both forms of app implementation compared with standard math practice. The math apps supported targeted basic facts and concepts and generalized to higher-level math reasoning and problem solving skills. There were no significant differences between the 2 forms of math app implementation, suggesting the math apps can be implemented in a well-balanced curriculum. Features of the interactive apps, which are grounded in instructional psychology and combine aspects of direct instruction with play, may account for the observed learning gains. These novel results suggest that structured, content-rich, interactive apps can provide a vehicle for efficiently delivering high-quality math instruction for all pupils in a classroom context and can effectively raise achievement in early math.
+   Educational Impact and Implications Statement
+   In a pupil-level randomized control trial we evaluated the effectiveness of a new math app intervention to support young children's early math development. The results showed children using the math apps either as a supplementary intervention or instead of a small group teacher-led math activity made significant learning gains in comparison with children receiving standard practice only. This study suggests high-quality math apps can be used as a form of quality math instruction in a well-rounded curriculum to raise achievement in early math for all children.
+C1 [Outhwaite, Laura A.; Gulliford, Anthea; Pitchford, Nicola J.] Univ Nottingham, Sch Psychol, Univ Pk, Nottingham NG7 2RD, England.
+   [Faulder, Marc] Burton Joyce Primary Sch, Nottingham, England.
+RP Pitchford, NJ (corresponding author), Univ Nottingham, Sch Psychol, Univ Pk, Nottingham NG7 2RD, England.
+EM nicola.pitchford@nottingham.ac.uk
+RI Gulliford, Anthea M/E-6099-2018
+OI Gulliford, Anthea M/0000-0002-9784-3738; Outhwaite, Laura
+   A./0000-0002-4454-7775
+FU Economic and Social Research CouncilEconomic & Social Research Council
+   (ESRC) [ES/J500100/1]; School of Psychology, University of Nottingham
+FX This work was supported by the Economic and Social Research Council
+   [grant number ES/J500100/1], and a research grant from the School of
+   Psychology, University of Nottingham. The not-for-profit app developers,
+   onebillion, donated the software free of charge to the participating
+   schools. None of the authors have a financial interest in onebillion.
+NR 106
+TC 8
+Z9 8
+U1 2
+U2 36
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-0663
+EI 1939-2176
+J9 J EDUC PSYCHOL
+JI J. Educ. Psychol.
+PD FEB
+PY 2019
+VL 111
+IS 2
+BP 284
+EP 298
+DI 10.1037/edu0000286
+PG 15
+WC Psychology, Educational
+SC Psychology
+GA HK5SI
+UT WOS:000458027200006
+PM 30774149
+OA Green Published, Other Gold
+DA 2020-08-04
+ER
+
+PT J
+AU Furman, M
+   De Angelis, S
+   Prost, ED
+   Taylor, I
+AF Furman, Melina
+   De Angelis, Susan
+   Dominguez Prost, Enzo
+   Taylor, Ines
+TI Tablets as an educational tool for enhancing preschool science
+SO INTERNATIONAL JOURNAL OF EARLY YEARS EDUCATION
+LA English
+DT Article
+DE Tablets; science; inquiry; ICT; preschool
+ID COMPUTER; CHILDREN; INSTRUCTION; TECHNOLOGY
+AB Information communication technologies (ICT) is increasingly being introduced in the preschool level, but questions have been raised regarding its potential to develop content knowledge or specific skills. This quasi-experimental study looked into the impact that hand-held tablets can have on science learning outcomes in five-year-olds. Four classes from two preschool institutions in Buenos Aires, Argentina, were selected for a six-week intervention. All four classes received training and an inquiry-based science teaching sequence, with one group from each institution also receiving tablets and specific guidance on how to incorporate them into their science lessons. Post-intervention test results showed significant improvements in science outcomes for all students, but no significant difference between the tablet-enhanced classrooms and those taught without ICT. Challenges and opportunities are discussed with regard to including tablets for teaching science at the preschool level.
+C1 [Furman, Melina; Taylor, Ines] Univ San Andres, Sch Educ, Vito Dumas 284, RA-1644 Buenos Aires, DF, Argentina.
+   [Furman, Melina] Consejo Nacl Invest Cient & Tecn, RA-2290 Buenos Aires, DF, Argentina.
+   [De Angelis, Susan] Univ Buenos Aires, Inst Res Educ Sci, Buenos Aires, DF, Argentina.
+   [Dominguez Prost, Enzo] Univ San Andres, Econ Dept, Buenos Aires, DF, Argentina.
+RP Furman, M (corresponding author), Univ San Andres, Sch Educ, Vito Dumas 284, RA-1644 Buenos Aires, DF, Argentina.; Furman, M (corresponding author), Consejo Nacl Invest Cient & Tecn, RA-2290 Buenos Aires, DF, Argentina.
+EM mfurman@udesa.edu.ar
+NR 36
+TC 1
+Z9 1
+U1 0
+U2 0
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0966-9760
+EI 1469-8463
+J9 INT J EARLY YEARS ED
+JI Int. J. Early Years Educ.
+PY 2019
+VL 27
+IS 1
+BP 6
+EP 19
+DI 10.1080/09669760.2018.1439368
+PG 14
+WC Education & Educational Research
+SC Education & Educational Research
+GA IB2BD
+UT WOS:000470072300002
+DA 2020-08-04
+ER
+
+PT J
+AU O'Toole, KJ
+   Kannass, KN
+AF O'Toole, Kathryn J.
+   Kannass, Kathleen N.
+TI Emergent literacy in print and electronic contexts: The influence of
+   book type, narration source, and attention
+SO JOURNAL OF EXPERIMENTAL CHILD PSYCHOLOGY
+LA English
+DT Article
+DE E-books; Tablets; Media; Preschoolers; Preliteracy; Attention
+ID CHILDRENS ENGAGEMENT; SOCIAL-INTERACTION; PRESCHOOLERS; VOCABULARY;
+   INFANCY; KINDERGARTEN; INSTRUCTION; LANGUAGE; READERS; PICTURE
+AB Young children learn from traditional print books, but there has been no direct comparison of their learning from print books and tablet e-books while controlling for narration source. The current project used a between-subjects design and examined how 4-year-olds (N = 100) learned words and story content from a print book read aloud by a live adult, a print book narrated by an audio device, an e-book read aloud by a live adult, and an e-book narrated by an audio device. Attention to the book and prior experience with tablet e-books were also measured and included in analyses. When controlling for vocabulary, the overall pattern of results revealed that children learned more words from the e-book and from the audio narrator, but story comprehension did not differ as a function of condition. Attention predicted learning, but only in some print book contexts, and significant effects of prior experience did not emerge. (C) 2018 Elsevier Inc. All rights reserved.
+C1 [O'Toole, Kathryn J.] North Pk Univ, Dept Psychol, Chicago, IL 60625 USA.
+   [Kannass, Kathleen N.] Loyola Univ Chicago, Dept Psychol, Chicago, IL 60660 USA.
+RP O'Toole, KJ (corresponding author), North Pk Univ, Dept Psychol, Chicago, IL 60625 USA.
+EM kjotoole@northpark.edu
+FU American Psychological Foundation Council of Graduate Departments of
+   Psychology; Loyola Research Support Grant
+FX A portion of this research was conducted as a dissertation project for
+   K.J.O. This work was supported by a graduate student scholarship from
+   the American Psychological Foundation Council of Graduate Departments of
+   Psychology awarded to K.J.O. and by a Loyola Research Support Grant
+   awarded to K.N.K. We thank the undergraduates in the Loyola Infant and
+   Early Childhood Cognition Laboratory for their help during the coding
+   phases of the project and also thank the delightful participants,
+   parents, and preschool directors and teachers.
+NR 64
+TC 6
+Z9 6
+U1 4
+U2 22
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0022-0965
+EI 1096-0457
+J9 J EXP CHILD PSYCHOL
+JI J. Exp. Child Psychol.
+PD SEP
+PY 2018
+VL 173
+BP 100
+EP 115
+DI 10.1016/j.jecp.2018.03.013
+PG 16
+WC Psychology, Developmental; Psychology, Experimental
+SC Psychology
+GA GK7LM
+UT WOS:000436385700008
+PM 29702378
+DA 2020-08-04
+ER
+
+PT J
+AU Papadakis, S
+   Kalogiannakis, M
+   Zaranis, N
+AF Papadakis, Stamatios
+   Kalogiannakis, Michail
+   Zaranis, Nicholas
+TI The effectiveness of computer and tablet assisted intervention in early
+   childhood students' understanding of numbers. An empirical study
+   conducted in Greece
+SO EDUCATION AND INFORMATION TECHNOLOGIES
+LA English
+DT Article
+DE Curriculum and pedagogy; Media and technology; Quantitative research
+ID YOUNG-CHILDREN; EDUCATIONAL APPS; MOBILE DEVICES; PRIMARY-SCHOOL;
+   MATHEMATICS; PRESCHOOL; MATH; KINDERGARTEN; TECHNOLOGY; AFFORDANCES
+AB The present study aimed to assess the effect of two different types of digital technologies (computers and tablets) in early childhood students' understanding of numbers. Three hundred and sixty-five children (mean age in months, M = 62.0, SD = 5.5) from 21 kindergarten classes were randomly assigned to two intervention groups and a business-as-usual control group. The interventions were conducted over 24 half-hour lessons. Data was collected during the 2013-2014 school year using a three-step research procedure. Students' knowledge about numbers was assessed using the Test of Early Mathematics Ability-3 (TEMA-3). Findings were that (a) both experimental groups significantly outperformed the control group on the posttest, (b) the group that used tablet computers significantly outperformed the group that used personal computers on the posttest, and (c) there was no significant difference between genders on the posttest. Our findings support that computers and especially tablets, when combined with the use of developmentally appropriate software into the children's daily routines, may provide a substantial contribution to early childhood students' comprehension of numbers.
+C1 [Kalogiannakis, Michail; Zaranis, Nicholas] Univ Crete, Fac Educ, Dept Presch Educ, Iraklion, Greece.
+RP Kalogiannakis, M (corresponding author), Univ Crete, Fac Educ, Dept Presch Educ, Iraklion, Greece.
+RI Papadakis, Stamatis/S-1483-2016; Kalogiannakis, Michail/A-1480-2014;
+   Hernandez, Susana Franco/B-7943-2019
+OI Papadakis, Stamatis/0000-0003-3184-1147; Kalogiannakis,
+   Michail/0000-0002-9124-2245; Hernandez, Susana
+   Franco/0000-0002-3872-8035; Zaranis, Nicholas/0000-0001-9598-8370
+NR 124
+TC 10
+Z9 10
+U1 4
+U2 22
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1360-2357
+EI 1573-7608
+J9 EDUC INF TECHNOL
+JI Educ. Inf. Technol.
+PD SEP
+PY 2018
+VL 23
+IS 5
+BP 1849
+EP 1871
+DI 10.1007/s10639-018-9693-7
+PG 23
+WC Education & Educational Research
+SC Education & Educational Research
+GA GR4QC
+UT WOS:000442598800006
+DA 2020-08-04
+ER
+
+PT J
+AU Herodotou, C
+AF Herodotou, Christothea
+TI Mobile games and science learning: A comparative study of 4 and 5 years
+   old playing the game Angry Birds
+SO BRITISH JOURNAL OF EDUCATIONAL TECHNOLOGY
+LA English
+DT Article
+ID YOUNG-CHILDREN; EMERGENT LITERACY; MOTION; SKILLS; GRAVITY; FORCES
+AB A popular activity among young children is the use of mobile devices and apps. Yet, the impact of mobile devices on learning and development is rather underexplored. The limited studies identified explore effects on literacy development and communication and report on mixed findings. A considerable gap is observed as to how the use of mobile apps relates to young children's understanding in diverse domains including science learning, and to extend, whether and how mobile apps should be used and how in early years' settings. The aim of this paper is to shed light on this area by examining the learning effects of touch screen mobile game applications, in particular the game Angry Birds, on two groups of preschoolers 4 and 5 years old respectively. Evidence from a comparative study with 32 participants reveal significant differences between the two groups in terms of game skills and their understanding of projectile motion. Implications for educational stakeholders, parents and app designers are discussed along with future research directions.
+C1 [Herodotou, Christothea] Open Univ, Innovating Pedag, Milton Keynes, Bucks, England.
+RP Herodotou, C (corresponding author), Open Univ, Inst Educ Technol, Walton Hall, Milton Keynes MK7 6AA, Bucks, England.
+EM christothea.herodotou@open.ac.uk
+OI Herodotou, Christothea/0000-0003-0980-1632
+FU British Educational Research Association (BERA)
+FX Christothea Herodotou is a Lecturer in Innovating Pedagogy at The Open
+   University, UK. She is interested in the design and use of innovative
+   technologies, in particular web-based technologies, digital games and
+   mobile applications for learning and their relationship to human
+   motivation and cognition. She is also particularly interested in how
+   learning analytics can inform our understanding of the use of
+   technologies and improve the learning experience. She has recently
+   received funding from the British Educational Research Association
+   (BERA) to examine the learning impact of mobile applications on young
+   children under the BERA BJET Fellowship. Address for correspondence: Dr
+   Christothea Herodotou, Institute of Educational Technology, The Open
+   University, Walton Hall, Milton Keynes, MK7 6AA, UK. Email:
+   christothea.herodotou@open.ac.uk
+NR 37
+TC 9
+Z9 9
+U1 0
+U2 13
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0007-1013
+EI 1467-8535
+J9 BRIT J EDUC TECHNOL
+JI Br. J. Educ. Technol.
+PD JAN
+PY 2018
+VL 49
+IS 1
+BP 6
+EP 16
+DI 10.1111/bjet.12546
+PG 11
+WC Education & Educational Research
+SC Education & Educational Research
+GA FS3JO
+UT WOS:000419677500002
+OA Bronze, Green Accepted
+DA 2020-08-04
+ER
+
+PT J
+AU Neumann, MM
+AF Neumann, Michelle M.
+TI Using tablets and apps to enhance emergent literacy skills in young
+   children
+SO EARLY CHILDHOOD RESEARCH QUARTERLY
+LA English
+DT Article
+DE Emergent literacy; Touch screen tablets; iPads; Apps; Young children
+ID TOUCH-SCREEN TABLETS; LETTER KNOWLEDGE; DIGITAL MEDIA; PRESCHOOL; NAME;
+   AWARENESS; LANGUAGE; IPADS; PRINT
+AB Touch screen tablets (e.g., iPads) are being increasingly used by young children due to their stimulating multimodal features and intuitive touch-based interface. However, little is known about the effects of tablets and apps on the development of emergent literacy skills. This pre-post-test randomised controlled study explored the effects of using literacy apps on emergent literacy skills in English speaking children aged 2-5 years (N = 48). There were 24 children in the iPad group and 24 children in the waitlist control group. The 9-week (30 min/week) iPad literacy program focussed on three new alphabet letters each week using three apps (letter matching, letter tracing, and drawing). Following the program, children in the iPad group showed significantly higher letter name and sound knowledge, print concepts and name writing skills than children in the control group. No significant group differences were found for letter writing skills or numeral knowledge. The findings showed that tablets can positively support letter name and sound learning and aspects of emergent writing development. How teachers can best utilise these digital tools in early childhood classrooms to support emergent literacy requires further investigation.
+C1 [Neumann, Michelle M.] Griffith Univ, Griffith Inst Educ Res, Sch Educ & Profess Studies, Nathan, Qld 4222, Australia.
+RP Neumann, MM (corresponding author), Griffith Univ, Griffith Inst Educ Res, Sch Educ & Profess Studies, Nathan, Qld 4222, Australia.
+EM m.neumann@griffith.edu.au
+RI Neumann, Michelle/W-6484-2018
+OI Neumann, Michelle/0000-0002-9546-7433
+NR 63
+TC 21
+Z9 21
+U1 5
+U2 34
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0885-2006
+EI 1873-7706
+J9 EARLY CHILD RES Q
+JI Early Childhood Res. Q.
+PY 2018
+VL 42
+BP 239
+EP 246
+DI 10.1016/j.ecresq.2017.10.006
+PG 8
+WC Education & Educational Research; Psychology, Developmental
+SC Education & Educational Research; Psychology
+GA FQ4ED
+UT WOS:000418309600022
+DA 2020-08-04
+ER
+
+PT J
+AU Tarasuik, J
+   Demaria, A
+   Kaufman, J
+AF Tarasuik, Joanne
+   Demaria, Ana
+   Kaufman, Jordy
+TI Transfer of Problem Solving Skills from Touchscreen to 3D Model by 3-to
+   6-Year-Olds
+SO FRONTIERS IN PSYCHOLOGY
+LA English
+DT Article
+DE children; multimedia; touchscreen; human-computer interaction; transfer
+   of learning
+ID TOUCH SCREEN; TELEVISION; DISPLAYS; CHILDREN; MEDIA
+AB Although much published research purports that young children struggle to solve problems from screen-based media and to transfer learning from a virtual to a physical modality, Huber et al. (2016)' s recent study on children solving the Tower of Hanoi (ToH) problem on a touchscreen app offers a clear counter example. Huber et al. (2016) reported that children transferred learning from media to the physical world. As this finding arguably differs from that of prior research in this area, the current study tests whether the Huber et al. (2016) results could be replicated. Additionally, we extended the scope of the Huber et al. (2016) work by testing a broader age range, including children as young as 3 years, and using a culturally distinct participant pool. The results of the current study verified Huber et al.' s (2016) conclusion that 4-to 6-year-old children are capable of transferring the ToH learning from touchscreen devices to the physical version of the puzzle. Children under 4 years of age, in contrast, showed little ability to improve at the ToH problem regardless of the practice modality-suggesting that a different problem-solving task is required to probe very young children's ability to learn from touchscreen apps.
+C1 [Tarasuik, Joanne; Kaufman, Jordy] Swinburne Univ Technol, Sch Hlth Sci, Hawthorn, Vic, Australia.
+   [Demaria, Ana] Univ Rijeka, Dept Early & Presch Educ, Rijeka, Croatia.
+RP Tarasuik, J; Kaufman, J (corresponding author), Swinburne Univ Technol, Sch Hlth Sci, Hawthorn, Vic, Australia.
+EM jtarasuik@swin.edu.au; jkaufman@swin.edu.au
+RI Kaufman, Jordy/A-5742-2008
+OI Kaufman, Jordy/0000-0001-9881-371X
+FU Croatian companies Damaco d.o.o; Bina-Istra
+FX This research was supported by financial donations from the Croatian
+   companies Damaco d.o.o and Bina-Istra from whom there was no involvement
+   in the study design; in the collection, analysis, and interpretation of
+   data; nor in the writing of the report; nor in the decision to submit
+   the article for publication.
+NR 16
+TC 7
+Z9 7
+U1 0
+U2 7
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA PO BOX 110, EPFL INNOVATION PARK, BUILDING I, LAUSANNE, 1015,
+   SWITZERLAND
+SN 1664-1078
+J9 FRONT PSYCHOL
+JI Front. Psychol.
+PD SEP 20
+PY 2017
+VL 8
+AR 1586
+DI 10.3389/fpsyg.2017.01586
+PG 6
+WC Psychology, Multidisciplinary
+SC Psychology
+GA FH5FO
+UT WOS:000411190500001
+PM 28979222
+OA DOAJ Gold, Green Published
+DA 2020-08-04
+ER
+
+PT J
+AU Schacter, J
+   Jo, B
+AF Schacter, John
+   Jo, Booil
+TI Improving preschoolers' mathematics achievement with tablets: a
+   randomized controlled trial
+SO MATHEMATICS EDUCATION RESEARCH JOURNAL
+LA English
+DT Article
+DE Early childhood education; Preschool; Mathematics; Curriculum; iPads;
+   Tablets; Computer-assisted instruction; Child development; Number sense;
+   Kindergarten
+ID NUMBER SENSE; CHILDREN; MATH; KINDERGARTNERS; IDENTIFICATION;
+   DIFFICULTIES; INTERVENTION; KNOWLEDGE; RISK
+AB With a randomized field experiment of 433 preschoolers, we tested a tablet mathematics program designed to increase young children's mathematics learning. Intervention students played Math Shelf, a comprehensive iPad preschool and year 1 mathematics app, while comparison children received research-based hands-on mathematics instruction delivered by their classroom teachers. After 22 weeks, there was a large and statistically significant effect on mathematics achievement for Math Shelf students (Cohen's d = .94). Moderator analyses demonstrated an even larger effect for low achieving children (Cohen's d = 1.27). These results suggest that early education teachers can improve their students' mathematics outcomes by integrating experimentally proven tablet software into their daily routines.
+C1 [Schacter, John] Teaching Doctors, 22 Pearce Mitchell Pl, Stanford, CA 94305 USA.
+   [Jo, Booil] Stanford Univ, Ctr Interdisciplinary Brain Sci Res, Dept Psychiat & Behav Sci, 401 Quarry Rd, Palo Alto, CA 94304 USA.
+RP Schacter, J (corresponding author), Teaching Doctors, 22 Pearce Mitchell Pl, Stanford, CA 94305 USA.
+EM schacter@teachingdoctors.com
+NR 78
+TC 9
+Z9 9
+U1 2
+U2 33
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1033-2170
+EI 2211-050X
+J9 MATH EDUC RES J
+JI Math. Educ. Res. J.
+PD SEP
+PY 2017
+VL 29
+IS 3
+BP 313
+EP 327
+DI 10.1007/s13394-017-0203-9
+PG 15
+WC Education, Scientific Disciplines
+SC Education & Educational Research
+GA FK7JS
+UT WOS:000413682700003
+DA 2020-08-04
+ER
+
+PT J
+AU Zipke, M
+AF Zipke, Marcy
+TI Preschoolers explore interactive storybook apps: The effect on word
+   recognition and story comprehension
+SO EDUCATION AND INFORMATION TECHNOLOGIES
+LA English
+DT Article
+DE E-books; Instructional technology; Computers and learning; Literacy;
+   Early childhood education; Media
+ID CHILDRENS EMERGENT LITERACY; ELECTRONIC BOOKS; KINDERGARTEN-CHILDREN;
+   VOCABULARY; PROMISE; READERS; TEXT
+AB Two experiments explored the effects of reading digital storybooks on tablet computers with 25 preschoolers, aged 4-5. In the first experiment, the students' word recognition scores were found to increase significantly more when students explored a digital storybook and employed the read-aloud function than when they were read to from a comparable print book. Their comprehension scores did not change significantly in the two conditions. In Experiment 2, the same students explored digital storybooks with more animation embedded in them. The students listened to the read aloud function on the tablet computer and explored digital storybooks in both conditions, but in one condition a teacher guided the talk about the story. Contrary to expectations, the students' word recognition and story comprehension scores were higher in the independent condition than in the guided condition. One explanation for the higher word recognition scores when students were reading with the tablet computer is the effect of multimedia, like hotspots and/or text tracking. Although digital storybooks are not a substitute for adult interaction, these preschoolers learned surprisingly well on their own. The importance of digital storybook design, as well as what elements to look for in an e-book to encourage literacy learning are discussed.
+C1 [Zipke, Marcy] Providence Coll, Dept Elementary Special Educ, Providence, RI 02918 USA.
+RP Zipke, M (corresponding author), Providence Coll, Dept Elementary Special Educ, Providence, RI 02918 USA.
+EM mzipke@providence.edu
+NR 41
+TC 11
+Z9 11
+U1 1
+U2 34
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 1360-2357
+EI 1573-7608
+J9 EDUC INF TECHNOL
+JI Educ. Inf. Technol.
+PD JUL
+PY 2017
+VL 22
+IS 4
+BP 1695
+EP 1712
+DI 10.1007/s10639-016-9513-x
+PG 18
+WC Education & Educational Research
+SC Education & Educational Research
+GA FG5SR
+UT WOS:000410399300019
+DA 2020-08-04
+ER
+
+PT J
+AU Walter-Laager, C
+   Brandenberg, K
+   Tinguely, L
+   Schwarz, J
+   Pfiffner, MR
+   Moschner, B
+AF Walter-Laager, Catherine
+   Brandenberg, Kathrin
+   Tinguely, Luzia
+   Schwarz, Jurg
+   Pfiffner, Manfred R.
+   Moschner, Barbara
+TI Media-assisted language learning for young children: Effects of a
+   word-learning app on the vocabulary acquisition of two-year-olds
+SO BRITISH JOURNAL OF EDUCATIONAL TECHNOLOGY
+LA English
+DT Article
+ID ATTENTION; INFANTS
+AB The intervention study investigated the effects of an interactive word-learning app(1) and picture cards on the vocabulary acquisition of 2-year-olds. Of particular interest was whether or not adult accompaniment during the use of the app or while looking at the picture cards had a positive effect on the child's vocabulary acquisition. The findings show that those children who used the word-learning app when accompanied by an adult had the largest growth in vocabulary, and those who used the word-learning app without adult accompaniment showing the second largest growth. Less successful were those children who played with the picture cards (with or without adult accompaniment). The group of children who focused on the subject matter for the longest period of time on average learned the most new words, while the group who focused on the subject matter for the shortest period of time had the smallest growth in vocabulary.
+C1 [Walter-Laager, Catherine] Karl Franzen Univ Graz, Early Childhood Educ, Graz, Austria.
+   [Walter-Laager, Catherine] Inst PadQUIS, Berlin, Germany.
+   [Brandenberg, Kathrin; Tinguely, Luzia] Univ Fribourg, Ctr Early Childhood Educ, Fribourg, Switzerland.
+   [Schwarz, Jurg] Lucerne Univ Appl Sci & Arts HSLU, Luzern, Switzerland.
+   [Schwarz, Jurg] HSLU, Ctr Empir Methods, Luzern, Switzerland.
+   [Pfiffner, Manfred R.] Zurich Univ Teacher Educ, Pedag Vocat Educ & Training, Zurich, Switzerland.
+   [Moschner, Barbara] Carl von Ossietzky Univ Oldenburg, Learning & Instruct, Oldenburg, Germany.
+RP Walter-Laager, C (corresponding author), Karl Franzens Univ Graz, Arbeitsbereich Elementarpadag, Inst Erziehungs & Bildungswissensch, Stassoldogasse 10-1, A-8010 Graz, Austria.
+EM catherine.walter-laager@uni-graz.at
+NR 34
+TC 6
+Z9 6
+U1 3
+U2 17
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0007-1013
+EI 1467-8535
+J9 BRIT J EDUC TECHNOL
+JI Br. J. Educ. Technol.
+PD JUL
+PY 2017
+VL 48
+IS 4
+BP 1062
+EP 1072
+DI 10.1111/bjet.12472
+PG 11
+WC Education & Educational Research
+SC Education & Educational Research
+GA FA3DV
+UT WOS:000405323000012
+DA 2020-08-04
+ER
+
+EF

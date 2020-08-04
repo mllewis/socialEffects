@@ -1,0 +1,780 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Kuniyoshi, Y
+   Kikuya, M
+   Miyashita, M
+   Yamanaka, C
+   Ishikuro, M
+   Obara, T
+   Metoki, H
+   Nakaya, N
+   Nagami, F
+   Tomita, H
+   Hozawa, A
+   Tsuji, I
+   Kure, S
+   Yaegashi, N
+   Yamamoto, M
+   Kuriyama, S
+AF Kuniyoshi, Yasutaka
+   Kikuya, Masahiro
+   Miyashita, Masako
+   Yamanaka, Chizuru
+   Ishikuro, Mami
+   Obara, Taku
+   Metoki, Hirohito
+   Nakaya, Naoki
+   Nagami, Fuji
+   Tomita, Hiroaki
+   Hozawa, Atsushi
+   Tsuji, Ichiro
+   Kure, Shigeo
+   Yaegashi, Nobuo
+   Yamamoto, Masayuki
+   Kuriyama, Shinichi
+TI Severity of eczema and mental health problems in Japanese
+   schoolchildren: The ToMMo Child Health Study
+SO ALLERGOLOGY INTERNATIONAL
+LA English
+DT Article
+DE Atopic dermatitis; Cross-sectional survey; ISAAC; Sleep disorders;
+   Strengths and difficulties questionnaire
+ID ATTENTION-DEFICIT/HYPERACTIVITY DISORDER; PROSPECTIVE BIRTH COHORT;
+   ATOPIC-DERMATITIS; DIFFICULTIES QUESTIONNAIRE; ISAAC PHASE-3;
+   RISK-FACTOR; ASTHMA; ASSOCIATION; STRENGTHS; DISEASES
+AB Background: The association between eczema and mental health problems in schoolchildren has been underexplored. We aimed to investigate this association with the validated questionnaires.
+   Methods: Of 46,648 invited children, we analyzed 9954 (21.3%) in the 2nd to the 8th grades from the ToMMo Child Health Study conducted in 2014 and 2015, a cross-sectional survey in Miyagi Prefecture, Japan. We defined eczema status as "normal," "mild/moderate," or "severe," based on the presence of persistent flexural eczema and sleep disturbance, according to the International Study of Asthma and Allergies in Childhood (ISAAC) Eczema Symptom Questionnaire. Clinical ranges of Strengths and Difficulties Questionnaire (SDQ) total difficulties scores and four SDQ subcategories of emotional symptoms, conduct problems, hyperactivity/inattention, and peer problems were defined as scores >= 16, >= 5, >= 5, >= 7, and >= 5, respectively.
+   Results: The mean SDQ total difficulties score significantly increased as eczema status worsened (all P <= 0.004 for trend). The OR of scores in the clinical range for SDQ total difficulties were 1.51 (95% CI, 1.31-1.74) for mild/moderate eczema and 2.63 (95% CI, 1.91-3.63) for severe eczema (P < 0.001 for trend), adjusted for sex, school grade, current wheeze, and disaster-related factors, using normal eczema as a reference. The association between severity of eczema and four SDQ subcategories showed a similar trend (all P <= 0.017 for trend).
+   Conclusions: We found a significant association between severity of eczema and mental health problems. The presence of eczema was associated with four SDQ subcategories. Copyright (C) 2018, Japanese Society of Allergology. Production and hosting by Elsevier B.V. This is an open access article under the CC BY-NC-ND license.
+C1 [Kuniyoshi, Yasutaka; Kuriyama, Shinichi] Tohoku Univ, Int Res Inst Disaster Sci, Dept Disaster Publ Hlth, Sendai, Miyagi, Japan.
+   [Kikuya, Masahiro; Miyashita, Masako; Yamanaka, Chizuru; Ishikuro, Mami; Obara, Taku; Metoki, Hirohito; Nakaya, Naoki; Nagami, Fuji; Tomita, Hiroaki; Hozawa, Atsushi; Tsuji, Ichiro; Kure, Shigeo; Yaegashi, Nobuo; Yamamoto, Masayuki; Kuriyama, Shinichi] Tohoku Univ, Tohoku Med Megabank Org, Sendai, Miyagi, Japan.
+   [Kikuya, Masahiro; Miyashita, Masako; Yamanaka, Chizuru; Ishikuro, Mami; Obara, Taku; Kuriyama, Shinichi] Tohoku Univ, Grad Sch Med, Dept Mol Epidemiol, Sendai, Miyagi, Japan.
+   [Obara, Taku] Tohoku Univ Hosp, Dept Pharmaceut Sci, Sendai, Miyagi, Japan.
+   [Metoki, Hirohito] Tohoku Med & Pharmaceut Univ, Div Publ Hlth Hyg & Epidemiol, Fac Med, Sendai, Miyagi, Japan.
+   [Nakaya, Naoki; Hozawa, Atsushi] Tohoku Univ, Grad Sch Med, Dept Personalized Prevent & Epidemiol, Sendai, Miyagi, Japan.
+   [Tomita, Hiroaki] Tohoku Univ, Int Res Inst Disaster Sci, Dept Disaster Psychiat, Sendai, Miyagi, Japan.
+   [Tsuji, Ichiro] Tohoku Univ, Grad Sch Med, Dept Publ Hlth & Forens Med, Sendai, Miyagi, Japan.
+   [Kure, Shigeo] Tohoku Univ, Grad Sch Med, Dept Pediat, Sendai, Miyagi, Japan.
+   [Yaegashi, Nobuo] Tohoku Univ, Grad Sch Med, Dept Obstet & Gynecol, Sendai, Miyagi, Japan.
+   [Yaegashi, Nobuo] Tohoku Univ Hosp, Dept Obstet & Gynecol, Sendai, Miyagi, Japan.
+   [Yamamoto, Masayuki] Tohoku Univ, Grad Sch Med, Dept Med Biochem, Sendai, Miyagi, Japan.
+RP Kikuya, M (corresponding author), Tohoku Univ, Tohoku Med Megabank Org, Aoba Ku, 2-1 Seiryo Machi, Sendai, Miyagi 9808573, Japan.
+EM kikuyam@med.tohoku.ac.jp
+RI Yamamoto, Masayuki/A-4873-2010; Kikuya, Masahiro/X-5662-2018; Metoki,
+   Hirohito/B-3376-2009
+OI Kikuya, Masahiro/0000-0002-3080-6107; Metoki,
+   Hirohito/0000-0002-1894-3328
+FU MEXT Tohoku Medical Megabank Project; Japan Agency for Medical Research
+   and Development (AMED)Japan Agency for Medical Research and Development
+   (AMED) [JP15km0105001]
+FX This work was supported by the MEXT Tohoku Medical Megabank Project and
+   Japan Agency for Medical Research and Development (AMED) under Grant
+   Number JP15km0105001. We would like to thank the Miyagi Prefectural
+   Board of Education and the municipal boards of education in Shiroishi,
+   Natori, Kakuda, Zao, Shichikashuku, Ogawara, Murata, Shibata, Kawasaki,
+   Marumori, Kesennuma, Tome, Kurihara, Higashimatsushima, Osaki,
+   Shichigahama, Taiwa, Osato, Ohira, Shikama, Kami, Wakuya, Misato,
+   Onagawa, and Minamisanriku for participating in the study.
+NR 31
+TC 5
+Z9 5
+U1 0
+U2 4
+PU JAPANESE SOCIETY ALLERGOLOGY
+PI TOKYO
+PA MY BLDG 4F, 1-13-3, UENO, TAITO-KU, TOKYO, 110-0005, JAPAN
+SN 1323-8930
+EI 1440-1592
+J9 ALLERGOL INT
+JI Allergol. Int.
+PD OCT
+PY 2018
+VL 67
+IS 4
+BP 481
+EP 486
+DI 10.1016/j.alit.2018.02.009
+PG 6
+WC Allergy; Immunology
+SC Allergy; Immunology
+GA GV7KK
+UT WOS:000446303000010
+PM 29661500
+OA DOAJ Gold
+DA 2020-08-04
+ER
+
+PT J
+AU Brew, BK
+   Lundholm, C
+   Gong, T
+   Larsson, H
+   Almqvist, C
+AF Brew, B. K.
+   Lundholm, C.
+   Gong, T.
+   Larsson, H.
+   Almqvist, C.
+TI The familial aggregation of atopic diseases and depression or anxiety in
+   children
+SO CLINICAL AND EXPERIMENTAL ALLERGY
+LA English
+DT Article
+DE anxiety; asthma; atopic dermatitis; child; depression; eczema; food
+   allergy; rhinitis
+ID CHILDHOOD ASTHMA; PSYCHOMETRIC PROPERTIES; MATERNAL DEPRESSION;
+   MENTAL-HEALTH; FOOD ALLERGY; ADOLESCENTS; DISORDERS; STRESS; POPULATION;
+   SYMPTOMS
+AB BackgroundChildren with asthma and atopic diseases have an increased risk of depression or anxiety. Each of these diseases has strong genetic and environmental components; therefore, it seems likely that there is a shared liability rather than causative risk.
+   ObjectiveTo investigate the existence and nature of familial aggregation for the comorbidity of atopic diseases and depression or anxiety.
+   MethodsParticipants came from the Childhood and Adolescent Twin Study in Sweden (CATSS), n = 14 197. Current and ever asthma, eczema, hay fever and food allergy were reported by parents. Internalizing disorders were identified using validated questionnaires. Familial co-aggregation analysis compared monozygotic (MZ) twins and same-sex dizygotic (DZ) twins for atopic disease in 1 twin with internalizing disorder in the other to test for genetic liability. Several familial liability candidates were also tested including parental education, recent maternal psychological stress, childhood family trauma and parental country of birth.
+   ResultsFamilial co-aggregation analysis found that if 1 twin had at least 1 current atopic disease the partner twin was at risk of having an internalizing disorder regardless of their own atopic status (adjusted OR 1.22 (95% CI 1.08, 1.37). Similar results were found for each atopic disease ever and current. MZ associations were not higher than DZ associations, suggesting that the liability is not genetic in nature. Including other familial candidates to the models made little difference to effect estimates.
+   Conclusions and Clinical RelevanceAtopic diseases and depression or anxiety tend to occur together in families; therefore, when treating for 1 disease, the physician should consider comorbidity in both the individual and the individual's siblings. We did not find evidence to support a genetic explanation for comorbidity, and further exploration is needed to disentangle the environmental and epigenetic reasons for familial aggregation.
+C1 [Brew, B. K.; Lundholm, C.; Gong, T.; Larsson, H.; Almqvist, C.] Karolinska Inst, Dept Med Epidemiol & Biostat, Stockholm, Sweden.
+   [Gong, T.] Univ Sydney, Woolcock Inst Med Res, Sydney, NSW, Australia.
+   [Larsson, H.] Orebro Univ, Sch Med Sci, Orebro, Sweden.
+   [Almqvist, C.] Karolinska Univ Hosp, Astrid Lindgren Childrens Hosp, Pediat Allergy & Pulmonol Unit, Stockholm, Sweden.
+RP Brew, BK (corresponding author), Karolinska Inst, Dept Med Epidemiol & Biostat, Stockholm, Sweden.
+EM bronwyn.haasdyk.brew@ki.se
+OI Brew, Bronwyn/0000-0002-9885-8261; Almqvist,
+   Catarina/0000-0002-1045-1898
+FU Swedish Research Council through the Swedish Initiative for research on
+   Microdata in the Social And Medical sciences (SIMSAM) framework
+   [340-2013-5867]; Swedish Heart Lung FoundationSwedish Heart-Lung
+   Foundation; Swedish Asthma and Allergy Association's Research
+   Foundation; Swedish Research Council for Health, Working life and
+   Welfare FORTE [2015-00289]; Stockholm County Council (ALF
+   project)Stockholm County Council; ForteSwedish Research CouncilSwedish
+   Research Council for Health Working Life & Welfare (Forte); COFAS Marie
+   Curie Fellowship [2015-01208]
+FX This work was supported by the Swedish Research Council through the
+   Swedish Initiative for research on Microdata in the Social And Medical
+   sciences (SIMSAM) framework (Grant No. 340-2013-5867); the Swedish Heart
+   Lung Foundation; the Swedish Asthma and Allergy Association's Research
+   Foundation, Swedish Research Council for Health, Working life and
+   Welfare FORTE (Grant No. 2015-00289) and grants provided by the
+   Stockholm County Council (ALF project). Bronwyn Brew was supported by
+   Forte and the Commission under a COFAS Marie Curie Fellowship (Grant No.
+   2015-01208)
+NR 45
+TC 13
+Z9 13
+U1 0
+U2 8
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0954-7894
+EI 1365-2222
+J9 CLIN EXP ALLERGY
+JI Clin. Exp. Allergy
+PD JUN
+PY 2018
+VL 48
+IS 6
+BP 703
+EP 711
+DI 10.1111/cea.13127
+PG 9
+WC Allergy; Immunology
+SC Allergy; Immunology
+GA GI0SQ
+UT WOS:000434080100010
+PM 29513367
+OA Other Gold, Green Published
+DA 2020-08-04
+ER
+
+PT J
+AU Yang, CF
+   Yang, CC
+   Wang, IJ
+AF Yang, Chia-Feng
+   Yang, Chen-Chang
+   Wang, I-Jen
+TI Association between allergic diseases, allergic sensitization and
+   attention-deficit/hyperactivity disorder in children: A large-scale,
+   population-based study
+SO JOURNAL OF THE CHINESE MEDICAL ASSOCIATION
+LA English
+DT Article
+DE ADHD; Asthma; Atopic disorders
+ID DEFICIT HYPERACTIVITY DISORDER; ATOPIC-DERMATITIS; CHILDHOOD ASTHMA;
+   ADHD SYMPTOMS; COMORBIDITY; ECZEMA; COHORT; PREVALENCE; EPIDEMIC; SAMPLE
+AB Background: Increasing prevalence of allergic diseases has been matched by parallel trends in attention-deficit/hyperactivity disorder (ADHD). However, previous studies concerning the association between ADHD and allergic diseases have been inconsistent. Moreover, it is not clear whether this association is modified by allergic sensitization status. Therefore, we evaluated the association between allergic diseases, allergic sensitization, and ADHD in children.
+   Methods: We conducted a large-scale cross-sectional, population-based survey to investigate the relationship between allergic diseases, allergic sensitization, and ADHD. Children aged between 3 and 6 years were selected from kindergartens, and received skin prick tests (SPTs) for mite, cockroach, dog, milk, egg, and crab allergens. Information about allergic diseases, environmental exposures, and physician-diagnosed ADHD were collected. Multiple logistic regressions were performed to estimate the association between allergic diseases and ADHD, with adjustments made for potential confounders.
+   Result: A total of 2772 children were found to be eligible for analysis; of these 411 (14.8%) had atopic dermatitis (AD), 954 (34.4%) had allergic rhinitis (AR), 451 (16.3%) had asthma, and 28 (1.01%) had ADHD. Children who had AD and asthma with allergic sensitization were found to be at increased risk for ADHD, with adjusted ORs (95% CI) of 4.50 (1.28-15.86) and 3.65 (1.07-12.49). Children who had AR, allergic conjunctivitis, or food allergies were also related to ADHD, though failed to reach statistical significance.
+   Conclusion: Our results suggest that AD and asthma with allergic sensitization are associated with ADHD in children. As allergic sensitization is an increased factor of developing allergic diseases, early control of environmental and allergens exposure could help to modify the burden of ADHD. (C) Copyright 2017, the Chinese Medical Association. Published by Elsevier Taiwan LLC.
+C1 [Yang, Chia-Feng; Yang, Chen-Chang] Natl Yang Ming Univ, Sch Med, Inst Environm & Occupat Hlth Sci, Taipei, Taiwan.
+   [Yang, Chia-Feng] Taipei Vet Gen Hosp, Dept Pediat, Taipei, Taiwan.
+   [Yang, Chen-Chang] Taipei Vet Gen Hosp, Dept Med, Div Clin Toxicol & Occupat Med, Taipei, Taiwan.
+   [Wang, I-Jen] Minist Hlth & Welf, Taipei Hosp, Dept Pediat, 127 Sun Yuan Rd, Taipei 242, Taiwan.
+   [Wang, I-Jen] Natl Yang Ming Univ, Sch Med, Taipei, Taiwan.
+   [Wang, I-Jen] China Med Univ, Dept Hlth Risk Management, Taichung, Taiwan.
+RP Wang, IJ (corresponding author), Minist Hlth & Welf, Taipei Hosp, Dept Pediat, 127 Sun Yuan Rd, Taipei 242, Taiwan.
+EM wij636@gmail.com
+FU National Science CouncilNational Science Council of Taiwan; Taipei
+   Hospital, Ministry of Health and Welfare in Taiwan [NSC
+   102-2628-B-192-001-MY3]
+FX This study was supported by grants from the National Science Council and
+   Taipei Hospital, Ministry of Health and Welfare in Taiwan (NSC
+   102-2628-B-192-001-MY3). We thank the CEAS study group (Professor
+   Pau-Chung Chen, Mei-Lien Chen, Dr. Wen-Chiuo Wu, and the related
+   colleagues) for collecting the data and Dr. Tung-Ping Su for revisions
+   of the manuscript.
+NR 38
+TC 13
+Z9 14
+U1 0
+U2 6
+PU ELSEVIER TAIWAN
+PI TAIPEI
+PA RM N-412, 4F, CHIA HSIN BUILDING 11, NO 96, ZHONG SHAN N ROAD SEC 2,
+   TAIPEI, 10449, TAIWAN
+SN 1726-4901
+EI 1728-7731
+J9 J CHIN MED ASSOC
+JI J. Chin. Med. Assoc.
+PD MAR
+PY 2018
+VL 81
+IS 3
+BP 277
+EP 283
+DI 10.1016/j.jcma.2017.07.016
+PG 7
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA GA8QD
+UT WOS:000428603900011
+PM 29239851
+OA Other Gold
+DA 2020-08-04
+ER
+
+PT J
+AU Schmitt, J
+   Buske-Kirschbaum, A
+   Tesch, F
+   Trikojat, K
+   Stephan, V
+   Abraham, S
+   Bauer, A
+   Nemat, K
+   Plessow, F
+   Roessner, V
+AF Schmitt, J.
+   Buske-Kirschbaum, A.
+   Tesch, F.
+   Trikojat, K.
+   Stephan, V.
+   Abraham, S.
+   Bauer, A.
+   Nemat, K.
+   Plessow, F.
+   Roessner, V.
+TI Increased attention-deficit/hyperactivity symptoms in atopic dermatitis
+   are associated with history of antihistamine use
+SO ALLERGY
+LA English
+DT Article
+DE antihistamines; atopic dermatitis; attention-deficit; hyperactivity
+   disorder; comorbidity; epidemiology
+ID QUALITY-OF-LIFE; DEFICIT HYPERACTIVITY DISORDER; PROSPECTIVE BIRTH
+   COHORT; POPULATION-BASED SAMPLE; ORIENTED ECZEMA MEASURE; SCHOOL-AGED
+   CHILDREN; INDEX-SHORT FORM; PSYCHOMETRIC PROPERTIES; OUTCOME MEASURES;
+   BEHAVIORAL-PROBLEMS
+AB BackgroundEpidemiologic evidence indicates a relevant association between atopic dermatitis (AD) and attention-deficit/hyperactivity disorder (ADHD). Underlying mechanisms and ways to best identify subgroups of AD patients at risk for ADHD are poorly understood.
+   Aims of the studyTo compare sociodemographic, clinical and psychosocial characteristics of children with AD, ADHD, comorbid AD/ADHD and age-matched healthy controls and to investigate aspects of AD related to ADHD symptoms.
+   MethodsApplying a factorial design, we investigated 4 groups of children aged 6-12years: AD-only (ie, without ADHD), ADHD-only (ie, without AD), AD+ADHD and healthy controls (HC; ie, no AD/no ADHD). Using validated instruments, ADHD symptoms and other behavioural problems, quality of life, parenting stress and sleeping problems were compared between groups. In children with AD-only, clinical signs (objective SCORAD), symptoms (POEM, VAS pruritus, VAS sleeping problems) and previous treatment of AD were assessed to investigate disease patterns related to ADHD symptoms.
+   ResultsCompared to HC (n=47), children with AD-only (n=42), ADHD-only (n=34) and comorbid AD+ADHD (n=31) had significantly increased behavioural problems and decreased quality of life. Children with AD-only had significantly higher levels of ADHD symptoms than HC. In children with AD-only, previous use of antihistamines was significantly associated with increased ADHD symptoms (OR 1.88; 95% CI 1.04-3.39). Current clinical signs and AD symptoms were unrelated to the level of ADHD symptoms.
+   ConclusionsEven if the clinical diagnosis of ADHD is excluded, children with AD show increased levels of ADHD symptoms. Further investigations need to determine whether early antihistamine exposure is a major risk factor for ADHD or a surrogate for previous AD severity and/or associated sleeping problems.
+C1 [Schmitt, J.; Tesch, F.; Stephan, V.] Tech Univ Dresden, Ctr Evidence Based Healthcare, Med Fak Carl Gustav Carus, Dresden, Germany.
+   [Schmitt, J.; Abraham, S.; Bauer, A.; Nemat, K.] Tech Univ Dresden, Univ Allergy Ctr, Univ Hosp Carl Gustav Carus, Dresden, Germany.
+   [Buske-Kirschbaum, A.; Trikojat, K.] Tech Univ Dresden, Dept Biopsychol, Dresden, Germany.
+   [Abraham, S.; Bauer, A.] Tech Univ Dresden, Dept Dermatol, Univ Hosp Carl Gustav Carus, Dresden, Germany.
+   [Plessow, F.] Massachusetts Gen Hosp, Neuroendocrine Unit, Boston, MA 02114 USA.
+   [Plessow, F.] Harvard Med Sch, Dept Med, Boston, MA USA.
+   [Roessner, V.] Tech Univ Dresden, Child & Adolescent Psychiat, Univ Hosp Carl Gustav Carus, Dresden, Germany.
+RP Schmitt, J (corresponding author), Tech Univ Dresden, Ctr Evidence Based Healthcare, Med Fak Carl Gustav Carus, Dresden, Germany.
+EM jochen.schmitt@uniklinikum-dresden.de
+RI Abraham, Susanne/AAU-4330-2020; Roessner, Veit/AAQ-8760-2020; Plessow,
+   Franziska/AAE-8754-2019
+OI Abraham, Susanne/0000-0001-7457-6481; 
+FU German Research Foundation (DFG)German Research Foundation (DFG) [SCHM
+   2838/2-1, BU 747/8-1]
+FX The study was funded by The German Research Foundation (DFG; Grand No.
+   SCHM 2838/2-1 and BU 747/8-1 to JS, ABK, FP and VR).
+NR 63
+TC 20
+Z9 20
+U1 2
+U2 7
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0105-4538
+EI 1398-9995
+J9 ALLERGY
+JI Allergy
+PD MAR
+PY 2018
+VL 73
+IS 3
+BP 615
+EP 626
+DI 10.1111/all.13326
+PG 12
+WC Allergy; Immunology
+SC Allergy; Immunology
+GA FW8YK
+UT WOS:000425622700012
+PM 28975640
+DA 2020-08-04
+ER
+
+PT J
+AU Wang, X
+   Gao, X
+   Yang, Q
+   Wang, X
+   Li, SH
+   Jiang, F
+   Zhang, J
+   Ouyang, FX
+AF Wang, Xu
+   Gao, Xiang
+   Yang, Qian
+   Wang, Xia
+   Li, Shenghui
+   Jiang, Fan
+   Zhang, Jun
+   Ouyang, Fengxiu
+TI Sleep disorders and allergic diseases in Chinese toddlers
+SO SLEEP MEDICINE
+LA English
+DT Article
+DE Sleep disorders; Allergic diseases; Toddler; Chinese
+ID NECROSIS-FACTOR-ALPHA; ATOPIC DISEASE; IMMUNE-SYSTEM; RISK-FACTORS;
+   CHILDHOOD; MELATONIN; PREVALENCE; CHILDREN; MULTICENTER; EPINEPHRINE
+AB Objective: Optimal sleep is important for child growth, development, and immune function. We aimed to explore whether sleep disorders were associated with the risk of allergic diseases in Chinese toddlers.
+   Methods: This study included 566 children (aged 23.9 +/- 0.7 months; 51.1% boys) in Shanghai, China. Sleep parameters (total sleep time, sleep onset latency, nocturnal awaking and snoring) were assessed by an expanded version of the Brief Infant Sleep Questionnaire (BISQ-expanded). Information on four allergic diseases (wheeze, eczema, food allergy, and allergic rhinitis) in the past year was collected via standard questionnaire and judged by pediatricians. We used logistic regression to calculate odds ratios (ORs) and their 95% confidence intervals (CIs) for having any/and each of the four allergic diseases, based on sleep parameters, adjusting for children's age and gender, mode of delivery, any breastfeeding duration, children's body mass index (BMI), children's exposure to passive smoking, maternal education, family income, family allergic history, and children's antibiotic use.
+   Results: There were 23.3% of children with at least one of the four allergic diseases. Snoring was significantly associated with increased odds of having any allergy (adjusted OR = 1.95; 95% CI: 1.17, 3.26), eczema (OR = 1.83, 95% CI: 1.03, 3.23) and food allergy (OR = 4.31, 95% CI: 1.23, 15.14), after adjustment for potential confounders. Nocturnal awaking >= 2 times per night was associated with higher risk of food allergy (OR = 3.92, 95% CI: 1.00, 15.35) and wheeze (OR = 6.16, 95% CI: 1.28, 29.74).
+   Conclusion: In this study, presence of certain sleep disorders was associated with higher risk of having allergic diseases in Chinese toddlers. (C) 2017 Published by Elsevier B.V.
+C1 [Wang, Xu; Yang, Qian; Wang, Xia; Li, Shenghui; Jiang, Fan; Zhang, Jun; Ouyang, Fengxiu] Shanghai Jiao Tong Univ, Sch Med, Xinhua Hosp, MOE,Shanghai Key Lab Childrens Environm Hlth, 1665 Kong Jiang Rd, Shanghai 200092, Peoples R China.
+   [Gao, Xiang] Penn State Univ, Dept Nutr Sci, University Pk, PA 16802 USA.
+   [Yang, Qian] Univ Hong Kong, Sch Publ Hlth, Li Ka Shing Fac Med, Hong Kong, Hong Kong, Peoples R China.
+   [Li, Shenghui] Jiao Tong Univ, Sch Med, Sch Publ Hlth, Shanghai, Peoples R China.
+   [Jiang, Fan] Shanghai Jiao Tong Univ, Shanghai Pediat Transit Inst, Dept Dev & Behav Pediat, Shanghai Childrens Med Ctr,Sch Med, Shanghai, Peoples R China.
+RP Ouyang, FX (corresponding author), Shanghai Jiao Tong Univ, Sch Med, Xinhua Hosp, MOE,Shanghai Key Lab Childrens Environm Hlth, 1665 Kong Jiang Rd, Shanghai 200092, Peoples R China.
+EM ouyangfengxiu@126.com
+OI , Xiang/0000-0003-2617-6509; Wang, Xia/0000-0003-2266-5137
+FU National Natural Science Foundation of China (NSFC)National Natural
+   Science Foundation of China [81372954]; Ministry of Science and
+   Technology of China The National Basic Science Research Program
+   [2014CB943300]; NSFCNational Natural Science Foundation of China
+   [81673178]; Shanghai Municipal Education Commissiond-Gaofeng Clinical
+   Medicine Grant [20152518]; Gates Foundation HBGDki project [OPP1153191]
+FX This study was supported by grants from the National Natural Science
+   Foundation of China (NSFC, No. 81372954), the Ministry of Science and
+   Technology of China The National Basic Science Research Program
+   (2014CB943300), NSFC (No. 81673178) and the Shanghai Municipal Education
+   Commissiond-Gaofeng Clinical Medicine Grant (20152518), and was partly
+   funded by the Gates Foundation HBGDki project (OPP1153191).
+NR 42
+TC 6
+Z9 6
+U1 0
+U2 9
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1389-9457
+EI 1878-5506
+J9 SLEEP MED
+JI Sleep Med.
+PD SEP
+PY 2017
+VL 37
+BP 174
+EP 179
+DI 10.1016/j.sleep.2017.02.011
+PG 6
+WC Clinical Neurology
+SC Neurosciences & Neurology
+GA FG9XI
+UT WOS:000410792900029
+PM 28899531
+DA 2020-08-04
+ER
+
+PT J
+AU Urrutia-Pereira, M
+   Sole, D
+   Rosario, NA
+   Neto, HJC
+   Acosta, V
+   Almendarez, CF
+   Avalos, MM
+   Badellino, H
+   Berroa, F
+   Alvarez-Castello, M
+   Castillo, AJ
+   Castro-Almarales, RL
+   De la Cruz, MM
+   Cepeda, AM
+   Fernandez, C
+   Gonzalez-Leon, M
+   Lozano-Saenz, J
+   Sanchez-Silot, C
+   Sisul-Alvariza, JC
+   Valentin-Rostan, M
+   Sarni, ROS
+AF Urrutia-Pereira, M.
+   Sole, D.
+   Rosario, N. A.
+   Neto, H. J. C.
+   Acosta, V.
+   Almendarez, C. F.
+   Avalos, M. M.
+   Badellino, H.
+   Berroa, F.
+   Alvarez-Castello, M.
+   Castillo, A. J.
+   Castro-Almarales, R. L.
+   De la Cruz, M. M.
+   Cepeda, A. M.
+   Fernandez, C.
+   Gonzalez-Leon, M.
+   Lozano-Saenz, J.
+   Sanchez-Silot, C.
+   Sisul-Alvariza, J. C.
+   Valentin-Rostan, M.
+   Sarni, R. O. S.
+TI Sleep-related disorders in Latin-American children with atopic
+   dermatitis: A case control study
+SO ALLERGOLOGIA ET IMMUNOPATHOLOGIA
+LA English
+DT Article
+DE Atopic dermatitis; Children; Questionnaire; SCORAD; Sleep disorders
+ID QUALITY-OF-LIFE; SCHOOL-AGED CHILDREN; HABITS QUESTIONNAIRE; ECZEMA;
+   MANAGEMENT; IMPACT; URBAN; CARE
+AB Background: Atopic dermatitis (AD) has been associated with impairment of sleep. The aim of this study was to evaluate sleep disorders in AD Latin-American children (410 years) from nine countries, and in normal controls (C).
+   Methods: Parents from 454 C and 340 AD children from referral clinics answered the Children Sleep Habits Questionnaire (CSHQ), a one-week retrospective 33 questions survey under seven items (bedtime resistance, sleep duration, sleep anxiety, night awakening, parasomnias, sleep-disordered breathing and daytime sleepiness). Total CSHQ score and items were analysed in both C and AD groups. Spearman's correlation coefficient between SCORAD (Scoring atopic dermatitis), all subscales and total CSHQ were also obtained.
+   Results: C and AD groups were similar regarding age, however, significantly higher values for total CSHQ (62.2 +/- 16.1 vs 53.3 +/- 12.7, respectively) and items were observed among AD children in comparison to C, and they were higher among those with moderate (54.8%) or severe (4.3%) AD. Except for sleep duration (r = -0.02, p = 0.698), there was a significant Spearman's correlation index for bedtime resistance (0.24, p < 0.0001), sleep anxiety (0.29, p < 0.0001), night awakening (0.36, p < 0.0001), parasomnias (0.54, p < 0.0001), sleep-disordered breathing (0.42, p < 0.0001), daytime sleepiness (0.26, p < 0.0001) and total CSHQ (0.46, p < 0.0001). AD patients had significantly higher elevated body mass index.
+   Conclusion: Latin-American children with AD have sleep disorders despite treatment, and those with moderate to severe forms had marked changes in CSHQ. (C) 2016 SEICAP. Published by Elsevier Espana, S.L.U. All rights reserved.
+C1 [Urrutia-Pereira, M.] Unipampa Fed Univ, Uruguaiana, RS, Brazil.
+   [Sole, D.] Univ Fed Sao Paulo, Div Allergy & Clin Immunol, Sao Paulo, Brazil.
+   [Rosario, N. A.; Neto, H. J. C.] Univ Fed Parana, Dept Pediat, Curitiba, Parana, Brazil.
+   [Acosta, V.] Dr Avelino L Castelan Pediat Hosp, Chaco, Argentina.
+   [Almendarez, C. F.] Ctr Asma & Alergia, Tegucigalpa, Honduras.
+   [Avalos, M. M.] Hosp ISSSTE, Allergy Serv, Fraccionamiento Moderno, Veracruz, Mexico.
+   [Badellino, H.] Clin Reg Este, Cordoba, Argentina.
+   [Berroa, F.; Castillo, A. J.; De la Cruz, M. M.] Ctr Med Avanzada Dr Abel Gonzalez, Santo Domingo, Dominican Rep.
+   [Alvarez-Castello, M.] Hosp Univ Gen Calixto Garcia, Havana, Cuba.
+   [Castro-Almarales, R. L.] Ctr Nacl Biopreparados, Havana, Cuba.
+   [Cepeda, A. M.] Hosp Univ Metropolitan, Barranquilla, Colombia.
+   [Fernandez, C.] Univ Nacl Este, Asuncion, Paraguay.
+   [Gonzalez-Leon, M.] Ctr Pesquisa Consultorios Med Familia, Havana, Cuba.
+   [Lozano-Saenz, J.] Ctr Med San Angel, Xalapa, Veracruz, Mexico.
+   [Sanchez-Silot, C.] Hosp Univ Infantil, Havana, Cuba.
+   [Sisul-Alvariza, J. C.] Clin Alergia & Asma, Asuncion, Paraguay.
+   [Valentin-Rostan, M.] Hosp Pediat Pereira Rossell, Montevideo, Uruguay.
+   [Sarni, R. O. S.] ABC Fdn, Sch Med, Santo Andre, Brazil.
+RP Sole, D (corresponding author), Univ Fed Sao Paulo, Div Allergy & Clin Immunol, Sao Paulo, Brazil.
+EM dirceu.sole@unifesp.br
+RI Sarni, Roseli OS/O-7806-2015; Chong Neto, Herberto Jose/K-4077-2013
+OI Urrutia-Pereira, Marilyn/0000-0001-6575-7897; Chong Neto, Herberto
+   Jose/0000-0002-7960-3925
+NR 32
+TC 3
+Z9 3
+U1 2
+U2 8
+PU ELSEVIER ESPANA SLU
+PI BARCELONA
+PA AV JOSEP TARRADELLAS, 20-30, 1ERA PLANTA, BARCELONA, CP-08029, SPAIN
+SN 0301-0546
+EI 1578-1267
+J9 ALLERGOL IMMUNOPATH
+JI Allergol. Immunopath.
+PD MAY-JUN
+PY 2017
+VL 45
+IS 3
+BP 276
+EP 282
+DI 10.1016/j.aller.2016.08.014
+PG 7
+WC Allergy; Immunology
+SC Allergy; Immunology
+GA ET5KI
+UT WOS:000400322200012
+PM 27908570
+DA 2020-08-04
+ER
+
+PT J
+AU Johansson, EK
+   Ballardini, N
+   Kull, I
+   Bergstrom, A
+   Wahlgren, CF
+AF Johansson, Emma Kristin
+   Ballardini, Natalia
+   Kull, Inger
+   Bergstrom, Anna
+   Wahlgren, Carl-Fredrik
+TI Association between preschool eczema and medication for
+   attention-deficit/hyperactivity disorder in school age
+SO PEDIATRIC ALLERGY AND IMMUNOLOGY
+LA English
+DT Article
+DE attention-deficit/hyperactivity disorder; adolescent; atopic dermatitis;
+   child; depression; epilepsy; migraine
+ID ATOPIC-DERMATITIS; CHILDHOOD ASTHMA; ALLERGIC DISEASE; BIRTH COHORT;
+   RISK-FACTOR; COMORBIDITY; CHILDREN; MECHANISMS; SYMPTOMS; REGISTER
+AB Background: Several studies show an association between eczema and attention-deficit/ hyperactivity disorder (ADHD) in childhood, but the mechanisms and time sequence remain unclear. Information on the association between eczema and other disorders involving the central nervous system (CNS) is limited. The aim was to explore whether preschool eczema was associated with ADHD or other CNS-associated disorders requiring pharmacotherapy at school age and to analyze whether eczema at other ages of childhood was associated with medication for ADHD.
+   Methods: From a Swedish birth cohort, 3606 children were included in the analyses. At 1, 2, 4, 8, 12, and 16 years of age, their parents answered questionnaires regarding eczema the last year. Information on prescribed medications during school age (1018 years of age) was derived by record linkage to the Swedish Prescribed Drug Register.
+   Results: A total of 1178 (32.7%) of the children had preschool eczema (eczema at 1, 2, and/or 4 years), and 162 (4.5%) of the children had dispensed ADHD medication at school age. Preschool eczema was not associated with ADHD medication at school age (crude odds ratio 1.16; 95% Confidence Intervals: 0.83-1.61). There was no significant association between preschool eczema and use of antidepressants, migraine drugs, or anti-epileptics at school age. Infantile eczema, school-age eczema, and eczema ever up to 16 years of age were not associated with ADHD medication at school age.
+   Conclusions: In this large birth cohort, there were no significant associations between preschool eczema and medications for ADHD, depression/anxiety/phobia, migraine, or epilepsy at school age.
+C1 [Johansson, Emma Kristin; Wahlgren, Carl-Fredrik] Karolinska Inst, Dept Med Solna, Dermatol & Venereol Unit, Stockholm, Sweden.
+   [Johansson, Emma Kristin] Sodersjukhuset Stockholm, Dermatol & Venereal Clin, Stockholm, Sweden.
+   [Ballardini, Natalia] Soder Sjukhuset, Sachs Children & Youth Hosp, Stockholm, Sweden.
+   [Ballardini, Natalia] Kings Coll London, St Johns Inst Dermatol, London, England.
+   [Ballardini, Natalia; Kull, Inger; Bergstrom, Anna] Karolinska Inst, Inst Environm Med, Stockholm, Sweden.
+   [Kull, Inger] Soder Sjukhuset, Karolinska Inst, Dept Clin Sci & Educ, Stockholm, Sweden.
+   [Wahlgren, Carl-Fredrik] Karolinska Univ Hosp Solna, Dept Dermatol, Stockholm, Sweden.
+RP Johansson, EK (corresponding author), Soder Sjukhuset, Dept Dermatol & Venereol, Sjukhusbacken 10, SE-11883 Stockholm, Sweden.
+EM emma.k.johansson@sll.se
+OI Kull, Inger/0000-0001-6096-3771; Johansson, Emma/0000-0002-3318-3910;
+   Ballardini, Natalia/0000-0001-6759-346X
+NR 30
+TC 6
+Z9 6
+U1 0
+U2 3
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0905-6157
+EI 1399-3038
+J9 PEDIAT ALLERG IMM-UK
+JI Pediatr. Allergy Immunol.
+PD FEB
+PY 2017
+VL 28
+IS 1
+BP 44
+EP 50
+DI 10.1111/pai.12657
+PG 7
+WC Allergy; Immunology; Pediatrics
+SC Allergy; Immunology; Pediatrics
+GA EK4JI
+UT WOS:000393892500005
+PM 27637173
+DA 2020-08-04
+ER
+
+PT J
+AU Lee, S
+   Shin, A
+AF Lee, Seulki
+   Shin, Aesun
+TI Association of atopic dermatitis with depressive symptoms and suicidal
+   behaviors among adolescents in Korea: the 2013 Korean Youth Risk
+   Behavior Survey
+SO BMC PSYCHIATRY
+LA English
+DT Article
+DE Adolescent atopic dermatitis; Depressive symptoms; Suicide ideation;
+   Suicide planning; Suicide attempts
+ID QUALITY-OF-LIFE; MENTAL-HEALTH; SOCIOECONOMIC-STATUS; CHILDHOOD ECZEMA;
+   BIRTH COHORT; FOLLOW-UP; DISEASES; PREVALENCE; DISORDERS; PSORIASIS
+AB Background: Atopic dermatitis (AD) is a chronic skin disease which has been known to negatively influence the mental health of patients. However, only a few studies have explored the prevalence of psychiatric problems among AD patients, particularly among adolescents. In this study, we aimed to assess the association of AD with depressive symptoms and suicidal behaviors among adolescents by analyzing data from the 2013 Korean Youth Risk Behavior Survey, a nationwide web-based survey.
+   Methods: Data from 72,435 adolescent middle and high school students in Korea were analyzed. Students self-reported AD diagnosed by a doctor and yes-or-no answers to questions about depressive symptoms and suicide ideation, suicide planning, and suicide attempts were analyzed. Relationships between AD and depressive symptoms or suicidal behaviors were tested by logistic regression models after controlling for potential confounding factors.
+   Results: The proportion of adolescents who had AD was 6.8%. The proportion of adolescents reporting depressive feelings was 31.0%, suicide ideation was 16.3%, suicide planning was 5.8%, and suicide attempts was 4.2%. Compared to adolescents without AD, adolescents with AD were significantly more likely to experience depressive feelings (odds ratio [OR]: 1.27, 95% confidence interval [Cl]: 1.19-1.36), suicide ideation (OR: 1.34, 95% Cl: 1.24-1.45), suicide planning (OR: 1.46, 95% Cl: 1.32-1.65), and suicide attempts (OR: 1.51, 95% Cl: 1.33-1.72). In the multivariate model, the relationships between AD and suicide ideation (OR: 1.26, 95% Cl: 1.16-1.36), suicide planning (OR: 1.28, 95% Cl: 1.14-1.44), and suicide attempt (OR: 1.29, 95% Cl: 1.13-1.49) were statistically significant.
+   Conclusion: Adolescents who have AD are associated with a higher prevalence of depression symptoms and suicidal behaviors. Adolescent AD patients may need interventions from clinicians and caregivers that use a holistic approach to prevent psychological comorbidities, although further research is needed to clarify this relationship.
+C1 [Lee, Seulki] Seoul Natl Univ, Coll Med, Seoul, South Korea.
+   [Shin, Aesun] Seoul Natl Univ, Dept Prevent Med, Coll Med, 103 Daehangno, Seoul 110799, South Korea.
+RP Shin, A (corresponding author), Seoul Natl Univ, Dept Prevent Med, Coll Med, 103 Daehangno, Seoul 110799, South Korea.
+EM shinaesun@snu.ac.kr
+RI Shin, Aesun/E-9145-2014
+OI Shin, Aesun/0000-0002-6426-1969
+FU Seoul National University Hospital
+FX This study was supported by a grant from Seoul National University
+   Hospital (2015).
+NR 57
+TC 26
+Z9 27
+U1 1
+U2 13
+PU BIOMED CENTRAL LTD
+PI LONDON
+PA 236 GRAYS INN RD, FLOOR 6, LONDON WC1X 8HL, ENGLAND
+SN 1471-244X
+J9 BMC PSYCHIATRY
+JI BMC Psychiatry
+PD JAN 3
+PY 2017
+VL 17
+AR 3
+DI 10.1186/s12888-016-1160-7
+PG 11
+WC Psychiatry
+SC Psychiatry
+GA EG7JW
+UT WOS:000391224400003
+PM 28049449
+OA DOAJ Gold, Green Published
+DA 2020-08-04
+ER
+
+PT J
+AU Lee, CY
+   Chen, MH
+   Jeng, MJ
+   Hsu, JW
+   Tsai, SJ
+   Bai, YM
+   Hung, GY
+   Yen, HJ
+   Chen, TJ
+   Su, TP
+AF Lee, Chih-Ying
+   Chen, Mu-Hong
+   Jeng, Mei-Jy
+   Hsu, Ju-Wei
+   Tsai, Shih-Jen
+   Bai, Ya-Mei
+   Hung, Giun-Yi
+   Yen, Hsiu-Ju
+   Chen, Tzeng-Ji
+   Su, Tung-Ping
+TI Longitudinal association between early atopic dermatitis and subsequent
+   attention-deficit or autistic disorder: A population-based case-control
+   study
+SO MEDICINE
+LA English
+DT Article
+DE atopic dermatitis; attention-deficit hyperactivity disorder; autistic
+   spectrum disorder; children; toddler
+ID DEFICIT/HYPERACTIVITY DISORDER; HYPERACTIVITY DISORDER; ALLERGIC
+   DISORDERS; EARLY-CHILDHOOD; UNITED-STATES; RISK-FACTOR; CHILDREN;
+   ECZEMA; NATIONWIDE; PREVALENCE
+AB Atopic dermatitis (AD) is one of the common allergic diseases in children. The presence of allergic diseases was found to have association with the risk of developing attention-deficit hyperactivity disorder (ADHD) or autistic spectrum disorder (ASD) in children, but it is still inconclusive. This study was to investigate the longitudinal relationship between AD developed during toddlerhood and subsequent development of ADHD or ASD in later childhood. Toddlers born between 1998 and 2008 and diagnosed with AD at the age younger than 3 years and older than 1 month were retrieved from Taiwan's National Health Insurance Research Database. Age- and gender-matched toddlers with no lifetime AD were enrolled as the control group. All enrolled toddlers were followed until 2011 to identify the development of ADHD or ASD. Multivariate Cox regression analysis was performed to analyze the hazard ratios (HRs). The risks associated with allergic comorbidities were analyzed. A total of 18,473 toddlers were enrolled into the AD group. The presence of AD significantly increased the risk of developing ADHD (HR = 2.92, 95% confidence interval [CI] = 2.48-3.45) or ASD (HR = 8.90, 95% CI = 4.98-15.92) when aged 3 years or older. Children from the AD group with 3 comorbidities together, namely, allergic rhinitis, allergic conjunctivitis, and asthma, had the greatest risk of developing ADHD and ASD (ADHD: HR = 4.67, 95% CI = 3.81-5.43; ASD: HR = 16.65, 95% CI = 8.63-30.60). In conclusion, toddlers who suffer from AD at the age younger than 3 years are at a higher risk of developing ADHD and ASD during later childhood. Pediatricians taking care of toddlers with AD should have knowledge of this increased risk of developing ADHD and ASD later in life, especially when children have certain comorbidities such as allergic rhinitis, allergic conjunctivitis, and asthma.
+C1 [Lee, Chih-Ying; Jeng, Mei-Jy; Bai, Ya-Mei; Hung, Giun-Yi; Yen, Hsiu-Ju] Taipei Vet Gen Hosp, Dept Pediat, 201,Sect 2,Shih Pai Rd, Taipei 11217, Taiwan.
+   [Jeng, Mei-Jy] Natl Yang Ming Univ, Sch Med, Inst Emergency & Crit Care Med, Taipei, Taiwan.
+   [Chen, Mu-Hong; Hsu, Ju-Wei; Tsai, Shih-Jen; Su, Tung-Ping] Taipei Vet Gen Hosp, Dept Psychiat, Taipei, Taiwan.
+   [Chen, Tzeng-Ji] Natl Yang Ming Univ, Sch Med, Inst Hosp & Hlth Care Adm, Taipei, Taiwan.
+   [Bai, Ya-Mei] Taipei Vet Gen Hosp, Dept Family Med, Taipei, Taiwan.
+RP Jeng, MJ (corresponding author), Taipei Vet Gen Hosp, Dept Pediat, 201,Sect 2,Shih Pai Rd, Taipei 11217, Taiwan.
+EM mjjeng@vghtpe.gov.tw
+RI Tsai, Shih-Jen/AAK-7944-2020
+OI Tsai, Shih-Jen/0000-0002-9987-022X
+FU Taipei Veterans General Hospital, Taipei, Taiwan, R.O.C.Taipei Veterans
+   General Hospital [V102D-001-3, V102D-001-1]
+FX The authors acknowledge the statistical assistance of Tzeng-Ji Chen.
+   This study was supported by the grants from Taipei Veterans General
+   Hospital, Taipei, Taiwan, R.O.C. (research grant V102D-001-3 and
+   V102D-001-1). The funder has no role on the study design, data
+   collection and analysis, or the manuscript's preparation. Additionally,
+   this work was based on the datasets of the National Health Insurance
+   Research Database provided by the Bureau of National Health Insurance
+   (BNHI), Department of Health, Executive Yuan, Taiwan. The data
+   interpretation and conclusions do not represent those of the
+   institutions or agencies.
+NR 50
+TC 15
+Z9 16
+U1 0
+U2 5
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0025-7974
+EI 1536-5964
+J9 MEDICINE
+JI Medicine (Baltimore)
+PD SEP
+PY 2016
+VL 95
+IS 39
+AR e5005
+DI 10.1097/MD.0000000000005005
+PG 6
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA DZ0PE
+UT WOS:000385541400071
+PM 27684861
+OA DOAJ Gold, Green Published
+DA 2020-08-04
+ER
+
+PT J
+AU Liao, TC
+   Lien, YT
+   Wang, S
+   Huang, SL
+   Chen, CY
+AF Liao, Tzu-Chu
+   Lien, Yi-Ting
+   Wang, Sabrina
+   Huang, Song-Lih
+   Chen, Chuan-Yu
+TI Comorbidity of Atopic Disorders with Autism Spectrum Disorder and
+   Attention Deficit/Hyperactivity Disorder
+SO JOURNAL OF PEDIATRICS
+LA English
+DT Article
+ID DEFICIT HYPERACTIVITY DISORDER; MENTAL-HEALTH; ASTHMA; CHILDREN; ECZEMA;
+   PREVALENCE; CHILDHOOD; DIAGNOSIS; RHINITIS; RISK
+AB Objective To assess the relationship between allergic manifestations in early life and the occurrence of newly diagnosed autism spectrum disorder (ASD) and attention deficit/hyperactivity disorder (ADHD) throughout childhood.
+   Study design We collected a population-based longitudinal cohort comprising children enrolled in Taiwan's National Health Insurance Program during 2000-2010. We first identified 387 262 children who had a diagnosis of atopic dermatitis (AD) before age 2 years, with 1:1 individualized matching to children without AD. Cox regression analyses were performed to estimate the early-onset and cumulative effects of allergic manifestations on ASD and ADHD.
+   Results An estimated 0.5% of AD-exposed children received a diagnosis of ASD, and 3.7% were diagnosed with ADHD, significantly higher than the respective rates of 0.4% and 2.9% found in their nonexposed peers. Having AD before age 2 years was associated with an increased hazard ratio (HR) for ASD by 10% and that for ADHD by 16%; such increases were particularly prominent among those with earlier-onset or more severe AD. HRs were especially higher for children with persistent AD and emerging atopic respiratory diseases in childhood (eg, for ASD, adjusted HR, 1.75 and 2.13, respectively; P<.001).
+   Conclusion The observed increased risks of ASD and ADHD associated with AD in infancy suggest that a disordered immunologic response may exert effects on neurodevelopment and have implications for research into etiology and treatment strategies.
+C1 [Liao, Tzu-Chu; Lien, Yi-Ting; Huang, Song-Lih; Chen, Chuan-Yu] Natl Yang Ming Univ, Inst Publ Hlth, 155 Linong St,Sect 2, Taipei 112, Taiwan.
+   [Lien, Yi-Ting; Chen, Chuan-Yu] Natl Hlth Res Inst, Ctr Neuropsychiat Res, Zhunan, Taiwan.
+   [Wang, Sabrina] Natl Yang Ming Univ, Inst Anat & Cell Biol, Taipei 112, Taiwan.
+RP Chen, CY (corresponding author), Natl Yang Ming Univ, Inst Publ Hlth, 155 Linong St,Sect 2, Taipei 112, Taiwan.
+EM chuanychen@ym.edu.tw
+RI Chen, Chuan-Yu/C-7697-2011; Huang, Song-Lih/M-2356-2019
+FU National Health Research InstitutesNational Health Research Institutes,
+   Japan [NP-103-SP02]; Ministry of Education; Aim for the Top
+   UniversityMinistry of Education, Taiwan; Yen Tjing Ling Medical
+   Foundation
+FX Supported by the National Health Research Institutes (NP-103-SP02).
+   C.-Y.C. was supported by the Ministry of Education, Aim for the Top
+   University, and Yen Tjing Ling Medical Foundation. The authors declare
+   no conflicts of interest.
+NR 40
+TC 23
+Z9 25
+U1 0
+U2 14
+PU MOSBY-ELSEVIER
+PI NEW YORK
+PA 360 PARK AVENUE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0022-3476
+EI 1097-6833
+J9 J PEDIATR-US
+JI J. Pediatr.
+PD APR
+PY 2016
+VL 171
+BP 248
+EP 255
+DI 10.1016/j.jpeds.2015.12.063
+PG 8
+WC Pediatrics
+SC Pediatrics
+GA DH4KC
+UT WOS:000372753600050
+PM 26846570
+DA 2020-08-04
+ER
+
+EF

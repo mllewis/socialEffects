@@ -1,0 +1,491 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Bongiorno, R
+   Bain, PG
+   David, B
+AF Bongiorno, Renata
+   Bain, Paul G.
+   David, Barbara
+TI If you're going to be a leader, at least act like it! Prejudice towards
+   women who are tentative in leader roles
+SO BRITISH JOURNAL OF SOCIAL PSYCHOLOGY
+LA English
+DT Article
+ID ROLE CONGRUITY THEORY; GENDER STEREOTYPES; AGENTIC WOMEN; MEN; SUCCESS;
+   METAANALYSIS; BACKLASH; COMPETENCE; ATTITUDES; BEHAVIOR
+AB Role congruity theory predicts prejudice towards women who meet the agentic requirements of the leader role. In line with recent findings indicating greater acceptance of agentic behaviour from women, we find evidence for a more subtle form of prejudice towards women who fail to display agency in leader roles. Using a classic methodology, the agency of male and female leaders was manipulated using assertive or tentative speech, presented through written (Study 1, N = 167) or verbal (Study 2, N = 66) communications. Consistent with predictions, assertive women were as likeable and influential as assertive men, while being tentative in leadership reduced the likeability and influence of women, but not of men. Although approval of agentic behaviour from women in leadership reflects progress, evidence that women are quickly singled out for disapproval if they fail to show agency is important for understanding how they continue to be at a distinct disadvantage to men in leader roles.
+C1 [Bongiorno, Renata; Bain, Paul G.] Univ Queensland, Brisbane, Qld, Australia.
+   [Bongiorno, Renata; David, Barbara] Australian Natl Univ, Canberra, ACT, Australia.
+RP Bongiorno, R (corresponding author), Univ Queensland, Sch Psychol, Brisbane, Qld 4072, Australia.
+EM r.bongiorno@uq.edu.au
+OI Bain, Paul/0000-0001-5521-2738
+NR 53
+TC 15
+Z9 15
+U1 1
+U2 45
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0144-6665
+EI 2044-8309
+J9 BRIT J SOC PSYCHOL
+JI Br. J. Soc. Psychol.
+PD JUN
+PY 2014
+VL 53
+IS 2
+BP 217
+EP 234
+DI 10.1111/bjso.12032
+PG 18
+WC Psychology, Social
+SC Psychology
+GA AJ4VY
+UT WOS:000337678100002
+PM 23509967
+OA Green Accepted
+DA 2020-08-04
+ER
+
+PT J
+AU McAleer, P
+   Todorov, A
+   Belin, P
+AF McAleer, Phil
+   Todorov, Alexander
+   Belin, Pascal
+TI How Do You Say 'Hello'? Personality Impressions from Brief Novel Voices
+SO PLOS ONE
+LA English
+DT Article
+ID FORMANT FREQUENCIES INFLUENCE; VOCAL ATTRACTIVENESS; 1ST IMPRESSIONS;
+   SPEAKER HEIGHT; FACIAL ATTRACTIVENESS; WEIGHT IDENTIFICATION; JUDGING
+   PERSONALITY; MENS VOICES; BODY-SIZE; FACES
+AB On hearing a novel voice, listeners readily form personality impressions of that speaker. Accurate or not, these impressions are known to affect subsequent interactions; yet the underlying psychological and acoustical bases remain poorly understood. Furthermore, hitherto studies have focussed on extended speech as opposed to analysing the instantaneous impressions we obtain from first experience. In this paper, through a mass online rating experiment, 320 participants rated 64 sub-second vocal utterances of the word 'hello' on one of 10 personality traits. We show that: (1) personality judgements of brief utterances from unfamiliar speakers are consistent across listeners; (2) a two-dimensional 'social voice space' with axes mapping Valence (Trust, Likeability) and Dominance, each driven by differing combinations of vocal acoustics, adequately summarises ratings in both male and female voices; and (3) a positive combination of Valence and Dominance results in increased perceived male vocal Attractiveness, whereas perceived female vocal Attractiveness is largely controlled by increasing Valence. Results are discussed in relation to the rapid evaluation of personality and, in turn, the intent of others, as being driven by survival mechanisms via approach or avoidance behaviours. These findings provide empirical bases for predicting personality impressions from acoustical analyses of short utterances and for generating desired personality impressions in artificial voices.
+C1 [McAleer, Phil; Belin, Pascal] Univ Glasgow, Sch Psychol, Coll Sci & Engn, Glasgow, Lanark, Scotland.
+   [Todorov, Alexander] Princeton Univ, Dept Psychol, Princeton, NJ 08544 USA.
+   [Belin, Pascal] Univ Glasgow, Coll Med Vet & Life Sci, Voice Neurocognit Lab, Inst Neurosci & Psychol, Glasgow, Lanark, Scotland.
+   [Belin, Pascal] Univ Montreal, Dept Psychol, Montreal, PQ H3C 3J7, Canada.
+   [Belin, Pascal] Univ Aix Marseille, Inst Neurosci La Timone, Marseille, France.
+RP McAleer, P (corresponding author), Univ Glasgow, Sch Psychol, Coll Sci & Engn, Glasgow, Lanark, Scotland.
+EM Philip.McAleer@glasgow.ac.uk
+RI McAleer, Phil/A-8178-2011; Belin, Pascal/C-6247-2009
+OI McAleer, Phil/0000-0002-4523-2097; Belin, Pascal/0000-0002-7578-6365
+FU ESRC/MRCMedical Research Council UK (MRC)Economic & Social Research
+   Council (ESRC) [RES-060-25-0010]; Economic and Social Research
+   CouncilEconomic & Social Research Council (ESRC) [ES/E020933/1]
+FX This project was funded by an ESRC/MRC large grant RES-060-25-0010. The
+   funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+NR 105
+TC 79
+Z9 81
+U1 1
+U2 105
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAR 12
+PY 2014
+VL 9
+IS 3
+AR e90779
+DI 10.1371/journal.pone.0090779
+PG 9
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA AC9HN
+UT WOS:000332845300027
+PM 24622283
+OA DOAJ Gold, Green Accepted, Green Published
+DA 2020-08-04
+ER
+
+PT J
+AU Rudman, LA
+   Moss-Racusin, CA
+   Phelan, JE
+   Nauts, S
+AF Rudman, Laurie A.
+   Moss-Racusin, Corinne A.
+   Phelan, Julie E.
+   Nauts, Sanne
+TI Status incongruity and backlash effects: Defending the gender hierarchy
+   motivates prejudice against female leaders
+SO JOURNAL OF EXPERIMENTAL SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE Backlash effect; Sex discrimination; Gender stereotype; Gender
+   prejudice; System justification theory; Impression management
+ID SYSTEM-JUSTIFICATION; STEREOTYPE CONTENT; CONFIDENCE-LIMITS; SOCIAL
+   JUDGMENT; WOMEN; SEX; COMPETENCE; DISCRIMINATION; CONSEQUENCES;
+   COMMUNALITY
+AB Agentic female leaders risk social and economic penalties for behaving counter-stereotypically (i.e., backlash; Rudman, 1998), but what motivates prejudice against female leaders? The status incongruity hypothesis (SIH) proposes that agentic women are penalized for status violations because doing so defends the gender hierarchy. Consistent with this view, Study 1 found that women are proscribed from dominant, high status displays (which are reserved for leaders and men); Studies 2-3 revealed that prejudice against agentic female leaders was mediated by a dominance penalty; and in Study 3, participants' gender system-justifying beliefs moderated backlash effects. Study 4 found that backlash was exacerbated when perceivers were primed with a system threat. Study 5 showed that only female leaders who threatened the status quo suffered sabotage. In concert, support for the SIH suggests that backlash functions to preserve male dominance by reinforcing a double standard for power and control. (C) 2011 Elsevier Inc. All rights reserved.
+C1 [Rudman, Laurie A.] Rutgers State Univ, New Brunswick, NJ 08903 USA.
+   [Moss-Racusin, Corinne A.] Yale Univ, New Haven, CT 06520 USA.
+   [Nauts, Sanne] Radboud Univ Nijmegen, Inst Behav Sci, Nijmegen, Netherlands.
+RP Rudman, LA (corresponding author), Rutgers State Univ, Dept Psychol, Tillett Hall,53 Ave E, Piscataway, NJ 08854 USA.
+EM rudman@rci.rutgers.edu
+RI Nauts, Sanne/D-6070-2012
+NR 70
+TC 322
+Z9 325
+U1 8
+U2 160
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0022-1031
+EI 1096-0465
+J9 J EXP SOC PSYCHOL
+JI J. Exp. Soc. Psychol.
+PD JAN
+PY 2012
+VL 48
+IS 1
+BP 165
+EP 179
+DI 10.1016/j.jesp.2011.10.008
+PG 15
+WC Psychology, Social
+SC Psychology
+GA 874DP
+UT WOS:000298935900017
+HC Y
+HP N
+DA 2020-08-04
+ER
+
+PT J
+AU Bryan, AD
+   Webster, GD
+   Mahaffey, AL
+AF Bryan, Angela D.
+   Webster, Gregory D.
+   Mahaffey, Amanda L.
+TI The Big, the Rich, and the Powerful: Physical, Financial, and Social
+   Dimensions of Dominance in Mating and Attraction
+SO PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+LA English
+DT Article
+DE evolutionary psychology; attraction; dominance; agreeableness;
+   attractiveness
+ID WAIST-TO-HIP; SEX-DIFFERENCES; MATE PREFERENCES; FLUCTUATING ASYMMETRY;
+   BREAST ASYMMETRY; REPRODUCTIVE SUCCESS; SELECTION; PERSONALITY;
+   EVOLUTION; QUALITY
+AB Dominance is a key feature on which romantic partners are evaluated, yet there is no clear consensus on its definition. In Study 1 (N = 305), the authors developed scales to measure three putatively distinct dimensions of dominance: social, financial, and physical. In Study 2 (N = 308), the authors used their scales in a mate-selection paradigm and found that women perceived physical dominance to be related to both attractiveness and social dominance. For both sexes, attractiveness predicted desirability for a one-night stand, whereas attractiveness and agreeableness were predictors of desirability for a serious relationship. In Study 3 (N = 124), the authors surveyed romantic partners in monogamous relationships and found that although aspects of a partner's dominance-financial for women and social for men-played a bivariate role in relationship satisfaction, agreeableness was the strongest predictor of current and future relationship satisfaction and the only significant predictor of relationship dissolution.
+C1 [Bryan, Angela D.] Univ New Mexico, Dept Psychol, Albuquerque, NM 87131 USA.
+   [Webster, Gregory D.] Univ Florida, Gainesville, FL USA.
+   [Mahaffey, Amanda L.] CIS ISCTE Lisbon Univ Inst, Lisbon, Portugal.
+RP Bryan, AD (corresponding author), Univ New Mexico, Dept Psychol, MSC03 2220, Albuquerque, NM 87131 USA.
+EM abryan@unm.edu
+NR 69
+TC 24
+Z9 26
+U1 1
+U2 42
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0146-1672
+EI 1552-7433
+J9 PERS SOC PSYCHOL B
+JI Pers. Soc. Psychol. Bull.
+PD MAR
+PY 2011
+VL 37
+IS 3
+BP 365
+EP 382
+DI 10.1177/0146167210395604
+PG 18
+WC Psychology, Social
+SC Psychology
+GA 718MJ
+UT WOS:000287126600005
+PM 21252382
+DA 2020-08-04
+ER
+
+PT J
+AU Farley, SD
+   Ashcraft, AM
+   Stasson, MF
+   Nusbaum, RL
+AF Farley, Sally D.
+   Ashcraft, Amie M.
+   Stasson, Mark F.
+   Nusbaum, Rebecca L.
+TI Nonverbal Reactions to Conversational Interruption: A Test of
+   Complementarity Theory and the Status/Gender Parallel
+SO JOURNAL OF NONVERBAL BEHAVIOR
+LA English
+DT Article
+DE Interruption; Nonverbal behavior; Status; Complementarity; Gender
+ID BEHAVIOR; GENDER; DOMINANCE; POWER; PERCEPTIONS; SEX; PARTICIPANT;
+   EMPLOYEES; INTIMACY; STUDENTS
+AB The present research examined nonverbal reactions to conversational interruption (a status-organizing cue). We predicted that the nonverbal reactions to interruption (versus a control condition) would show a different pattern of results than gender differences. Participants (N = 150) were paired with one of four confederates and randomly assigned to either an interruption or control condition. Nine nonverbal behavioral reactions were coded by independent raters. Participants responded to interruption with reciprocal interruptions and increased nodding, as compared to a control condition. Gender differences diverged from those associated with condition. Women smiled, agreed, nodded, and laughed more than men, showing evidence of a greater attempt to facilitate the flow of conversation. We discuss these findings with regard to the dimensions of affiliation and verticality.
+C1 [Farley, Sally D.; Nusbaum, Rebecca L.] Univ Baltimore, Div Appl Behav Sci, Baltimore, MD 21201 USA.
+   [Ashcraft, Amie M.] Sociometrics Corp, Los Altos, CA USA.
+   [Stasson, Mark F.] Metropolitan State Univ, St Paul, MN USA.
+RP Farley, SD (corresponding author), Univ Baltimore, Div Appl Behav Sci, 1420 N Charles St, Baltimore, MD 21201 USA.
+EM sfarley@ubalt.edu
+NR 52
+TC 7
+Z9 8
+U1 1
+U2 18
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0191-5886
+J9 J NONVERBAL BEHAV
+JI J. Nonverbal Behav.
+PD DEC
+PY 2010
+VL 34
+IS 4
+BP 193
+EP 206
+DI 10.1007/s10919-010-0091-0
+PG 14
+WC Psychology, Social
+SC Psychology
+GA 666NL
+UT WOS:000283122000001
+DA 2020-08-04
+ER
+
+PT J
+AU Okimoto, TG
+   Brescoll, VL
+AF Okimoto, Tyler G.
+   Brescoll, Victoria L.
+TI The Price of Power: Power Seeking and Backlash Against Female
+   Politicians
+SO PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+LA English
+DT Article
+DE gender stereotypes; backlash; power; politics; intention; moral outrage
+ID GENDER STEREOTYPES; WOMEN; COMPETENCE; PERCEPTION; WORKPLACE; LEADERS;
+   WARMTH; SELF; BIAS; INFORMATION
+AB Two experimental studies examined the effect of power-seeking intentions on backlash toward women in political office. It was hypothesized that a female politician's career progress may be hindered by the belief that she seeks power, as this desire may violate prescribed communal expectations for women and thereby elicit interpersonal penalties. Results suggested that voting preferences for female candidates were negatively influenced by her power-seeking intentions (actual or perceived) but that preferences for male candidates were unaffected by power-seeking intentions. These differential reactions were partly explained by the perceived lack of communality implied by women's power-seeking intentions, resulting in lower perceived competence and feelings of moral outrage. The presence of moral-emotional reactions suggests that backlash arises from the violation of communal prescriptions rather than normative deviations more generally. These findings illuminate one potential source of gender bias in politics.
+C1 [Okimoto, Tyler G.] Yale Univ, Sch Management, New Haven, CT 06520 USA.
+RP Okimoto, TG (corresponding author), Yale Univ, Sch Management, 135 Prospect St,POB 208200, New Haven, CT 06520 USA.
+EM tyler.okimoto@yale.edu; victoria.brescoll@yale.edu
+RI Okimoto, Tyler/D-6634-2011
+OI Okimoto, Tyler/0000-0002-4506-6826
+NR 86
+TC 121
+Z9 122
+U1 2
+U2 87
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0146-1672
+EI 1552-7433
+J9 PERS SOC PSYCHOL B
+JI Pers. Soc. Psychol. Bull.
+PD JUL
+PY 2010
+VL 36
+IS 7
+BP 923
+EP 936
+DI 10.1177/0146167210371949
+PG 14
+WC Psychology, Social
+SC Psychology
+GA 615EE
+UT WOS:000279115500006
+PM 20519573
+DA 2020-08-04
+ER
+
+PT J
+AU Loyd, DL
+   Phillips, KW
+   Whitson, J
+   Thomas-Hunt, MC
+AF Loyd, Denise Lewin
+   Phillips, Katherine W.
+   Whitson, Jennifer
+   Thomas-Hunt, Melissa C.
+TI Expertise in your midst: How congruence between status and speech style
+   affects reactions to unique knowledge
+SO GROUP PROCESSES & INTERGROUP RELATIONS
+LA English
+DT Article
+DE congruence; expertise; influence; power; powerful speech; powerless
+   speech; status
+ID FEMALE LANGUAGE DIFFERENCES; DECISION-MAKING; ATTRIBUTIONAL
+   CONSEQUENCES; POWERLESS SPEECH; GENDER; CONFIDENCE; SEX; EXPECTATIONS;
+   UNCERTAINTY; INFORMATION
+AB We examine how the status and speech style of experts impacts how they are perceived and their level of influence. In our experiment we manipulate whether high-status and low-status experts share their expert knowledge using a more or less powerful style of speech, and find that experts are more liked, more influential, and engender more confidence when they express themselves in a manner congruent with their status (i.e., high status with powerful speech and low status with powerless speech). We further show that liking acts as a mediator between congruence and influence. This study suggests that experts with low-status characteristics who want to be influential should ensure that their expertise, a marker of high status, is known to the listener before engaging in powerful styles of speech.
+C1 [Loyd, Denise Lewin] MIT, Alfred P Sloan Sch Management, Cambridge, MA 02142 USA.
+   [Phillips, Katherine W.] Northwestern Univ, Kellogg Sch Management, Evanston, IL 60208 USA.
+   [Whitson, Jennifer] Univ Texas Austin, McCombs Sch Business, Austin, TX 78712 USA.
+   [Thomas-Hunt, Melissa C.] Univ Virginia, Darden Sch Business, Charlottesville, VA 22903 USA.
+RP Loyd, DL (corresponding author), MIT, Alfred P Sloan Sch Management, Cambridge, MA 02142 USA.
+EM dll@mit.edu
+NR 74
+TC 8
+Z9 8
+U1 0
+U2 23
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1368-4302
+EI 1461-7188
+J9 GROUP PROCESS INTERG
+JI Group Process Intergroup Relat.
+PD MAY
+PY 2010
+VL 13
+IS 3
+BP 379
+EP 395
+DI 10.1177/1368430209350317
+PG 17
+WC Psychology, Social
+SC Psychology
+GA 588AY
+UT WOS:000277039600007
+DA 2020-08-04
+ER
+
+PT J
+AU Williams, LA
+   DeSteno, D
+AF Williams, Lisa A.
+   DeSteno, David
+TI Pride: Adaptive Social Emotion or Seventh Sin?
+SO PSYCHOLOGICAL SCIENCE
+LA English
+DT Article
+AB This experiment examined the ability of pride to serve as an adaptive emotion within the context of social interaction. After an in vivo induction of pride or a neutral state, participants engaged in a group problem-solving task. In contrast to a conventional view that pride is often associated with negative interpersonal outcomes, results confirmed that proud individuals not only took on a dominant role within the group problem-solving task, but also were perceived as the most likeable interaction partners. These findings suggest that pride, when representing an appropriate response to actual performance (as opposed to overgeneralized hubris), constitutes a functional social emotion with important implications for leadership and the building of social capital.
+C1 [Williams, Lisa A.; DeSteno, David] Northeastern Univ, Dept Psychol, Boston, MA 02115 USA.
+RP Williams, LA (corresponding author), Northeastern Univ, Dept Psychol, Boston, MA 02115 USA.
+EM williams.lisa.a@gmail.com; d.desteno@gmail.com
+OI Williams, Lisa A/0000-0002-0021-5613
+NR 9
+TC 108
+Z9 109
+U1 1
+U2 32
+PU WILEY-BLACKWELL PUBLISHING, INC
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0956-7976
+J9 PSYCHOL SCI
+JI Psychol. Sci.
+PD MAR
+PY 2009
+VL 20
+IS 3
+BP 284
+EP 288
+DI 10.1111/j.1467-9280.2009.02292.x
+PG 5
+WC Psychology, Multidisciplinary
+SC Psychology
+GA 415WM
+UT WOS:000263967200004
+PM 19207690
+DA 2020-08-04
+ER
+
+PT J
+AU Anderson, C
+   Kilduff, GJ
+AF Anderson, Cameron
+   Kilduff, Gavin J.
+TI Why Do Dominant Personalities Attain Influence in Face-to-Face Groups?
+   The Competence-Signaling Effects of Trait Dominance
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE dominance; influence; power; status; competence
+ID NONVERBAL BEHAVIOR; LEADERSHIP; PERCEPTIONS; PERFORMANCE; INTELLIGENCE;
+   CONSISTENCY; POSITION; MODEL; POWER; CUES
+AB Individuals high in the personality trait dominance consistently attain high levels of influence in groups, Why they do is unclear, however, because most group theories assert that people cannot attain influence simply by behaving assertively and forcefully; rather, they need to possess superior task abilities and leadership skills, In the present research, the authors proposed that individuals high in trait dominance attain influence because they behave in ways that make them appear competent-even when the) actually lack competence. Two studies examined task groups using a social relations analysis of peer perceptions (D. A. Kenny & L. LaVoie, 1984). The authors found that individuals higher in trait dominance were rated as more competent by fellow group members, outside peer observers, and research staff members, even after controlling for individuals' actual abilities. Furthermore, frequency counts of discrete behaviors showed that dominance predicts the enactment of competence-signaling behaviors, which in turn predicts peer ratings of competence. These findings extend researchers' understanding of trait dominance, hierarchies in groups, and perceptions of competence and abilities.
+C1 [Anderson, Cameron; Kilduff, Gavin J.] Univ Calif Berkeley, Haas Sch Business, Berkeley, CA 94720 USA.
+RP Anderson, C (corresponding author), Univ Calif Berkeley, Haas Sch Business, 545 Student Serv Bldg, Berkeley, CA 94720 USA.
+EM anderson@haas.berkeley.edu
+NR 76
+TC 243
+Z9 244
+U1 8
+U2 102
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+EI 1939-1315
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD FEB
+PY 2009
+VL 96
+IS 2
+BP 491
+EP 503
+DI 10.1037/a0014201
+PG 13
+WC Psychology, Social
+SC Psychology
+GA 395XF
+UT WOS:000262556100015
+PM 19159145
+DA 2020-08-04
+ER
+
+PT J
+AU Farley, SD
+AF Farley, Sally D.
+TI Attaining Status at the Expense of Likeability: Pilfering Power Through
+   Conversational Interruption
+SO JOURNAL OF NONVERBAL BEHAVIOR
+LA English
+DT Article
+DE Nonverbal behavior; Power; Status; Interruption; Group dynamics
+ID NONVERBAL BEHAVIOR; TASK GROUPS; GENDER; PERCEPTIONS; DOMINANCE; SEX;
+   PARTICIPATION; METAANALYSIS; MODEL
+AB Do status expectations affect how we interpret interruption in conversation? Two experiments examined how interrupters and their targets are perceived in same- and mixed-gender dyads. In Experiment 1, participants listened to a brief audiotaped conversation in which one person interrupted the other five times. In Experiment 2, four confederates (two men and two women) systematically interrupted naive participants while discussing an article. In general, interrupters gained in status and targets of interruption lost status. In addition, participants who were interrupted rated themselves as less influential than those who were not interrupted. As expected, interrupters, especially female interrupters, were liked less than those who did not interrupt. Theoretical implications are discussed.
+C1 Univ Baltimore, Div Appl Behav Sci, Baltimore, MD 21201 USA.
+RP Farley, SD (corresponding author), Univ Baltimore, Div Appl Behav Sci, 1420 N Charles St, Baltimore, MD 21201 USA.
+EM sfarley@ubalt.edu
+NR 41
+TC 26
+Z9 26
+U1 0
+U2 9
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0191-5886
+J9 J NONVERBAL BEHAV
+JI J. Nonverbal Behav.
+PD DEC
+PY 2008
+VL 32
+IS 4
+BP 241
+EP 260
+DI 10.1007/s10919-008-0054-x
+PG 20
+WC Psychology, Social
+SC Psychology
+GA 357RH
+UT WOS:000259863300005
+DA 2020-08-04
+ER
+
+EF

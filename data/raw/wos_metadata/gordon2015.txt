@@ -1,0 +1,444 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Moritz, C
+   Yampolsky, S
+   Papadelis, G
+   Thomson, J
+   Wolf, M
+AF Moritz, Catherine
+   Yampolsky, Sasha
+   Papadelis, Georgios
+   Thomson, Jennifer
+   Wolf, Maryanne
+TI Links between early rhythm skills, musical training, and phonological
+   awareness
+SO READING AND WRITING
+LA English
+DT Article
+DE Music; Reading; Rhythm; Phonological awareness; Timing
+ID READING DEVELOPMENT; INFANTS PERCEPTION; LANGUAGE; DYSLEXIA; CHILDREN;
+   SPEECH; DISCRIMINATION; SENSITIVITY; ACQUISITION; ABILITY
+AB A small number of studies show that music training is associated with improvements in reading or in its component skills. A central question underlying this present research is whether musical activity can enhance the acquisition of reading skill, potentially before formal reading instruction begins. We explored two dimensions of this question: an investigation of links between kindergartners' music rhythm skills and their phonological awareness in kindergarten and second grade; and an investigation of whether kindergartners who receive intensive musical training demonstrate more phonological skills than kindergartners who receive less. Results indicated that rhythm skill was related to phonological segmentation skill at the beginning of kindergarten, and that children who received more music training during kindergarten showed improvement in a wider range of phonological awareness skills at the end of kindergarten than children with less training. Further, kindergartners' rhythm ability was strongly related to their phonological awareness and basic word identification skills in second grade. We argue that rhythm sensitivity is a pre-cursor skill to oral language acquisition, and that the ability to perceive and manipulate time intervals in sound streams may link performance of rhythm and phonological tasks.
+C1 [Moritz, Catherine; Yampolsky, Sasha; Wolf, Maryanne] Tufts Univ, Ctr Reading & Language Res, Medford, MA 02155 USA.
+   [Papadelis, Georgios] Aristotle Univ Thessaloniki, Dept Music Studies, Thessaloniki 54124, Greece.
+   [Thomson, Jennifer] Harvard Univ, Grad Sch Educ, Cambridge, MA 02138 USA.
+RP Moritz, C (corresponding author), Tufts Univ, Ctr Reading & Language Res, Miller Hall,North Wing, Medford, MA 02155 USA.
+EM cathymoritz@gmail.com; yampolsky.sasha@gmail.com; papadeli@mus.auth.gr;
+   jennifer_thomson@gse.harvard.edu; maryanne.wolf@tufts.edu
+RI Papadelis, Georgios/G-1417-2015
+OI Papadelis, Georgios/0000-0002-4115-700X; Thomson,
+   Jenny/0000-0002-4293-4851
+NR 66
+TC 61
+Z9 62
+U1 1
+U2 57
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0922-4777
+EI 1573-0905
+J9 READ WRIT
+JI Read. Writ.
+PD MAY
+PY 2013
+VL 26
+IS 5
+BP 739
+EP 769
+DI 10.1007/s11145-012-9389-0
+PG 31
+WC Education & Educational Research; Psychology, Educational
+SC Education & Educational Research; Psychology
+GA 155UO
+UT WOS:000319773900007
+DA 2020-08-04
+ER
+
+PT J
+AU Cogo-Moreira, H
+   de Avila, CRB
+   Ploubidis, GB
+   Mari, JD
+AF Cogo-Moreira, Hugo
+   Brandao de Avila, Clara Regina
+   Ploubidis, George B.
+   Mari, Jair de Jesus
+TI Effectiveness of Music Education for the Improvement of Reading Skills
+   and Academic Achievement in Young Poor Readers: A Pragmatic
+   Cluster-Randomized, Controlled Clinical Trial
+SO PLOS ONE
+LA English
+DT Article
+ID INTERVENTIONS
+AB Introduction: Difficulties in word-level reading skills are prevalent in Brazilian schools and may deter children from gaining the knowledge obtained through reading and academic achievement. Music education has emerged as a potential method to improve reading skills because due to a common neurobiological substratum.
+   Objective: To evaluate the effectiveness of music education for the improvement of reading skills and academic achievement among children (eight to 10 years of age) with reading difficulties.
+   Method:235 children with reading difficulties in 10 schools participated in a five-month, randomized clinical trial in cluster (RCT) in an impoverished zone within the city of So Paulo to test the effects of music education intervention while assessing reading skills and academic achievement during the school year. Five schools were chosen randomly to incorporate music classes (n=114), and five served as controls (n=121). Two different methods of analysis were used to evaluate the effectiveness of the intervention: The standard method was intention-to-treat (ITT), and the other was the Complier Average Causal Effect (CACE) estimation method, which took compliance status into account.
+   Results:The ITT analyses were not very promising; only one marginal effect existed for the rate of correct real words read per minute. Indeed, considering ITT, improvements were observed in the secondary outcomes (slope of Portuguese = 0.21 [p<0.001] and slope of math = 0.25 [p<0.001]). As for CACE estimation (i.e., complier children versus non-complier children), more promising effects were observed in terms of the rate of correct words read per minute [beta=13.98, p<0.001] and phonological awareness [beta = 19.72, p<0.001] as well as secondary outcomes (academic achievement in Portuguese [beta = 0.77, p<0.0001] and math [beta=0.49, p<0.001] throughout the school year).
+   Conclusion:The results may be seen as promising, but they are not, in themselves, enough to make music lessons as public policy.
+C1 [Cogo-Moreira, Hugo; Mari, Jair de Jesus] Univ Fed Sao Paulo, Dept Psychiat, Sao Paulo, Brazil.
+   [Brandao de Avila, Clara Regina] Univ Fed Sao Paulo, Dept Hearing & Speech Pathol, Sao Paulo, Brazil.
+   [Ploubidis, George B.] Univ London, Dept Populat Studies, London Sch Hyg & Trop Med, Fac Epidemiol & Populat Hlth, London, England.
+RP Cogo-Moreira, H (corresponding author), Univ Fed Sao Paulo, Dept Psychiat, Sao Paulo, Brazil.
+EM hugocogobr@gmail.com
+RI Cogo-Moreira, Hugo/U-6442-2019; Cogo-Moreira, Hugo/E-4602-2011; de Jesus
+   Mari, Jair/A-7309-2008; Avila, Clara R B/J-6066-2012; Ploubidis,
+   George/G-9531-2011
+OI Cogo-Moreira, Hugo/0000-0001-9411-9237; Cogo-Moreira,
+   Hugo/0000-0001-9411-9237; de Jesus Mari, Jair/0000-0002-5403-0112;
+   Avila, Clara R B/0000-0002-5708-8299; Ploubidis,
+   George/0000-0002-8198-5790
+FU Instituto ABCD; CNPqNational Council for Scientific and Technological
+   Development (CNPq); National Council for Scientific and Technological
+   Development (CNPq)National Council for Scientific and Technological
+   Development (CNPq) [482321/2010-5]; ABCD Institute
+FX The ONGs were: Instituto ABCD (http://www.institutoabcd.org.br/portal)
+   and the CNPq (http://www.cnpq.br/) (main funders). Regarding PhD
+   scholarship, CAPES's URL is http://www.capes.gov.br/. The funders had no
+   role in study design, data collection and analysis, decision to publish,
+   or preparation of the manuscript.; We thank the National Council for
+   Scientific and Technological Development (CNPq - grant no 482321/2010-5)
+   and the ABCD Institute [which is a non-governmental organization (NGO)
+   that supports research on dyslexia in Brazil] for the grants that made
+   this study possible.
+NR 38
+TC 20
+Z9 22
+U1 1
+U2 43
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAR 27
+PY 2013
+VL 8
+IS 3
+AR e59984
+DI 10.1371/journal.pone.0059984
+PG 8
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 124QO
+UT WOS:000317480700076
+PM 23544117
+OA DOAJ Gold, Green Published, Green Accepted
+DA 2020-08-04
+ER
+
+PT J
+AU Thomson, JM
+   Leong, V
+   Goswami, U
+AF Thomson, Jennifer M.
+   Leong, Victoria
+   Goswami, Usha
+TI Auditory processing interventions and developmental dyslexia: a
+   comparison of phonemic and rhythmic approaches
+SO READING AND WRITING
+LA English
+DT Article
+DE Auditory processing; Developmental dyslexia; Intervention; Rhythm
+ID AMPLITUDE ENVELOPE PERCEPTION; SCHOOL-AGE-CHILDREN; RISE-TIME;
+   PHONOLOGICAL AWARENESS; LANGUAGE IMPAIRMENTS; PROSODIC SENSITIVITY; FAST
+   FORWORD; SPEECH; DISCRIMINATION; ADULTS
+AB The purpose of this study was to compare the efficacy of two auditory processing interventions for developmental dyslexia, one based on rhythm and one based on phonetic training. Thirty-three children with dyslexia participated and were assigned to one of three groups (a) a novel rhythmic processing intervention designed to highlight auditory rhythmic information in non-speech and speech stimuli; (b) a commercially-available phoneme discrimination intervention; and (c) a no-intervention control. The intervention lasted for 6 weeks. Both interventions yielded equivalent and significant gains on measures of phonological awareness (at both rhyme and phoneme levels), with large effect sizes at the phoneme level. Both programs had medium effect sizes on literacy outcome measures, although gains were non-significant when compared to the controls. The data suggest that rhythmic training has an important role to play in developing the phonological skills that are critical for efficient literacy acquisition. It is suggested that combining both prosodic/rhythmic and phonemic cues in auditory training programs may offer advantages for children with developmental dyslexia. This may be especially true for those who appear resistant to conventional phonics training methods.
+C1 [Thomson, Jennifer M.] Harvard Univ, Grad Sch Educ, Cambridge, MA 02138 USA.
+   [Leong, Victoria; Goswami, Usha] Univ Cambridge, Cambridge, England.
+RP Thomson, JM (corresponding author), Harvard Univ, Grad Sch Educ, 14 Appian Way, Cambridge, MA 02138 USA.
+EM thomsoje@gse.harvard.edu
+RI Leong, Victoria/G-5778-2013
+OI Leong, Victoria/0000-0003-0666-9445; Thomson, Jenny/0000-0002-4293-4851
+FU Economic and Social Research CouncilEconomic & Social Research Council
+   (ESRC) [RES-000-23-0475]
+NR 74
+TC 46
+Z9 46
+U1 2
+U2 86
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0922-4777
+EI 1573-0905
+J9 READ WRIT
+JI Read. Writ.
+PD FEB
+PY 2013
+VL 26
+IS 2
+BP 139
+EP 161
+DI 10.1007/s11145-012-9359-6
+PG 23
+WC Education & Educational Research; Psychology, Educational
+SC Education & Educational Research; Psychology
+GA 077XM
+UT WOS:000314062700001
+DA 2020-08-04
+ER
+
+PT J
+AU Moreno, S
+   Friesen, D
+   Bialystok, E
+AF Moreno, Sylvain
+   Friesen, Deanna
+   Bialystok, Ellen
+TI EFFECT OF MUSIC TRAINING ON PROMOTING PRELITERACY SKILLS: PRELIMINARY
+   CAUSAL EVIDENCE
+SO MUSIC PERCEPTION
+LA English
+DT Article
+DE music training; children; reading; preliteracy skills; longitudinal
+   study
+ID BRAIN; CHILDREN; VOCABULARY; BILITERACY; LANGUAGE; CORTEX
+AB THE PRESENT STUDY INVESTIGATED WHETHER MUSIC TRAINING fosters children's preliteracy skills. Sixty children were randomly assigned to participate in a 20-day training program in either music or visual art. Before and after training, children's phonological awareness and their ability to map visual symbols onto words (i.e., visual-auditory learning) were assessed. Equivalent improvement after training was observed for both groups on the phonological awareness measure, but the children with music training improved significantly more than the art-trained children on the visual-auditory learning measure. Music training appears to benefit certain skills necessary for reading.
+C1 [Moreno, Sylvain] Baycrest Hosp, Rotman Res Inst, Toronto, ON M6A 2E1, Canada.
+   [Friesen, Deanna; Bialystok, Ellen] York Univ, Toronto, ON M3J 2R7, Canada.
+RP Moreno, S (corresponding author), Baycrest Hosp, Rotman Res Inst, 3560 Bathurst St, Toronto, ON M6A 2E1, Canada.
+EM smoreno@rotman-baycrest.on.ca
+NR 37
+TC 43
+Z9 43
+U1 0
+U2 48
+PU UNIV CALIFORNIA PRESS
+PI OAKLAND
+PA 155 GRAND AVE, SUITE 400, OAKLAND, CA 94612-3758 USA
+SN 0730-7829
+J9 MUSIC PERCEPT
+JI Music Percept.
+PD DEC
+PY 2011
+VL 29
+IS 2
+BP 165
+EP 172
+DI 10.1525/MP.2011.29.2.165
+PG 8
+WC Music; Psychology, Experimental
+SC Music; Psychology
+GA 860GN
+UT WOS:000297936900005
+DA 2020-08-04
+ER
+
+PT J
+AU Dege, F
+   Schwarzer, G
+AF Dege, Franziska
+   Schwarzer, Gudrun
+TI The effect of a music program on phonological awareness in preschoolers
+SO FRONTIERS IN PSYCHOLOGY
+LA English
+DT Article
+DE music; music program; music training; music and language; sound category
+   learning; phonological awareness; phonological skills; preschoolers
+AB The present experiment investigated the effect of a music program on phonological awareness in preschoolers. In particular, the effects of a music program and a phonological skills program on phonological awareness were compared. If language and music share basic processing mechanisms, the effect of both programs on enhancing phonological awareness should be similar. Forty-one preschoolers (22 boys) were randomly assigned to a phonological skills program, a music program, and a control group that received sports training (from which no effect was expected). Preschoolers were trained for 10 min on a daily basis over a period of 20 weeks. In a pretest, no differences were found between the three groups in regard to age, gender, intelligence, socioeconomic status, and phonological awareness. Children in the phonological skills group and the music group showed significant increases in phonological awareness from pre- to post-test. The children in the sports group did not show a significant increase from pre- to post-test. The enhancement of phonological awareness was basically driven by positive effects of the music program and the phonological skills program on phonological awareness for large phonological units. The data suggests that phonological awareness can be trained with a phonological skills program as well as a music program. These results can be interpreted as evidence of a shared sound category learning mechanism for language and music at preschool age.
+C1 [Dege, Franziska; Schwarzer, Gudrun] Univ Giessen, D-35394 Giessen, Germany.
+RP Dege, F (corresponding author), Univ Giessen, Dept Psychol, Otto Behaghel Str 10F, D-35394 Giessen, Germany.
+EM franziska.dege@psychol.uni-giessen.de
+NR 19
+TC 100
+Z9 104
+U1 4
+U2 39
+PU FRONTIERS RESEARCH FOUNDATION
+PI LAUSANNE
+PA PO BOX 110, LAUSANNE, 1015, SWITZERLAND
+SN 1664-1078
+J9 FRONT PSYCHOL
+JI Front. Psychol.
+PY 2011
+VL 2
+AR 124
+DI 10.3389/fpsyg.2011.00124
+PG 7
+WC Psychology, Multidisciplinary
+SC Psychology
+GA V31DG
+UT WOS:000208863700135
+PM 21734895
+OA DOAJ Gold, Green Published
+DA 2020-08-04
+ER
+
+PT J
+AU Herrera, L
+   Lorenzo, O
+   Defior, S
+   Fernandez-Smith, G
+   Costa-Giomi, E
+AF Herrera, Lucia
+   Lorenzo, Oswaldo
+   Defior, Sylvia
+   Fernandez-Smith, Gerard
+   Costa-Giomi, Eugenia
+TI Effects of phonological and musical training on the reading readiness of
+   native- and foreign-Spanish-speaking children
+SO PSYCHOLOGY OF MUSIC
+LA English
+DT Article
+DE foreign language; language acquisition; music instruction; phonological
+   awareness; reading readiness; young children
+ID WORKING-MEMORY; NAMING-SPEED; SKILLS; AWARENESS; PERFORMANCE; ABILITY
+AB The purpose of this study was to evaluate the effectiveness of a music training program on children's phonological awareness and naming speed in Spanish. Participants were preschool children whose first language was either Spanish (n = 45) or Tamazight ( n = 52), a Berber dialect spoken in Morocco's Rif area. The two-year pretest/posttest study showed that the children who received phonological training with or without music performed significantly better in a naming speed posttest and a series of phonological processing tasks than those who did not participate in specialized training. The phonological training that included music activities was particularly effective for the development of phonological awareness of ending sounds and naming speed. The benefits of the training on children's phonological awareness and naming speed, two strong predictors of reading acquisition, were significant regardless of the native language of the children.
+C1 [Herrera, Lucia] Univ Granada, Dept Educ & Dev Psychol, Melilla 52005, Spain.
+   [Defior, Sylvia] Univ Granada, Fac Psychol, Melilla 52005, Spain.
+   [Fernandez-Smith, Gerard] Univ Cadiz, Fac Philosophy & Literature, Cadiz, Spain.
+   [Costa-Giomi, Eugenia] Univ Texas Austin, Austin, TX 78712 USA.
+RP Herrera, L (corresponding author), Univ Granada, Dept Educ & Dev Psychol, Ctra Alfonso 13 S-N, Melilla 52005, Spain.
+EM luciaht@ugr.es
+RI Lorenzo, Oswaldo/B-7028-2015; Fernandez Smith, Gerard/G-2258-2010;
+   Defior, Sylvia/O-2374-2019; Torres, Lucia Herrera/L-4915-2019; Defior,
+   Sylvia/H-2906-2013; Torres, Lucia Herrera/L-9006-2014
+OI Lorenzo, Oswaldo/0000-0002-1087-8138; Fernandez Smith,
+   Gerard/0000-0001-9337-7824; Defior, Sylvia/0000-0002-2786-3485; Torres,
+   Lucia Herrera/0000-0002-5860-1357; Defior, Sylvia/0000-0002-2786-3485;
+   Torres, Lucia Herrera/0000-0002-5860-1357
+NR 42
+TC 33
+Z9 35
+U1 0
+U2 24
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0305-7356
+EI 1741-3087
+J9 PSYCHOL MUSIC
+JI Psychol. Music
+PD JAN
+PY 2011
+VL 39
+IS 1
+BP 68
+EP 81
+DI 10.1177/0305735610361995
+PG 14
+WC Psychology, Educational; Psychology, Applied; Music; Psychology,
+   Experimental
+SC Psychology; Music
+GA 696QQ
+UT WOS:000285456900004
+DA 2020-08-04
+ER
+
+PT J
+AU Moreno, S
+   Marques, C
+   Santos, A
+   Santos, M
+   Castro, SL
+   Besson, M
+AF Moreno, Sylvain
+   Marques, Carlos
+   Santos, Andreia
+   Santos, Manuela
+   Castro, Sao Luis
+   Besson, Mireille
+TI Musical Training Influences Linguistic Abilities in 8-Year-Old Children:
+   More Evidence for Brain Plasticity
+SO CEREBRAL CORTEX
+LA English
+DT Article
+DE event-related potentials; musical training; neuropsychological tests;
+   pitch processing; transfer of training
+ID EVENT-RELATED POTENTIALS; DEVELOPMENTAL DYSLEXIA; AUDITORY-CORTEX;
+   FREQUENCY DISCRIMINATION; CORTICAL REPRESENTATION;
+   COGNITIVE-DEVELOPMENT; PITCH DISCRIMINATION; EVOKED-POTENTIALS;
+   PROCESSING MUSIC; LANGUAGE
+AB We conducted a longitudinal study with 32 nonmusician children over 9 months to determine 1) whether functional differences between musician and nonmusician children reflect specific predispositions for music or result from musical training and 2) whether musical training improves nonmusical brain functions such as reading and linguistic pitch processing. Event-related brain potentials were recorded while 8-year-old children performed tasks designed to test the hypothesis that musical training improves pitch processing not only in music but also in speech. Following the first testing sessions nonmusician children were pseudorandomly assigned to music or to painting training for 6 months and were tested again after training using the same tests. After musical (but not painting) training, children showed enhanced reading and pitch discrimination abilities in speech. Remarkably, 6 months of musical training thus suffices to significantly improve behavior and to influence the development of neural processes as reflected in specific pattern of brain waves. These results reveal positive transfer from music to speech and highlight the influence of musical training. Finally, they demonstrate brain plasticity in showing that relatively short periods of training have strong consequences on the functional organization of the children's brain.
+C1 [Moreno, Sylvain; Santos, Andreia; Besson, Mireille] Marseille Univ, CNRS, INCM, F-13402 Marseille 20, France.
+   [Marques, Carlos; Santos, Manuela; Castro, Sao Luis] Univ Porto, Fac Psicol & Ciencias Educ, P-4200392 Oporto, Portugal.
+RP Besson, M (corresponding author), Marseille Univ, CNRS, INCM, 31 Chemin Joseph Aiguier, F-13402 Marseille 20, France.
+EM Mireille.Besson@incm.cnrs-mrs.fr
+RI Besson, Mireille/H-5110-2015; Castro, Sao Luis/E-5518-2017
+OI Besson, Mireille/0000-0002-9549-5274; Castro, Sao
+   Luis/0000-0002-1487-3596
+FU Human Frontier Science ProgramHuman Frontier Science Program [RGP0053];
+   Ministere de l education nationale et de la recherche [032443];
+   Portuguese Fundacao para a Ciencia e Tecnologia (FCT)Portuguese
+   Foundation for Science and Technology; Camara de Oliveira do Bairro;
+   Escola de Artes da Bairrada
+FX Human Frontier Science Program (# RGP0053) to M. B.; Ministere de l
+   education nationale et de la recherche (# 032443) to M. B.; Portuguese
+   Fundacao para a Ciencia e Tecnologia (FCT) to S. L. C.; Camara de
+   Oliveira do Bairro and the Escola de Artes da Bairrada supported
+   training; doctoral fellowships from the Ministere de l education
+   nationale to S. M.; and from Fundacao para a Ciencia e Tecnologia to A.
+   S.
+NR 85
+TC 343
+Z9 352
+U1 14
+U2 142
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 1047-3211
+EI 1460-2199
+J9 CEREB CORTEX
+JI Cereb. Cortex
+PD MAR
+PY 2009
+VL 19
+IS 3
+BP 712
+EP 723
+DI 10.1093/cercor/bhn120
+PG 12
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 404OL
+UT WOS:000263162600020
+PM 18832336
+OA Green Published
+DA 2020-08-04
+ER
+
+PT J
+AU Register, D
+AF Register, D
+TI The effects of live music groups versus an educational children's
+   television program on the emergent literacy of young children
+SO JOURNAL OF MUSIC THERAPY
+LA English
+DT Article
+ID SKILLS
+AB Research suggests that music is beneficial in teaching both social and academic skills to young children. The purpose of this study was to examine the effects of a music therapy program designed to teach reading skills versus the "Between the Lions" television program on the early literacy behaviors of Kindergarten children from a low socioeconomic background. Subjects (n = 86) were children, aged 5-7 years, enrolled in one of four different Kindergarten classes at a public elementary school in Northwest Florida. Each class was assigned one of four treatment conditions: Music-Video (sequential presentation of each condition), Music-Only, Video-Only, and no contact Control group. Growth in early literacy skills was measured using the Dynamic Indicators of Basic Early Literacy Skills (DIBELS) and 3 subtests of the Test of Early reading Ability-3rd edition (TERA-3). Teachers' perceptions of classroom literacy behaviors were measured using a pre and poststudy survey. This study also compared on- and off-task behavior of students during video versus music conditions. Results of the 7 subtests measuring early literacy were varied. The Music/Video and Music-Only, groups achieved the highest increases in mean scores from pre to posttest on 4 of the 7 subtests. Students in the Video-Only group scored significantly better on the phonemic segmentation portion of the DIBELS than peers in the Music/Video condition. Furthermore, strong correlations were found between the Letter Naming, Initial Sounds Fluency tests, and total raw score of the TERA-3 tests for both pre and posttesting. Additionally, graphic analysis of mean off-task behavior per session indicated that students were more off-task during both video conditions (video alone and video portion of Music/Video condition) than during the music conditions. Off-task behavior was consistently lower during music sessions for the duration of the study. This study confirmed that music increases the on-task behavior of students. Additionally, the combination of music and video enrichment showed gains in 4 of the 8 tests used to measure students' progress. This pattern supports the need for further investigation regarding benefits of enrichment programs specifically designed to enhance curricula for students from low socioeconomic backgrounds, particularly programs that incorporate music activities.
+C1 Univ Kansas, Lawrence, KS 66045 USA.
+RP Register, D (corresponding author), Univ Kansas, Lawrence, KS 66045 USA.
+NR 17
+TC 25
+Z9 25
+U1 1
+U2 15
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0022-2917
+EI 2053-7395
+J9 J MUSIC THER
+JI J. Music Ther.
+PD SPR
+PY 2004
+VL 41
+IS 1
+BP 2
+EP 27
+DI 10.1093/jmt/41.1.2
+PG 26
+WC Music; Rehabilitation
+SC Music; Rehabilitation
+GA 824UO
+UT WOS:000221712600001
+PM 15157126
+DA 2020-08-04
+ER
+
+EF

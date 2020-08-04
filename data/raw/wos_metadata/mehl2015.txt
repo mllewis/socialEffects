@@ -1,0 +1,657 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Waller, H
+   Emsley, R
+   Freeman, D
+   Bebbington, P
+   Dunn, G
+   Fowler, D
+   Hardy, A
+   Kuipers, E
+   Garety, P
+AF Waller, Helen
+   Emsley, Richard
+   Freeman, Daniel
+   Bebbington, Paul
+   Dunn, Graham
+   Fowler, David
+   Hardy, Amy
+   Kuipers, Elizabeth
+   Garety, Philippa
+TI Thinking Well: A randomised controlled feasibility study of a new CBT
+   therapy targeting reasoning biases in people with distressing
+   persecutory delusional beliefs
+SO JOURNAL OF BEHAVIOR THERAPY AND EXPERIMENTAL PSYCHIATRY
+LA English
+DT Article
+DE Psychosis; Reasoning; CBT; Belief flexibility
+ID SCHIZOPHRENIA; PSYCHOSIS; CONVICTION; EXPERIENCES
+AB Background and objectives: Delusional beliefs with persecutory content are common in psychosis, but difficult to treat. Interventions targeting hypothesised causal and maintaining factors have been proposed as a way of improving therapy. The current study is a feasibility randomised controlled trial of the 'Thinking Well (TW)' intervention: This novel approach combines the recently developed Maudsley Review Training Programme (MRTP), with additional, focussed cognitive-behavioural therapy sessions.
+   Methods: 31 participants with distressing persecutory delusions and schizophrenia spectrum disorders were randomised to TW or to treatment as usual in a 2:1 ratio. Participants completed outcome assessments at 0 (baseline), 1 (post-MRTP), 6 (post-TW) and 8 (follow-up) weeks. Key outcomes included belief flexibility, paranoia, and delusional conviction and distress. Participants allocated to TW completed the MRTP package and four CBT sessions with a clinical psychologist.
+   Results: Recruitment proved feasible. Participants reported the intervention was relevant and had resulted in positive changes in thinking and mood, which they could use in everyday life. Treatment effects were moderate-large for key outcomes including belief flexibility, paranoia conviction and distress. The additional TW sessions appeared to confer benefits over MRTP alone.
+   Limitations: Assessments were not carried out blind to treatment condition. Recruitment was opportunistic, from an identified pool of research participants. Finally, a few participants had already completed the MRTP as part of a previous study.
+   Conclusions: The TW intervention appears to be feasible and acceptable to participants, and the effects of treatment are promising. A fully powered randomised controlled trial of the intervention is warranted. (C) 2015 The Authors. Published by Elsevier Ltd.
+C1 [Waller, Helen; Hardy, Amy; Kuipers, Elizabeth; Garety, Philippa] Kings Coll London, Inst Psychiat Psychol & Neurosci, London SE5 8AF, England.
+   [Emsley, Richard; Dunn, Graham] Univ Manchester, Manchester Acad Hlth Sci Ctr, Inst Populat Hlth, Ctr Biostat, Manchester M13 9PL, Lancs, England.
+   [Freeman, Daniel] Univ Oxford, Dept Psychiat, Oxford, England.
+   [Bebbington, Paul] UCL, Fac Brain Sci, Mental Hlth Sci Unit, London WC1E 6BT, England.
+   [Fowler, David] Univ Sussex, Dept Psychol, Brighton, E Sussex, England.
+RP Waller, H (corresponding author), Kings Coll London, Inst Psychiat Psychol & Neurosci, P077 Henry Wellcome Bldg,De Crespigny Pk, London SE5 8AF, England.
+EM helen.waller@kcl.ac.uk
+RI Bebbington, Paul Ernest/C-1939-2008; Emsley, Richard/N-1342-2016;
+   Kuipers, Elizabeth A/A-3683-2009; Freeman, Daniel/C-6851-2009; Garety,
+   Philippa A/F-9755-2014
+OI Bebbington, Paul Ernest/0000-0002-6030-7456; Emsley,
+   Richard/0000-0002-1218-675X; Freeman, Daniel/0000-0002-2541-2197;
+   Garety, Philippa A/0000-0002-5637-1340; Hardy, Amy/0000-0002-6044-6093;
+   Fowler, David/0000-0001-5806-2659
+FU Wellcome TrustWellcome Trust [085396]; Medical Research CouncilMedical
+   Research Council UK (MRC) [G0900678, G0902308, G0802418]
+FX Wellcome Trust project grant (085396).
+NR 29
+TC 40
+Z9 40
+U1 0
+U2 43
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0005-7916
+EI 1873-7943
+J9 J BEHAV THER EXP PSY
+JI J. Behav. Ther. Exp. Psychiatry
+PD SEP
+PY 2015
+VL 48
+BP 82
+EP 89
+DI 10.1016/j.jbtep.2015.02.007
+PG 8
+WC Psychology, Clinical; Psychiatry
+SC Psychology; Psychiatry
+GA CJ1JJ
+UT WOS:000355239600011
+PM 25770671
+OA Green Published, Green Accepted, Other Gold
+DA 2020-08-04
+ER
+
+PT J
+AU Freeman, D
+   Garety, P
+AF Freeman, Daniel
+   Garety, Philippa
+TI Advances in understanding and treating persecutory delusions: a review
+SO SOCIAL PSYCHIATRY AND PSYCHIATRIC EPIDEMIOLOGY
+LA English
+DT Review
+DE Delusions; Persecutory; Schizophrenia; Psychosis; Paranoia
+ID RANDOMIZED CONTROLLED-TRIAL; BAD-ME PARANOIA; COGNITIVE-BEHAVIORAL
+   THERAPY; VIRTUAL-REALITY; PSYCHOTIC SYMPTOMS; SELF-ESTEEM;
+   GENERAL-POPULATION; GRANDIOSE DELUSIONS; PERSISTENT INSOMNIA; EMOTIONAL
+   DISTRESS
+AB Persecutory delusions are a central psychotic experience, at the severe end of a paranoia spectrum in the general population. The aim of the review is to provide an introduction to the understanding of persecutory delusions, highlight key putative causal factors that have the potential to be translated into efficacious treatment, and indicate future research directions.
+   A narrative literature review was undertaken to highlight the main recent areas of empirical study concerning non-clinical and clinical paranoia.
+   Six main proximal causal factors are identified: a worry thinking style, negative beliefs about the self, interpersonal sensitivity, sleep disturbance, anomalous internal experience, and reasoning biases. Each has plausible mechanistic links to the occurrence of paranoia. These causal factors may be influenced by a number of social circumstances, including adverse events, illicit drug use, and urban environments.
+   There have been numerous replicated empirical findings leading to a significant advance in the understanding of persecutory delusions, now beginning to be translated into cognitive treatments. The first trials specifically focussed on patients who have persecutory delusions in the context of psychotic diagnoses are occurring. Initial evidence of efficacy is very promising.
+C1 [Freeman, Daniel] Univ Oxford, Dept Psychiat, Warneford Hosp, Oxford OX3 7JX, England.
+   [Garety, Philippa] Kings Coll London, London WC2R 2LS, England.
+RP Freeman, D (corresponding author), Univ Oxford, Dept Psychiat, Warneford Hosp, Oxford OX3 7JX, England.
+EM Daniel.Freeman@psych.ox.ac.uk
+RI Garety, Philippa A/F-9755-2014; Freeman, Daniel/C-6851-2009
+OI Garety, Philippa A/0000-0002-5637-1340; Freeman,
+   Daniel/0000-0002-2541-2197
+FU Medical Research Council (MRC) Senior Clinical FellowshipMedical
+   Research Council UK (MRC) [G0902308]; National Institute for Health
+   Research (NIHR) Biomedical Research Centre at South LondonNational
+   Institute for Health Research (NIHR); Maudsley NHS Foundation Trust;
+   King's College London; Medical Research CouncilMedical Research Council
+   UK (MRC) [G0902308]; National Institute for Health ResearchNational
+   Institute for Health Research (NIHR) [NF-SI-0510-10121]
+FX DF is supported by a Medical Research Council (MRC) Senior Clinical
+   Fellowship (G0902308). This study presents independent research for
+   which PG was part-funded by the National Institute for Health Research
+   (NIHR) Biomedical Research Centre at South London and Maudsley NHS
+   Foundation Trust and King's College London.
+NR 148
+TC 28
+Z9 32
+U1 0
+U2 91
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0933-7954
+EI 1433-9285
+J9 SOC PSYCH PSYCH EPID
+JI Soc. Psychiatry Psychiatr. Epidemiol.
+PD AUG
+PY 2014
+VL 49
+IS 8
+BP 1179
+EP 1189
+DI 10.1007/s00127-014-0928-7
+PG 11
+WC Psychiatry
+SC Psychiatry
+GA AM5JS
+UT WOS:000339894400001
+PM 25005465
+OA Green Published, Other Gold
+DA 2020-08-04
+ER
+
+PT J
+AU Tarrier, N
+   Kelly, J
+   Maqsood, S
+   Snelson, N
+   Maxwell, J
+   Law, H
+   Dunn, G
+   Gooding, P
+AF Tarrier, Nicholas
+   Kelly, James
+   Maqsood, Sehar
+   Snelson, Natasha
+   Maxwell, Janet
+   Law, Heather
+   Dunn, Graham
+   Gooding, Patricia
+TI The cognitive behavioural prevention of suicide in psychosis: A clinical
+   trial
+SO SCHIZOPHRENIA RESEARCH
+LA English
+DT Article
+DE Psychological intervention; CBT; Suicide; Schizophrenia; Psychosis
+ID MEDIATING ROLE; KILL THEMSELVES; RATING-SCALE; RISK-FACTORS;
+   SCHIZOPHRENIA; DEFEAT; ENTRAPMENT; MODEL; HOPELESSNESS; APPRAISALS
+AB Background: Suicide behaviour in psychosis is a significant clinical and social problem. There is a dearth of evidence for psychological interventions designed to reduce suicide risk in this population.
+   Aims: To evaluate a novel, manualised, cognitive behavioural treatment protocol (CBSPp) based upon an empirically validated theoretical model.
+   Methods: A randomly controlled trial with independent and masked allocated and assessment of CBSPp with TAU (n = 25, 24 sessions) compared to TAU alone (n = 24) using standardised assessments. Measures of suicide probability, and suicidal ideation were the primary outcomes and measures of hopelessness, depression, psychotic symptoms, functioning, and self-esteem were the secondary outcomes, assessed at 4 and 6 months follow-up.
+   Results: The CBSPp group improved differentially to the TAU group on two out of three primary outcome measures of suicidal ideation and suicide probability, and on secondary outcomes of hopelessness related to suicide probability, depression, some psychotic symptoms and self-esteem.
+   Conclusions: CBSPp is a feasible intervention which has the potential to reduce proxy measures of suicide in psychotic patients. (C) 2014 Elsevier B.V. All rights reserved.
+C1 [Tarrier, Nicholas] Inst Psychiat, Dept Psychol, London SE5 8AF, England.
+   [Kelly, James; Maqsood, Sehar; Snelson, Natasha; Law, Heather] Greater Manchester West Mental Hlth NHS Fdn Trust, Manchester, Lancs, England.
+   [Maxwell, Janet; Dunn, Graham; Gooding, Patricia] Univ Manchester, Fac Human & Med Sci, Manchester M13 9PL, Lancs, England.
+RP Gooding, P (corresponding author), Univ Manchester, Sch Psychol Sci, Manchester M13 9PL, Lancs, England.
+RI Gooding, Patricia/P-5599-2015
+OI Gooding, Patricia/0000-0002-7458-4462; Law, Heather/0000-0002-1889-9179
+FU National Institute for Health Research (NIHR) UKNational Institute for
+   Health Research (NIHR) [RP-PG-0606-1086]; National Institute for Health
+   ResearchNational Institute for Health Research (NIHR) [RP-PG-0606-1086]
+FX This report/article presents independent research commissioned by the
+   National Institute for Health Research (NIHR) UK under its Programme
+   Grants for Applied Research scheme (RP-PG-0606-1086). The funding body
+   had no role in the rationale, design, collection, analysis, and
+   interpretation of data, conclusions of this study, the writing of this
+   paper, or the decision to submit this work for publication. The views
+   expressed in this publication are those of the author(s) and not
+   necessarily those of the NHS, the NIHR or the Department of Health.
+NR 36
+TC 29
+Z9 31
+U1 1
+U2 32
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0920-9964
+EI 1573-2509
+J9 SCHIZOPHR RES
+JI Schizophr. Res.
+PD JUL
+PY 2014
+VL 156
+IS 2-3
+BP 204
+EP 210
+DI 10.1016/j.schres.2014.04.029
+PG 7
+WC Psychiatry
+SC Psychiatry
+GA AO4MM
+UT WOS:000341313200011
+PM 24853059
+DA 2020-08-04
+ER
+
+PT J
+AU Krakvik, B
+   Grawe, RW
+   Hagen, R
+   Stiles, TC
+AF Krakvik, Bodil
+   Grawe, Rolf W.
+   Hagen, Roger
+   Stiles, Tore C.
+TI Cognitive Behaviour Therapy for Psychotic Symptoms: A Randomized
+   Controlled Effectiveness Trial
+SO BEHAVIOURAL AND COGNITIVE PSYCHOTHERAPY
+LA English
+DT Article
+DE Cognitive behaviour therapy; psychosis; schizophrenia
+ID SCHIZOPHRENIA; MEDICATION; RESISTANT; HALLUCINATIONS; INTERVENTION;
+   DISORDERS; SCALE
+AB Background: Cognitive behavioural therapy for psychosis (CBTp) is currently a recommended form of psychosocial treatment for persons suffering from persistent psychotic symptoms. It has been argued that effect sizes from efficacy studies cannot be generalized to real clinical settings. Aims: Our aim was to evaluate whether the positive results from randomized controlled trials conducted by experts could be replicated in clinical setting with a heterogeneous sample of patients with psychotic disorder. Method: Patients referred to the study were either randomized to CBTp + TAU (the treatment group) or to a waiting-list group, only receiving TAU. The patients were assessed on different outcome measures such as the Brief Psychiatric Rating Scale (BPRS), the Scale for the Assessment of Negative Symptoms (SANS), and the Psychotic Symptom Rating Scales (PSYRATS), at pretreatment, at posttreatment (6 months), and at 12 months follow-up. In total, 45 patients participated in the study. Results: The results showed that 20 sessions of CBTp performed significantly better than the waiting list controls with respect to the global score on the BPRS, the delusional scale on the PSYRATS, and the GAF symptom score at posttreatment. At 12 months follow-up only the GAF symptom score remained significantly changed for the total sample. Conclusions: The study revealed that CBTp delivered by non-experts in routine clinical settings can produce improvements in positive psychotic symptoms, and also that some of these improvements can be maintained at one year follow-up.
+C1 [Krakvik, Bodil] St Olavs Univ Hosp, NO-7004 Trondheim, Norway.
+   [Grawe, Rolf W.] Alcohol & Subst Abuse Treatment Hlth Trust, Trondheim, Norway.
+   [Hagen, Roger; Stiles, Tore C.] Norwegian Univ Sci & Technol, N-7034 Trondheim, Norway.
+RP Krakvik, B (corresponding author), St Olavs Univ Hosp, Nidaros, Dept Res & Dev, NO-7004 Trondheim, Norway.
+EM bodil.krakvik@stolav.no
+NR 35
+TC 21
+Z9 23
+U1 0
+U2 49
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 1352-4658
+EI 1469-1833
+J9 BEHAV COGN PSYCHOTH
+JI Behav. Cognit. Psychther.
+PD OCT
+PY 2013
+VL 41
+IS 5
+BP 511
+EP 524
+DI 10.1017/S1352465813000258
+PG 14
+WC Psychology, Clinical
+SC Psychology
+GA 219JB
+UT WOS:000324501000001
+PM 23635846
+OA Green Published, Bronze
+DA 2020-08-04
+ER
+
+PT J
+AU Rathod, S
+   Phiri, P
+   Harris, S
+   Underwood, C
+   Thagadur, M
+   Padmanabi, U
+   Kingdon, D
+AF Rathod, Shanaya
+   Phiri, Peter
+   Harris, Scott
+   Underwood, Charlotte
+   Thagadur, Mahesh
+   Padmanabi, Uma
+   Kingdon, David
+TI Cognitive behaviour therapy for psychosis can be adapted for minority
+   ethnic groups: A randomised controlled trial
+SO SCHIZOPHRENIA RESEARCH
+LA English
+DT Article
+DE Psychosis; Culturally adapted; Cognitive therapy; Ethnicity; African
+   Caribbean; South Asian Muslim; Ethnic minority; Schizophrenia
+ID PSYCHOPATHOLOGICAL RATING-SCALE; TREATMENT-RESISTANT PTSD;
+   CULTURAL-ADAPTATION; EXPLANATORY MODELS; CONSORT STATEMENT;
+   PANIC-ATTACKS; LOW-INCOME; SCHIZOPHRENIA; DEPRESSION; INTERVENTIONS
+AB Cognitive behavioural therapy (CBT) is recommended in treatment guidelines for psychotic symptoms (NICE, 2009) but clients from some minority groups have been shown to have higher dropout rates and poorer outcomes. A recent qualitative study in ethnic minority groups concluded that CBT would be acceptable and may be more effective if it was culturally adapted to meet their needs (Rathod et al., 2010).
+   Aim: This study assessed the effectiveness of a culturally adapted CBT for psychosis (CaCBTp) in Black British, African Caribbean/Black African and South Asian Muslim participants.
+   Method: A randomised controlled trial was conducted in two centres in the UK (n=35) in participants with a diagnosis of a disorder from the schizophrenia group. Assessments were conducted at three time points: baseline, post-therapy and at 6 months follow-up, using the Comprehensive Psychopathological Rating Scale (CPRS) and Insight Scale. Outcomes on specific subscales of CPRS were also evaluated. Participants in the treatment arm completed the Patient Experience Questionnaire (PEQ) to measure satisfaction with therapy. Assessors blind to randomisation and treatment allocation conducted administration of outcome measures. In total, n=33 participants were randomly allocated to CaCBTp arm (n=16) and treatment as usual (TAU) arm (n=17) after (n=2) participants were excluded. CaCBTp participants were offered 16 sessions of CaCBTp with trained therapists and the TAU arm continued with their standard treatment.
+   Results: Analysis was based on the principles of intention to treat (ITT). This was further supplemented with secondary sensitivity analyses. Post-treatment, the intervention group showed statistically significant reductions in symptomatology on overall CPRS scores, CaCBTp Mean (SD)=16.23 (10.77), TAU=18.60 (14.84); p=0.047, with a difference in change of 11.31 (95% CI:0. 14 to 22.49); Schizophrenia change: CaCBTp=3.46 (3.37); TAU=4.78 (5.33) diff 4.62 (95% CI: 0.68 to 9.17); p=0.047 and positive symptoms (delusions; p=0.035, and hallucinations; p=0.056). At 6 months follow-up, MADRAS change=5.6 (95% CI: 2.92 to 7.60); p<0.001. Adjustment was made for age, gender and antipsychotic medication. Overall satisfaction was significantly correlated with the number of sessions attended (r=0.563; p=0.003).
+   Conclusion: Participants in the CaCBTp group achieved statistically significant results post-treatment compared to those in the TAU group with some gains maintained at follow-up. High levels of satisfaction with the CaCBTp were reported. (C) 2012 Elsevier B. V. All rights reserved.
+C1 [Phiri, Peter; Harris, Scott; Kingdon, David] Univ Southampton, Fac Med, Southampton SO9 5NH, Hants, England.
+RP Phiri, P (corresponding author), Moorgreen Hosp, Res & Outcomes Dept, Tom Rudd Unit, Botley Rd, Southampton SO30 3JB, Hants, England.
+EM shanayarathod@nhs.net; peter.phiri@nhs.net
+RI Rathod, Shanaya/W-2093-2019; Kingdon, David/B-8200-2009
+OI Kingdon, David/0000-0002-8913-0906
+FU DRE; Clinical Trailblazers programme; Southern Health NHS Foundation
+   Trust; Health Institute of Research Network; Mental Health Research
+   Network
+FX This trial was part funded by the DRE, Clinical Trailblazers programme
+   and Southern Health NHS Foundation Trust and forms part of author PPs
+   doctoral thesis.; The research team acknowledges the support from the
+   Health Institute of Research Network and the Mental Health Research
+   Network. Thanks to all participants in Southern Health NHS Foundation
+   Trust, Portsmouth Primary Care Trust and West London Central and North
+   Mental Health NHS Foundation Trust. Dr Anna Solly and Dr Lear Wallach,
+   trial therapists; Dr Mary Gobbi, for supervision and support. Lorraine O
+   Connell, for her assistance with West London recruitment; Dr Sheeba
+   Sarafundeen, Ross Godfree and Gurmit Dhillon for assessments.
+NR 55
+TC 48
+Z9 49
+U1 1
+U2 44
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0920-9964
+EI 1573-2509
+J9 SCHIZOPHR RES
+JI Schizophr. Res.
+PD FEB
+PY 2013
+VL 143
+IS 2-3
+BP 319
+EP 326
+DI 10.1016/j.schres.2012.11.007
+PG 8
+WC Psychiatry
+SC Psychiatry
+GA 072GX
+UT WOS:000313659000014
+PM 23231878
+DA 2020-08-04
+ER
+
+PT J
+AU Lincoln, TM
+   Ziegler, M
+   Mehl, S
+   Kesting, ML
+   Lullmann, E
+   Westermann, S
+   Rief, W
+AF Lincoln, Tania M.
+   Ziegler, Michael
+   Mehl, Stephanie
+   Kesting, Marie-Luise
+   Luellmann, Eva
+   Westermann, Stefan
+   Rief, Winfried
+TI Moving From Efficacy to Effectiveness in Cognitive Behavioral Therapy
+   for Psychosis: A Randomized Clinical Practice Trial
+SO JOURNAL OF CONSULTING AND CLINICAL PSYCHOLOGY
+LA English
+DT Article
+DE schizophrenia; psychosis; CBT; effectiveness; clinical practice
+ID CALGARY DEPRESSION SCALE; AL. DELUSIONS INVENTORY; ANTIPSYCHOTIC
+   MEDICATION; NEGATIVE SYMPTOMS; RATING-SCALE; SCHIZOPHRENIA; POPULATION;
+   VALIDITY; VERSION; GAP
+AB Objective: Randomized controlled trials have attested the efficacy of cognitive behavioral therapy (CBT) in reducing psychotic symptoms. Now, studies are needed to investigate its effectiveness in routine clinical practice settings. Method: Eighty patients with schizophrenia spectrum disorders who were seeking outpatient treatment were randomized to a specialized cognitive behavioral intervention for psychosis (CBTp; n = 40) or a wait list (n = 40). The CBTp group was assessed at baseline, posttreatment, and 1-year follow-up. The wait list group was assessed at baseline, after a 4-month waiting period, at posttreatment, and after 1 year. The primary outcome measure was the Positive and Negative Syndrome Scale (PANSS). Results: The CBTp group showed significant improvement over the wait list group for the total PANSS score at posttreatment postwaiting. CBTp was also superior to the wait list group in regard to the secondary outcomes positive symptoms, general psychopathology, depression, and functioning, but not in regard to negative symptoms. The number of dropouts during the treatment phases was low (11.3%). Participants perceived the treatment as helpful (98%) and considered themselves improved (92%). Significant pre- and posttreatment effect sizes varied between 0.77 for general psychopathology and 0.38 for delusional conviction. The positive effects of treatment could be maintained at 1-year follow-up, although the number of patients who had deteriorated was higher than at postassessment. Conclusions: Large proportions of patients in clinical practice settings benefit from CBTp. The efficacy of CBTp can be generalized to clinical practice despite the differences in patients, therapists, and deliverance.
+C1 [Lincoln, Tania M.; Ziegler, Michael; Mehl, Stephanie; Kesting, Marie-Luise; Luellmann, Eva; Westermann, Stefan; Rief, Winfried] Univ Marburg, Dept Psychol, D-20146 Hamburg, Germany.
+RP Lincoln, TM (corresponding author), Univ Marburg, Dept Psychol, Von Melle Pk 5, D-20146 Hamburg, Germany.
+EM tania.lincoln@uni-hamburg.de
+OI Lincoln, Tania/0000-0002-6674-2440; Westermann,
+   Stefan/0000-0002-4785-0024
+NR 50
+TC 48
+Z9 49
+U1 1
+U2 57
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-006X
+EI 1939-2117
+J9 J CONSULT CLIN PSYCH
+JI J. Consult. Clin. Psychol.
+PD AUG
+PY 2012
+VL 80
+IS 4
+BP 674
+EP 686
+DI 10.1037/a0028665
+PG 13
+WC Psychology, Clinical
+SC Psychology
+GA 979YW
+UT WOS:000306861800014
+PM 22663901
+DA 2020-08-04
+ER
+
+PT J
+AU Pinninti, NR
+   Rissmiller, DJ
+   Steer, RA
+AF Pinninti, Narsimha R.
+   Rissmiller, David J.
+   Steer, Robert A.
+TI Cognitive-Behavioral Therapy as an Adjunct to Second-Generation
+   Antipsychotics in the Treatment of Schizophrenia
+SO PSYCHIATRIC SERVICES
+LA English
+DT Article
+ID RECOMMENDATIONS; SCALE
+AB Objective: This study determined whether adding cognitive-behavioral therapy to treatment for outpatients with schizophrenia would be more effective than the use of second-generation antipsychotics alone. Thirty-three patients were randomly assigned to receive either second-generation antipsychotics alone (N=18) or second-generation antipsychotics plus cognitive-behavioral therapy (N=15). Methods: All patients received pharmacotherapy from a single provider and in a predetermined standard manner. Psychopathology ratings were done at baseline, at the end of treatment (12 weeks) and three months after completion of treatment (24 weeks). Results: Twenty-five (76%) patients completed baseline and 12-week evaluations, and 17 (68%) patients who finished treatment also completed evaluations at 24 weeks. At the end of treatment persons in the second-generation antipsychotics plus cognitive- behavioral therapy group were rated as having less severe delusions than patients in the group receiving second-generation antipsychotics only, and this difference was maintained three months after treatment ended. Conclusions: Adding cognitive-behavioral therapy may help with reducing the severity of delusions among patients with schizophrenia. (Psychiatric Services 61: 940943, 2010)
+C1 [Pinninti, Narsimha R.; Rissmiller, David J.; Steer, Robert A.] Univ Med & Dent, Sch Osteopath Med, Dept Psychiat, Cherry Hill, NJ 08034 USA.
+RP Pinninti, NR (corresponding author), Univ Med & Dent, Sch Osteopath Med, Dept Psychiat, 2250 Chapel Ave W, Cherry Hill, NJ 08034 USA.
+EM narsimha.pinninti@sbcs.us
+FU NARSADNARSAD
+FX This project was funded by a NARSAD grant to the first author (supported
+   by Stephen and Constance Lieber). The authors thank Louis Pantuck, R.N.,
+   C. C. R. C., for help in scheduling and taking calls from patients and
+   organizing and maintaining the records.
+NR 15
+TC 7
+Z9 7
+U1 0
+U2 21
+PU AMER PSYCHIATRIC PUBLISHING, INC
+PI ARLINGTON
+PA 1000 WILSON BOULEVARD, STE 1825, ARLINGTON, VA 22209-3901 USA
+SN 1075-2730
+J9 PSYCHIAT SERV
+JI Psychiatr. Serv.
+PD SEP
+PY 2010
+VL 61
+IS 9
+BP 940
+EP 943
+DI 10.1176/ps.2010.61.9.940
+PG 4
+WC Health Policy & Services; Public, Environmental & Occupational Health;
+   Psychiatry
+SC Health Care Sciences & Services; Public, Environmental & Occupational
+   Health; Psychiatry
+GA 645SA
+UT WOS:000281484000017
+PM 20810596
+DA 2020-08-04
+ER
+
+PT J
+AU Foster, C
+   Startup, H
+   Potts, L
+   Freeman, D
+AF Foster, Chloe
+   Startup, Helen
+   Potts, Laura
+   Freeman, Daniel
+TI A randomised controlled trial of a worry intervention for individuals
+   with persistent persecutory delusions
+SO JOURNAL OF BEHAVIOR THERAPY AND EXPERIMENTAL PSYCHIATRY
+LA English
+DT Article
+DE Delusions; Paranoia; Schizophrenia; Worry; Anxiety; Cognitive therapy
+ID GENERALIZED ANXIETY DISORDER; COGNITIVE-BEHAVIORAL THERAPY;
+   RATING-SCALES PSYRATS; QUESTIONNAIRE; SCHIZOPHRENIA; PSYCHOSIS; DISTRESS
+AB Recent research has shown that worry is associated with distressing paranoia. Therefore, the aim was to target worry in a therapeutic intervention for individuals with delusions. It was predicted that a worry intervention would reduce levels of worry and paranoia distress. Twenty-four individuals with persistent persecutory delusions and high levels of worry were randomly assigned to receive a four session cognitive-behavioural worry intervention (W-CBT) or treatment as usual (TAU). The worry intervention was specifically designed not to target the content of delusions. In this open-label evaluation, assessments of worry and paranoia were conducted at baseline, at one month (end of treatment) and at two months. The worry intervention achieved a statistically significant reduction in worry which was maintained at two month follow up. A significant reduction in delusional distress was also reported. There was an indication that the worry intervention may also reduce the frequency of paranoid thoughts but this was not statistically significant. In the first trial specifically for persecutory delusions, a brief worry intervention was shown to have benefits. The results support a causal role for worry in paranoid experience. (C) 2009 Elsevier Ltd. All rights reserved.
+C1 [Foster, Chloe; Startup, Helen; Freeman, Daniel] Kings Coll London, Inst Psychiat, Dept Psychol, London SE5 8AF, England.
+   [Potts, Laura] Kings Coll London, Inst Psychiat, Dept Biostat, Clin Trials Unit, London SE5 8AF, England.
+RP Freeman, D (corresponding author), Kings Coll London, Inst Psychiat, Dept Psychol, POB 077,Denmark Hill, London SE5 8AF, England.
+EM Daniel.Freeman@kcl.ac.uk
+RI Freeman, Daniel/C-6851-2009
+OI Freeman, Daniel/0000-0002-2541-2197; Startup, Helen/0000-0003-3439-8304
+FU Wellcome TrustWellcome Trust
+NR 28
+TC 88
+Z9 88
+U1 0
+U2 24
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0005-7916
+EI 1873-7943
+J9 J BEHAV THER EXP PSY
+JI J. Behav. Ther. Exp. Psychiatry
+PD MAR
+PY 2010
+VL 41
+IS 1
+BP 45
+EP 51
+DI 10.1016/j.jbtep.2009.09.001
+PG 7
+WC Psychology, Clinical; Psychiatry
+SC Psychology; Psychiatry
+GA 531CL
+UT WOS:000272640200008
+PM 19818953
+OA Green Published, Other Gold
+DA 2020-08-04
+ER
+
+PT J
+AU Haddock, G
+   Barrowclough, C
+   Shaw, JJ
+   Dunn, G
+   Novaco, RW
+   Tarrier, N
+AF Haddock, Gillian
+   Barrowclough, Christine
+   Shaw, Jennifer J.
+   Dunn, Graham
+   Novaco, Raymond W.
+   Tarrier, Nicholas
+TI Cognitive-behavioural therapy v. social activity therapy for people with
+   psychosis and a history of violence: randomised controlled trial
+SO BRITISH JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+ID SCHIZOPHRENIA; DELUSIONS; SCALES
+AB Background
+   Aggression and violence are serious problems in schizophrenia. Cognitive-behavioural therapy (CBT) has been shown to be an effective treatment for psychosis although there have been no studies to date evaluating the impact of CBT for people with psychosis and a history of violence.
+   Aims
+   To investigate the effectiveness of CBT on violence, anger, psychosis and risk outcomes with people who had a diagnosis of schizophrenia and a history of violence.
+   Method
+   This was a single-blind randomised controlled trial of CBT v social activity therapy (SAT) with a primary outcome of violence and secondary outcomes of anger, symptoms, functioning and risk. outcomes were evaluated by masked assessors at 6 and 12 months (trial registration: NRR NO50087441).
+   Results
+   Significant benefits were shown for CBT compared with control over the intervention and follow-up period on violence, delusions and risk management.
+   Conclusions
+   Cognitive-behavioural therapy targeted at psychosis and anger may be an effective treatment for reducing the Occurrence of violence and further investigation of its benefits is warranted.
+C1 [Haddock, Gillian; Barrowclough, Christine] Univ Manchester, Sch Psychol Sci, Manchester M13 9PL, Lancs, England.
+   [Shaw, Jennifer J.; Dunn, Graham] Univ Manchester, Sch Community Based Med, Manchester M13 9PL, Lancs, England.
+   [Novaco, Raymond W.] Univ Calif Irvine, Dept Psychol & Social Sci, Irvine, CA 92717 USA.
+   [Tarrier, Nicholas] Univ Manchester, Sch Psychol Sci, Manchester M13 9PL, Lancs, England.
+RP Haddock, G (corresponding author), Univ Manchester, Sch Psychol Sci, Zochonis Bldg,Oxford Rd, Manchester M13 9PL, Lancs, England.
+EM gillian.haddock@manchester.ac.uk
+FU North West Research and Development Fund
+FX The trial was funded by the North West Research and Development Fund.
+   The authors would like to thank the following people and organisations:
+   Pennine Care NHS Trust, Bolton Salford and Trafford NHS Trust,
+   Manchester Health and Social Care Trust, Merseycare NHS Trust, Lorna
+   Jellicoe-Jones, Paul Hammersley, Fiona Lobban, Celia Vishnick, Neil
+   Jackson, Kerry Manson and Louise Roper.
+NR 23
+TC 65
+Z9 65
+U1 1
+U2 36
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 0007-1250
+EI 1472-1465
+J9 BRIT J PSYCHIAT
+JI Br. J. Psychiatry
+PD FEB
+PY 2009
+VL 194
+IS 2
+BP 152
+EP 157
+DI 10.1192/bjp.bp.107.039859
+PG 6
+WC Psychiatry
+SC Psychiatry
+GA 407BJ
+UT WOS:000263338300010
+PM 19182178
+OA Bronze
+DA 2020-08-04
+ER
+
+PT J
+AU Garety, PA
+   Fowler, DG
+   Freeman, D
+   Bebbington, P
+   Dunn, G
+   Kuipers, E
+AF Garety, Philippa A.
+   Fowler, David G.
+   Freeman, Daniel
+   Bebbington, Paul
+   Dunn, Graham
+   Kuipers, Elizabeth
+TI Cognitive-behavioural therapy and family intervention for relapse
+   prevention and symptom reduction in psychosis: randomised controlled
+   trial
+SO BRITISH JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+ID ANTIPSYCHOTIC-DRUGS; EXPRESSED EMOTION; POSITIVE SYMPTOMS; PERSONAL
+   THERAPY; 3-YEAR TRIALS; SCHIZOPHRENIA; DELUSIONS; ILLNESS;
+   HALLUCINATIONS; SCALES
+AB Background
+   Family intervention reduces relapse rates in psychosis. Cognitive-behavioural therapy (CBT) improves positive symptoms but effects on relapse rates are not established.
+   Aims
+   To test the effectiveness of CBT and family intervention in reducing relapse, and in improving symptoms and functioning in patients who had recently relapsed with non-affective psychosis.
+   Method
+   A multicentre randomised controlled trial (ISRCTN83557988) with two pathways: those without carers were allocated to treatment as usual or CBT plus treatment as usual, those with carers to treatment as usual, CBT plus treatment as usual or family intervention plus treatment as usual. The CBT and family intervention were focused on relapse prevention for 20 sessions over 9 months.
+   Results
+   A total of 301 patients and 83 carers participated. Primary outcome data were available on 96% of the total sample. The CBT and family intervention had no effects on rates of remission and relapse or on days in hospital at 12 or 24 months. For secondary outcomes, CBT showed a beneficial effect on depression at 24 months and there were no effects for family intervention. in people with carers, CBT significantly improved delusional distress and social functioning. Therapy did not change key psychological processes.
+   Conclusions
+   Generic CBT for psychosis is not indicated for routine relapse prevention in people recovering from a recent relapse of psychosis and should currently be reserved for those with distressing medication-unresponsive positive symptoms. Any CBT targeted at this acute population requires development. The lack of effect of family intervention on relapse may be attributable to the low overall relapse rate in those with carers.
+C1 [Garety, Philippa A.; Freeman, Daniel; Kuipers, Elizabeth] Kings Coll London, Inst Psychiat, Dept Psychol, London SE5 8AF, England.
+   [Fowler, David G.] Univ E Anglia, Sch Med Hlth Policy & Practice, Norwich NR4 7TJ, Norfolk, England.
+   [Bebbington, Paul] UCL, Dept Mental Hlth Sci, London WC1E 6BT, England.
+   [Dunn, Graham] Univ Manchester, Hlth Methodol Res Grp, Sch Community Based Med, Manchester M13 9PL, Lancs, England.
+RP Garety, PA (corresponding author), Kings Coll London, Inst Psychiat, Dept Psychol, PO77,De Crespigny Pk, London SE5 8AF, England.
+EM p.garety@iop.kcl.ac.uk
+RI Freeman, Daniel/C-6851-2009; Garety, Philippa A/F-9755-2014; Garety,
+   Philippa A/B-2795-2009; Kuipers, Elizabeth A/A-3683-2009; Bebbington,
+   Paul Ernest/C-1939-2008
+OI Freeman, Daniel/0000-0002-2541-2197; Garety, Philippa
+   A/0000-0002-5637-1340; Bebbington, Paul Ernest/0000-0002-6030-7456
+FU Medical Research CouncilMedical Research Council UK (MRC) [G0300925];
+   Wellcome TrustWellcome Trust [062452]
+NR 56
+TC 167
+Z9 170
+U1 1
+U2 66
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 0007-1250
+EI 1472-1465
+J9 BRIT J PSYCHIAT
+JI Br. J. Psychiatry
+PD JUN
+PY 2008
+VL 192
+IS 6
+BP 412
+EP 423
+DI 10.1192/bjp.bp.107.043570
+PG 12
+WC Psychiatry
+SC Psychiatry
+GA 312UW
+UT WOS:000256697500004
+PM 18515890
+OA Other Gold
+DA 2020-08-04
+ER
+
+EF

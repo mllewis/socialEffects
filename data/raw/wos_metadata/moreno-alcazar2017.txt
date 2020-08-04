@@ -1,0 +1,322 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Diehle, J
+   Opmeer, BC
+   Boer, F
+   Mannarino, AP
+   Lindauer, RJL
+AF Diehle, Julia
+   Opmeer, Brent C.
+   Boer, Frits
+   Mannarino, Anthony P.
+   Lindauer, Ramon J. L.
+TI Trauma-focused cognitive behavioral therapy or eye movement
+   desensitization and reprocessing: what works in children with
+   posttraumatic stress symptoms? A randomized controlled trial
+SO EUROPEAN CHILD & ADOLESCENT PSYCHIATRY
+LA English
+DT Article
+DE Children; PTSD; RCT; Trauma; CBT; EMDR
+ID PTSD SYMPTOMS; DISORDER; EVENTS; SCALE; COMORBIDITY; ADOLESCENTS;
+   COMMUNITY; YOUTH
+AB To prevent adverse long-term effects, children who suffer from posttraumatic stress symptoms (PTSS) need treatment. Trauma-focused cognitive behavioral therapy (TF-CBT) is an established treatment for children with PTSS. However, alternatives are important for non-responders or if TF-CBT trained therapists are unavailable. Eye movement desensitization and reprocessing (EMDR) is a promising treatment for which sound comparative evidence is lacking. The current randomized controlled trial investigates the effectiveness and efficiency of both treatments. Forty-eight children (8-18 years) were randomly assigned to eight sessions of TF-CBT or EMDR. The primary outcome was PTSS as measured with the Clinician-Administered PTSD Scale for Children and Adolescents (CAPS-CA). Secondary outcomes included parental report of child PTSD diagnosis status and questionnaires on comorbid problems. The Children's Revised Impact of Event Scale was administered during the course of treatment. TF-CBT and EMDR showed large reductions from pre- to post-treatment on the CAPS-CA (-20.2; 95 % CI -12.2 to -28.1 and -20.9; 95 % CI -32.7 to -9.1). The difference in reduction was small and not statistically significant (mean difference of 0.69, 95 % CI -13.4 to 14.8). Treatment duration was not significantly shorter for EMDR (p = 0.09). Mixed model analysis of monitored PTSS during treatment showed a significant effect for time (p < 0.001) but not for treatment (p = 0.44) or the interaction of time by treatment (p = 0.74). Parents of children treated with TF-CBT reported a significant reduction of comorbid depressive and hyperactive symptoms. TF-CBT and EMDR are effective and efficient in reducing PTSS in children.
+C1 [Diehle, Julia; Boer, Frits; Lindauer, Ramon J. L.] Univ Amsterdam, Acad Med Ctr, Dept Child & Adolescent Psychiat, NL-1105 AZ Amsterdam, Netherlands.
+   [Opmeer, Brent C.] Univ Amsterdam, Clin Res Unit, NL-1105 AZ Amsterdam, Netherlands.
+   [Boer, Frits; Lindauer, Ramon J. L.] Acad Ctr Child & Adolescent Psychiat Bascule, NL-1105 AZ Amsterdam, Netherlands.
+   [Mannarino, Anthony P.] Drexel Univ, Dept Psychiat, Algheny Ctr 4, Coll Med, Pittsburgh, PA 15212 USA.
+RP Diehle, J (corresponding author), Univ Amsterdam, Acad Med Ctr, Dept Child & Adolescent Psychiat, Meibergdreef 5, NL-1105 AZ Amsterdam, Netherlands.
+EM j.diehle@amc.uva.nl
+FU Frijling Prins Fonds
+FX The authors would like to thank all children and parents who took part
+   in the current study. Furthermore, we would like to thank the Frijling
+   Prins Fonds for financial support. We also want to acknowledge the work
+   of all the therapists and research assistants who were involved in this
+   project. Especially we want to thank Renee Beer for her contributions to
+   the research project.
+NR 34
+TC 62
+Z9 63
+U1 1
+U2 129
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1018-8827
+EI 1435-165X
+J9 EUR CHILD ADOLES PSY
+JI Eur. Child Adolesc. Psych.
+PD FEB
+PY 2015
+VL 24
+IS 2
+BP 227
+EP 236
+DI 10.1007/s00787-014-0572-5
+PG 10
+WC Psychology, Developmental; Pediatrics; Psychiatry
+SC Psychology; Pediatrics; Psychiatry
+GA CD3TU
+UT WOS:000351005600011
+PM 24965797
+DA 2020-08-04
+ER
+
+PT J
+AU de Roos, C
+   Greenwald, R
+   den Hollander-Gijsman, M
+   Noorthoorn, E
+   van Buuren, S
+   de Jongh, A
+AF de Roos, Carlijn
+   Greenwald, Ricky
+   den Hollander-Gijsman, Margien
+   Noorthoorn, Eric
+   van Buuren, Stef
+   de Jongh, Ad
+TI A randomised comparison of cognitive behavioural therapy (CBT) and eye
+   movement desensitisation and reprocessing (EMDR) in disaster-exposed
+   children
+SO EUROPEAN JOURNAL OF PSYCHOTRAUMATOLOGY
+LA English
+DT Article
+DE Randomised controlled trial; eye movement desensitisation and
+   reprocessing (EMDR); cognitive behavioural therapy (CBT); post-traumatic
+   stress disorder (PTSD); disaster
+ID POSTTRAUMATIC-STRESS-DISORDER; ELEMENTARY-SCHOOL-CHILDREN; DEPRESSIVE
+   REACTIONS; FIELD; INTERVENTIONS; ADOLESCENTS; SYMPTOMS; SCALE
+AB Background: Building on previous research with disaster-exposed children and adolescents, a randomised clinical trial was performed in the treatment of trauma-related symptoms. In the current study two active treatments were compared among children in a broad age range and from a wide diversity of ethnic populations.
+   Objective: The primary aim was to compare the effectiveness and efficiency of Cognitive Behavioural Therapy (CBT) and Eye Movement Desensitisation and Reprocessing (EMDR).
+   Design: Children (n = 52, aged 4 = 18) were randomly allocated to either CBT (n = 26) or EMDR (n = 26) in a disaster mental health after-care setting after an explosion of a fireworks factory. All children received up to four individual treatment sessions over a 4 - 8 week period along with up to four sessions of parent guidance. Blind assessment took place pre- and post-treatment and at 3 months follow-up on a variety of parent-rated and self-report measures of post-traumatic stress disorder symptomatology, depression, anxiety, and behaviour problems. Analyses of variance (general linear model repeated measures) were conducted on the intention-to-treat sample and the completers.
+   Results: Both treatment approaches produced significant reductions on all measures and results were maintained at follow-up. Treatment gains of EMDR were reached in fewer sessions.
+   Conclusion: Standardised CBT and EMDR interventions can significantly improve functioning of disasterexposed children.
+C1 [de Roos, Carlijn] GGZ Rivierduinen, Psychotrauma Ctr Children & Youth, NL-2301 CE Leiden, Netherlands.
+   [Greenwald, Ricky] Trauma Inst & Child Trauma Inst, Greenfield, MA USA.
+   [den Hollander-Gijsman, Margien] Leiden Univ, Med Ctr, Leiden, Netherlands.
+   [Noorthoorn, Eric] GGnet, Wamsveld, Netherlands.
+   [van Buuren, Stef] TNO Qual Life, Leiden, Netherlands.
+   [de Jongh, Ad] Univ Amsterdam, ACTA, Amsterdam, Netherlands.
+   [de Jongh, Ad] Vrije Univ, Amsterdam, Netherlands.
+RP de Roos, C (corresponding author), GGZ Rivierduinen, Psychotrauma Ctr Children & Youth, Postbus 2211, NL-2301 CE Leiden, Netherlands.
+EM c.deroos@ggzkinderenenjeugd.nl
+OI den Hollander-Gijsman, Margien/0000-0002-8776-9853
+NR 38
+TC 59
+Z9 59
+U1 2
+U2 63
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 2000-8198
+EI 2000-8066
+J9 EUR J PSYCHOTRAUMATO
+JI Eur. J. Psychotraumatol.
+PY 2011
+VL 2
+AR 5694
+DI 10.3402/ejpt.v2i0.5694
+PG 11
+WC Psychology, Clinical; Psychiatry
+SC Psychology; Psychiatry
+GA V31EX
+UT WOS:000208868000007
+PM 22893815
+OA DOAJ Gold, Green Published
+DA 2020-08-04
+ER
+
+PT J
+AU Ahmad, A
+   Larsson, B
+   Sundelin-Wahlsten, V
+AF Ahmad, Abdulbaghi
+   Larsson, Bo
+   Sundelin-Wahlsten, Viveka
+TI EMDR treatment for children with PTSD: Results of a randomized
+   controlled trial
+SO NORDIC JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+DE child; EMDR; PTSD; RCT; trauma
+ID POSTTRAUMATIC-STRESS-DISORDER; EYE-MOVEMENT DESENSITIZATION; FOLLOW-UP;
+   INTERVENTION; ADOLESCENTS; EFFICACY; WAR
+AB The objective of the study was to examine the efficacy of EMDR treatment for children with post-traumatic stress disorder ( PTSD) compared with untreated children in a waiting list control group (WLC) participating in a randomized controlled superiority trial (RCT). Thirty-three 6-16-year-old children with a DSM-IV diagnosis of PTSD were randomly assigned to eight weekly EMDR sessions or the WLC group. The Posttraumatic Stress Symptom Scale for Children (PTSS-C scale) was used in interviews with children to evaluate their symptoms and outcome. Post-treatment scores of the EMDR group were significantly lower than the WLC indicating improvement in total PTSS-C scores, PTSD-related symptom scale, and the subscales re-experiencing and avoidance among subjects in the EMDR group, while untreated children improved in PTSD-non-related symptom scale. The improvement in re-experiencing symptoms proved to be the most significant between-group difference over time. The results of the present exploratory study including a limited number of children with PTSD are encouraging and warrant further controlled studies of larger samples of children suffering from PTSD.
+C1 Univ Uppsala Hosp, Dept Child & Adolescent Psychiat, Child Ctr Trauma & Exposure, Uppsala, Sweden.
+   NTNU, Reg Ctr Child & Adolescent Mental Hlth, N-7489 Trondheim, Norway.
+RP Ahmad, A (corresponding author), Univ Uppsala Hosp, Dept Child & Adolescent Psychiat, Child Ctr Trauma & Exposure, Uppsala, Sweden.
+EM abdulbaghi.ahmad@bupinst.uu.se
+NR 41
+TC 58
+Z9 58
+U1 1
+U2 63
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0803-9488
+EI 1502-4725
+J9 NORD J PSYCHIAT
+JI Nord. J. Psychiatr.
+PY 2007
+VL 61
+IS 5
+BP 349
+EP 354
+DI 10.1080/08039480701643464
+PG 6
+WC Psychiatry
+SC Psychiatry
+GA 229MS
+UT WOS:000250808700006
+PM 17990196
+DA 2020-08-04
+ER
+
+PT J
+AU Jaberghaderi, N
+   Greenwald, R
+   Rubin, A
+   Zand, SO
+   Dolatabadi, S
+AF Jaberghaderi, N
+   Greenwald, R
+   Rubin, A
+   Zand, SO
+   Dolatabadi, S
+TI A comparison of CBT and EMDR for sexually-abused Iranian girls
+SO CLINICAL PSYCHOLOGY & PSYCHOTHERAPY
+LA English
+DT Article
+ID POSTTRAUMATIC-STRESS-DISORDER; EYE-MOVEMENT DESENSITIZATION; PROLONGED
+   EXPOSURE; SCHOOL-CHILDREN; EFFICACY; PSYCHOTHERAPY; SURVIVORS; SYMPTOMS;
+   PTSD
+AB Fourteen randomly assigned Iranian girls ages 12-13 years who had been sexually abused received up to 12 sessions of CBT or EMDR treatment. Assessment of post-traumatic stress symptoms and problem behaviours was completed at pre-treatment and 2 weeks post-treatment. Both treatments showed large effect sizes on the posttraumatic symptom outcomes, and a medium effect size on the behaviour outcome, all statistically significant. A non-significant trend on self-reported post-traumatic stress symptoms favoured EMDR over CBT. Treatment efficiency was calculated by dividing change scores by number of sessions; EMDR was significantly more efficient, with large effect sizes on each outcome. Limitations include small N, single therapist for each treatment condition, no independent verification of treatment fidelity, and no long-term follow-up. These findings suggest that both CBT and EMDR can help girls to recover from the effects of sexual abuse, and that structured trauma treatments can be applied to children in Iran. Copyright (C) 2004 John Wiley Sons, Ltd.
+C1 Child Trauma Inst, Greenfield, MA 01302 USA.
+   Allame Tabatabaee Univ, Tehran, Iran.
+   Univ Texas, Austin, TX 78712 USA.
+RP Greenwald, R (corresponding author), Child Trauma Inst, POB 544, Greenfield, MA 01302 USA.
+EM rg@childtrauma.com
+NR 43
+TC 106
+Z9 107
+U1 2
+U2 51
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1063-3995
+EI 1099-0879
+J9 CLIN PSYCHOL PSYCHOT
+JI Clin. Psychol. Psychother.
+PD SEP-OCT
+PY 2004
+VL 11
+IS 5
+BP 358
+EP 368
+DI 10.1002/cpp.395
+PG 11
+WC Psychology, Clinical
+SC Psychology
+GA 864IK
+UT WOS:000224627000006
+DA 2020-08-04
+ER
+
+PT J
+AU Chemtob, CM
+   Nakashima, J
+   Carlson, JG
+AF Chemtob, CM
+   Nakashima, J
+   Carlson, JG
+TI Brief treatment for elementary school children with disaster-related
+   posttraumatic stress disorder: A field study
+SO JOURNAL OF CLINICAL PSYCHOLOGY
+LA English
+DT Article
+DE disaster; hurricanes; disaster-related PTSD; PTSD; child treatment
+ID EYE-MOVEMENT DESENSITIZATION; PSYCHOTHERAPY; ADOLESCENTS; HEALTH
+AB Effective psychological intervention is needed to help children recover from disaster-related posttraumatic stress disorder (PTSD). This controlled study evaluated the effectiveness of a brief intervention for disaster-related PTSD. At one-year follow-up of a prior intervention for disaster-related symptoms, some previously treated children were still suffering significant trauma symptoms. Using a randomized lagged-groups design, we provided three sessions of Eye Movement Desensitization and Reprocessing (EMDR) treatment to 32 of these children who met clinical criteria for PTSD. The Children's Reaction Inventory (CRI) was the primary measure of the treatment's effect on PTSD symptoms. Associated symptoms were measured using the Revised Children's Manifest Anxiety Scale (RCMAS) and the Children's Depression Inventory (CDI). Treatment resulted in substantial reductions in both groups' CRI scores and in significant, though more modest, reductions in RCMAS and CDI scores. Gains were maintained at six-month follow-up. Health visits to the school nurse were significantly reduced following treatment. Psychosocial intervention appears useful for children suffering disaster-related PTSD. Conducting controlled studies of children's treatment in the postdisaster environment appears feasible. (C) 2002 John Wiley & Sons, Inc.
+C1 Natl Ctr PTSD, Pacific Isl Div, Dept Vet Affairs, Honolulu, HI 96813 USA.
+   Dept Educ, Lihue, HI USA.
+   Univ Hawaii, Honolulu, HI 96822 USA.
+RP Chemtob, CM (corresponding author), Natl Ctr PTSD, Pacific Isl Div, Dept Vet Affairs, 1132 Bishop St,Suite 307, Honolulu, HI 96813 USA.
+NR 25
+TC 132
+Z9 132
+U1 1
+U2 36
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0021-9762
+EI 1097-4679
+J9 J CLIN PSYCHOL
+JI J. Clin. Psychol.
+PD JAN
+PY 2002
+VL 58
+IS 1
+BP 99
+EP 112
+DI 10.1002/jclp.1131
+PG 14
+WC Psychology, Clinical
+SC Psychology
+GA 507BA
+UT WOS:000173005500006
+PM 11748599
+DA 2020-08-04
+ER
+
+PT J
+AU Scheck, MM
+   Schaeffer, JA
+   Gillette, C
+AF Scheck, MM
+   Schaeffer, JA
+   Gillette, C
+TI Brief psychological intervention with traumatized young women: The
+   efficacy of eye movement desensitization and reprocessing
+SO JOURNAL OF TRAUMATIC STRESS
+LA English
+DT Article
+DE PTSD; EMDR; youth; women; trauma
+ID POSTTRAUMATIC-STRESS-DISORDER; CHILD SEXUAL ABUSE; DYNAMIC
+   PSYCHOTHERAPY; SINGLE-SESSION; IMPACT; PTSD; DEPRESSION; EMDR;
+   PREVENTION; RELAXATION
+AB To study the efficacy of eye movement desensitization and reprocessing (EMDR) with traumatized young women, 60 women between the ages of 16 and 25 were randomly assigned to two sessions of either EMDR or an active listening (AL) control. Factorial ANOVA interaction effects and simple main effects for outcome measures (Beck Depression Inventory, State-Trait Anxiety Inventory, Penn Inventory for Posttraumatic Stress Disorder Impact of Event Scale, Tennessee Self-Concept Scale) indicated significant improvement for both groups and significantly greater pre-post change for EMDR-treated participants. Pre-post effect sizes for the EMDR group averaged 1.56 compared to 0.65 for the AL group. Despite treatment brevity, the posttreatment outcome variable means of EMDR-treated participants compared favorably with nonpatient or successfully treated norm groups on all measures.
+C1 El Paso Cty Dept Hlth & Environm, Colorado Springs, CO 80910 USA.
+   Franciscan Family Wellness Program Inc, Colorado Springs, CO 80919 USA.
+RP Scheck, MM (corresponding author), 7635 Chirgiton Rd, Colorado Springs, CO 80908 USA.
+NR 76
+TC 107
+Z9 108
+U1 2
+U2 33
+PU PLENUM PUBL CORP
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0894-9867
+J9 J TRAUMA STRESS
+JI J. Trauma Stress
+PD JAN
+PY 1998
+VL 11
+IS 1
+BP 25
+EP 44
+DI 10.1023/A:1024400931106
+PG 20
+WC Psychology, Clinical; Psychiatry
+SC Psychology; Psychiatry
+GA YU729
+UT WOS:000071748400002
+PM 9479674
+DA 2020-08-04
+ER
+
+EF

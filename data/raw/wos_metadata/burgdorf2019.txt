@@ -1,0 +1,641 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Lo, HHM
+   Wong, SWL
+   Wong, JYH
+   Yeung, JWK
+   Snel, E
+   Wong, SYS
+AF Lo, Herman H. M.
+   Wong, Simpson W. L.
+   Wong, Janet Y. H.
+   Yeung, Jerf W. K.
+   Snel, Eline
+   Wong, Samuel Y. S.
+TI The Effects of Family-Based Mindfulness Intervention on ADHD
+   Symptomology in Young Children and Their Parents: A Randomized Control
+   Trial
+SO JOURNAL OF ATTENTION DISORDERS
+LA English
+DT Article
+DE ADHD; children; family; mindfulness; randomized controlled trial
+ID ATTENTION-DEFICIT/HYPERACTIVITY DISORDER; DEFICIT HYPERACTIVITY
+   DISORDER; ADOLESCENTS; PRESCHOOL; HEALTH; VALIDATION; COMMUNITY;
+   VALIDITY; SCALE
+AB Objective: The aim of the study is to investigate the feasibility of a family-based mindfulness intervention in improving children with inattention and hyperactivity symptoms. Method: A total of 100 children aged 5 to 7 years with ADHD symptoms and their parents were randomly assigned to a family-based mindfulness intervention (n = 50) or a wait-list control group (n = 50). Results: Families from intervention group had greater improvements in children's ADHD symptoms, with medium effect sizes of -0.60 for inattention and -0.59 for hyperactivity; overall behaviors; and parenting stress and well-being than those in wait-list control group. Conclusion: The positive results on the child primary outcome measures have provided initial evidence of the family-based mindfulness intervention as a treatment option to ADHD. The reduction of parental stress and increase in psychological well-being has demonstrated the value of mindfulness in enhancing parent's self-management.
+C1 [Lo, Herman H. M.] Hong Kong Polytech Univ, Dept Appl Social Sci, Hong Kong, Peoples R China.
+   [Wong, Simpson W. L.] Hong Kong Baptist Univ, Dept Educ Studies, Hong Kong, Peoples R China.
+   [Wong, Janet Y. H.] Univ Hong Kong, Sch Nursing, Hong Kong, Peoples R China.
+   [Yeung, Jerf W. K.] City Univ Hong Kong, Dept Appl Social Sci, Hong Kong, Peoples R China.
+   [Snel, Eline] Acad Mindful Teaching, Leusden, Netherlands.
+   [Wong, Samuel Y. S.] Chinese Univ Hong Kong, JC Sch Publ Hlth & Primary Care, Hong Kong, Peoples R China.
+RP Lo, HHM (corresponding author), Hong Kong Polytech Univ, Dept Appl Social Sci, Hunghom, Kowloon, Hong Kong, Peoples R China.
+EM herman.lo@polyu.edu.hk
+OI LO, Hay Ming Herman/0000-0002-5053-6837
+NR 52
+TC 7
+Z9 7
+U1 10
+U2 10
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 1087-0547
+EI 1557-1246
+J9 J ATTEN DISORD
+JI J. Atten. Disord.
+PD MAR
+PY 2020
+VL 24
+IS 5
+SI SI
+BP 667
+EP 680
+DI 10.1177/1087054717743330
+PG 14
+WC Psychology, Developmental; Psychiatry
+SC Psychology; Psychiatry
+GA KH9WN
+UT WOS:000510998800004
+PM 29185375
+HC Y
+HP N
+DA 2020-08-04
+ER
+
+PT J
+AU Ridderinkhof, A
+   de Bruin, EI
+   Blom, R
+   Bogels, SM
+AF Ridderinkhof, Anna
+   de Bruin, Esther I.
+   Blom, Ren
+   Bogels, Susan M.
+TI Mindfulness-Based Program for Children with Autism Spectrum Disorder and
+   Their Parents: Direct and Long-Term Improvements
+SO MINDFULNESS
+LA English
+DT Article
+DE Autism spectrum disorder; Interventions; Mindfulness; Mindfulness-based
+   program
+ID HEALTH-CARE UTILIZATION; BEHAVIOR PROBLEMS; MENTAL-HEALTH;
+   GENERAL-POPULATION; ANXIETY DISORDERS; PERCEIVED STRESS;
+   CONTROLLED-TRIAL; MEDIATING ROLE; ADOLESCENTS; ADHD
+AB A combined mindfulness-based program for children and their parents (MYmind) was beneficial for adolescents with autism spectrum disorder (ASD). In this study, we investigated whether this program is also beneficial for younger children with ASD, whether effects last on the long-term, and whether it reduces common comorbid problems. Forty-five children referred with ASD aged 8 until 19 years old, and their parents participated. Repeated measures of children's and parents' social communication problems, emotional and behavioral functioning, mindful awareness, and of parenting were conducted pre-intervention, post intervention, 2-month follow-up, and 1-year follow-up. While children did not report significant changes in mindful awareness, their social communication problems decreased, and their emotional and behavioral functioning improved. Results were not consistent at each occasion; improvements reported by children were most substantial at a 2-month follow-up and only partly remained at a 1-year follow-up, while all children's improvements as reported by parents were present on all occasions. Parents themselves reported improved emotional and behavioral functioning, improved parenting, and increased mindful awareness on all occasions. Parents' social communication problems reduced only directly after the intervention. Most improvements were supported by the qualitative investigation of children's and parents' experienced change as reported on open-ended questions. This study suggests that children, including adolescents, with ASD and their parents can benefit from a mindfulness-based program with parallel sessions for children and parents.
+C1 [Ridderinkhof, Anna; de Bruin, Esther I.; Bogels, Susan M.] Univ Amsterdam, Res Inst Child Dev & Educ, Nieuwe Achtergracht 127, NL-1018 WS Amsterdam, Netherlands.
+   [Blom, Ren] Karakter Child & Adolescent Psychiat Ctr, Dr E Schattenkerkweg 1, NL-8025 BW Zwolle, Netherlands.
+   [Bogels, Susan M.] Univ Amsterdam, UvA Minds, Acad Outpatient Child & Adolescent Treatment Ctr, Banstr 29, NL-1071 JW Amsterdam, Netherlands.
+RP Ridderinkhof, A (corresponding author), Univ Amsterdam, Res Inst Child Dev & Educ, Nieuwe Achtergracht 127, NL-1018 WS Amsterdam, Netherlands.
+EM A.Ridderinkhof@uva.nl
+NR 94
+TC 17
+Z9 17
+U1 2
+U2 34
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1868-8527
+EI 1868-8535
+J9 MINDFULNESS
+JI Mindfulness
+PD JUN
+PY 2018
+VL 9
+IS 3
+BP 773
+EP 791
+DI 10.1007/s12671-017-0815-x
+PG 19
+WC Psychology, Clinical; Psychiatry
+SC Psychology; Psychiatry
+GA GH1CL
+UT WOS:000433139500008
+PM 29875881
+OA Other Gold, Green Published
+DA 2020-08-04
+ER
+
+PT J
+AU Jones, L
+   Gold, E
+   Totsika, V
+   Hastings, RP
+   Jones, M
+   Griffiths, A
+   Silverton, S
+AF Jones, Leah
+   Gold, Eluned
+   Totsika, Vasiliki
+   Hastings, Richard P.
+   Jones, Mariel
+   Griffiths, Annee
+   Silverton, Sarah
+TI A mindfulness parent well-being course: evaluation of outcomes for
+   parents of children with autism and related disabilities recruited
+   through special schools
+SO EUROPEAN JOURNAL OF SPECIAL NEEDS EDUCATION
+LA English
+DT Article
+DE Autism; intellectual disability; mothers; fathers; mindfulness;
+   psychological acceptance
+ID MATERNAL MENTAL-HEALTH; DEVELOPMENTAL-DISABILITIES; BEHAVIOR PROBLEMS;
+   INTELLECTUAL DISABILITY; STRESS REDUCTION; DECREASES AGGRESSION;
+   COMMITMENT THERAPY; SPECTRUM DISORDER; COGNITIVE THERAPY;
+   TRAINING-PROGRAM
+AB Parents of children with intellectual disabilities and/or autism have been shown to experience higher levels of distress than other parents. Despite such data having been available for several decades, the evidence base for psychological interventions to support parental well-being is small. Recent data suggest that both mindfulness and acceptance processes are associated with decreased psychological distress for parents of children with intellectual disability and/or autism. In addition, some controlled evaluations of mindfulness-based interventions for these parents have resulted in positive outcomes for mothers in particular. In the present study 18 mothers and 3 fathers were recruited via special schools who then attended a Mindfulness Based Well-Being for Parents (MBW-P) group over eight weeks. Parents completed questionnaire measures before and at the end of the course. Statistical analysis showed significant reported increases in mindfulness and self-compassion, and reduced general stress. Parents also reported reductions in anxiety and depression, although these changes were not statistically significant. No significant reductions in their child's behaviour problems or increases in the child's prosocial behaviour were found. Parents also reported high levels of satisfaction with the course. These preliminary data suggest that further research studies testing the effectiveness of the MBW-P course are warranted.
+C1 [Jones, Leah] Bangor Univ, Sch Psychol, BCUHB, Bangor, Wales.
+   [Gold, Eluned; Jones, Mariel; Griffiths, Annee; Silverton, Sarah] Bangor Univ, Sch Psychol, Ctr Mindfulness Res & Practice, Bangor, Wales.
+   [Totsika, Vasiliki; Hastings, Richard P.] Univ Warwick, Ctr Educ Dev Appraisal & Res, Coventry, W Midlands, England.
+RP Jones, L (corresponding author), Bangor Univ, Sch Psychol, BCUHB, Bangor, Wales.
+EM psp4e9@bangor.ac.uk
+FU National Institute for Social Care and Health Research, Wales
+   [SCS/09/11]; Baily Thomas Charitable Fund [2546/5066]
+FX This work was supported by the National Institute for Social Care and
+   Health Research, Wales [grant number SCS/09/11]; and the Baily Thomas
+   Charitable Fund [grant number 2546/5066].
+NR 54
+TC 10
+Z9 10
+U1 6
+U2 32
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0885-6257
+EI 1469-591X
+J9 EUR J SPEC NEEDS EDU
+JI Eur. J. Spec. Needs Educ.
+PY 2018
+VL 33
+IS 1
+BP 16
+EP 30
+DI 10.1080/08856257.2017.1297571
+PG 15
+WC Education, Special
+SC Education & Educational Research
+GA GD5SL
+UT WOS:000430566800002
+DA 2020-08-04
+ER
+
+PT J
+AU Lo, HHM
+   Chan, SKC
+   Szeto, MP
+   Chan, CYH
+   Choi, CW
+AF Lo, Herman Hay Ming
+   Chan, Stanley Kam Chung
+   Szeto, Miu Ping
+   Chan, Christina Ying Ha
+   Choi, Chun Wah
+TI A Feasibility Study of a Brief Mindfulness-Based Program for Parents of
+   Preschool Children with Developmental Disabilities
+SO MINDFULNESS
+LA English
+DT Article
+DE Mindful parenting; Developmental disabilities; Preschool children; Brief
+   mindfulness-based program; Randomized control trial
+ID STRESS REDUCTION MBSR; MENTAL-HEALTH; MOTHERS; INTERVENTION;
+   INDIVIDUALS; DISTRESS; BEHAVIOR; AUTISM
+AB Parents of children with developmental disabilities are more likely to report parental stress and depression. This, in turn, leads to vicious cycles of negative outcomes for these children and the family's well-being. To address the difficulties of such parents, the authors developed a brief mindfulness-based program for parents of children with developmental disabilities (six weekly sessions, nine total contact hours, and 10 min of daily home practice). A randomized control trial was designed to examine the effectiveness of the program, and 180 eligible parents were recruited and were allocated to intervention group and control group. The results showed that after completing the program, parents had significant improvements in parental stress (F[1, 176] = 4.76, p = .03), depression (F[1, 176] = 8.07, p = .01), and stress from parent-child dysfunctional interaction (F[1, 176] = 6.46, p = .01). Based on the pretest scores, parents with severe stress and depression reported more significant positive changes, and they reported moderate effect sizes of 0.62 for stress and 0.57 for depression, respectively. Participant satisfaction scores revealed that the parents were satisfied with the content and overall program arrangement, and agreed that their ability to cope with emotions and stress was enhanced. The results gave support to the program's feasibility. Future studies could further compare this brief program with a child behavior management program to investigate the outcomes and long-term benefits of this brief program. More directions for further studies are provided.
+C1 [Lo, Herman Hay Ming; Choi, Chun Wah] Hong Kong Polytech Univ, Dept Appl Social Sci, Kowloon, Hong Kong, Peoples R China.
+   [Chan, Stanley Kam Chung; Szeto, Miu Ping; Chan, Christina Ying Ha] Heep Hong Soc, Units J-L,10-F,MG Tower,133 Hoi Bun Rd, Kowloon, Hong Kong, Peoples R China.
+RP Lo, HHM (corresponding author), Hong Kong Polytech Univ, Dept Appl Social Sci, Kowloon, Hong Kong, Peoples R China.
+EM herman.lo@polyu.edu.hk
+OI LO, Hay Ming Herman/0000-0002-5053-6837
+FU Social Welfare Development Fund of the Social Welfare Department of Hong
+   Kong SAR Government
+FX We would like to acknowledge the sponsorship of the Social Welfare
+   Development Fund of the Social Welfare Department of Hong Kong SAR
+   Government in this mindful parenting project.
+NR 45
+TC 7
+Z9 8
+U1 3
+U2 42
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1868-8527
+EI 1868-8535
+J9 MINDFULNESS
+JI Mindfulness
+PD DEC
+PY 2017
+VL 8
+IS 6
+BP 1665
+EP 1673
+DI 10.1007/s12671-017-0741-y
+PG 9
+WC Psychology, Clinical; Psychiatry
+SC Psychology; Psychiatry
+GA FN3MF
+UT WOS:000415902600022
+DA 2020-08-04
+ER
+
+PT J
+AU Potharst, ES
+   Aktar, E
+   Rexwinkel, M
+   Rigterink, M
+   Bogels, SM
+AF Potharst, Eva S.
+   Aktar, Evin
+   Rexwinkel, Marja
+   Rigterink, Margo
+   Bogels, Susan M.
+TI Mindful with Your Baby: Feasibility, Acceptability, and Effects of a
+   Mindful Parenting Group Training for Mothers and Their Babies in a
+   Mental Health Context
+SO MINDFULNESS
+LA English
+DT Article
+DE Mindfulness; Parenting; Infants; Postpartum depression
+ID INFANT TEMPERAMENT; PSYCHOMETRIC PROPERTIES; MATERNAL MINDFULNESS;
+   PREGNANCY; BEHAVIOR; STRESS; INTERVENTION; DEPRESSION; ANXIETY; SLEEP
+AB Many mothers experience difficulties after the birth of a baby. Mindful parenting may have benefits for mothers and babies, because it can help mothers regulate stress, and be more attentive towards themselves and their babies, which may have positive effects on their responsivity. This study examined the effectiveness of Mindful with your baby, an 8-week mindful parenting group training for mothers with their babies. The presence of the babies provides on-the-spot practicing opportunities and facilitates generalization of what is learned. Forty-four mothers with their babies (0-18 months), who were referred to a mental health clinic because of elevated stress or mental health problems of the mother, infant (regulation) problems, or mother-infant interaction problems, participated in 10 groups, each comprising of three to six mother-baby dyads. Questionnaires were administered at pretest, posttest, 8-week follow-up, and 1-year follow-up. Dropout rate was 7%. At posttest, 8-week follow-up, and 1-year follow-up, a significant improvement was seen in mindfulness, self-compassion, mindful parenting, (medium to large effects), as well as in well-being, psychopathology, parental confidence, responsivity, and hostility (small to large effects). Parental stress and parental affection only improved at the first and second follow-ups, respectively (small to medium effects), and maternal attention and rejection did not change. The infants improved in their positive affectivity (medium effect) but not in other aspects of their temperament. Mindful with your baby is a promising intervention for mothers with babies who are referred to mental health care because of elevated stress or mental health problems, infant (regulation) problems, or mother-infant interaction problems.
+C1 [Potharst, Eva S.; Bogels, Susan M.] Univ Amsterdam, UvA Minds, Acad Outpatient Child & Adolescent Treatment Ctr, Amsterdam, Netherlands.
+   [Aktar, Evin; Bogels, Susan M.] Univ Amsterdam, Res Inst Child Dev & Educ, Nieuwe Achtergracht 127, NL-1018 WS Amsterdam, Netherlands.
+   [Aktar, Evin] Leiden Univ, Clin Psychol Unit, Leiden, Netherlands.
+   [Rexwinkel, Marja; Rigterink, Margo] Infant Mental Hlth Ctr OuderKindLijn, Amsterdam, Netherlands.
+   [Rexwinkel, Marja; Rigterink, Margo] Med Pedag Ctr TKabouterhuis, Amsterdam, Netherlands.
+   [Bogels, Susan M.] Univ Amsterdam, Res Prior Area Yield, Amsterdam, Netherlands.
+RP Bogels, SM (corresponding author), Univ Amsterdam, UvA Minds, Acad Outpatient Child & Adolescent Treatment Ctr, Amsterdam, Netherlands.; Bogels, SM (corresponding author), Univ Amsterdam, Res Inst Child Dev & Educ, Nieuwe Achtergracht 127, NL-1018 WS Amsterdam, Netherlands.; Bogels, SM (corresponding author), Univ Amsterdam, Res Prior Area Yield, Amsterdam, Netherlands.
+EM S.M.Bogels@uva.nl
+OI Aktar, Evin/0000-0002-2942-171X
+NR 72
+TC 24
+Z9 24
+U1 2
+U2 14
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1868-8527
+EI 1868-8535
+J9 MINDFULNESS
+JI Mindfulness
+PD OCT
+PY 2017
+VL 8
+IS 5
+BP 1236
+EP 1250
+DI 10.1007/s12671-017-0699-9
+PG 15
+WC Psychology, Clinical; Psychiatry
+SC Psychology; Psychiatry
+GA FH5WA
+UT WOS:000411241000011
+PM 28989548
+OA Green Published
+DA 2020-08-04
+ER
+
+PT J
+AU Zhang, DX
+   Chan, SKC
+   Lo, HHM
+   Chan, CYH
+   Chan, JCY
+   Ting, KT
+   Gao, TT
+   Lai, KYC
+   Bogels, SM
+   Wong, SYS
+AF Zhang, Dexing
+   Chan, Stanley Kam Chung
+   Lo, Herman Hay Ming
+   Chan, Christina Ying Ha
+   Chan, Jenny Ching Yin
+   Ting, Ka Tsun
+   Gao, Tiffany Ting
+   Lai, Kelly Yee Ching
+   Bogels, Susan M.
+   Wong, Samuel Yeung Shan
+TI Mindfulness-Based Intervention for Chinese Children with ADHD and Their
+   Parents: a Pilot Mixed-Method Study
+SO MINDFULNESS
+LA English
+DT Article
+DE ADHD; Mindfulness; Family; Intervention; Qualitative and quantitative;
+   Mixed methods
+ID ATTENTION-DEFICIT/HYPERACTIVITY DISORDER; DEFICIT HYPERACTIVITY
+   DISORDER; BEHAVIOR RATING INVENTORY; EVERYDAY-ATTENTION; EXECUTIVE
+   FUNCTION; HONG-KONG; STRESS INDEX; TEA-CH; ADOLESCENTS; DEPRESSION
+AB This was a pilot pre-post-intervention study with added qualitative focused group discussions and interviews to examine the feasibility, acceptability, and effects of a mindfulness-based intervention (the 8-week MYmind course) for Chinese children with attention deficit hyperactivity disorder (ADHD) aged 8 to 12 years (n = 11) and one of their parents (n = 11). Outcomes included feasibility and acceptability of MYmind, objective measures of children's attention and related problems, parent-reported child executive function and behavior problems, and parents' parental stress, parenting styles, and mindful parenting. The attendance rate of MYmind (>= 6 out of 8 sessions) was 91%: only one family withdrew from the course. Participants expressed overall positive views about MYmind. They also expressed their changes after the course, barriers and facilitators for course participation and completion, and suggestions on course improvement. The overall satisfaction scores were 7.3 (2.1) and 8.0 (1.2) out of 10 among the children and parents, respectively. With respect to the quantitative results, after multiple testing correction, positive results with large effect sizes only occurred on the objective attention tests: "time per target," "attention score," and "map mission" of the Test of Everyday Attention for Children (TEA-Ch) and "omissions" of the computerized Conners' Continuous Performance Test 3rd Edition (CPT 3), whereas no statistically significant changes were seen in other measures, i.e., children's other results in the TEA-Ch and CPT 3, parents' perceived child problems on the Eyberg Child Behavior Inventory (ECBI) and the Behavior Rating Inventory of Executive Function (BRIEF), as well as parents' scores of the Parenting Stress Index (PSI), Parenting Scale (PS), and Interpersonal Mindfulness in Parenting (IM-P). The MYmind course is a feasible and acceptable intervention among Chinese children with ADHD and their parents. The preliminary significant quantitative results should be interpreted with much caution due to potential effects from learning on neurocognitive outcomes. Larger studies with a control group are needed.
+   This pilot trial is registered in the World Health Organization (WHO) Registry Network-Chinese Clinical Trial Register (ChiCTR). The reference number is ChiCTR-OPC-15006686.
+C1 [Zhang, Dexing; Gao, Tiffany Ting; Wong, Samuel Yeung Shan] Chinese Univ Hong Kong, JC Sch Publ Hlth & Primary Care, Div Family Med & Primary Hlth Care, Sha Tin, Hong Kong, Peoples R China.
+   [Chan, Stanley Kam Chung; Chan, Christina Ying Ha] Heep Hong Soc, Hong Kong, Hong Kong, Peoples R China.
+   [Lo, Herman Hay Ming] Hong Kong Polytech Univ, Dept Appl Social Sci, Kowloon, Hong Kong, Peoples R China.
+   [Chan, Jenny Ching Yin] Hong Kong Psychol Soc, Div Educ Psychol, Hong Kong, Hong Kong, Peoples R China.
+   [Ting, Ka Tsun] Kowloon Hosp, Hosp Author, Kowloon, Hong Kong, Peoples R China.
+   [Lai, Kelly Yee Ching] Chinese Univ Hong Kong, Dept Psychiat, Sha Tin, Hong Kong, Peoples R China.
+   [Bogels, Susan M.] Univ Amsterdam, Res Inst Child Dev & Educ, Amsterdam, Netherlands.
+   [Wong, Samuel Yeung Shan] Prince Wales Hosp, JC Sch Publ Hlth & Primary Care, 4-F, Shatin, Hong Kong, Peoples R China.
+RP Wong, SYS (corresponding author), Chinese Univ Hong Kong, JC Sch Publ Hlth & Primary Care, Div Family Med & Primary Hlth Care, Sha Tin, Hong Kong, Peoples R China.; Wong, SYS (corresponding author), Prince Wales Hosp, JC Sch Publ Hlth & Primary Care, 4-F, Shatin, Hong Kong, Peoples R China.
+EM yeungshanwong@cuhk.edu.hk
+RI WONG, Samuel Yeung Shan/D-7311-2013
+OI WONG, Samuel Yeung Shan/0000-0003-0934-6385; ZHANG,
+   Dexing/0000-0003-0073-4752; LO, Hay Ming Herman/0000-0002-5053-6837
+FU Direct Grant for Research, The Chinese University of Hong KongChinese
+   University of Hong Kong
+FX This study was funded by the Direct Grant for Research, The Chinese
+   University of Hong Kong. We also thank all the children and parents of
+   this study and workers and helpers in Heep Hong Society for the support.
+NR 65
+TC 18
+Z9 18
+U1 3
+U2 50
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1868-8527
+EI 1868-8535
+J9 MINDFULNESS
+JI Mindfulness
+PD AUG
+PY 2017
+VL 8
+IS 4
+BP 859
+EP 872
+DI 10.1007/s12671-016-0660-3
+PG 14
+WC Psychology, Clinical; Psychiatry
+SC Psychology; Psychiatry
+GA FA4KG
+UT WOS:000405411600003
+DA 2020-08-04
+ER
+
+PT J
+AU Short, VL
+   Gannon, M
+   Weingarten, W
+   Kaltenbach, K
+   LaNoue, M
+   Abatemarco, DJ
+AF Short, Vanessa L.
+   Gannon, Meghan
+   Weingarten, Wendy
+   Kaltenbach, Karol
+   LaNoue, Marianna
+   Abatemarco, Diane J.
+TI Reducing Stress Among Mothers in Drug Treatment: A Description of a
+   Mindfulness Based Parenting Intervention
+SO MATERNAL AND CHILD HEALTH JOURNAL
+LA English
+DT Article
+DE Mindfulness; Parenting; Pregnancy; Stress reduction; Substance abuse
+ID UNITED-STATES; SUBSTANCE USE; CHRONIC PAIN; MEDITATION; CHILDREN; ABUSE;
+   PREGNANCY; DISORDERS; ADDICTION; PROGRAM
+AB Background Parenting women with substance use disorder could potentially benefit from interventions designed to decrease stress and improve overall psychosocial health. In this study we assessed whether a mindfulness based parenting (MBP) intervention could be successful in decreasing general and parenting stress in a population of women who are in treatment for substance use disorder and who have infants or young children. Methods MBP participants (N = 59) attended a two-hour session once a week for 12 weeks. Within-group differences on stress outcome measures administered prior to the beginning of the MBP intervention and following the intervention period were investigated using mixed-effects linear regression models accounting for correlations arising from the repeated-measures. Scales assessed for pre-post change included the Perceived Stress Scale-10 (PSS) and the Parenting Stress Index-Short Form (PSI). Results General stress, as measured by the PSS, decreased significantly from baseline to post-intervention. Women with the highest baseline general stress level experienced the greatest change in total stress score. A significant change also occurred across the Parental Distress PSI subscale. Conclusions Findings from this innovative interventional study suggest that the addition of MBP within treatment programs for parenting women with substance use disorder is an effective strategy for reducing stress within this at risk population.
+C1 [Short, Vanessa L.; Gannon, Meghan; Weingarten, Wendy; Abatemarco, Diane J.] Thomas Jefferson Univ, Dept Obstet & Gynecol, 1233 Locust St Suite 401, Philadelphia, PA 19107 USA.
+   [Kaltenbach, Karol] Thomas Jefferson Univ, Sidney Kimmel Med Coll, 1233 Locust St Suite 401, Philadelphia, PA 19107 USA.
+   [LaNoue, Marianna] Thomas Jefferson Univ, Sidney Kimmel Med Coll, Dept Family & Community Med, 1015 Walnut St Suite 401, Philadelphia, PA 19107 USA.
+RP Short, VL (corresponding author), Thomas Jefferson Univ, Dept Obstet & Gynecol, 1233 Locust St Suite 401, Philadelphia, PA 19107 USA.
+EM Vanessa.Short@jefferson.edu
+FU Children's Bureau within Administration for Children and Families, a
+   division of the U.S. Department of Health and Human Services [90CB0190]
+FX This work was supported by the Children's Bureau which is located within
+   the Administration for Children and Families, a division of the U.S.
+   Department of Health and Human Services (Grant Award no. 90CB0190). The
+   authors especially thank the MBP participants, Cara Lee Palmer, Megan
+   Foss, Lindsay Reid, Esther Chung, Dennis Hand, Ruth Gubernick, and the
+   staff of MATER, Family Center and My Sister's Place.
+NR 36
+TC 13
+Z9 13
+U1 0
+U2 13
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1092-7875
+EI 1573-6628
+J9 MATERN CHILD HLTH J
+JI Matern. Child Health J.
+PD JUN
+PY 2017
+VL 21
+IS 6
+BP 1377
+EP 1386
+DI 10.1007/s10995-016-2244-1
+PG 10
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA EV9VG
+UT WOS:000402133600018
+PM 28078528
+DA 2020-08-04
+ER
+
+PT J
+AU Mann, J
+   Kuyken, W
+   O'Mahen, H
+   Ukoumunne, OC
+   Evans, A
+   Ford, T
+AF Mann, Joanna
+   Kuyken, Willem
+   O'Mahen, Heather
+   Ukoumunne, Obioha C.
+   Evans, Alison
+   Ford, Tamsin
+TI Manual Development and Pilot Randomised Controlled Trial of
+   Mindfulness-Based Cognitive Therapy Versus Usual Care for Parents with a
+   History of Depression
+SO MINDFULNESS
+LA English
+DT Article
+DE Mindfulness-based cognitive therapy; Depression; Parents; Children's
+   behaviour; Parenting
+ID CHILD PSYCHOPATHOLOGY; MATERNAL DEPRESSION; PATERNAL DEPRESSION;
+   BEHAVIOR; QUESTIONNAIRE; DISORDER; RELAPSE; RISK
+AB Parental depression can adversely affect parenting and children's development. We adapted mindfulness-based cognitive therapy (MBCT) for parents (MBCT-P) with a history of depression and describe its development, feasibility, acceptability and preliminary estimates of efficacy. Manual development involved interviews with 12 parents who participated in MBCT groups or pilot MBCT-P groups. We subsequently randomised 38 parents of children aged between 2 and 6 years to MBCT-P plus usual care (n = 19) or usual care (n = 19). Parents were interviewed to assess the acceptability of MBCT-P. Preliminary estimates of efficacy in relation to parental depression and children's behaviour were calculated at 4 and 9 months post-randomisation. Levels of parental stress, mindfulness and self-compassion were measured. Interviews confirmed the acceptability of MBCT-P; 78 % attended at least half the sessions. In the pilot randomised controlled trial (RCT), at 9 months, depressive symptoms in the MBCT-P arm were lower than in the usual care arm (adjusted mean difference = -7.0; 95 % confidence interval (CI) = -12.8 to -1.1; p = 0.02) and 11 participants (58 %) in the MBCT-P arm remained well compared to 6 (32 %) in the usual care arm (mean difference = 26 %; 95 % CI = -4 to 57 %; p = 0.02). Levels of mindfulness (p = 0.01) and self-compassion (p = 0.005) were higher in the MBCT-P arm, with no significant differences in parental stress (p = 0.2) or children's behaviour (p = 0.2). Children's behaviour problems were significantly lower in the MBCT-P arm at 4 months (p = 0.03). This study suggests MBCT-P is acceptable and feasible. A definitive trial is needed to test its efficacy and cost effectiveness.
+C1 [Mann, Joanna] Univ Oxford, Univ Exeter, Oxford Inst Clin Psychol Training, Peninsula Med Sch, Oxford, England.
+   [Kuyken, Willem] Univ Oxford, Warneford Hosp, Dept Psychiat, Oxford 0X3 7JX, England.
+   [O'Mahen, Heather; Evans, Alison] Univ Exeter, Mood Disorders Ctr, Exeter, Devon, England.
+   [Ukoumunne, Obioha C.] Univ Exeter, NIHR CLAHRC South West Peninsula PenCLAHRC, Exeter, Devon, England.
+   [Ford, Tamsin] Univ Exeter, Peninsula Med Sch, Exeter, Devon, England.
+RP Kuyken, W (corresponding author), Univ Oxford, Warneford Hosp, Dept Psychiat, Oxford 0X3 7JX, England.
+EM willem.kuyken@psych.ox.ac.uk
+RI Ford, Tamsin/V-5908-2019
+OI Ford, Tamsin/0000-0001-5295-4904; Kuyken, Willem/0000-0002-8596-5252
+FU Peninsula College of Medicine and Dentistry; Peninsula Collaboration for
+   Leadership in Applied Health Research and Care (CLAHRC); National
+   Institute for Health ResearchNational Institute for Health Research
+   (NIHR)
+FX Thank you to the parents who participated in this study and to the Trial
+   Steering Committee. We are grateful to Eluned Gold for second rating the
+   therapy tapes and Susan Bogels for her assistance with the manual
+   development. Thank you to Kat Legge, Pooja Shah, Rachael Vicary, Clare
+   Shuttleworth, Rachel Holden, Katie Lister, Rosie Lucas, Justine Hewitt
+   and Laura Pragnell for their assistance with aspects of the recruitment,
+   data collection and data entry. This work was funded by an internal
+   studentship at the Peninsula College of Medicine and Dentistry. Obioha
+   Ukoumunne is supported by the Peninsula Collaboration for Leadership in
+   Applied Health Research and Care (CLAHRC), a collaboration between the
+   University of Exeter, University of Plymouth and National Health Service
+   South West, funded by the National Institute for Health Research. The
+   views expressed are those of the authors and not necessarily those of
+   the NHS, the NIHR or the Department of Health.
+NR 43
+TC 5
+Z9 5
+U1 3
+U2 45
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1868-8527
+EI 1868-8535
+J9 MINDFULNESS
+JI Mindfulness
+PD OCT
+PY 2016
+VL 7
+IS 5
+BP 1024
+EP 1033
+DI 10.1007/s12671-016-0543-7
+PG 10
+WC Psychology, Clinical; Psychiatry
+SC Psychology; Psychiatry
+GA DV3XY
+UT WOS:000382860300002
+PM 27642371
+OA Other Gold, Green Published
+DA 2020-08-04
+ER
+
+PT J
+AU Bazzano, A
+   Wolfe, C
+   Zylowska, L
+   Wang, S
+   Schuster, E
+   Barrett, C
+   Lehrer, D
+AF Bazzano, Alicia
+   Wolfe, Christiane
+   Zylowska, Lidia
+   Wang, Steven
+   Schuster, Erica
+   Barrett, Christopher
+   Lehrer, Danise
+TI Mindfulness Based Stress Reduction (MBSR) for Parents and Caregivers of
+   Individuals with Developmental Disabilities: A Community-Based Approach
+SO JOURNAL OF CHILD AND FAMILY STUDIES
+LA English
+DT Article
+DE Mindfulness; Caregivers; Parents; Developmental disabilities;
+   Community-based participatory research
+ID QUALITY-OF-LIFE; SCHOOL-AGE-CHILDREN; MEDITATION; HEALTH; ADOLESCENTS;
+   SYMPTOMS; PROGRAM; MOTHERS
+AB Stress among parents and other primary caregivers of children with developmental disabilities is pervasive and linked to lower quality of life, unhealthy family functioning, and negative psychological consequences. However, few programs address the needs of parents or caregivers of children with developmental disabilities. A mindfulness-based stress reduction (MBSR) program is a well-suited approach for these parents and caregivers, who may be overwhelmed by their children's situation, anticipating future challenges and reliving past traumas. We aimed to develop, implement, and evaluate the feasibility of an MBSR program designed for this population in a community-based participatory setting. Parents and caregivers were equal partners with researchers in curriculum development, recruitment, implementation and evaluation. Two concurrent classes, morning and evening, were conducted weekly in English with simultaneous Spanish translation over 8-weeks. Classes consisted of meditation practice, supported discussion of stressors affecting parents/caregivers, and gentle stretching. Of 76 participants recruited, 66 (87 %) completed the program. All participants experienced a significant reduction (33 %) in perceived stress (p < 0.001) and parents (n = 59) experienced a 22 % reduction (p < 0.001) in parental stress. Parents/caregivers also reported significantly increased mindfulness, self-compassion, and well-being (p < 0.05). Participants continued to report significant reduction in stress 2 months after the program. Our study suggests that a community-based MBSR program can be an effective intervention to reduce stress and improve psychological well-being for parents and caregivers of children with developmental disabilities. Additional research should assess the effect of cultural or socioeconomic factors on the outcomes of the intervention and further expand MBSR programs to include community-based participatory settings.
+C1 [Bazzano, Alicia] Univ Calif Los Angeles, David Geffen Sch Med, Dept Pediat, Los Angeles, CA 90024 USA.
+   [Wolfe, Christiane] Insight LA, Los Angeles, CA USA.
+   [Zylowska, Lidia] Univ Calif Santa Cruz, Santa Cruz, CA 95064 USA.
+   [Wang, Steven; Schuster, Erica; Barrett, Christopher; Lehrer, Danise] Westside Reg Ctr, Culver City, CA USA.
+RP Bazzano, A (corresponding author), Univ Calif Los Angeles, David Geffen Sch Med, Dept Pediat, Los Angeles, CA 90024 USA.
+EM abazzano@ucla.edu
+NR 35
+TC 59
+Z9 60
+U1 2
+U2 78
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 1062-1024
+EI 1573-2843
+J9 J CHILD FAM STUD
+JI J. Child Fam. Stud.
+PD FEB
+PY 2015
+VL 24
+IS 2
+BP 298
+EP 308
+DI 10.1007/s10826-013-9836-9
+PG 11
+WC Family Studies; Psychology, Developmental; Psychiatry
+SC Family Studies; Psychology; Psychiatry
+GA AZ7KJ
+UT WOS:000348397700007
+DA 2020-08-04
+ER
+
+PT J
+AU Haydicky, J
+   Shecter, C
+   Wiener, J
+   Ducharme, JM
+AF Haydicky, Jillian
+   Shecter, Carly
+   Wiener, Judith
+   Ducharme, Joseph M.
+TI Evaluation of MBCT for Adolescents with ADHD and Their Parents: Impact
+   on Individual and Family Functioning
+SO JOURNAL OF CHILD AND FAMILY STUDIES
+LA English
+DT Article
+DE Attention-deficit hyperactivity disorder/ADHD; Mindfulness; Mindful
+   parenting; Adolescents; Treatment
+ID ATTENTION-DEFICIT/HYPERACTIVITY-DISORDER; DEFICIT HYPERACTIVITY
+   DISORDER; REVISED CHILD ANXIETY; EXECUTIVE FUNCTION DEFICITS;
+   PSYCHOSOCIAL TREATMENTS; DECREASES AGGRESSION; DEPRESSION SCALE;
+   SELF-PERCEPTIONS; MINDFULNESS; STRESS
+AB Adolescents with Attention Deficit/Hyperactivity Disorder (ADHD) often experience emotional and behavioural difficulties which contribute to stress and conflict in their family relationships. Mindfulness-based cognitive therapy (MBCT) is a promising intervention for these families. We evaluated the efficacy of an adaptation of a MBCT intervention for 13-18 year olds with ADHD and their parents. Adolescents (n = 18) and parents (n = 17) attended 8 weekly parallel group sessions. Participants completed questionnaires at four time points: 4 weeks before the intervention to control for general time effects, on the first and last days of the intervention, and 6 weeks after the intervention. Participants reported on adolescent ADHD symptoms, internalizing and externalizing problems, functional impairment, family functioning, parenting stress, and mindfulness. There were no significant changes on parent rated variables during the baseline period. Results of repeated measures ANOVA revealed reductions in the adolescents' inattention, conduct problems, and peer relations problems after the intervention, according to parental report. Parents also reported reductions in parenting stress and increases in mindful parenting. Adolescents did not report improvements on any variables during the intervention period. Paired t-tests indicated that improvements in adolescent symptomatology and mindful parenting were maintained 6 weeks after the intervention ended. Parents reported additional reductions in parenting stress at follow-up. Adolescents reported reductions in internalizing problems at follow-up. Overall, our results support and extend the preliminary findings of previous investigations of MBCT showing it to be a promising treatment for adolescents with ADHD and their parents.
+C1 [Haydicky, Jillian; Shecter, Carly; Wiener, Judith; Ducharme, Joseph M.] Univ Toronto, Ontario Inst Studies Educ, Dept Human Dev & Appl Psychol, Toronto, ON M5S 1V6, Canada.
+RP Haydicky, J (corresponding author), Univ Toronto, Ontario Inst Studies Educ, Dept Human Dev & Appl Psychol, 252 Bloor St West,9th Floor, Toronto, ON M5S 1V6, Canada.
+EM jill.haydicky@mail.utoronto.ca
+FU Social Sciences and Humanities Research Council of CanadaSocial Sciences
+   and Humanities Research Council of Canada (SSHRC)
+FX Preparation of this paper was supported in part by the Social Sciences
+   and Humanities Research Council of Canada. We extend our deepest
+   appreciation to Susan Bogels and her colleagues who developed the MYmind
+   program; Ashley Brunsek and her team of research assistants for their
+   contributions to the implementation of the study; and Olesya Falenchuk
+   for her guidance with data analysis. We are very grateful to our
+   participants from whom we have learned a great deal.
+NR 79
+TC 46
+Z9 49
+U1 5
+U2 99
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1062-1024
+EI 1573-2843
+J9 J CHILD FAM STUD
+JI J. Child Fam. Stud.
+PD JAN
+PY 2015
+VL 24
+IS 1
+BP 76
+EP 94
+DI 10.1007/s10826-013-9815-1
+PG 19
+WC Family Studies; Psychology, Developmental; Psychiatry
+SC Family Studies; Psychology; Psychiatry
+GA AY4DP
+UT WOS:000347528700008
+DA 2020-08-04
+ER
+
+EF

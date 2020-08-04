@@ -1,0 +1,617 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Freedenberg, VA
+   Hinds, PS
+   Friedmann, E
+AF Freedenberg, Vicki A.
+   Hinds, Pamela S.
+   Friedmann, Erika
+TI Mindfulness-Based Stress Reduction and Group Support Decrease Stress in
+   Adolescents with Cardiac Diagnoses: A Randomized Two-Group Study
+SO PEDIATRIC CARDIOLOGY
+LA English
+DT Article
+DE Adolescent; Cardiac; Psychosocial; Intervention; Mindfulness
+ID CONGENITAL HEART-DISEASE; IMPLANTABLE CARDIOVERTER-DEFIBRILLATORS;
+   HOSPITAL ANXIETY; DEPRESSION SCALE; OF-LIFE; PREVALENCE; METAANALYSIS;
+   PREDICTORS; RESPONSES; AGE
+AB Adolescents with cardiac diagnoses face unique challenges that can cause psychosocial distress. This study compares a Mindfulness-Based Stress Reduction (MBSR) program to a video online support group for adolescents with cardiac diagnoses. MBSR is a structured psycho-educational program which includes yoga, meditation, cognitive restructuring, and group support. A published feasibility study by our group showed significant reduction in anxiety following this intervention. Participants were randomized to MBSR or video online support group, and completed measures of anxiety, depression, illness-related stress, and coping pre- and post-6-session interventions. Qualitative data were obtained from post-intervention interviews. A total of 46 teens participated (mean 14.8 years; 63% female). Participants had congenital heart disease and/or cardiac device (52%), or postural orthostatic tachycardia syndrome (48%). Illness-related stress significantly decreased in both groups. Greater use of coping skills predicted lower levels of depression in both groups post-study completion. Higher baseline anxiety/depression scores predicted improved anxiety/depression scores in both groups. Each group reported the benefits of social support. The MBSR group further expressed benefits of learning specific techniques, strategies, and skills that they applied in real-life situations to relieve distress. Both the MBSR intervention and video support group were effective in reducing distress in this sample. Qualitative data elucidated the added benefits of using MBSR techniques to manage stress and symptoms. The video group format is useful for teens that cannot meet in person but can benefit from group support. Psychosocial interventions with stress management techniques and/or group support can reduce distress in adolescents with cardiac diagnoses.
+C1 [Freedenberg, Vicki A.; Hinds, Pamela S.] Childrens Natl Hlth Syst, 111 Michigan Ave NW, Washington, DC 20010 USA.
+   [Freedenberg, Vicki A.; Hinds, Pamela S.] George Washington Univ, Dept Pediat, Washington, DC 20052 USA.
+   [Hinds, Pamela S.] Childrens Natl Hlth Syst, Dept Nursing Sci Profess Practice & Qual, Washington, DC USA.
+   [Friedmann, Erika] Univ Maryland, Sch Nursing, Off Res & Scholarship, Baltimore, MD 21201 USA.
+RP Freedenberg, VA (corresponding author), Childrens Natl Hlth Syst, 111 Michigan Ave NW, Washington, DC 20010 USA.; Freedenberg, VA (corresponding author), George Washington Univ, Dept Pediat, Washington, DC 20052 USA.
+EM vfreeden@cnmc.org
+RI Hinds, Pamela/W-8115-2019
+FU William and Joanne Conway Research Chair at Children's National Health
+   System in Washington, DC
+FX This work was supported by the William and Joanne Conway Research Chair
+   at Children's National Health System in Washington, DC.
+NR 30
+TC 12
+Z9 12
+U1 2
+U2 23
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0172-0643
+EI 1432-1971
+J9 PEDIATR CARDIOL
+JI Pediatr. Cardiol.
+PD OCT
+PY 2017
+VL 38
+IS 7
+BP 1415
+EP 1425
+DI 10.1007/s00246-017-1679-5
+PG 11
+WC Cardiac & Cardiovascular Systems; Pediatrics
+SC Cardiovascular System & Cardiology; Pediatrics
+GA FJ0SG
+UT WOS:000412419300016
+PM 28702717
+DA 2020-08-04
+ER
+
+PT J
+AU Shomaker, LB
+   Bruggink, S
+   Pivarunas, B
+   Skoranski, A
+   Foss, J
+   Chaffin, E
+   Dalager, S
+   Annameier, S
+   Quaglia, J
+   Brown, KW
+   Broderick, P
+   Bell, C
+AF Shomaker, Lauren B.
+   Bruggink, Stephanie
+   Pivarunas, Bernadette
+   Skoranski, Amanda
+   Foss, Jillian
+   Chaffin, Ella
+   Dalager, Stephanie
+   Annameier, Shelly
+   Quaglia, Jordan
+   Brown, Kirk Warren
+   Broderick, Patricia
+   Bell, Christopher
+TI Pilot randomized controlled trial of a mindfulness-based group
+   intervention in adolescent girls at risk for type 2 diabetes with
+   depressive symptoms
+SO COMPLEMENTARY THERAPIES IN MEDICINE
+LA English
+DT Article
+DE Adolescents; Depression; Insulin resistance; Mindfulness; Type 2
+   diabetes
+ID COGNITIVE-BEHAVIORAL THERAPY; ATTENTION AWARENESS SCALE;
+   STRESS-REDUCTION; INSULIN-RESISTANCE; PREVENTION PROGRAM; YOUNG
+   ADULTHOOD; EFFICACY TRIAL; FOLLOW-UP; DISEASE; MEDITATION
+AB Objective: (1) Evaluate feasibility and acceptability of a mindfulness-based group in adolescent girls at-risk for type 2 diabetes (T2D) with depressive symptoms, and (2) compare efficacy of a mindfulness-based versus cognitive-behavioral group for decreasing depressive symptoms and improving insulin resistance.
+   Design and setting: Parallel-group, randomized controlled pilot trial conducted at a university.
+   Participants: Thirty-three girls 12-17y with overweight/obesity, family history of diabetes, and elevated depressive symptoms were randomized to a six-week mindfulness-based (n = 17) or cognitive-behavioral program (n = 16).
+   Interventions: Both interventions included six, one-hour weekly group sessions. The mindfulness-based program included guided mindfulness awareness practices. The cognitive-behavioral program involved cognitive restructuring and behavioral activation.
+   Main outcome measures: Adolescents were evaluated at baseline, post-intervention, and six-months. Feasibility/acceptability were measured by attendance and program ratings. Depressive symptoms were assessed by validated survey. Insulin resistance was determined from fasting insulin and glucose, and dual energy x-ray absorptiometry was used to assess body composition.
+   Results: Most adolescents attended 80% sessions (mindfulness: 92% versus cognitive-behavioral: 87%, p = 1.00). Acceptability ratings were strong. At post-treatment and six-months, adolescents in the mindfulness condition had greater decreases in depressive symptoms than adolescents in the cognitive-behavioral condition (ps < .05). Compared to the cognitive-behavioral condition, adolescents in the mindfulness-based intervention also had greater decreases in insulin resistance and fasting insulin at post-treatment, adjusting for fat mass and other covariates (ps < .05).
+   Conclusions: A mindfulness-based intervention shows feasibility and acceptability in girls at-risk for T2D with depressive symptoms. Compared to a cognitive-behavioral program, after the intervention, adolescents who received mindfulness showed greater reductions in depressive symptoms and better insulin resistance.
+C1 [Shomaker, Lauren B.; Bruggink, Stephanie; Pivarunas, Bernadette; Skoranski, Amanda; Chaffin, Ella; Dalager, Stephanie; Annameier, Shelly] Colorado State Univ, Dept Human Dev & Family Studies, Ft Collins, CO 80523 USA.
+   [Shomaker, Lauren B.; Foss, Jillian] Colorado State Univ, Dept Community & Behav Hlth, Ft Collins, CO 80523 USA.
+   [Quaglia, Jordan; Brown, Kirk Warren] Virginia Commonwealth Univ, Dept Psychol, Richmond, VA 23284 USA.
+   [Quaglia, Jordan] Naropa Univ, Dept Contemplat Psychol, Boulder, CO USA.
+   [Broderick, Patricia] Penn State Univ, Bennett Pierce Prevent Res Ctr, University Pk, PA 16802 USA.
+   [Bell, Christopher] Colorado State Univ, Dept Hlth & Exercise Sci, Ft Collins, CO 80523 USA.
+RP Shomaker, LB (corresponding author), Colorado State Univ, 1570 Campus Delivery, Ft Collins, CO 80523 USA.
+EM lauren.shomaker@colostate.edu
+FU Eunice Kennedy Shriver National Institute of Child Health and Human
+   DevelopmentUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH Eunice Kennedy Shriver National
+   Institute of Child Health & Human Development (NICHD) [R00HD069516]
+FX This study was supported by R00HD069516 from the Eunice Kennedy Shriver
+   National Institute of Child Health and Human Development with
+   supplemental support from the Colorado School of Public Health.
+NR 55
+TC 20
+Z9 20
+U1 3
+U2 35
+PU CHURCHILL LIVINGSTONE
+PI EDINBURGH
+PA JOURNAL PRODUCTION DEPT, ROBERT STEVENSON HOUSE, 1-3 BAXTERS PLACE,
+   LEITH WALK, EDINBURGH EH1 3AF, MIDLOTHIAN, SCOTLAND
+SN 0965-2299
+EI 1873-6963
+J9 COMPLEMENT THER MED
+JI Complement. Ther. Med.
+PD JUN
+PY 2017
+VL 32
+BP 66
+EP 74
+DI 10.1016/j.ctim.2017.04.003
+PG 9
+WC Integrative & Complementary Medicine
+SC Integrative & Complementary Medicine
+GA EZ4RQ
+UT WOS:000404700600011
+PM 28619307
+OA Green Accepted
+DA 2020-08-04
+ER
+
+PT J
+AU Hazlett-Stevens, H
+   Oren, Y
+AF Hazlett-Stevens, Holly
+   Oren, Yelena
+TI Effectiveness of Mindfulness-Based Stress Reduction Bibliotherapy: A
+   Preliminary Randomized Controlled Trial
+SO JOURNAL OF CLINICAL PSYCHOLOGY
+LA English
+DT Article
+DE mindfulness; MBSR; stress; bibliotherapy
+ID PSYCHOMETRIC PROPERTIES; COGNITIVE THERAPY; QUESTIONNAIRE; METAANALYSIS;
+   ANXIETY; DEPRESSION; VALIDATION; SAMPLES
+AB ObjectiveThis randomized controlled investigation examined the effectiveness of a self-help bibliotherapy format of the evidence-based mindfulness-based stress reduction (MBSR) intervention.
+   MethodCollege students seeking stress reduction were randomly assigned to a 10-week MBSR bibliotherapy intervention group (n = 47) or a no-treatment control group (n = 45). Self-report measures were collected at baseline and postintervention.
+   ResultsA total of 25 bibliotherapy and 43 control group participants provided final data following the intervention period. Compared to the control group, bibliotherapy participants reported increased mindfulness following the intervention. Significant decreases on measures of depression, anxiety, stress, perceived stress, and anxiety sensitivity also were reported postintervention as well as increased quality of life in physical health, psychological, and environmental domains. No statistically significant group effects were found for social relationships quality of life domain, worry, and experiential avoidance measures.
+   ConclusionThis MBSR workbook may provide an acceptable and effective alternative for motivated individuals seeking to reduce stress, at least for a select group of individuals who are willing and able to sustain participation in the intervention. (C) 2016 Wiley Periodicals, Inc.
+C1 [Hazlett-Stevens, Holly; Oren, Yelena] Univ Nevada, Reno, NV 89557 USA.
+RP Hazlett-Stevens, H (corresponding author), Univ Nevada, Dept Psychol 298, Reno, NV 89557 USA.
+EM hhazlett@unr.edu
+FU AlterMed Research Foundation [UNR 1321-112-1990]
+FX We gratefully acknowledge AlterMed Research Foundation for providing
+   support for this project (UNR 1321-112-1990).
+NR 26
+TC 15
+Z9 15
+U1 1
+U2 28
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0021-9762
+EI 1097-4679
+J9 J CLIN PSYCHOL
+JI J. Clin. Psychol.
+PD JUN
+PY 2017
+VL 73
+IS 6
+BP 626
+EP 637
+DI 10.1002/jclp.22370
+PG 12
+WC Psychology, Clinical
+SC Psychology
+GA EV0DI
+UT WOS:000401408200003
+PM 27487300
+DA 2020-08-04
+ER
+
+PT J
+AU Dvorakova, K
+   Kishida, M
+   Li, J
+   Elavsky, S
+   Broderick, PC
+   Agrusti, MR
+   Greenberg, MT
+AF Dvorakova, Kamila
+   Kishida, Moe
+   Li, Jacinda
+   Elavsky, Steriani
+   Broderick, Patricia C.
+   Agrusti, Mark R.
+   Greenberg, Mark T.
+TI Promoting healthy transition to college through mindfulness training
+   with first-year college students: Pilot randomized controlled trial
+SO JOURNAL OF AMERICAN COLLEGE HEALTH
+LA English
+DT Article
+DE Alcohol; mental health; mindfulness interventions; sleep; stress;
+   transition to college
+ID STRESS REDUCTION; HIGHER-EDUCATION; ACADEMIC-PERFORMANCE;
+   UNIVERSITY-STUDENTS; MENTAL-HEALTH; MEDITATION; SLEEP; INTERVENTIONS;
+   ADJUSTMENT; DISTRESS
+AB Objective: Given the importance of developmental transitions on young adults' lives and the high rates of mental health issues among U.S. college students, first-year college students can be particularly vulnerable to stress and adversity. This pilot study evaluated the effectiveness and feasibility of mindfulness training aiming to promote first-year college students' health and wellbeing. Participants: 109 freshmen were recruited from residential halls (50% Caucasian, 66% female). Data collection was completed in November 2014. Methods: A randomized control trial was conducted utilizing the Learning to BREATHE (L2B) program, a universal mindfulness program adapted to match the developmental tasks of college transition. Results: Participation in the pilot intervention was associated with significant increase in students' life satisfaction, and significant decrease in depression and anxiety. Marginally significant decrease was found for sleep issues and alcohol consequences. Conclusions: Mindfulness-based programs may be an effective strategy to enhance a healthy transition into college.
+C1 [Dvorakova, Kamila; Li, Jacinda; Greenberg, Mark T.] Penn State Univ, Dept Human Dev & Family Studies, University Pk, PA 16802 USA.
+   [Dvorakova, Kamila; Kishida, Moe; Li, Jacinda; Broderick, Patricia C.; Agrusti, Mark R.; Greenberg, Mark T.] Penn State Univ, Edna Bennett Pierce Prevent Res Ctr, University Pk, PA 16802 USA.
+   [Kishida, Moe; Elavsky, Steriani] Penn State Univ, Dept Kinesiol, University Pk, PA 16802 USA.
+RP Dvorakova, K (corresponding author), Penn State Univ, University Pk, PA 16802 USA.
+EM kud167@psu.edu
+RI Elavsky, Steriani/E-5639-2017
+OI Elavsky, Steriani/0000-0002-5070-0481
+FU National Center for Advancing Translational SciencesUnited States
+   Department of Health & Human ServicesNational Institutes of Health (NIH)
+   - USANIH National Center for Advancing Translational Sciences (NCATS);
+   Clinical and Translational Science Institute [UL1 TR000127, TR002014];
+   National Institute on Drug AbuseUnited States Department of Health &
+   Human ServicesNational Institutes of Health (NIH) - USANIH National
+   Institute on Drug Abuse (NIDA) [T32 DA017629]; Childhood Obesity
+   Prevention Training Program; USDAUnited States Department of Agriculture
+   (USDA) [2011-67001-30117]; Bennett Endowment Fund at Edna Bennett Pierce
+   Prevention Research Center
+FX This project was supported by grants from the National Center for
+   Advancing Translational Sciences, Clinical and Translational Science
+   Institute, UL1 TR000127 and TR002014, National Institute on Drug Abuse,
+   T32 DA017629, Childhood Obesity Prevention Training Program, USDA
+   2011-67001-30117, and the Bennett Endowment Fund at Edna Bennett Pierce
+   Prevention Research Center. The content does not necessarily represent
+   the official views of the National Institute on Drug Abuse or the
+   National Institutes of Health.
+NR 55
+TC 33
+Z9 34
+U1 4
+U2 66
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0744-8481
+EI 1940-3208
+J9 J AM COLL HEALTH
+JI J. Am. Coll. Health
+PY 2017
+VL 65
+IS 4
+BP 259
+EP 267
+DI 10.1080/07448481.2017.1278605
+PG 9
+WC Education & Educational Research; Public, Environmental & Occupational
+   Health
+SC Education & Educational Research; Public, Environmental & Occupational
+   Health
+GA EU4JO
+UT WOS:000400995800004
+PM 28076182
+OA Green Accepted
+DA 2020-08-04
+ER
+
+PT J
+AU Johnson, C
+   Burke, C
+   Brinkman, S
+   Wade, T
+AF Johnson, Catherine
+   Burke, Christine
+   Brinkman, Sally
+   Wade, Tracey
+TI Effectiveness of a school-based mindfulness program for transdiagnostic
+   prevention in young adolescents
+SO BEHAVIOUR RESEARCH AND THERAPY
+LA English
+DT Article
+DE Mindfulness; Adolescence; Schools; Transdiagnostic; Prevention
+ID EATING-DISORDER EXAMINATION; STRESS SCALES DASS-21; COGNITIVE THERAPY;
+   EXAMINATION-QUESTIONNAIRE; MEDITATION PRACTICE; CONSTRUCT-VALIDITY;
+   EMOTION REGULATION; CONTROLLED-TRIAL; SELF-COMPASSION; MENTAL-HEALTH
+AB Anxiety, depression and eating disorders show peak emergence during adolescence and share common risk factors. School-based prevention programs provide a unique opportunity to access a broad spectrum of the population during a key developmental window, but to date, no program targets all three conditions concurrently. Mindfulness has shown promising early results across each of these psychopathologies in a small number of controlled trials in schools, and therefore this study investigated its use in a randomised controlled design targeting anxiety, depression and eating disorder risk factors together for the first time. Students (M age 13.63; SD = .43) from a broad band of socioeconomic demographics received the eight lesson, once weekly.b ("Dot be") mindfulness in schools curriculum (N = 132) or normal lessons (N = 176). Anxiety, depression, weight/shape concerns and wellbeing were the primary outcome factors. Although acceptability measures were high, no significant improvements were found on any outcome at post-intervention or 3-month follow-up. Adjusted mean differences between groups at post -intervention were .03 (95% CI: -.06 to -.11) for depression, .01 (-.07 to -.09) for anxiety, .02 (-.05 to -.08) for weight/shape concerns, and .06 (-.08 to -.21) for wellbeing. Anxiety was higher in the mindfulness than the control group at follow-up for males, and those of both genders with low baseline levels of weight/shape concerns or depression. Factors that may be important to address for effective dissemination of mindfulness-based interventions in schools are discussed. Further research is required to identify active ingredients and optimal dose in mindfulness-based interventions in school settings. (C) 2016 Elsevier Ltd. All rights reserved.
+C1 [Johnson, Catherine; Wade, Tracey] Flinders Univ S Australia, Sch Psychol, Bedford Pk, SA 5042, Australia.
+   [Burke, Christine] Australian Catholic Univ, Inst Posit Psychol & Educ, Strathfield, NSW, Australia.
+   [Brinkman, Sally] Univ Western Australia, Telethon Kids Inst, Perth, WA 6009, Australia.
+   [Brinkman, Sally] Univ Adelaide, Sch Populat Hlth, Adelaide, SA, Australia.
+RP Johnson, C (corresponding author), Flinders Univ S Australia, Sch Psychol, GPO Box 2100, Adelaide, SA 5001, Australia.
+EM catherine.johnson@flinders.edu.au
+OI Wade, Tracey/0000-0003-4402-770X; Burke, Christine/0000-0002-8931-7906;
+   johnson, catherine/0000-0003-2733-3326; Brinkman,
+   Sally/0000-0001-7538-4844
+FU Flinders University Australian Postgraduate Award; Fraser Mustard
+   Centre, Telethon Kids Institute; Department of Education and Child
+   Development
+FX This study was funded by a Flinders University Australian Postgraduate
+   Award and a scholarship provided by the Fraser Mustard Centre, Telethon
+   Kids Institute and Department of Education and Child Development. There
+   were no conflicts of interest.
+NR 79
+TC 46
+Z9 47
+U1 4
+U2 64
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0005-7967
+EI 1873-622X
+J9 BEHAV RES THER
+JI Behav. Res. Ther.
+PD JUN
+PY 2016
+VL 81
+BP 1
+EP 11
+DI 10.1016/j.brat.2016.03.002
+PG 11
+WC Psychology, Clinical
+SC Psychology
+GA DM9QM
+UT WOS:000376700800001
+PM 27054828
+DA 2020-08-04
+ER
+
+PT J
+AU Sibinga, EMS
+   Webb, L
+   Ghazarian, SR
+   Ellen, JM
+AF Sibinga, Erica M. S.
+   Webb, Lindsey
+   Ghazarian, Sharon R.
+   Ellen, Jonathan M.
+TI School-Based Mindfulness Instruction: An RCT
+SO PEDIATRICS
+LA English
+DT Article
+ID RANDOMIZED CONTROLLED-TRIAL; AGGRESSIVE-BEHAVIOR; COMMUNITY VIOLENCE;
+   STRESS REDUCTION; TOXIC STRESS; CHILDREN; SCALE; ADOLESCENTS;
+   MEDITATION; VALIDITY
+AB BACKGROUND AND OBJECTIVE: Many urban youth experiencesignificant and unremitting negative stressors, including those associated with community violence, multigenerational poverty, failing educational systems, substance use, limited avenues for success, health risks, and trauma. Mindfulness instruction improves psychological functioning in a variety of adult populations; research on mindfulness for youth is promising, but has been conducted in limited populations. Informed by implementation science, we evaluated an adapted mindfulness-based stress reduction (MBSR) program to ameliorate the negative effects of stress and trauma among low-income, minority, middle school public school students.
+   METHODS: Participants were students at two Baltimore City Public Schools who were randomly assigned by grade to receive adapted MBSR or health education (Healthy Topics [ HT]) programs. Self-report survey data were collected at baseline and postprogram. Deidentified data were analyzed in the aggregate, comparing MBSR and HT classes, by using regression modeling.
+   RESULTS: Three hundred fifth-to eighth-grade students (mean 12.0 years) were in MBSR and HT classes and provided survey data. Participants were 50.7% female, 99.7% African American, and 99% eligible for free lunch. The groups were comparable at baseline. Postprogram, MBSR students had significantly lower levels of somatization, depression, negative affect, negative coping, rumination, self-hostility, and posttraumatic symptom severity (all Ps <.05) than HT.
+   CONCLUSIONS: These findings support the hypothesis that mindfulness instruction improves psychological functioning and may ameliorate the negative effects of stress and reduce trauma-associated symptoms among vulnerable urban middle school students. Additional research is needed to explore psychological, social, and behavioral outcomes, and mechanisms of mindfulness instruction.
+C1 [Sibinga, Erica M. S.; Webb, Lindsey; Ghazarian, Sharon R.; Ellen, Jonathan M.] Johns Hopkins Sch Med, Dept Pediat, Div Gen Pediat & Adolescent Med, St Petersburg, FL USA.
+   [Ellen, Jonathan M.] All Childrens Hosp Johns Hopkins Med, St Petersburg, FL USA.
+RP Sibinga, EMS (corresponding author), Johns Hopkins Sch Med, Ctr Child & Community Hlth Res, Suite 4200,Mason F Lord Bldg,Ctr Tower, Baltimore, MD 21224 USA.
+EM esibinga@jhmi.edu
+RI Webb, Lindsey/AAE-8973-2020
+OI Webb, Lindsey/0000-0001-5522-3533
+FU Elev8 Baltimore
+FX Supported by Elev8 Baltimore.
+NR 38
+TC 33
+Z9 34
+U1 3
+U2 67
+PU AMER ACAD PEDIATRICS
+PI ELK GROVE VILLAGE
+PA 141 NORTH-WEST POINT BLVD,, ELK GROVE VILLAGE, IL 60007-1098 USA
+SN 0031-4005
+EI 1098-4275
+J9 PEDIATRICS
+JI Pediatrics
+PD JAN
+PY 2016
+VL 137
+IS 1
+AR e20152532
+DI 10.1542/peds.2015-2532
+PG 8
+WC Pediatrics
+SC Pediatrics
+GA DF5KJ
+UT WOS:000371390300036
+OA Bronze
+DA 2020-08-04
+ER
+
+PT J
+AU Song, Y
+   Lindquist, R
+AF Song, Yeoungsuk
+   Lindquist, Ruth
+TI Effects of mindfulness-based stress reduction on depression, anxiety,
+   stress and mindfulness in Korean nursing students
+SO NURSE EDUCATION TODAY
+LA English
+DT Article
+DE Mindfulness-based stress reduction; Depression; Anxiety; Stress;
+   Mindfulness
+ID RANDOMIZED CONTROLLED-TRIAL; MEDITATION; SYMPTOMS; HEALTH; LIFE
+AB Background: Nursing students often experience depression, anxiety, stress and decreased mindfulness which may decrease their patient care effectiveness. Mindfulness-based stress reduction (MBSR) effectively reduced depression, anxiety and stress, and increased mindfulness in previous research with other populations, but there is sparse evidence regarding its effectiveness for nursing students in Korea.
+   Objectives: To examine the effects of MBSR on depression, anxiety, stress and mindfulness in Korean nursing students.
+   Design: A randomized controlled trial.
+   Participants/Setting: Fifty (50) nursing students at KN University College of Nursing in South Korea were randomly assigned to two groups. Data from 44 students, MBSR (n = 21) and a wait list (WL) control (n = 23) were analyzed.
+   Methods: The MBSR group practiced mindfulness meditation for 2 h every week for 8 weeks. The WI. group did not receive MBSR intervention. Standardized self-administered questionnaires of depression, anxiety, stress and mindfulness were administered at the baseline prior to the MBSR program and at completion (at 8 weeks).
+   Results: Compared with WL participants, MBSR participants reported significantly greater decreases in depression, anxiety and stress, and greater increase in mindfulness.
+   Conclusion: A program of MBSR was effective when it was used with nursing students in reducing measures of depression, anxiety and stress, and increasing their mindful awareness. MBSR shows promise for use with nursing students to address their experience of mild depression, anxiety and stress, and to increase mindfulness in academic and clinical work, warranting further study. (C) 2014 Elsevier Ltd. All rights reserved.
+C1 [Song, Yeoungsuk] Kyungpook Natl Univ, Coll Nursing, Taegu 700422, South Korea.
+   [Lindquist, Ruth] Univ Minnesota, Sch Nursing, Minneapolis, MN 55455 USA.
+RP Song, Y (corresponding author), Kyungpook Natl Univ, Coll Nursing, 101 Dongin Dong, Taegu 700422, South Korea.
+EM asansong@knu.ac.kr; lindq002@umn.edu
+NR 30
+TC 91
+Z9 95
+U1 6
+U2 94
+PU CHURCHILL LIVINGSTONE
+PI EDINBURGH
+PA JOURNAL PRODUCTION DEPT, ROBERT STEVENSON HOUSE, 1-3 BAXTERS PLACE,
+   LEITH WALK, EDINBURGH EH1 3AF, MIDLOTHIAN, SCOTLAND
+SN 0260-6917
+EI 1532-2793
+J9 NURS EDUC TODAY
+JI Nurse Educ. Today
+PD JAN
+PY 2015
+VL 35
+IS 1
+BP 86
+EP 90
+DI 10.1016/j.nedt.2014.06.010
+PG 5
+WC Education, Scientific Disciplines; Nursing
+SC Education & Educational Research; Nursing
+GA AY5DG
+UT WOS:000347592800017
+PM 25066651
+DA 2020-08-04
+ER
+
+PT J
+AU Sibinga, EMS
+   Perry-Parrish, C
+   Chung, SE
+   Johnson, SB
+   Smith, M
+   Ellen, JM
+AF Sibinga, Erica M. S.
+   Perry-Parrish, Carisa
+   Chung, Shang-en
+   Johnson, Sara B.
+   Smith, Michael
+   Ellen, Jonathan M.
+TI School-based mindfulness instruction for urban male youth: A small
+   randomized controlled trial
+SO PREVENTIVE MEDICINE
+LA English
+DT Article
+DE Meditation; Mindfulness; Youth; Adolescent; School-based; Mindfulness
+   meditation; Mindfulness-based stress reduction; Coping; Self-regulation
+ID STRESS REDUCTION; MEDITATION; MECHANISMS; THERAPY
+AB Objectives. Mindfulness-based stress reduction (MBSR) has been shown to improve mental health and reduce stress in a variety of adult populations. Here, we explore the effects of a school-based MBSR program for young urban males.
+   Participants and methods. In fall 2009, 7th and 8th graders at a small school for low-income urban boys were randomly assigned to 12-session programs of MBSR or health education (Healthy Topics-HT). Data were collected at baseline, post-program, and three-month follow-up on psychological functioning; sleep; and salivary cortisol, a physiologic measure of stress.
+   Results. Forty-one (22 MBSR and 19 HT) of the 42 eligible boys participated, of whom 95% were African American, with a mean age of 12.5 years. Following the programs, MBSR boys had less anxiety (p = 0.01), less rumination (p = 0.02), and showed a trend for less negative coping (p = 0.06) than HT boys. Comparing baseline with post-program, cortisol levels increased during the academic terms for HT participants at a trend level (p = 0.07) but remained constant for MBSR participants (p = 033).
+   Conclusions. In this study, MBSR participants showed less anxiety, improved coping, and a possible attenuation of cortisol response to academic stress, when compared with HT participants. These results suggest that MBSR improves psychological functioning among urban male youth. (C) 2013 Elsevier Inc. All rights reserved.
+C1 [Sibinga, Erica M. S.; Chung, Shang-en] Johns Hopkins Sch Med, Dept Pediat, Div Gen Pediat & Adolescent Med, Ctr Child & Community Hlth Res, Baltimore, MD USA.
+   [Perry-Parrish, Carisa] Johns Hopkins Sch Med, Dept Child & Adolescent Psychiat, Baltimore, MD USA.
+   [Johnson, Sara B.] Johns Hopkins Sch Med, Dept Pediat, Div Gen Pediat & Adolescent Med, Baltimore, MD USA.
+   [Johnson, Sara B.; Smith, Michael] Johns Hopkins Bloomberg Sch Publ Hlth, Dept Populat Family & Reprod Hlth, Baltimore, MD USA.
+   [Johnson, Sara B.] Arizona State Univ, Inst Interdisciplinary Salivary Biosci Res, Tempe, AZ 85287 USA.
+   [Ellen, Jonathan M.] Johns Hopkins Univ, Sch Med, All Childrens Hosp Johns Hopkins Med, Baltimore, MD 21218 USA.
+RP Sibinga, EMS (corresponding author), Suite 4200,Mason F Lord Bldg,Ctr Tower,5200 Easte, Baltimore, MD 21224 USA.
+EM esibinga@jhmi.edu
+FU Johns Hopkins University Center for Mind-Body Research
+FX This study was funded by the Johns Hopkins University Center for
+   Mind-Body Research.
+NR 20
+TC 75
+Z9 75
+U1 4
+U2 86
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0091-7435
+EI 1096-0260
+J9 PREV MED
+JI Prev. Med.
+PD DEC
+PY 2013
+VL 57
+IS 6
+BP 799
+EP 801
+DI 10.1016/j.ypmed.2013.08.027
+PG 3
+WC Public, Environmental & Occupational Health; Medicine, General &
+   Internal
+SC Public, Environmental & Occupational Health; General & Internal Medicine
+GA 260BR
+UT WOS:000327570500010
+PM 24029559
+DA 2020-08-04
+ER
+
+PT J
+AU Biegel, GM
+   Brown, KW
+   Shapiro, SL
+   Schubert, CA
+AF Biegel, Gina M.
+   Brown, Kirk Warren
+   Shapiro, Shauna L.
+   Schubert, Christine A.
+TI Mindfulness-Based Stress Reduction for the Treatment of Adolescent
+   Psychiatric Outpatients: A Randomized Clinical Trial
+SO JOURNAL OF CONSULTING AND CLINICAL PSYCHOLOGY
+LA English
+DT Article
+DE mindfulness-based stress reduction; mindfulness; adolescents
+ID MOOD DISORDERS; MENTAL-HEALTH; CHILDREN; YOUTH; INTERVENTION;
+   DEPRESSION; MEDITATION; MEDIATION; BENEFITS
+AB Research has shown that mindfulness-based treatment interventions may be effective for a range of mental and physical health disorders in adult populations, but little is known about the effectiveness of such interventions for treating adolescent conditions. The present randomized clinical trial was designed to assess the effect of the mindfulness-based stress reduction (MBSR) program for adolescents age 14 to 18 years with heterogeneous diagnoses in an outpatient psychiatric facility (intent-to-treat N = 102). Relative to treatment-as-usual control participants, those receiving MBSR self-reported reduced symptoms of anxiety, depression, and somatic distress, and increased self-esteem and sleep quality. Of clinical significance, the MBSR group showed a higher percentage of diagnostic improvement over the 5-month study period and significant increases in global assessment of functioning scores relative to controls, as rated by condition-naive clinicians. These results were found in both completer and intent-to-treat samples. The findings provide evidence that MBSR may be a beneficial adjunct to outpatient mental health treatment for adolescents.
+C1 [Biegel, Gina M.] Kaiser Permanente Hosp, Dept Child & Adolescent Psychiat, San Jose, CA 95136 USA.
+   [Brown, Kirk Warren] Virginia Commonwealth Univ, Dept Psychol, Richmond, VA 23284 USA.
+   [Shapiro, Shauna L.] Santa Clara Univ, Dept Counseling Psychol, Santa Clara, CA 95053 USA.
+   [Schubert, Christine A.] Virginia Commonwealth Univ, Dept Biostat, Richmond, VA 23284 USA.
+RP Biegel, GM (corresponding author), Kaiser Permanente Hosp, Dept Child & Adolescent Psychiat, 175 Bernal Rd,Suite 140, San Jose, CA 95136 USA.
+EM gina@stressedteens.com; kwbrown@vcu.edu
+NR 44
+TC 266
+Z9 272
+U1 1
+U2 132
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-006X
+J9 J CONSULT CLIN PSYCH
+JI J. Consult. Clin. Psychol.
+PD OCT
+PY 2009
+VL 77
+IS 5
+BP 855
+EP 866
+DI 10.1037/a0016241
+PG 12
+WC Psychology, Clinical
+SC Psychology
+GA 503TX
+UT WOS:000270564400006
+PM 19803566
+OA Green Published
+DA 2020-08-04
+ER
+
+PT J
+AU Kang, YS
+   Choi, SY
+   Ryu, E
+AF Kang, Yune Sik
+   Choi, So Young
+   Ryu, Eunjung
+TI The effectiveness of a stress coping program based on mindfulness
+   meditation on the stress, anxiety, and depression experienced by nursing
+   students in Korea
+SO NURSE EDUCATION TODAY
+LA English
+DT Article
+DE Meditation; Stress; Anxiety; Depression; Nursing students
+ID REDUCTION; PERCEPTIONS; MANAGEMENT; DISTRESS
+AB This study examined the effectiveness of a stress coping program based on mindfulness meditation on the stress, anxiety, and depression experienced by nursing students in Korea. A nonequivalent, control group, pre-posttest design was used. A convenience sample of 41 nursing students were randomly assigned to experimental (n = 21) and control groups (n = 20). Stress was measured with the PWI-SF (5-point) developed by Chang. Anxiety was measured with Spieberger's state anxiety inventory. Depression was measured with the Beck depression inventory. The experimental group attended 90-min sessions for eight weeks. No intervention was administered to the control group. Nine participants were excluded from the analysis because they did not complete the study due to personal circumstances, resulting in 16 participants in each group for the final analysis. Results for the two groups showed (1) a significant difference in stress scores (F = 6.145, p = 0.020), (2) a significant difference in anxiety scores (F = 6.985, p = 0.013), and (3) no significant difference in depression scores (t = 1.986, p = 0.056). A stress coping program based on mindfulness meditation was an effective intervention for nursing students to decrease their stress and anxiety, and could be used to manage stress in student nurses. In the future, long-term studies should be pursued to standardize and detail the program, with particular emphasis on studies to confirm the effects of the program in patients with diseases, such as cancer. (C) 2008 Elsevier Ltd. All rights reserved.
+C1 [Choi, So Young] Gyeongsang Natl Univ, Coll Nursing, Inst Hlth Sci, Chinju 660751, South Korea.
+   [Kang, Yune Sik] Gyeongsang Natl Univ, Sch Med, Inst Hlth Sci, Dept Prevent Med, Chinju 660751, South Korea.
+   [Ryu, Eunjung] Konkuk Univ, Dept Nursing, Chungju 380701, South Korea.
+RP Choi, SY (corresponding author), Gyeongsang Natl Univ, Coll Nursing, Inst Hlth Sci, 92 Chilam Dong, Chinju 660751, South Korea.
+EM csy4214@hanmail.net
+RI Ryu, Eunjung/AAH-8482-2019
+OI Ryu, Eunjung/0000-0002-2232-6082
+NR 31
+TC 100
+Z9 105
+U1 2
+U2 53
+PU CHURCHILL LIVINGSTONE
+PI EDINBURGH
+PA JOURNAL PRODUCTION DEPT, ROBERT STEVENSON HOUSE, 1-3 BAXTERS PLACE,
+   LEITH WALK, EDINBURGH EH1 3AF, MIDLOTHIAN, SCOTLAND
+SN 0260-6917
+EI 1532-2793
+J9 NURS EDUC TODAY
+JI Nurse Educ. Today
+PD JUL
+PY 2009
+VL 29
+IS 5
+BP 538
+EP 543
+DI 10.1016/j.nedt.2008.12.003
+PG 6
+WC Education, Scientific Disciplines; Nursing
+SC Education & Educational Research; Nursing
+GA 462JG
+UT WOS:000267347600013
+PM 19141364
+DA 2020-08-04
+ER
+
+EF

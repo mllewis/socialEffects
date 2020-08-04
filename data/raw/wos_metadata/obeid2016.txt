@@ -1,0 +1,560 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Gabriel, A
+   Meulemans, T
+   Parisse, C
+   Maillart, C
+AF Gabriel, Audrey
+   Meulemans, Thierry
+   Parisse, Christophe
+   Maillart, Christelle
+TI Procedural learning across modalities in French-speaking children with
+   specific language impairment
+SO APPLIED PSYCHOLINGUISTICS
+LA English
+DT Article
+ID WORKING-MEMORY; SEQUENCE; ATTENTION; PERCEPTION; SKILL; TIME; AGE;
+   DISCRIMINATION; CONSOLIDATION; DISORDER
+AB It has been suggested that the language problems encountered in specific language impairment (SLI) arise from basal ganglia abnormalities that lead to impaired procedural memory. However, recent serial reaction time (SRT) studies did not reveal any differences between the SLI and typically developing (TD) groups on the measures of procedural memory linked to visual sequence learning. In this paper, 16 children with and without SLI were compared on two versions of SRT tasks: a visual task and an auditory one. The results showed that children with SLI were as fast as their TD peers in both modalities. All of the children obtained similar specific sequence learning indices, indicating that they were able to detect regularities in both modalities. Although children with SLI were as accurate as their TD peers for the visual SRT task, they made more errors than their TD peers in auditory SRT conditions. The results indicate that, in relation to procedural memory, the core of the impairment in SLI is not linked to difficulties in the detection of regularities. We argue that when children with SLI present some difficulties, the children's weaknesses might depend on the type of processing involved (e. g., tasks involving auditory sequences).
+C1 [Gabriel, Audrey; Meulemans, Thierry; Maillart, Christelle] Univ Liege, B-4000 Liege, Belgium.
+   [Parisse, Christophe] Univ Paris Ouest Nanterre, Nanterre, France.
+RP Maillart, C (corresponding author), Univ Liege, Dept Psychol Cognit & Behav, B38 Rue Aunaie, B-4000 Liege, Belgium.
+EM christelle.maillart@ulg.ac.be
+RI Parisse, Christophe/E-1067-2019; Parisse, Christophe/N-4373-2018
+OI Parisse, Christophe/0000-0002-0010-3363; Maillart,
+   Christelle/0000-0002-7091-8293
+FU University of LiegeUniversity of Liege
+FX The support for the conduct of this research was provided by the
+   University of Liege (doctoral fellowship for fields not eligible for
+   FRIA). We also thank Leslie Fauconnier, the teachers, children, and
+   families who generously contributed their time.
+NR 77
+TC 13
+Z9 13
+U1 0
+U2 10
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0142-7164
+EI 1469-1817
+J9 APPL PSYCHOLINGUIST
+JI Appl. Psycholinguist.
+PD MAY
+PY 2015
+VL 36
+IS 3
+BP 747
+EP 769
+DI 10.1017/S0142716413000490
+PG 23
+WC Linguistics; Psychology, Experimental
+SC Linguistics; Psychology
+GA CH4UF
+UT WOS:000354027700010
+OA Green Published
+DA 2020-08-04
+ER
+
+PT J
+AU Roser, ME
+   Aslin, RN
+   McKenzie, R
+   Zahra, D
+   Fiser, J
+AF Roser, Matthew E.
+   Aslin, Richard N.
+   McKenzie, Rebecca
+   Zahra, Daniel
+   Fiser, Jozsef
+TI Enhanced Visual Statistical Learning in Adults With Autism
+SO NEUROPSYCHOLOGY
+LA English
+DT Article
+DE Autism Spectrum Disorder; Asperger's; statistical learning; visual
+   features
+ID HIGH-FUNCTIONING AUTISM; SUSTAINED ATTENTION; ASPERGER SYNDROME; LOCAL
+   PRECEDENCE; NEURAL EVIDENCE; CHILDREN; RECOGNITION; SEGMENTATION;
+   INTELLIGENCE; PERCEPTION
+AB Objective: Individuals with autism spectrum disorder (ASD) are often characterized as having social engagement and language deficiencies, but a sparing of visuospatial processing and short-term memory (STM), with some evidence of supranormal levels of performance in these domains. The present study expanded on this evidence by investigating the observational learning of visuospatial concepts from patterns of covariation across multiple exemplars. Method: Child and adult participants with ASD, and age-matched control participants, viewed multishape arrays composed from a random combination of pairs of shapes that were each positioned in a fixed spatial arrangement. Results: After this passive exposure phase, a posttest revealed that all participant groups could discriminate pairs of shapes with high covariation from randomly paired shapes with low covariation. Moreover, learning these shape-pairs with high covariation was superior in adults with ASD than in age-matched controls, whereas performance in children with ASD was no different than controls. Conclusions: These results extend previous observations of visuospatial enhancement in ASD into the domain of learning, and suggest that enhanced visual statistical learning may have arisen from a sustained bias to attend to local details in complex arrays of visual features.
+C1 [Roser, Matthew E.] Univ Plymouth, Sch Psychol, Plymouth PL6 7SA, Devon, England.
+   [Aslin, Richard N.] Univ Rochester, Richard N Aslin Brain & Cognit Sci, Rochester, NY 14627 USA.
+   [Aslin, Richard N.] Univ Rochester, Ctr Visual Sci, Rochester, NY 14627 USA.
+   [McKenzie, Rebecca] Univ Plymouth, Plymouth Inst Educ, Plymouth PL6 7SA, Devon, England.
+   [Zahra, Daniel] Univ Plymouth, Peninsula Sch Med, Plymouth PL6 7SA, Devon, England.
+   [Zahra, Daniel] Univ Plymouth, Peninsula Sch Dent, Plymouth PL6 7SA, Devon, England.
+   [Fiser, Jozsef] Cent European Univ, Dept Cognit Sci, Budapest, Hungary.
+RP Roser, ME (corresponding author), Univ Plymouth, Sch Psychol, Plymouth PL6 7SA, Devon, England.
+EM matt.roser@plymouth.ac.uk
+OI Zahra, Daniel/0000-0001-6534-6916; Roser, Matt/0000-0001-6322-9863
+FU FP7 Marie-Curie CIGEuropean Union (EU) [618918]; National Institutes of
+   HealthUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USA [HD-037082]
+FX Work on this project was supported by the FP7 Marie-Curie CIG 618918 and
+   National Institutes of Health HD-037082 research grants. The authors
+   thank Plymstock School and Ridgeway School for their participation in
+   this research. Data for this report were collected by Samuel Jones,
+   Daniela Austin, Amy Goodwin, Lucas Michaelides, and Marie-Stephanie
+   Cahart.
+NR 77
+TC 17
+Z9 17
+U1 0
+U2 26
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0894-4105
+EI 1931-1559
+J9 NEUROPSYCHOLOGY
+JI Neuropsychology
+PD MAR
+PY 2015
+VL 29
+IS 2
+BP 163
+EP 172
+DI 10.1037/neu0000137
+PG 10
+WC Psychology, Clinical; Neurosciences; Psychology
+SC Psychology; Neurosciences & Neurology
+GA CC7OL
+UT WOS:000350557700001
+PM 25151115
+OA Green Accepted, Green Published
+DA 2020-08-04
+ER
+
+PT J
+AU Hsu, HJ
+   Bishop, DVM
+AF Hsu, Hsinjen Julie
+   Bishop, Dorothy V. M.
+TI Sequence- specific procedural learning deficits in children with
+   specific language impairment
+SO DEVELOPMENTAL SCIENCE
+LA English
+DT Article
+ID SHORT-TERM-MEMORY; PARKINSONS-DISEASE; FUNCTIONAL EQUIVALENCE;
+   DECLARATIVE/PROCEDURAL MODEL; DEVELOPMENTAL DYSLEXIA; AMNESIC PATIENTS;
+   IMPLICIT; INFORMATION; SKILL; MOTOR
+AB This study tested the procedural deficit hypothesis of specific language impairment (SLI) by comparing children's performance in two motor procedural learning tasks and an implicit verbal sequence learning task. Participants were 7- to 11-year-old children with SLI (n=48), typically developing age-matched children (n=20) and younger typically developing children matched for receptive grammar (n=28). In a serial reaction time task, the children with SLI performed at the same level as the grammar-matched children, but poorer than age-matched controls in learning motor sequences. When tested with a motor procedural learning task that did not involve learning sequential relationships between discrete elements (i.e. pursuit rotor), the children with SLI performed comparably with age-matched children and better than younger grammar-matched controls. In addition, poor implicit learning of word sequences in a verbal memory task (the Hebb effect) was found in the children with SLI. Together, these findings suggest that SLI might be characterized by deficits in learning sequence-specific information, rather than generally weak procedural learning.
+C1 [Hsu, Hsinjen Julie] Natl Kaohsiung Normal Univ, Grad Inst Audiol & Speech Therapy, Kaohsiung 802, Taiwan.
+   [Bishop, Dorothy V. M.] Univ Oxford, Dept Expt Psychol, Oxford OX1 2JD, England.
+RP Hsu, HJ (corresponding author), Natl Kaohsiung Normal Univ, Grad Inst Audiol & Speech Therapy, 116 Heping 1st Rd, Kaohsiung 802, Taiwan.
+EM julie.h.hsu@nknu.edu.tw
+OI Bishop, Dorothy/0000-0002-2448-4033
+FU Wellcome TrustWellcome Trust [082498, 053335]
+NR 68
+TC 70
+Z9 70
+U1 0
+U2 41
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1363-755X
+EI 1467-7687
+J9 DEVELOPMENTAL SCI
+JI Dev. Sci.
+PD MAY
+PY 2014
+VL 17
+IS 3
+BP 352
+EP 365
+DI 10.1111/desc.12125
+PG 14
+WC Psychology, Developmental; Psychology, Experimental
+SC Psychology
+GA AF4OO
+UT WOS:000334693300003
+PM 24410990
+OA Green Accepted, Green Published
+DA 2020-08-04
+ER
+
+PT J
+AU Hsu, HJ
+   Tomblin, JB
+   Christiansen, MH
+AF Hsu, Hsinjen J.
+   Tomblin, J. Bruce
+   Christiansen, Morten H.
+TI Impaired statistical learning of non-adjacent dependencies in
+   adolescents with specific language impairment
+SO FRONTIERS IN PSYCHOLOGY
+LA English
+DT Article
+DE non-adjacent dependencies; statistical learning; specific language
+   impairment
+ID NONADJACENT DEPENDENCIES; KINDERGARTEN-CHILDREN; MEMORY; ADULTS; SLI;
+   SENSITIVITY; WORKING; SPEECH; RULES
+AB Being able to track dependencies between syntactic elements separated by other constituents is crucial for language acquisition and processing (e.g., in subject-noun/verb agreement). Although long assumed to require language-specific machinery, research on statistical learning has suggested that domain-general mechanisms may support the acquisition of non-adjacent dependencies. In this study, we investigated whether individuals with specific language impairment (SLI) who have problems with long-distance dependencies in language also have problems with statistical learning of non-adjacent relations. The results confirmed this hypothesis, indicating that statistical learning may subserve the acquisition and processing of long-distance dependencies in natural language.
+C1 [Hsu, Hsinjen J.] Natl Kaohsiung Normal Univ, Grad Inst Audiol & Speech Therapy, Kaohsiung, Taiwan.
+   [Tomblin, J. Bruce] Univ Iowa, Dept Commun Sci & Disorders, Iowa City, IA USA.
+   [Christiansen, Morten H.] Cornell Univ, Dept Psychol, Ithaca, NY 14853 USA.
+RP Christiansen, MH (corresponding author), Cornell Univ, Dept Psychol, 228 Uris Hall, Ithaca, NY 14853 USA.
+EM christiansen@cornell.edu
+OI Christiansen, Morten H./0000-0002-3850-0655
+FU NIDCD NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute on Deafness &
+   Other Communication Disorders (NIDCD) [P50 DC002746]
+NR 63
+TC 32
+Z9 32
+U1 0
+U2 30
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA PO BOX 110, EPFL INNOVATION PARK, BUILDING I, LAUSANNE, 1015,
+   SWITZERLAND
+SN 1664-1078
+J9 FRONT PSYCHOL
+JI Front. Psychol.
+PD MAR 6
+PY 2014
+VL 5
+AR 175
+DI 10.3389/fpsyg.2014.00175
+PG 10
+WC Psychology, Multidisciplinary
+SC Psychology
+GA AC8JZ
+UT WOS:000332780600001
+PM 24639661
+OA DOAJ Gold, Green Published
+DA 2020-08-04
+ER
+
+PT J
+AU Mayor-Dubois, C
+   Zesiger, P
+   Van der Linden, M
+   Roulet-Perez, E
+AF Mayor-Dubois, C.
+   Zesiger, P.
+   Van der Linden, M.
+   Roulet-Perez, E.
+TI Nondeclarative learning in children with Specific Language Impairment:
+   Predicting regularities in the visuomotor, phonological, and cognitive
+   domains
+SO CHILD NEUROPSYCHOLOGY
+LA English
+DT Article
+DE Procedural learning; Child; Specific Language Impairment; Serial
+   Reaction Time Task; Probabilistic Classification Learning Task;
+   Phonotactic Learning Task
+ID DEVELOPMENTAL COORDINATION DISORDER; PROCEDURAL MEMORY; DEFICITS
+AB Ullman (2004) suggested that Specific Language Impairment (SLI) results from a general procedural learning deficit. In order to test this hypothesis, we investigated children with SLI via procedural learning tasks exploring the verbal, motor, and cognitive domains. Results showed that compared with a Control Group, the children with SLI (a) were unable to learn a phonotactic learning task, (b) were able but less efficiently to learn a motor learning task and (c) succeeded in a cognitive learning task. Regarding the motor learning task (Serial Reaction Time Task), reaction times were longer and learning slower than in controls. The learning effect was not significant in children with an associated Developmental Coordination Disorder (DCD), and future studies should consider comorbid motor impairment in order to clarify whether impairments are related to the motor rather than the language disorder. Our results indicate that a phonotactic learning but not a cognitive procedural deficit underlies SLI, thus challenging Ullmans' general procedural deficit hypothesis, like a few other recent studies.
+C1 [Mayor-Dubois, C.; Roulet-Perez, E.] Univ Lausanne Hosp, Pediatr Neurol & Neurorehabilitat Unit, Lausanne, Switzerland.
+   [Zesiger, P.; Van der Linden, M.] Univ Geneva, Fac Psychol & Educ Sci, Geneva, Switzerland.
+RP Mayor-Dubois, C (corresponding author), CHU Vaudois, Univ Hosp, Paediat Neurol & Neurorehabilitat Unit, Rue Bugnon 46, CH-1011 Lausanne, Switzerland.
+EM Claire.Mayor@chuv.ch
+NR 32
+TC 15
+Z9 15
+U1 0
+U2 16
+PU PSYCHOLOGY PRESS
+PI HOVE
+PA 27 CHURCH RD, HOVE BN3 2FA, EAST SUSSEX, ENGLAND
+SN 0929-7049
+EI 1744-4136
+J9 CHILD NEUROPSYCHOL
+JI Child Neuropsychol.
+PD JAN 2
+PY 2014
+VL 20
+IS 1
+BP 14
+EP 22
+DI 10.1080/09297049.2012.734293
+PG 9
+WC Clinical Neurology
+SC Neurosciences & Neurology
+GA 259FM
+UT WOS:000327512800002
+PM 23062060
+DA 2020-08-04
+ER
+
+PT J
+AU Travers, BG
+   Powell, PS
+   Mussey, JL
+   Klinger, LG
+   Crisler, ME
+   Klinger, MR
+AF Travers, Brittany G.
+   Powell, Patrick S.
+   Mussey, Joanna L.
+   Klinger, Laura G.
+   Crisler, Megan E.
+   Klinger, Mark R.
+TI Spatial and Identity Cues Differentially Affect Implicit Contextual
+   Cueing in Adolescents and Adults with Autism Spectrum Disorder
+SO JOURNAL OF AUTISM AND DEVELOPMENTAL DISORDERS
+LA English
+DT Article
+DE Implicit learning; Contextual cueing; Attention; Learning; Autism
+ID MEMORY; INTACT; ATTENTION; DEFICITS; CHILDREN
+AB The present studies examined implicit contextual cueing in adolescents and adults with Autism Spectrum Disorder (ASD). In Study 1, 16 individuals with ASD and 20 matched individuals with typical development completed a contextual cueing task using stimulus-identity cues. In Study 2, 12 individuals with ASD and 16 individuals with typical development completed a revised version of the contextual cueing task, using both stimulus-identity cues and global spatial-configuration cues. The results suggest that when only stimulus-identity cues were provided, individuals with ASD had difficulty with implicit contextual cueing (Study 1). However, when both stimulus-identity and spatial-configuration contextual cues were provided, individuals with ASD demonstrated successful contextual cueing (Study 2). Nuances in implicit learning and clinical implications are discussed.
+C1 [Travers, Brittany G.; Powell, Patrick S.; Mussey, Joanna L.; Klinger, Laura G.; Crisler, Megan E.; Klinger, Mark R.] Univ Alabama, Dept Psychol, Tuscaloosa, AL 35487 USA.
+   [Travers, Brittany G.] Univ Wisconsin, Waisman Ctr, Madison, WI 53705 USA.
+   [Powell, Patrick S.] Univ N Carolina, Dept Psychol, Chapel Hill, NC USA.
+   [Klinger, Laura G.] Univ N Carolina, Dept Psychiat, TEACCH Autism Program, Chapel Hill, NC USA.
+   [Klinger, Mark R.] Univ N Carolina, Dept Allied Hlth Sci, Chapel Hill, NC USA.
+   [Klinger, Mark R.] Univ N Carolina, Sch Med, Autism Program, Chapel Hill, NC USA.
+RP Travers, BG (corresponding author), Univ Wisconsin, Waisman Ctr, 1500 Highland Ave, Madison, WI 53705 USA.
+EM btravers@wisc.edu
+NR 27
+TC 11
+Z9 11
+U1 0
+U2 16
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0162-3257
+J9 J AUTISM DEV DISORD
+JI J. Autism Dev. Disord.
+PD OCT
+PY 2013
+VL 43
+IS 10
+BP 2393
+EP 2404
+DI 10.1007/s10803-013-1787-x
+PG 12
+WC Psychology, Developmental
+SC Psychology
+GA 217FD
+UT WOS:000324341500014
+PM 23417264
+DA 2020-08-04
+ER
+
+PT J
+AU Gabriel, A
+   Maillart, C
+   Stefaniak, N
+   Lejeune, C
+   Desmottes, L
+   Meulemans, T
+AF Gabriel, Audrey
+   Maillart, Christelle
+   Stefaniak, Nicolas
+   Lejeune, Caroline
+   Desmottes, Lise
+   Meulemans, Thierry
+TI Procedural Learning in Specific Language Impairment: Effects of Sequence
+   Complexity
+SO JOURNAL OF THE INTERNATIONAL NEUROPSYCHOLOGICAL SOCIETY
+LA English
+DT Article
+DE Language development disorders; Child language; Serial learning; Motor
+   skills; Reaction time task; statistical structure
+ID CHILDREN; MEMORY; ATTENTION; PERFORMANCE; WORKING
+AB According to the procedural deficit hypothesis (PDH), abnormal development in the procedural memory system could account for the language deficits observed in specific language impairment (SLI). Recent studies have supported this hypothesis by using a serial reaction time (SRT) task, during which a slower learning rate is observed in children with SLI compared to controls. Recently, we obtained contrasting results, demonstrating that children with SLI were able to learn a sequence as quickly and as accurately as controls. These discrepancies could be related to differences in the statistical structure of the SRT sequence between these studies. The aim of this study was to further assess, in a group of 21 children with SLI, the PDH with second-order conditional sequences, which are more difficult to learn than those used in previous studies. Our results show that children with SLI had impaired procedural memory, as evidenced by both longer reaction times and no sign of sequence-specific learning in comparison with typically developing controls. These results are consistent with the PDH proposed by Ullman and Pierpont (2005) and suggest that procedural sequence-learning in SLI children depends on the complexity of the to-be-learned sequence. (JINS, 2013, 19, 264-271)
+C1 [Gabriel, Audrey; Maillart, Christelle; Lejeune, Caroline; Desmottes, Lise; Meulemans, Thierry] Univ Liege, Dept Cognit Sci, B-4000 Liege, Belgium.
+   [Stefaniak, Nicolas] Univ Reims, Dept Psychol, CLEA, Reims, France.
+RP Gabriel, A (corresponding author), Univ Liege, Dept Cognit Sci, B38,Rue Aunaie 30, B-4000 Liege, Belgium.
+EM audrey.gabriel@ulg.ac.be
+OI Stefaniak, Nicolas/0000-0001-8947-7849; Maillart,
+   Christelle/0000-0002-7091-8293
+FU University of LiegeUniversity of Liege
+FX The support for the conduct of this research was provided by the
+   University of Liege (doctoral fellowship for fields not eligible for
+   FRIA). We thank the teachers, children, and the families who generously
+   contributed their time. We also thank Mike Sugarman and John Woodard who
+   have volunteered to serve as the consultants for this study. We thank
+   Camille Bidinger and Emilie Noupre their assistance with this research
+   as well. We acknowledged (a) that the information in this manuscript and
+   the manuscript itself has never been published either electronically or
+   in print and (b) that there is no conflict of interest. Correspondence
+   concerning this article should be addressed to A. Gabriel, Department of
+   Cognitive Science, B38 Street of l'Aunaie, 30, 4000 Liege, Belgium.
+NR 39
+TC 24
+Z9 24
+U1 0
+U2 24
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 1355-6177
+EI 1469-7661
+J9 J INT NEUROPSYCH SOC
+JI J. Int. Neuropsychol. Soc.
+PD MAR
+PY 2013
+VL 19
+IS 3
+BP 264
+EP 271
+DI 10.1017/S1355617712001270
+PG 8
+WC Clinical Neurology; Neurosciences; Psychiatry; Psychology
+SC Neurosciences & Neurology; Psychiatry; Psychology
+GA 107DV
+UT WOS:000316195900004
+PM 23298411
+DA 2020-08-04
+ER
+
+PT J
+AU Mayo, J
+   Eigsti, IM
+AF Mayo, Jessica
+   Eigsti, Inge-Marie
+TI Brief Report: A Comparison of Statistical Learning in School-Aged
+   Children with High Functioning Autism and Typically Developing Peers
+SO JOURNAL OF AUTISM AND DEVELOPMENTAL DISORDERS
+LA English
+DT Article
+DE Autism; Language; Implicit learning; Statistical learning; Speech
+   segmentation
+ID PERVASIVE DEVELOPMENTAL DISORDERS; DECLARATIVE/PROCEDURAL MODEL;
+   LANGUAGE DISCRIMINATION; SPECTRUM DISORDERS; FLUENT SPEECH; INFANTS;
+   SEGMENTATION; IMPLICIT; MEMORY; ADULTS
+AB Individuals with autism spectrum disorders have impairments in language acquisition, but the underlying mechanism of these deficits is poorly understood. Implicit learning is potentially relevant to language development, particularly in speech segmentation, which relies on sensitivity to transitional probabilities between speech sounds. This study investigated the relationship between implicit learning and current language abilities in school-aged children with high functioning autism and a history of language delay (n = 17) and in children with typical development (n = 24) using a well-studied artificial language learning task. Results suggest that high functioning children with autism (HFA) and TD groups were equally able to implicitly learn transitional probabilities from a lengthy stimulus stream. Furthermore, task performance was not strongly associated with current language abilities. Implications for implicit learning research in HFA are discussed.
+C1 [Mayo, Jessica; Eigsti, Inge-Marie] Univ Connecticut, Dept Psychol, Unit 1020, Storrs, CT 06269 USA.
+RP Eigsti, IM (corresponding author), Univ Connecticut, Dept Psychol, Unit 1020, 406 Babbidge Rd, Storrs, CT 06269 USA.
+EM inge-marie.eigsti@uconn.edu
+OI Eigsti, Inge-Marie/0000-0001-7898-1898
+NR 63
+TC 32
+Z9 32
+U1 0
+U2 23
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0162-3257
+J9 J AUTISM DEV DISORD
+JI J. Autism Dev. Disord.
+PD NOV
+PY 2012
+VL 42
+IS 11
+BP 2476
+EP 2485
+DI 10.1007/s10803-012-1493-0
+PG 10
+WC Psychology, Developmental
+SC Psychology
+GA 024DQ
+UT WOS:000310088600021
+PM 22382606
+DA 2020-08-04
+ER
+
+PT J
+AU Lum, JAG
+   Conti-Ramsden, G
+   Page, D
+   Ullman, MT
+AF Lum, Jarrad A. G.
+   Conti-Ramsden, Gina
+   Page, Debra
+   Ullman, Michael T.
+TI Working, declarative and procedural memory in specific language
+   impairment
+SO CORTEX
+LA English
+DT Article
+DE Specific language impairment (SLI); Working memory; Procedural memory;
+   Declarative memory; Procedural Deficit Hypothesis (PDH)
+ID TEMPORAL-LOBE EPILEPSY; SENTENCE COMPREHENSION; PREFRONTAL CORTEX;
+   SHORT-TERM; FREQUENCY DISCRIMINATION; COGNITIVE NEUROSCIENCE;
+   CAUDATE-NUCLEUS; FRONTAL-CORTEX; BASAL GANGLIA; CHILDREN
+AB According to the Procedural Deficit Hypothesis (PDH), abnormalities of brain structures underlying procedural memory largely explain the language deficits in children with specific language impairment (SLI). These abnormalities are posited to result in core deficits of procedural memory, which in turn explain the grammar problems in the disorder. The abnormalities are also likely to lead to problems with other, non-procedural functions, such as working memory, that rely at least partly on the affected brain structures. In contrast, declarative memory is expected to remain largely intact, and should play an important compensatory role for grammar. These claims were tested by examining measures of working, declarative and procedural memory in 51 children with SLI and 51 matched typically-developing (TD) children (mean age 10). Working memory was assessed with the Working Memory Test Battery for Children, declarative memory with the Children's Memory Scale, and procedural memory with a visuo-spatial Serial Reaction Time task. As compared to the TD children, the children with SLI were impaired at procedural memory, even when holding working memory constant. In contrast, they were spared at declarative memory for visual information, and at declarative memory in the verbal domain after controlling for working memory and language. Visuo-spatial short-term memory was intact, whereas verbal working memory was impaired, even when language deficits were held constant. Correlation analyses showed neither visuo-spatial nor verbal working memory was associated with either lexical or grammatical abilities in either the SLI or TD children. Declarative memory correlated with lexical abilities in both groups of children. Finally, grammatical abilities were associated with procedural memory in the TD children, but with declarative memory in the children with SLI. These findings replicate and extend previous studies of working, declarative and procedural memory in SLI. Overall, we suggest that the evidence largely supports the predictions of the PDH. (C) 2011 Elsevier Srl. All rights reserved.
+C1 [Lum, Jarrad A. G.] Deakin Univ, Sch Psychol, Melbourne, Vic 3125, Australia.
+   [Lum, Jarrad A. G.] Univ So Denmark, Odense, Denmark.
+   [Conti-Ramsden, Gina; Page, Debra] Univ Manchester, Manchester, Lancs, England.
+   [Ullman, Michael T.] Georgetown Univ, Washington, DC USA.
+RP Lum, JAG (corresponding author), Deakin Univ, Sch Psychol, 221 Burwood Highway, Melbourne, Vic 3125, Australia.
+EM jarrad.lum@deakin.edu.au
+RI Page, Debra/AAQ-9988-2020
+FU Wellcome TrustWellcome Trust [079305]
+FX This research was supported by Wellcome Trust Grant #079305.
+NR 135
+TC 156
+Z9 156
+U1 1
+U2 72
+PU ELSEVIER MASSON, CORP OFF
+PI PARIS
+PA 65 CAMILLE DESMOULINS CS50083 ISSY-LES-MOULINEAUX, 92442 PARIS, FRANCE
+SN 0010-9452
+EI 1973-8102
+J9 CORTEX
+JI Cortex
+PD OCT
+PY 2012
+VL 48
+IS 9
+BP 1138
+EP 1154
+DI 10.1016/j.cortex.2011.06.001
+PG 17
+WC Behavioral Sciences; Neurosciences; Psychology, Experimental
+SC Behavioral Sciences; Neurosciences & Neurology; Psychology
+GA 996VC
+UT WOS:000308121900004
+PM 21774923
+OA Green Published, Other Gold
+DA 2020-08-04
+ER
+
+PT J
+AU Kourkoulou, A
+   Leekam, SR
+   Findlay, JM
+AF Kourkoulou, Anastasia
+   Leekam, Susan R.
+   Findlay, John M.
+TI Implicit Learning of Local Context in Autism Spectrum Disorder
+SO JOURNAL OF AUTISM AND DEVELOPMENTAL DISORDERS
+LA English
+DT Article
+DE Autism spectrum disorder; Implicit learning; Visual search; Global;
+   Local
+ID VISUAL-SEARCH; SPATIAL CONTEXT; ATTENTIONAL GUIDANCE; EXPLICIT MEMORY;
+   CHILDREN; INFORMATION; PERCEPTION; INTACT; DISCRIMINATION; INTERFERENCE
+AB Although previous research has reported impairments in implicit learning in individuals with ASD, research using one implicit learning paradigm, the contextual cueing task (Chun and Jiang in Cognitive Psychol 36:28-71, 1998), shows evidence of intact ability to integrate spatial contextual information. Using an adaptation of this paradigm, we replicated earlier findings showing that contextual cueing facilitates learning in ASD. Nevertheless, we found that exposure to repeated contexts that biased attention to local rather than global displays rendered it difficult for individuals with ASD to adapt to new trials. Thus, adaptive processes that allow one to respond flexibly and rapidly to new situations appear diminished in ASD when exposed to local spatial contexts. These findings have implications for practical learning strategies used in educational settings.
+C1 [Kourkoulou, Anastasia; Leekam, Susan R.] Cardiff Univ, Wales Autism Res Ctr, Sch Psychol, Cardiff CF10 3AT, S Glam, Wales.
+   [Findlay, John M.] Univ Durham, Dept Psychol, Sci Labs, Durham DH1 3LE, England.
+RP Kourkoulou, A (corresponding author), Cardiff Univ, Wales Autism Res Ctr, Sch Psychol, Tower Bldg,Pk Pl, Cardiff CF10 3AT, S Glam, Wales.
+EM kourkouloua@gmail.com
+NR 66
+TC 22
+Z9 23
+U1 0
+U2 20
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0162-3257
+EI 1573-3432
+J9 J AUTISM DEV DISORD
+JI J. Autism Dev. Disord.
+PD FEB
+PY 2012
+VL 42
+IS 2
+BP 244
+EP 256
+DI 10.1007/s10803-011-1237-6
+PG 13
+WC Psychology, Developmental
+SC Psychology
+GA 881XU
+UT WOS:000299526100010
+PM 21461602
+DA 2020-08-04
+ER
+
+EF

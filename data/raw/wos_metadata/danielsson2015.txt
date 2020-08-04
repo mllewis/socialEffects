@@ -1,0 +1,261 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Bennett, SJ
+   Holmes, J
+   Buckley, S
+AF Bennett, Stephanie J.
+   Holmes, Joni
+   Buckley, Sue
+TI Computerized Memory Training Leads to Sustained Improvement in
+   Visuospatial Short-Term Memory Skills in Children with Down Syndrome
+   (vol 118, pg 183)
+SO AJIDD-AMERICAN JOURNAL ON INTELLECTUAL AND DEVELOPMENTAL DISABILITIES
+LA English
+DT Correction
+NR 1
+TC 0
+Z9 0
+U1 1
+U2 2
+PU AMER ASSOC INTELLECTUAL DEVELOPMENTAL DISABILITIES
+PI WASHINGTON
+PA 444 N CAPITOL ST, NW STE 846, WASHINGTON, DC 20001-1512 USA
+SN 1944-7515
+EI 1944-7558
+J9 AJIDD-AM J INTELLECT
+JI AJIDD-Am. J. Intellect. Dev. Disabil.
+PD SEP
+PY 2013
+VL 118
+IS 5
+DI 10.1352/1944-7558-118.3.179
+PG 1
+WC Education, Special; Rehabilitation
+SC Education & Educational Research; Rehabilitation
+GA 258FC
+UT WOS:000327443600001
+DA 2020-08-04
+ER
+
+PT J
+AU Bennett, SJ
+   Holmes, J
+   Buckley, S
+AF Bennett, Stephanie J.
+   Holmes, Joni
+   Buckley, Sue
+TI Computerized Memory Training Leads to Sustained Improvement in
+   Visuospatial Short-Term Memory Skills in Children with Down Syndrome
+SO AJIDD-AMERICAN JOURNAL ON INTELLECTUAL AND DEVELOPMENTAL DISABILITIES
+LA English
+DT Article
+DE Down syndrome; working memory; short-term memory; intervention
+ID WORKING-MEMORY; PREVALENCE
+AB This study evaluated the impact of a computerized visuospatial memory training intervention on the memory and behavioral skills of children with Down syndrome. Teaching assistants were trained to support the delivery of a computerized intervention program to individual children over a 10-16 week period in school. Twenty-one children aged 7-12 years with Down syndrome were randomly allocated to either an intervention or waiting list control group. Following training, performance on trained and non-trained visuospatial short-term memory tasks was significantly enhanced for children in the intervention group. This improvement was sustained four months later. These results suggest that computerized visuospatial memory training in a school setting is both feasible and effective for children with Down syndrome.
+C1 [Bennett, Stephanie J.] Univ Portsmouth, Portsmouth PO1 2HY, Hants, England.
+   [Bennett, Stephanie J.; Buckley, Sue] Down Syndrome Educ Int, Kirkby Lonsdale LA6 2DY, Cumbria, England.
+   [Holmes, Joni] MRC, Cognit & Brain Sci Unit, Cambridge CB2 7EF, England.
+RP Bennett, SJ (corresponding author), Univ Portsmouth, Portsmouth PO1 2HY, Hants, England.
+OI Holmes, Joni/0000-0002-6821-2793
+FU Baily Thomas Charitable Trust; Down Syndrome Education International;
+   Medical Research CouncilMedical Research Council UK (MRC)
+   [MC_UP_A060_1104]
+FX This research was supported by a project grant from the Baily Thomas
+   Charitable Trust and by Down Syndrome Education International. We would
+   like to thank the children, teaching staff and families who participated
+   in the study. We would also like to thank Pearson for giving us access
+   to the training program for this evaluation.
+NR 30
+TC 50
+Z9 51
+U1 3
+U2 17
+PU AMER ASSOC INTELLECTUAL DEVELOPMENTAL DISABILITIES
+PI WASHINGTON
+PA 444 N CAPITOL ST, NW STE 846, WASHINGTON, DC 20001-1512 USA
+SN 1944-7515
+EI 1944-7558
+J9 AJIDD-AM J INTELLECT
+JI AJIDD-Am. J. Intellect. Dev. Disabil.
+PD MAY
+PY 2013
+VL 118
+IS 3
+BP 179
+EP 192
+DI 10.1352/1944-7558-118.3.179
+PG 14
+WC Education, Special; Rehabilitation
+SC Education & Educational Research; Rehabilitation
+GA V41OO
+UT WOS:000209555700001
+PM 23734613
+DA 2020-08-04
+ER
+
+PT J
+AU Bennett, SJ
+   Holmes, J
+   Buckley, S
+AF Bennett, Stephanie J.
+   Holmes, Joni
+   Buckley, Sue
+TI Computerized Memory Training Leads to Sustained Improvement in
+   Visuospatial Short-Term Memory Skills in Children with Down Syndrome
+   (vol 118, pg 179, 2013)
+SO AJIDD-AMERICAN JOURNAL ON INTELLECTUAL AND DEVELOPMENTAL DISABILITIES
+LA English
+DT Correction
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU AMER ASSOC INTELLECTUAL DEVELOPMENTAL DISABILITIES
+PI WASHINGTON
+PA 444 N CAPITOL ST, NW STE 846, WASHINGTON, DC 20001-1512 USA
+SN 1944-7515
+EI 1944-7558
+J9 AJIDD-AM J INTELLECT
+JI AJIDD-Am. J. Intellect. Dev. Disabil.
+PD MAY
+PY 2013
+VL 118
+IS 3
+DI 10.1352/1944-7558-118.3.179
+PG 1
+WC Education, Special; Rehabilitation
+SC Education & Educational Research; Rehabilitation
+GA V41OO
+UT WOS:000209555700002
+DA 2020-08-04
+ER
+
+PT J
+AU Soderqvist, S
+   Nutley, SB
+   Ottersen, J
+   Grill, KM
+   Klingberg, T
+AF Soderqvist, Stina
+   Nutley, Sissela B.
+   Ottersen, Jon
+   Grill, Katja M.
+   Klingberg, Torkel
+TI Computerized training of non-verbal reasoning and working memory in
+   children with intellectual disability
+SO FRONTIERS IN HUMAN NEUROSCIENCE
+LA English
+DT Article
+DE intellectual disability; training; working memory; non-verbal reasoning
+ID LATENT-VARIABLE APPROACH; FLUID INTELLIGENCE; PRESCHOOL-CHILDREN;
+   CONTROLLED-TRIAL; ADHD; ADOLESCENTS; PERFORMANCE; PLASTICITY; CAPACITY;
+   DEFICITS
+AB Children with intellectual disabilities show deficits in both reasoning ability and working memory (WM) that impact everyday functioning and academic achievement. In this study we investigated the feasibility of cognitive training for improving WM and non-verbal reasoning (NVR) ability in children with intellectual disability. Participants were randomized to a 5-week adaptive training program (intervention group) or non-adaptive version of the program (active control group). Cognitive assessments were conducted prior to and directly after training and 1 year later to examine effects of the training. Improvements during training varied largely and amount of progress during training predicted transfer to WM and comprehension of instructions, with higher training progress being associated with greater transfer improvements. The strongest predictors for training progress were found to be gender, co-morbidity, and baseline capacity on verbal WM. In particular, females without an additional diagnosis and with higher baseline performance showed greater progress. No significant effects of training were observed at the 1-year follow-up, suggesting that training should be more intense or repeated in order for effects to persist in children with intellectual disabilities. A major finding of this study is that cognitive training is feasible in this clinical sample and can help improve their cognitive performance. However, a minimum cognitive capacity or training ability seems necessary for the training to be beneficial, with some individuals showing little improvement in performance. Future studies of cognitive training should take into consideration how inter-individual differences in training progress influence transfer effects and further investigate how baseline capacities predict training outcome.
+C1 [Soderqvist, Stina; Nutley, Sissela B.; Klingberg, Torkel] Karolinska Inst, Dept Neurosci, S-17177 Stockholm, Sweden.
+   [Soderqvist, Stina; Nutley, Sissela B.; Klingberg, Torkel] Stockholm Brain Inst, Stockholm, Sweden.
+   [Ottersen, Jon; Grill, Katja M.] Vestre Viken Hosp Trust, Drammen Hosp, Ctr Habilitat, Drammen, Norway.
+RP Soderqvist, S (corresponding author), Karolinska Inst, Dept Neurosci, Retzius Vag 8, S-17177 Stockholm, Sweden.
+EM stina.soderqvist@ki.se
+OI Klingberg, Torkel/0000-0002-3175-2171
+FU Pearson Assessment
+FX Sissela B. Nutley and Torkel Klingberg are co-applicants on an
+   international patent application for the non-verbal reasoning program,
+   which has been financed by Pearson Assessment. Sissela B. Nutley has an
+   employment at Pearson Assessment, who distributes the working memory
+   training program. The other authors declare that the research was
+   conducted in the absence of any commercial or financial relationships
+   that could be construed as a potential conflict of interest.
+NR 42
+TC 46
+Z9 48
+U1 0
+U2 50
+PU FRONTIERS RES FOUND
+PI LAUSANNE
+PA PO BOX 110, LAUSANNE, 1015, SWITZERLAND
+SN 1662-5161
+J9 FRONT HUM NEUROSCI
+JI Front. Hum. Neurosci.
+PD OCT 2
+PY 2012
+VL 6
+AR 271
+DI 10.3389/fnhum.2012.00271
+PG 8
+WC Neurosciences; Psychology
+SC Neurosciences & Neurology; Psychology
+GA 017HV
+UT WOS:000309581700001
+PM 23060775
+OA DOAJ Gold, Green Published
+DA 2020-08-04
+ER
+
+PT J
+AU Van der Molen, MJ
+   Van Luit, JEH
+   Van der Molen, MW
+   Klugkist, I
+   Jongmans, MJ
+AF Van der Molen, M. J.
+   Van Luit, J. E. H.
+   Van der Molen, M. W.
+   Klugkist, I.
+   Jongmans, M. J.
+TI Effectiveness of a computerised working memory training in adolescents
+   with mild to borderline intellectual disabilities
+SO JOURNAL OF INTELLECTUAL DISABILITY RESEARCH
+LA English
+DT Article
+DE cognitive intervention; remediation; lower intellectual functioning;
+   randomized control trial
+ID SHORT-TERM-MEMORY; EXECUTIVE FUNCTIONS; FLUID INTELLIGENCE; CHILDREN;
+   SPAN; PERFORMANCE; ADHD
+AB Background
+   The goal of this study is to evaluate the effectiveness of a computerised working memory (WM) training on memory, response inhibition, fluid intelligence, scholastic abilities and the recall of stories in adolescents with mild to borderline intellectual disabilities attending special education.
+   Method
+   A total of 95 adolescents with mild to borderline intellectual disabilities were randomly assigned to either a training adaptive to each child's progress in WM, a non-adaptive WM training, or to a control group.
+   Results
+   Verbal short-term memory (STM) improved significantly from pre- to post-testing in the group who received the adaptive training compared with the control group. The beneficial effect on verbal STM was maintained at follow-up and other effects became clear at that time as well. Both the adaptive and non-adaptive WM training led to higher scores at follow-up than at post-intervention on visual STM, arithmetic and story recall compared with the control condition. In addition, the non-adaptive training group showed a significant increase in visuo-spatial WM capacity.
+   Conclusion
+   The current study provides the first demonstration that WM can be effectively trained in adolescents with mild to borderline intellectual disabilities.
+C1 [Van der Molen, M. J.; Van der Molen, M. W.] Univ Amsterdam, Dept Psychol, NL-1018 WB Amsterdam, Netherlands.
+   [Van der Molen, M. J.; Van Luit, J. E. H.; Jongmans, M. J.] Univ Utrecht, Dept Gen & Special Educ, Utrecht, Netherlands.
+   [Klugkist, I.] Univ Utrecht, Dept Methodol & Stat, Utrecht, Netherlands.
+   [Jongmans, M. J.] Univ Med Ctr Utrecht, Wilhelmina Childrens Hosp, Dept Pediat Psychol, Utrecht, Netherlands.
+RP Van der Molen, MJ (corresponding author), Univ Amsterdam, Dept Psychol, Roetersstr 15, NL-1018 WB Amsterdam, Netherlands.
+EM M.J.vanderMolen@UvA.nl
+RI Jongmans, Marian/G-5922-2010; van luit, johannes/R-3508-2017
+OI van luit, johannes/0000-0002-9614-5356
+NR 50
+TC 96
+Z9 96
+U1 4
+U2 46
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0964-2633
+J9 J INTELL DISABIL RES
+JI J. Intell. Disabil. Res.
+PD MAY
+PY 2010
+VL 54
+BP 433
+EP 447
+DI 10.1111/j.1365-2788.2010.01285.x
+PN 5
+PG 15
+WC Education, Special; Genetics & Heredity; Clinical Neurology; Psychiatry;
+   Rehabilitation
+SC Education & Educational Research; Genetics & Heredity; Neurosciences &
+   Neurology; Psychiatry; Rehabilitation
+GA 586SS
+UT WOS:000276933900004
+PM 20537049
+DA 2020-08-04
+ER
+
+EF

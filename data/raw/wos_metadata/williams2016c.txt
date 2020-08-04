@@ -1,0 +1,454 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Rudman, LA
+   Moss-Racusin, CA
+   Phelan, JE
+   Nauts, S
+AF Rudman, Laurie A.
+   Moss-Racusin, Corinne A.
+   Phelan, Julie E.
+   Nauts, Sanne
+TI Status incongruity and backlash effects: Defending the gender hierarchy
+   motivates prejudice against female leaders
+SO JOURNAL OF EXPERIMENTAL SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE Backlash effect; Sex discrimination; Gender stereotype; Gender
+   prejudice; System justification theory; Impression management
+ID SYSTEM-JUSTIFICATION; STEREOTYPE CONTENT; CONFIDENCE-LIMITS; SOCIAL
+   JUDGMENT; WOMEN; SEX; COMPETENCE; DISCRIMINATION; CONSEQUENCES;
+   COMMUNALITY
+AB Agentic female leaders risk social and economic penalties for behaving counter-stereotypically (i.e., backlash; Rudman, 1998), but what motivates prejudice against female leaders? The status incongruity hypothesis (SIH) proposes that agentic women are penalized for status violations because doing so defends the gender hierarchy. Consistent with this view, Study 1 found that women are proscribed from dominant, high status displays (which are reserved for leaders and men); Studies 2-3 revealed that prejudice against agentic female leaders was mediated by a dominance penalty; and in Study 3, participants' gender system-justifying beliefs moderated backlash effects. Study 4 found that backlash was exacerbated when perceivers were primed with a system threat. Study 5 showed that only female leaders who threatened the status quo suffered sabotage. In concert, support for the SIH suggests that backlash functions to preserve male dominance by reinforcing a double standard for power and control. (C) 2011 Elsevier Inc. All rights reserved.
+C1 [Rudman, Laurie A.] Rutgers State Univ, New Brunswick, NJ 08903 USA.
+   [Moss-Racusin, Corinne A.] Yale Univ, New Haven, CT 06520 USA.
+   [Nauts, Sanne] Radboud Univ Nijmegen, Inst Behav Sci, Nijmegen, Netherlands.
+RP Rudman, LA (corresponding author), Rutgers State Univ, Dept Psychol, Tillett Hall,53 Ave E, Piscataway, NJ 08854 USA.
+EM rudman@rci.rutgers.edu
+RI Nauts, Sanne/D-6070-2012
+NR 70
+TC 322
+Z9 325
+U1 8
+U2 160
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0022-1031
+EI 1096-0465
+J9 J EXP SOC PSYCHOL
+JI J. Exp. Soc. Psychol.
+PD JAN
+PY 2012
+VL 48
+IS 1
+BP 165
+EP 179
+DI 10.1016/j.jesp.2011.10.008
+PG 15
+WC Psychology, Social
+SC Psychology
+GA 874DP
+UT WOS:000298935900017
+HC Y
+HP N
+DA 2020-08-04
+ER
+
+PT J
+AU Okimoto, TG
+   Brescoll, VL
+AF Okimoto, Tyler G.
+   Brescoll, Victoria L.
+TI The Price of Power: Power Seeking and Backlash Against Female
+   Politicians
+SO PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+LA English
+DT Article
+DE gender stereotypes; backlash; power; politics; intention; moral outrage
+ID GENDER STEREOTYPES; WOMEN; COMPETENCE; PERCEPTION; WORKPLACE; LEADERS;
+   WARMTH; SELF; BIAS; INFORMATION
+AB Two experimental studies examined the effect of power-seeking intentions on backlash toward women in political office. It was hypothesized that a female politician's career progress may be hindered by the belief that she seeks power, as this desire may violate prescribed communal expectations for women and thereby elicit interpersonal penalties. Results suggested that voting preferences for female candidates were negatively influenced by her power-seeking intentions (actual or perceived) but that preferences for male candidates were unaffected by power-seeking intentions. These differential reactions were partly explained by the perceived lack of communality implied by women's power-seeking intentions, resulting in lower perceived competence and feelings of moral outrage. The presence of moral-emotional reactions suggests that backlash arises from the violation of communal prescriptions rather than normative deviations more generally. These findings illuminate one potential source of gender bias in politics.
+C1 [Okimoto, Tyler G.] Yale Univ, Sch Management, New Haven, CT 06520 USA.
+RP Okimoto, TG (corresponding author), Yale Univ, Sch Management, 135 Prospect St,POB 208200, New Haven, CT 06520 USA.
+EM tyler.okimoto@yale.edu; victoria.brescoll@yale.edu
+RI Okimoto, Tyler/D-6634-2011
+OI Okimoto, Tyler/0000-0002-4506-6826
+NR 86
+TC 121
+Z9 122
+U1 2
+U2 87
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0146-1672
+EI 1552-7433
+J9 PERS SOC PSYCHOL B
+JI Pers. Soc. Psychol. Bull.
+PD JUL
+PY 2010
+VL 36
+IS 7
+BP 923
+EP 936
+DI 10.1177/0146167210371949
+PG 14
+WC Psychology, Social
+SC Psychology
+GA 615EE
+UT WOS:000279115500006
+PM 20519573
+DA 2020-08-04
+ER
+
+PT J
+AU Anderson, C
+   Kilduff, GJ
+AF Anderson, Cameron
+   Kilduff, Gavin J.
+TI Why Do Dominant Personalities Attain Influence in Face-to-Face Groups?
+   The Competence-Signaling Effects of Trait Dominance
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE dominance; influence; power; status; competence
+ID NONVERBAL BEHAVIOR; LEADERSHIP; PERCEPTIONS; PERFORMANCE; INTELLIGENCE;
+   CONSISTENCY; POSITION; MODEL; POWER; CUES
+AB Individuals high in the personality trait dominance consistently attain high levels of influence in groups, Why they do is unclear, however, because most group theories assert that people cannot attain influence simply by behaving assertively and forcefully; rather, they need to possess superior task abilities and leadership skills, In the present research, the authors proposed that individuals high in trait dominance attain influence because they behave in ways that make them appear competent-even when the) actually lack competence. Two studies examined task groups using a social relations analysis of peer perceptions (D. A. Kenny & L. LaVoie, 1984). The authors found that individuals higher in trait dominance were rated as more competent by fellow group members, outside peer observers, and research staff members, even after controlling for individuals' actual abilities. Furthermore, frequency counts of discrete behaviors showed that dominance predicts the enactment of competence-signaling behaviors, which in turn predicts peer ratings of competence. These findings extend researchers' understanding of trait dominance, hierarchies in groups, and perceptions of competence and abilities.
+C1 [Anderson, Cameron; Kilduff, Gavin J.] Univ Calif Berkeley, Haas Sch Business, Berkeley, CA 94720 USA.
+RP Anderson, C (corresponding author), Univ Calif Berkeley, Haas Sch Business, 545 Student Serv Bldg, Berkeley, CA 94720 USA.
+EM anderson@haas.berkeley.edu
+NR 76
+TC 243
+Z9 244
+U1 8
+U2 102
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+EI 1939-1315
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD FEB
+PY 2009
+VL 96
+IS 2
+BP 491
+EP 503
+DI 10.1037/a0014201
+PG 13
+WC Psychology, Social
+SC Psychology
+GA 395XF
+UT WOS:000262556100015
+PM 19159145
+DA 2020-08-04
+ER
+
+PT J
+AU Farley, SD
+AF Farley, Sally D.
+TI Attaining Status at the Expense of Likeability: Pilfering Power Through
+   Conversational Interruption
+SO JOURNAL OF NONVERBAL BEHAVIOR
+LA English
+DT Article
+DE Nonverbal behavior; Power; Status; Interruption; Group dynamics
+ID NONVERBAL BEHAVIOR; TASK GROUPS; GENDER; PERCEPTIONS; DOMINANCE; SEX;
+   PARTICIPATION; METAANALYSIS; MODEL
+AB Do status expectations affect how we interpret interruption in conversation? Two experiments examined how interrupters and their targets are perceived in same- and mixed-gender dyads. In Experiment 1, participants listened to a brief audiotaped conversation in which one person interrupted the other five times. In Experiment 2, four confederates (two men and two women) systematically interrupted naive participants while discussing an article. In general, interrupters gained in status and targets of interruption lost status. In addition, participants who were interrupted rated themselves as less influential than those who were not interrupted. As expected, interrupters, especially female interrupters, were liked less than those who did not interrupt. Theoretical implications are discussed.
+C1 Univ Baltimore, Div Appl Behav Sci, Baltimore, MD 21201 USA.
+RP Farley, SD (corresponding author), Univ Baltimore, Div Appl Behav Sci, 1420 N Charles St, Baltimore, MD 21201 USA.
+EM sfarley@ubalt.edu
+NR 41
+TC 26
+Z9 26
+U1 0
+U2 9
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0191-5886
+J9 J NONVERBAL BEHAV
+JI J. Nonverbal Behav.
+PD DEC
+PY 2008
+VL 32
+IS 4
+BP 241
+EP 260
+DI 10.1007/s10919-008-0054-x
+PG 20
+WC Psychology, Social
+SC Psychology
+GA 357RH
+UT WOS:000259863300005
+DA 2020-08-04
+ER
+
+PT J
+AU Bowles, HR
+   Babcock, L
+   Lai, L
+AF Bowles, Hannah Riley
+   Babcock, Linda
+   Lai, Lei
+TI Social incentives for gender differences in the propensity to initiate
+   negotiations: Sometimes it does hurt to ask
+SO ORGANIZATIONAL BEHAVIOR AND HUMAN DECISION PROCESSES
+LA English
+DT Article
+DE ask; compensation; gender differences; gender role; negotiation;
+   prescriptive sex stereotypes; social outcomes; status
+ID SALARY NEGOTIATION; BENEVOLENT SEXISM; WOMEN; STEREOTYPES; SELF;
+   BEHAVIOR; MEN; CONSEQUENCES; LEADERS; COSTS
+AB Four experiments show that gender differences in the propensity to initiate negotiations may be explained by differential treatment of men and women when they attempt to negotiate. In Experiments I and 2, participants evaluated written accounts of candidates who did or did not initiate negotiations for higher compensation. Evaluators penalized female candidates more than male candidates for initiating negotiations. In Experiment 3, participants evaluated videotapes of candidates who accepted compensation offers or initiated negotiations. Male evaluators penalized female candidates more than male candidates for initiating negotiations; female evaluators penalized all candidates for initiating negotiations. Perceptions of niceness and demandingness explained resistance to female negotiators. In Experiment 4, participants adopted the candidate's perspective and assessed whether to initiate negotiations in same scenario used in Experiment 3. With male evaluators, women were less inclined than men to negotiate, and nervousness explained this effect. There was no gender difference when evaluator was female. (c) 2006 Elsevier Inc. All rights reserved.
+C1 Harvard Univ, John F Kennedy Sch Govt, Cambridge, MA 02138 USA.
+   Carnegie Mellon Univ, H John Heinz III Sch Publ Policy & Management, Pittsburgh, PA 15213 USA.
+RP Bowles, HR (corresponding author), Harvard Univ, John F Kennedy Sch Govt, 79 JFK St, Cambridge, MA 02138 USA.
+EM hannah_bowles@harvard.edu
+RI Bowles, Hannah Riley/AAI-1346-2019
+NR 90
+TC 291
+Z9 294
+U1 11
+U2 313
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0749-5978
+EI 1095-9920
+J9 ORGAN BEHAV HUM DEC
+JI Organ. Behav. Hum. Decis. Process.
+PD MAY
+PY 2007
+VL 103
+IS 1
+BP 84
+EP 103
+DI 10.1016/j.obhdp.2006.09.001
+PG 20
+WC Psychology, Applied; Management; Psychology, Social
+SC Psychology; Business & Economics
+GA 172MH
+UT WOS:000246807900006
+OA Green Accepted
+DA 2020-08-04
+ER
+
+PT J
+AU Diekman, AB
+AF Diekman, Amanda B.
+TI Negotiating the double bind: Interpersonal and instrumental evaluations
+   of dominance
+SO SEX ROLES
+LA English
+DT Article
+DE evaluation; dominance; injunctive norms; role congruity
+ID GENDER STEREOTYPES; WOMEN; PERSPECTIVE; APPLICANTS; FEMININITY;
+   MOTIVATION; MANAGEMENT; COMPONENTS; ATTITUDES; LEADERS
+AB The double bind of dominance-that it can help to attain status but might jeopardize social relationships-was investigated by examining evaluations based on interpersonal skill (e.g., getting along well with others) and instrumental skill (e.g., accomplishing a task). Role congruity theory (Eagly and Diekman 2005; Eagly and Karau 2002) posits that behavior will be evaluated more positively when it is congruent with valued social roles. Two experiments were conducted to explore the importance of context in evaluations of dominance. In both experiments, dominance was more devalued in contexts related to interpersonal skill than in those related to instrumental skill. Experiment 1 demonstrated that the penalty for dominant behavior decreased when the target also displayed warmth, thereby affirming diffuse prosocial roles. Experiment 2 demonstrated that dominant behavior incurred greater penalties in communal versus agentic occupations. The results support a contextual, role-based explanation of evaluative processes.
+C1 Miami Univ, Dept Psychol, Oxford, OH 45056 USA.
+RP Diekman, AB (corresponding author), Miami Univ, Dept Psychol, Oxford, OH 45056 USA.
+EM diekmaa@muohio.edu
+RI Diekman, Amanda/A-8014-2013
+OI Diekman, Amanda/0000-0002-6286-3974
+NR 35
+TC 12
+Z9 12
+U1 0
+U2 14
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0360-0025
+J9 SEX ROLES
+JI Sex Roles
+PD MAY
+PY 2007
+VL 56
+IS 9-10
+BP 551
+EP 561
+DI 10.1007/s11199-007-9198-0
+PG 11
+WC Psychology, Developmental; Psychology, Social; Women's Studies
+SC Psychology; Women's Studies
+GA 179TA
+UT WOS:000247311800001
+DA 2020-08-04
+ER
+
+PT J
+AU Driskell, JE
+   Salas, E
+AF Driskell, JE
+   Salas, E
+TI The effect of content and demeanor on reactions to dominance behavior
+SO GROUP DYNAMICS-THEORY RESEARCH AND PRACTICE
+LA English
+DT Article
+ID TASK GROUPS; NONVERBAL BEHAVIOR; INFLUENCE TACTICS; GENDER;
+   CONSEQUENCES; EXPECTATIONS; LEADERSHIP; CUES
+AB Dominance behavior, the attempt to direct or control others through threat, has been shown to be a generally ineffective influence tactic and results in negative affective reactions and evaluations from others. However, the nonverbal expression of dominance can be distinguished from dominant message content, and the authors propose that the nonverbal component of dominance (demeanor) may more readily convey feelings of threat and result in stronger negative reactions than the verbal component (content). Participants rated statements that varied in terms of neutral or dominant content and whether they were presented with neutral or dominant demeanor. The results indicated that both dominant content and dominant demeanor resulted in negative affective reactions and lower evaluations of competence and leadership. Results further indicated that dominant expressive behavior contributed more to the observer's negative reactions than did dominant content.
+C1 Florida Maxima Corp, Winter Pk, FL 32789 USA.
+   Univ Cent Florida, Orlando, FL 32816 USA.
+RP Driskell, JE (corresponding author), Florida Maxima Corp, 507 N New York Ave,R-1, Winter Pk, FL 32789 USA.
+EM james.driskell@rollins.edu
+NR 28
+TC 18
+Z9 18
+U1 0
+U2 7
+PU EDUCATIONAL PUBLISHING FOUNDATION
+PI WASHINGTON
+PA 750 FIRST ST, NE, WASHINGTON, DC 20002-4242 USA
+SN 1089-2699
+J9 GROUP DYN-THEOR RES
+JI Group Dyn.-Theory Res. Pract.
+PD MAR
+PY 2005
+VL 9
+IS 1
+BP 3
+EP 14
+DI 10.1037/1089-2699.9.1.3
+PG 12
+WC Psychology, Social
+SC Psychology
+GA 908ON
+UT WOS:000227796600001
+DA 2020-08-04
+ER
+
+PT J
+AU Mast, MS
+AF Mast, MS
+TI Female dominance hierarchies: Are they any different from males'?
+SO PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+LA English
+DT Article; Proceedings Paper
+CT Annual Convention of the American-Psychological-Association
+CY AUG 19-24, 1999
+CL BOSTON, MASSACHUSETTS
+SP Amer Psychol Assoc
+ID SOCIAL-DOMINANCE; TASK GROUPS; POLITICAL-ATTITUDES; SEX-DIFFERENCES;
+   BEHAVIOR; GENDER; INTERRUPTIONS; LEGITIMATION; EXPECTATIONS; ORIENTATION
+AB This research investigated gender differences and longitudinal effects in dominance hierarchy organization based on verbal interruptions in sane-sex small discussion groups. Participants (58 women, 58 men; average age = 37.5) met twice in the same groups to debate for 45 minutes. The use of a newly developed coding system allowed assessing the winner and loser of an interruption and identification of dominant individuals. On the basis of dyadic dominance matrices, the degree of linearity and temporal stability were computed. Results showed that women were less hierarchically organized than men only at the very beginning of the interaction. With time, men decreased and women first increased and then decreased in hierarchical organization. Rank orders in all-male as well as all-female groups were unstable across tune. Three different models describing the possible nature of dominance hierarchies are presented, and results are discussed and integrated in reference to them.
+C1 Northeastern Univ, Dept Psychol, Boston, MA 02115 USA.
+   Univ Zurich, CH-8006 Zurich, Switzerland.
+RP Mast, MS (corresponding author), Northeastern Univ, Dept Psychol, 125 Nightingale Hall, Boston, MA 02115 USA.
+NR 49
+TC 25
+Z9 25
+U1 0
+U2 7
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0146-1672
+J9 PERS SOC PSYCHOL B
+JI Pers. Soc. Psychol. Bull.
+PD JAN
+PY 2002
+VL 28
+IS 1
+BP 29
+EP 39
+DI 10.1177/0146167202281003
+PG 11
+WC Psychology, Social
+SC Psychology
+GA 501WV
+UT WOS:000172709800003
+OA DOAJ Gold
+DA 2020-08-04
+ER
+
+PT J
+AU Rudman, LA
+   Glick, P
+AF Rudman, LA
+   Glick, P
+TI Prescriptive gender stereotypes and backlash toward agentic women
+SO JOURNAL OF SOCIAL ISSUES
+LA English
+DT Article
+ID IMPRESSION MANAGEMENT; AMBIVALENT SEXISM; ATTITUDES; MEN; ATTAINMENT;
+   MOTIVATION; PREJUDICE; COGNITION; COSTS
+AB In an experiment, job description and applicants' attributes were examined as moderators of the backlash effect, the negative evaluation of agentic women for violating prescriptions of feminine niceness (Rudman, 1998). Rutgers University students made hiring decisions for a masculine or "feminized" managerial job. Applicants were presented as either agentic or androgynous. Replicating Rudman and Glick (1999), a feminized job description promoted hiring discrimination against an agentic female because she was perceived as insufficiently nice. Unique to the present research, this perception was related to participants' possession of an implicit (but not explicit) agency-communality stereotype. By contrast, androgynous female applicants were not discriminated against. The findings suggest that the prescription for female niceness is an implicit belief that penalizes women unless they temper their agency with niceness.
+C1 Rutgers State Univ, Dept Psychol, Piscataway, NJ 08854 USA.
+   Lawrence Univ, Appleton, WI 54912 USA.
+RP Rudman, LA (corresponding author), Rutgers State Univ, Dept Psychol, Tillett Hall,53 Ave E, Piscataway, NJ 08854 USA.
+NR 45
+TC 741
+Z9 746
+U1 6
+U2 134
+PU BLACKWELL PUBLISHERS
+PI MALDEN
+PA 350 MAIN STREET, STE 6, MALDEN, MA 02148 USA
+SN 0022-4537
+J9 J SOC ISSUES
+JI J. Soc. Issues
+PD WIN
+PY 2001
+VL 57
+IS 4
+BP 743
+EP 762
+DI 10.1111/0022-4537.00239
+PG 20
+WC Social Issues; Psychology, Social
+SC Social Issues; Psychology
+GA 494WP
+UT WOS:000172309100008
+DA 2020-08-04
+ER
+
+PT J
+AU Rudman, LA
+   Glick, P
+AF Rudman, LA
+   Glick, P
+TI Feminized management and backlash toward agentic women: The hidden costs
+   to women of a kinder, gentler image of middle managers
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+ID IMPRESSION MANAGEMENT; SOCIAL JUDGEABILITY; GENDER; STEREOTYPES; SELF;
+   CONSEQUENCES; IMPACT
+AB Women who display masculine, agentic traits are viewed as violating prescriptions of feminine niceness (L. A. Rudman, 1998). By legitimizing niceness as an employment criterion, "feminization" of management (requiring both agentic and communal traits for managers) may unintentionally promote discrimination against competent women. Participants made hiring recommendations for a feminized or masculine managerial job. Agentic female job applicants were viewed as less socially skilled than agentic males, but this perception only resulted in hiring discrimination for the feminized, not the masculine, job. Communal applicants (regardless of sex) invariably received low hiring ratings. Thus, women must present themselves as agentic to be hireable, but may therefore be seen as interpersonally deficient. Ironically, the feminization of management may legitimize discrimination against competent, agentic women.
+C1 Rutgers State Univ, Dept Psychol, Piscataway, NJ 08854 USA.
+   Lawrence Univ, Dept Psychol, Appleton, WI 54912 USA.
+RP Rudman, LA (corresponding author), Rutgers State Univ, Dept Psychol, Tillett Hall,53 Ave E, Piscataway, NJ 08854 USA.
+NR 34
+TC 418
+Z9 420
+U1 1
+U2 65
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD NOV
+PY 1999
+VL 77
+IS 5
+BP 1004
+EP 1010
+DI 10.1037/0022-3514.77.5.1004
+PG 7
+WC Psychology, Social
+SC Psychology
+GA 252UC
+UT WOS:000083519800008
+PM 10573877
+DA 2020-08-04
+ER
+
+EF
