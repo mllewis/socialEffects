@@ -1,0 +1,876 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Shephard, E
+   Jackson, GM
+   Groom, MJ
+AF Shephard, Elizabeth
+   Jackson, Georgina M.
+   Groom, Madeleine J.
+TI The effects of co-occurring ADHD symptoms on electrophysiological
+   correlates of cognitive control in young people with Tourette syndrome
+SO JOURNAL OF NEUROPSYCHOLOGY
+LA English
+DT Article
+DE tourette syndrome; attention-deficit; hyperactivity disorder; cognitive
+   control; electrophysiology; comorbidity
+ID ATTENTION-DEFICIT/HYPERACTIVITY DISORDER; OBSESSIVE-COMPULSIVE DISORDER;
+   IMPULSE-CONTROL DISORDERS; BEHAVIORAL-INHIBITION; EXECUTIVE FUNCTION;
+   RESPONSE ERRORS; HABIT-REVERSAL; TIC DISORDERS; CHILDREN; ADOLESCENTS
+AB Efficient cognitive control is implicated in tic control in young people with Tourette syndrome (TS). Attention-deficit/hyperactivity disorder (ADHD) frequently co-occurs with TS and is associated with impaired cognitive control. Young people with TS and ADHD (TS+ADHD) show poorer cognitive control performance than those with TS, but how co-occurring ADHD affects underlying neural activity is unknown. We investigated this issue by examining behavioural and event-related potential (ERP) correlates of cognitive control in young people with these conditions. Participants aged 9-17 with TS (n=17), TS+ADHD (n=17), ADHD (n=11), and unaffected controls (n=20) performed a visual Go/Nogo task during electroencephalography (EEG) recording. Behavioural performance measures (D-prime, RT, reaction time variability, post-error slowing) and ERP measures (N2, P3, error-related negativity (ERN), error positivity (Pe)) were analysed in a 2 (TS-yes, TS-no) x 2 (ADHD-yes, ADHD-no) factorial analysis to investigate the effects of TS, ADHD, and their interaction. The results of these analyses showed that ADHD was associated with poorer performance and reduced amplitude of all ERPs, reflecting widespread cognitive control impairments. Tourette syndrome was associated with slowed RTs, which might reflect a compensatory slowing of motor output to facilitate tic control. There was no interaction between the TS and ADHD factors for any behavioural or ERP measure, indicating the impairing effects of ADHD on behaviour and electrophysiological markers of cognitive control were present in TS+ADHD and that RT slowing associated with TS was unaffected by co-occurring ADHD symptoms.
+C1 [Shephard, Elizabeth] Kings Coll London, Inst Psychiat Psychol & Neurosci, Dept Psychol, London SE5 8AF, England.
+   [Jackson, Georgina M.; Groom, Madeleine J.] Univ Nottingham, Inst Mental Hlth, Div Psychiat & Appl Psychol, Nottingham NG7 2RD, England.
+RP Shephard, E (corresponding author), Kings Coll London, Inst Psychiat Psychol & Neurosci, Henry Wellcome Bldg,16 de Crespigny Pk, London SE5 8AF, England.
+EM elizabeth.1.shephard@kcl.ac.uk
+OI Shephard, Elizabeth/0000-0002-5952-3565; Groom,
+   Madeleine/0000-0002-5182-518X
+FU University of Nottingham; Shire Pharmaceutical plc.
+FX We thank Jane Fowlie, Dilip Nathan, Joe Kilgariff, and Chris Hollis for
+   assistance with recruitment, and Tiffanee Riley for assistance with data
+   collection. This research was supported by a PhD studentship awarded to
+   ES from the University of Nottingham and a research grant awarded to MJG
+   from Shire Pharmaceutical plc. The funding sources had no involvement in
+   the work beyond financial support.
+NR 52
+TC 17
+Z9 17
+U1 1
+U2 27
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1748-6645
+EI 1748-6653
+J9 J NEUROPSYCHOL
+JI J. Neuropsychol.
+PD SEP
+PY 2016
+VL 10
+IS 2
+BP 223
+EP 238
+DI 10.1111/jnp.12071
+PG 16
+WC Psychology; Psychology, Experimental
+SC Psychology
+GA DW4MT
+UT WOS:000383618000004
+PM 25894525
+DA 2020-08-05
+ER
+
+PT J
+AU Barry, RJ
+   De Blasio, FM
+AF Barry, Robert J.
+   De Blasio, Frances M.
+TI Performance and ERP components in the equiprobable go/no-go task:
+   Inhibition in children
+SO PSYCHOPHYSIOLOGY
+LA English
+DT Article
+DE Children; Equiprobable go; no-go paradigm; ERPs; Performance; Inhibition
+ID EVENT-RELATED POTENTIALS; RESPONSE-INHIBITION; TARGET STIMULI; BRAIN;
+   PCA; AMPLITUDE; INTERVAL; PRIMER; ADULTS; WAVE
+AB The equiprobable go/no-go task lacks the dominant go imperative found in the usual go/no-go task, and hence we previously regarded it as involving little inhibition. However, children have relative difficulty with this task, and demonstrate large frontal no-go N2s. We investigated whether this child N2 plays an inhibitory role, using performance measures to illuminate the link between N2 and inhibition. Forty children aged 8 to 13 were presented with four stimulus blocks each containing 75 go and 75 no-go tone stimuli in random order. A temporal PCA with unrestricted varimax rotation quantified the mean go and no-go ERP component amplitudes. Most identified components were differentially enhanced to go or no-go as in adults, supporting a previously proposed differential processing schema. Between subjects, larger frontocentral no-go N2bs were associated with fewer commission errors. Hence, the no-go N2b in this paradigm can be interpreted as an individual marker of inhibition in children.
+C1 Univ Wollongong, Ctr Psychophys Psychophysiol & Psychopharmacol, Brain & Behav Res Inst, Wollongong, NSW 2522, Australia.
+   [Barry, Robert J.] Univ Wollongong, Sch Psychol, Wollongong, NSW 2522, Australia.
+RP Barry, RJ (corresponding author), Univ Wollongong, Sch Psychol, Wollongong, NSW 2522, Australia.
+EM robert_barry@uow.edu.au
+RI De Blasio, Frances M./D-9158-2019
+OI De Blasio, Frances M./0000-0003-1442-9820; Barry,
+   Robert/0000-0003-2734-9475
+NR 37
+TC 21
+Z9 22
+U1 0
+U2 19
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0048-5772
+EI 1469-8986
+J9 PSYCHOPHYSIOLOGY
+JI Psychophysiology
+PD SEP
+PY 2015
+VL 52
+IS 9
+BP 1228
+EP 1237
+DI 10.1111/psyp.12447
+PG 10
+WC Psychology, Biological; Neurosciences; Physiology; Psychology;
+   Psychology, Experimental
+SC Psychology; Neurosciences & Neurology; Physiology
+GA CP4LD
+UT WOS:000359852300012
+PM 25959726
+DA 2020-08-05
+ER
+
+PT J
+AU Lopez-Martin, S
+   Albert, J
+   Fernandez-Jaen, A
+   Carretie, L
+AF Lopez-Martin, S.
+   Albert, J.
+   Fernandez-Jaen, A.
+   Carretie, L.
+TI Emotional response inhibition in children with
+   attention-deficit/hyperactivity disorder: neural and behavioural data
+SO PSYCHOLOGICAL MEDICINE
+LA English
+DT Article
+DE ADHD; emotion; emotion dysregulation; orbitofrontal cortex; P3; response
+   inhibition
+ID DEFICIT HYPERACTIVITY DISORDER; EVENT-RELATED POTENTIALS; ANTERIOR
+   CINGULATE FUNCTION; PEDIATRIC BIPOLAR DISORDER; MEDICATION-NAIVE
+   CHILDREN; GO/NO-GO TASK; STIMULANT-MEDICATION; SELECTIVE ATTENTION;
+   FUNCTIONAL NETWORKS; COGNITIVE CONTROL
+AB Background. Although both emotion and response inhibition are thought to be important in attention-deficit/hyperactivity disorder (ADHD), little is known about the neural mechanisms that underlie the interaction between these two processes in patients with this disorder. This study aimed at examining how emotional contexts affect inhibitory control in children with ADHD.
+   Method. A total of 24 ADHD children and 24 healthy comparison subjects performed a modified go/no-go task during three different emotionally laden contexts: negative, neutral and positive. To explore the timing and the underlying neural substrates of emotion-modulated response inhibition, event-related potentials were measured and further analysed both at the scalp and at the voxel level.
+   Results. Patients with ADHD showed greater activation of inhibition-related neural mechanisms (i.e. no-go P3 amplitudes and orbitofrontal cortex activity) to maintain a similar level of performance as healthy comparison subjects, especially during the emotionally arousing contexts (negative and positive).
+   Conclusions. This study provides plausible neural mechanisms for the difficulty that ADHD children have in controlling their behaviour in highly emotional situations. Such emotional contexts might increase the need for top-down inhibitory control and put ADHD children at greater risk for impulsive behaviours and emotional dysregulation.
+C1 [Lopez-Martin, S.; Albert, J.; Carretie, L.] Univ Autonoma Madrid, Fac Psicol, Dept Psicol Biol & Salud, E-28049 Madrid, Spain.
+   [Albert, J.] Univ Complutense Madrid, Inst Pluridisciplinar, E-28040 Madrid, Spain.
+   [Fernandez-Jaen, A.] Hosp Univ Quiron, Unidad Neurol Infantil, Madrid 28223, Spain.
+RP Lopez-Martin, S (corresponding author), Univ Autonoma Madrid, Fac Psicol, Dept Psicol Biol & Salud, E-28049 Madrid, Spain.
+EM sara.lopez@uam.es
+RI Carretie, Luis/B-7290-2008; Albert, Jacobo/B-9492-2011
+OI Carretie, Luis/0000-0001-7375-6739; Albert, Jacobo/0000-0001-6538-9801;
+   Fernandez-Jaen, Alberto/0000-0003-3306-9832
+FU Juste; Ministerio de Economia y Competitividad (MINECO) of Spain
+   [PSI2011-26314]
+FX This work was supported by Juste and the Ministerio de Economia y
+   Competitividad (MINECO) of Spain (PSI2011-26314). The funders had no
+   role in the study design, data collection, data analysis, data
+   interpretation, or writing of the manuscript. We thank the children and
+   their parents for participating in our study. The authors would also
+   like to thank Dr Montoya for carefully reading the manuscript and the
+   reviewers for their helpful and constructive comments.
+NR 92
+TC 20
+Z9 20
+U1 1
+U2 30
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0033-2917
+EI 1469-8978
+J9 PSYCHOL MED
+JI Psychol. Med.
+PD JUL
+PY 2015
+VL 45
+IS 10
+BP 2057
+EP 2071
+DI 10.1017/S0033291714003195
+PG 15
+WC Psychology, Clinical; Psychiatry; Psychology
+SC Psychology; Psychiatry
+GA CJ8MW
+UT WOS:000355757500005
+PM 25708692
+DA 2020-08-05
+ER
+
+PT J
+AU Trinkl, M
+   Greimel, E
+   Bartling, J
+   Grunewald, B
+   Schulte-Korne, G
+   Grossheinrich, N
+AF Trinkl, Monika
+   Greimel, Ellen
+   Bartling, Juergen
+   Gruenewald, Barbara
+   Schulte-Koerne, Gerd
+   Grossheinrich, Nicola
+TI Right-lateralization of N2-amplitudes in depressive adolescents: an
+   emotional go/no-go study
+SO JOURNAL OF CHILD PSYCHOLOGY AND PSYCHIATRY
+LA English
+DT Article
+DE ERP; MDD; major depression; emotion regulation; asymmetry; left frontal
+   hypoactivation; endophenotype; sensation seeking; experience seeking;
+   appetitive stimuli; impulsivity; adolescence; go nogo
+ID FRONTAL EEG ASYMMETRY; POSITRON-EMISSION-TOMOGRAPHY; PREFRONTAL CORTEX;
+   COGNITIVE CONTROL; BRAIN ACTIVITY; FACIAL EXPRESSIONS; INHIBITORY
+   CONTROL; SENSATION SEEKING; MAJOR DEPRESSION; EARLY-CHILDHOOD
+AB BackgroundRecent studies have proposed the process of emotion regulation as a promising target to study the neurophysiological basis of adolescent depression. Emotion regulation has repeatedly been studied with emotional go/no-go paradigms. To date, no study has examined if the left-frontal hypoactivation associated with depression generalizes to active tasks. The aim of this study was therefore to investigate the hemispheric asymmetry of the N2 component in depressed adolescents in an emotion regulation paradigm.
+   MethodsTwenty-four adolescents diagnosed with major depression (age 11-18) and 30 healthy controls (age 11-18) performed two emotional go/no-go tasks exhibiting negative faces as go trials and positive faces as no-go trials and vice versa.
+   ResultsOn the behavioral level, no significant group differences emerged. On the neural level, we found a more right-lateralized N2-amplitude in depressed subjects, while it was more left-lateralized in controls. Furthermore, both groups showed a less negative N2-amplitude to positive no-go stimuli.
+   ConclusionThis study provides strong support for a general left-frontal hypoactivity in adolescent depression, which also applies to active emotional go/no-go paradigms. Furthermore, the less negative N2 to positive stimuli is consistent with a generally enhanced impulsivity of adolescents toward appetitive stimuli, which is possibly the base of the differential clinical pattern of adolescent in contrast to adult depression.
+C1 [Trinkl, Monika; Greimel, Ellen; Bartling, Juergen; Gruenewald, Barbara; Schulte-Koerne, Gerd; Grossheinrich, Nicola] Univ Munich, Dept Child & Adolescent Psychiat Psychosomat & Ps, Munich, Germany.
+   [Grossheinrich, Nicola] Rhein Westfal TH Aachen, Univ Hosp, Dept Child & Adolescent Psychiat Psychosomat & Ps, Child Neuropsychol Sect, D-52062 Aachen, Germany.
+   [Grossheinrich, Nicola] Rhein Westfal TH Aachen, Univ Hosp, JARA Brain Translat Med, Dept Child & Adolescent Psychiat Psychosomat & Ps, D-52062 Aachen, Germany.
+RP Grossheinrich, N (corresponding author), Rhein Westfal TH Aachen, Univ Hosp, Dept Child & Adolescent Psychiat Psychotherapy, Child Neuropsychol Sect, D-52062 Aachen, Germany.
+EM ngrossheinrich@ukaachen.de
+RI GroSSheinrich, Nicola/AAH-3401-2020
+FU Faculty of Medicine, University of Munich (Foerderprogramm fur Forschung
+   und Lehre)
+FX This work was supported by the Faculty of Medicine, University of Munich
+   (Foerderprogramm fur Forschung und Lehre to N. G.). The authors would
+   like to thank Anna Friedmann, Emana Music and Carolin Rose for their
+   assistance in data collection. The authors have declared that they have
+   no potential or competing conflicts of interest.
+NR 70
+TC 12
+Z9 12
+U1 0
+U2 33
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0021-9630
+EI 1469-7610
+J9 J CHILD PSYCHOL PSYC
+JI J. Child Psychol. Psychiatry
+PD JAN
+PY 2015
+VL 56
+IS 1
+BP 76
+EP 86
+DI 10.1111/jcpp.12282
+PG 11
+WC Psychology, Developmental; Psychiatry; Psychology
+SC Psychology; Psychiatry
+GA AX1YH
+UT WOS:000346739400010
+PM 24963551
+DA 2020-08-05
+ER
+
+PT J
+AU Chevalier, N
+   Kelsey, KM
+   Wiebe, SA
+   Espy, KA
+AF Chevalier, Nicolas
+   Kelsey, Kathleen M.
+   Wiebe, Sandra A.
+   Espy, Kimberly Andrews
+TI The Temporal Dynamic of Response Inhibition in Early Childhood: An ERP
+   Study of Partial and Successful Inhibition
+SO DEVELOPMENTAL NEUROPSYCHOLOGY
+LA English
+DT Article
+ID PROACTIVE COGNITIVE CONTROL; GO/NOGO TASK; YOUNG-CHILDREN; STOP-SIGNAL;
+   MECHANISMS; CONFLICT; CONTEXT; ABILITY; GO
+AB Event-related potentials were recorded while five-year-old children completed a Go/No-Go task that distinguished between partial inhibition (i.e., response is initiated but cancelled before completion) and successful inhibition (i.e., response is inhibited before it is initiated). Partial inhibition trials were characterized by faster response initiation and later latency of the lateral frontal negativity than successful Go and successful inhibition trials. The speed of response initiation was influenced by the response speed on previous trials and influenced the response speed on subsequent trials. Response initiation and action decision dynamically influenced each other, and their temporal interplay determined response inhibition success.
+C1 [Chevalier, Nicolas] Univ Edinburgh, Dept Psychol, Edinburgh EH8 9JZ, Midlothian, Scotland.
+   [Kelsey, Kathleen M.] Univ Kansas, Life Span Inst, Lawrence, KS 66045 USA.
+   [Wiebe, Sandra A.] Univ Alberta, Dept Psychol, Edmonton, AB, Canada.
+   [Espy, Kimberly Andrews] Univ Arizona, Dept Psychol, Tucson, AZ 85721 USA.
+   [Espy, Kimberly Andrews] Univ Arizona, Dept Psychiat, Tucson, AZ USA.
+   [Espy, Kimberly Andrews] Univ Nebraska, Dept Psychol, Lincoln, NE 68588 USA.
+RP Chevalier, N (corresponding author), Univ Edinburgh, Dept Psychol, 7 George Sq, Edinburgh EH8 9JZ, Midlothian, Scotland.
+EM nicolas.chevalier@ed.ac.uk
+RI Wiebe, Sandra/L-4378-2014
+OI Wiebe, Sandra/0000-0002-6267-4268
+FU National Institutes of Health (NIH)United States Department of Health &
+   Human ServicesNational Institutes of Health (NIH) - USA [MH065668,
+   DA023653, DA024769, HD038051, HD050309]
+FX This work was supported by the National Institutes of Health (NIH)
+   [Grant Numbers MH065668, DA023653, DA024769, HD038051, HD050309].
+NR 37
+TC 10
+Z9 10
+U1 0
+U2 10
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 8756-5641
+EI 1532-6942
+J9 DEV NEUROPSYCHOL
+JI Dev. Neuropsychol.
+PD NOV 17
+PY 2014
+VL 39
+IS 8
+BP 585
+EP 599
+DI 10.1080/87565641.2014.973497
+PG 15
+WC Psychology, Developmental; Psychology; Psychology, Experimental
+SC Psychology
+GA AU6AS
+UT WOS:000345685100002
+PM 25470223
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Barry, RJ
+   De Blasio, FM
+   Borchard, JP
+AF Barry, Robert J.
+   De Blasio, Frances M.
+   Borchard, Jay P.
+TI Sequential processing in the equiprobable auditory Go/NoGo task:
+   Children vs. adults
+SO CLINICAL NEUROPHYSIOLOGY
+LA English
+DT Article
+DE Children; Adults; ERPs; Equiprobable Go/NoGo paradigm; Principal
+   Components Analysis (PCA); Exact Low Resolution Electromagnetic
+   Tomography (eLORETA)
+ID EVENT-RELATED POTENTIALS; PRINCIPAL-COMPONENTS-ANALYSIS; ELECTROMAGNETIC
+   TOMOGRAPHY; RESPONSE-INHIBITION; TARGET STIMULI; ERP; RESOLUTION;
+   MISMATCH; ANTERIORISATION; NEGATIVITY
+AB Objective: To compare sequential processing in the unwarned auditory equiprobable Go/NoGo task in children and adults, in the context of a recently developed adult schema.
+   Methods: Adult and child samples completed an equiprobable auditory Go/NoGo task while EEG was recorded from 19 channels. Go and NoGo ERPs were decomposed using unrestricted Varimax-rotated PCAs for the groups separately, and in combination. The separate adult and child components were compared using the Congruence Coefficient. Brain sources of each assessed component were examined using eLORETA.
+   Results: Corresponding adult/child components were tentatively identified: two N1 subcomponents (N1-1, PN) and P2, followed by N2, P3 (separate P3a/P3b in children), the classic Slow Wave (SW), and a diffuse Late Positivity (LP). While early and late components showed similarities, the intermediate P2 and N2 differed substantially in their stimulus effects.
+   Conclusions: Aspects of "Go'' vs. "NoGo'' categorisation differ between adults and children, but subsequent processing reflected in the different Go/NoGo P3 components, and their sequellae, are similar.
+   Significance: This is the first detailed examination of child responses in this paradigm. The tested schema appears relatively robust in adults, and the child results may aid our understanding of developmental aspects of cognitive processing in normal and atypical individuals. (C) 2014 International Federation of Clinical Neurophysiology. Published by Elsevier Ireland Ltd. All rights reserved.
+C1 Univ Wollongong, Brain & Behav Res Inst, Ctr Psychophys Psychophysiol & Psychopharmacol, Wollongong, NSW 2522, Australia.
+   [Borchard, Jay P.] Univ Wollongong, Sch Psychol, Wollongong, NSW 2522, Australia.
+RP Barry, RJ (corresponding author), Univ Wollongong, Sch Psychol, Wollongong, NSW 2522, Australia.
+EM robert_barry@uow.edu.au
+RI De Blasio, Frances M./D-9158-2019
+OI De Blasio, Frances M./0000-0003-1442-9820; Barry,
+   Robert/0000-0003-2734-9475; borchard, jay/0000-0003-3651-898X
+NR 38
+TC 26
+Z9 28
+U1 1
+U2 8
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 1388-2457
+EI 1872-8952
+J9 CLIN NEUROPHYSIOL
+JI Clin. Neurophysiol.
+PD OCT
+PY 2014
+VL 125
+IS 10
+BP 1995
+EP 2006
+DI 10.1016/j.clinph.2014.02.018
+PG 12
+WC Clinical Neurology; Neurosciences
+SC Neurosciences & Neurology
+GA AT4YR
+UT WOS:000344950000012
+PM 24661623
+DA 2020-08-05
+ER
+
+PT J
+AU Epstein, B
+   Shafer, VL
+   Melara, RD
+   Schwartz, RG
+AF Epstein, Baila
+   Shafer, Valerie L.
+   Melara, Robert D.
+   Schwartz, Richard G.
+TI Can Children With SLI Detect Cognitive Conflict? Behavioral and
+   Electrophysiological Evidence
+SO JOURNAL OF SPEECH LANGUAGE AND HEARING RESEARCH
+LA English
+DT Article
+DE specific language impairment; cognitive control; event-related
+   potentials (ERPs)
+ID WORKING-MEMORY CAPACITY; ANTERIOR CINGULATE CORTEX; IRRELEVANT
+   INFORMATION; LANGUAGE IMPAIRMENT; EXECUTIVE FUNCTIONS; RESPONSE
+   CONFLICT; INHIBITION; INTERFERENCE; COMPONENTS; ERP
+AB Purpose: This study examined whether children with specific language impairment (qSLI) are deficient in detecting cognitive conflict between competing response tendencies in a GO/No-GO task.
+   Method: Twelve children with SLI (ages 10-12), 22 children with typical language development matched group-wise on age (TLD-A), and 16 younger children with TLD (ages 8-9) matched group-wise on language skills (TLD-L) were tested using a behavioral GO/No-GO paradigm with simultaneous collection of event-related potentials. The N2 component was used as a neural index of the ability to detect conflict between GO and No-GO response tendencies.
+   Results: Hit rates did not differentiate the 3 groups. The TLD-L children demonstrated the highest false-alarm rates. The N2 component was attenuated and showed delayed divergence of GO and No-GO amplitudes in SLI relative to TLD-A children in response to stimuli presented at various probability levels. The N2 effect in children with SLI resembled that of children with TLD who were approximately 3 years younger.
+   Conclusions: School-age children with SLI exhibit a maturational lag in detecting conflict between competing response alternatives. Deficient conflict detection may in turn hinder these children's ability to resolve conflict among semantic representations that are activated during language processing.
+C1 [Epstein, Baila] CUNY Brooklyn Coll, Brooklyn, NY 11210 USA.
+   [Shafer, Valerie L.; Schwartz, Richard G.] CUNY, Grad Ctr, New York, NY 10021 USA.
+   [Melara, Robert D.] CUNY City Coll, New York, NY 10021 USA.
+RP Epstein, B (corresponding author), CUNY Brooklyn Coll, Brooklyn, NY 11210 USA.
+EM Epstein@brooklyn.cuny.edu
+RI Schwartz, Richard/AAT-2639-2020
+OI Schwartz, Richard/0000-0001-9153-1349; Shafer,
+   Valerie/0000-0001-8551-1878
+FU National Institute on Deafness and Other Communication DisordersUnited
+   States Department of Health & Human ServicesNational Institutes of
+   Health (NIH) - USANIH National Institute on Deafness & Other
+   Communication Disorders (NIDCD) [F31DC-009356]; Graduate Center of the
+   City University of New York
+FX This research was supported by National Institute on Deafness and Other
+   Communication Disorders Grant F31DC-009356 and by a Doctoral Student
+   Research Grant from the Graduate Center of the City University of New
+   York to Baila Epstein. A portion of the data reported here was reported
+   in Baila Epstein's unpublished doctoral dissertation. The authors wish
+   to thank Ada Anaya and Althea Green for their assistance with
+   recruitment and testing of participants.
+NR 62
+TC 11
+Z9 11
+U1 1
+U2 12
+PU AMER SPEECH-LANGUAGE-HEARING ASSOC
+PI ROCKVILLE
+PA 2200 RESEARCH BLVD, #271, ROCKVILLE, MD 20850-3289 USA
+SN 1092-4388
+EI 1558-9102
+J9 J SPEECH LANG HEAR R
+JI J. Speech Lang. Hear. Res.
+PD AUG
+PY 2014
+VL 57
+IS 4
+BP 1453
+EP 1467
+DI 10.1044/2014_JSLHR-L-13-0234
+PG 15
+WC Audiology & Speech-Language Pathology; Linguistics; Rehabilitation
+SC Audiology & Speech-Language Pathology; Linguistics; Rehabilitation
+GA AZ4NF
+UT WOS:000348198000026
+PM 24686792
+DA 2020-08-05
+ER
+
+PT J
+AU Algarin, C
+   Nelson, CA
+   Peirano, P
+   Westerlund, A
+   Reyes, S
+   Lozoff, B
+AF Algarin, Cecilia
+   Nelson, Charles A.
+   Peirano, Patricio
+   Westerlund, Alissa
+   Reyes, Sussanne
+   Lozoff, Betsy
+TI Iron-deficiency anemia in infancy and poorer cognitive inhibitory
+   control at age 10 years
+SO DEVELOPMENTAL MEDICINE AND CHILD NEUROLOGY
+LA English
+DT Article
+ID ERP COMPONENTS; TASK; ADOLESCENCE; RESPONSES; CHILDREN
+AB Aim The aim of this study was to assess the effects of iron-deficiency anemia (IDA) in infancy on executive functioning at age 10years, specifically inhibitory control on the Go/No-Go task. We predicted that children who had IDA in infancy would show poorer inhibitory control. Method We assessed cognitive inhibitory control in 132 Chilean children (mean [SD] age 10y [1mo]): 69 children had IDA in infancy (45 males, 24 females) and 63 comparison children who did not have IDA (26 males, 37 females). Participants performed the Go/No-Go task with event-related potentials. Group differences in behavioral (accuracy, reaction time) and electrophysiological outcomes (N2 and P300 components) were analyzed using repeated-measures analyses of variance. N2 and P300 are interpreted to reflect attention and resource allocation respectively. Results Relative to comparison participants, children who had IDA in infancy showed slower reaction time (mean [SE], 528.7ms [14.2] vs 485.0ms [15.0], 95% confidence interval [CI] for difference between groups 0.986.5); lower accuracy (95.4% [0.5] vs 96.9% [0.6], 95% CI 3.0 to 0.1); longer latency to N2 peak (378.9ms [4.9] vs 356.9ms [5.0], 95% CI 7.536.6); and smaller P300 amplitude (4.5V [0.8] vs 7.6V [0.9], 95% CI5.5 to 0.5). Interpretation IDA in infancy was associated with slower reaction times and poorer inhibitory control 8 to 9 years after iron therapy. These findings are consistent with the long-lasting effects of early IDA on myelination and/or prefrontalstriatal circuits where dopamine is the major neurotransmitter.
+C1 [Algarin, Cecilia; Peirano, Patricio; Reyes, Sussanne] Univ Chile, Sleep & Funct Neurobiol Lab, INTA, Santiago 7830490, Chile.
+   [Nelson, Charles A.; Westerlund, Alissa] Harvard Univ, Childrens Hosp Boston, DMC Labs Cognit Neurosci, Sch Med, Boston, MA USA.
+   [Lozoff, Betsy] Univ Michigan, Ctr Human Growth & Dev, Ann Arbor, MI 48109 USA.
+RP Algarin, C (corresponding author), Univ Chile, Sleep & Funct Neurobiol Lab, INTA, Av Libano 5524, Santiago 7830490, Chile.
+EM calgarin@inta.uchile.cl
+RI Peirano, Patricio/K-8427-2013
+OI Peirano, Patricio/0000-0002-4387-3982
+FU National Institutes of Health, Bethesda, MD, USAUnited States Department
+   of Health & Human ServicesNational Institutes of Health (NIH) - USA [R01
+   HD33487]; Chilean Agency (CONICYT)Comision Nacional de Investigacion
+   Cientifica y Tecnologica (CONICYT)CONICYT FONDECYT [Fondecyt 1070668]
+FX This work was supported by grants from the National Institutes of
+   Health, Bethesda, MD, USA (R01 HD33487) and the Chilean Agency for
+   Funding in Science and Technology (CONICYT, Fondecyt 1070668). The
+   content of this article is solely the responsibility of the authors and
+   does not necessarily represent the official views of the National
+   Institutes of Health.
+NR 27
+TC 46
+Z9 51
+U1 2
+U2 31
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0012-1622
+EI 1469-8749
+J9 DEV MED CHILD NEUROL
+JI Dev. Med. Child Neurol.
+PD MAY
+PY 2013
+VL 55
+IS 5
+BP 453
+EP 458
+DI 10.1111/dmcn.12118
+PG 6
+WC Clinical Neurology; Pediatrics
+SC Neurosciences & Neurology; Pediatrics
+GA 126JC
+UT WOS:000317609400016
+PM 23464736
+OA Green Accepted, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Lamm, C
+   White, LK
+   McDermott, JM
+   Fox, NA
+AF Lamm, Connie
+   White, Lauren K.
+   McDermott, Jennifer Martin
+   Fox, Nathan A.
+TI Neural activation underlying cognitive control in the context of neutral
+   and affectively charged pictures in children
+SO BRAIN AND COGNITION
+LA English
+DT Article
+DE Cognitive control; Negative emotion; Children; N2; Go/no-go; Source
+   analysis
+ID RESPONSE-INHIBITION; EMOTION REGULATION
+AB The neural correlates of cognitive control for typically developing 9-year-old children were examined using dense-array ERPs and estimates of cortical activation (LORETA) during a go/no-go task with two conditions: a neutral picture condition and an affectively charged picture condition. Activation was estimated for the entire cortex after which data were exported for four regions of interests (ROIs): ventrolateral prefrontal cortex (VLPFC), dorsal anterior cingulate cortex (dACC), dorsolateral prefrontal cortex (DLPFC), and orbitofrontal/ventromedial prefrontal cortex (OFC/VMPFC). Results revealed faster reaction times, greater N2 activation, and greater prefrontal activation for the affectively charged picture condition than the neutral picture condition. The findings are discussed in reference to the impact of affective stimuli on recruitment of specific brain regions involved in cognitive control. (C) 2012 Elsevier Inc. All rights reserved.
+C1 [Lamm, Connie; White, Lauren K.; Fox, Nathan A.] Univ Maryland, Child Dev Lab, Dept Human Dev, College Pk, MD 20742 USA.
+   [McDermott, Jennifer Martin] Univ Massachusetts, Dept Psychol, Amherst, MA 01003 USA.
+RP Lamm, C (corresponding author), Univ Maryland, Child Dev Lab, Dept Human Dev, 3304 Benjamin Bldg, College Pk, MD 20742 USA.
+EM connie.lamm@gmail.com
+FU National Institute of HealthUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USA [HD17899, P50MH078105]
+FX The project described was supported by Grant Numbers HD17899 to Nathan
+   A. Fox and P50MH078105 to Megan R. Gunnar from the National Institute of
+   Health. The content is solely the responsibility of the authors and does
+   not necessarily represent the official views of the National Institutes
+   of Health.
+NR 19
+TC 21
+Z9 21
+U1 0
+U2 14
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0278-2626
+EI 1090-2147
+J9 BRAIN COGNITION
+JI Brain Cogn.
+PD AUG
+PY 2012
+VL 79
+IS 3
+BP 181
+EP 187
+DI 10.1016/j.bandc.2012.02.013
+PG 7
+WC Neurosciences; Psychology, Experimental
+SC Neurosciences & Neurology; Psychology
+GA 948LD
+UT WOS:000304503800001
+PM 22542842
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Groom, MJ
+   Scerif, G
+   Liddle, PF
+   Batty, MJ
+   Liddle, EB
+   Roberts, KL
+   Cahill, JD
+   Liotti, M
+   Hollis, C
+AF Groom, Madeleine J.
+   Scerif, Gaia
+   Liddle, Peter F.
+   Batty, Martin J.
+   Liddle, Elizabeth B.
+   Roberts, Katherine L.
+   Cahill, John D.
+   Liotti, Mario
+   Hollis, Chris
+TI Effects of Motivation and Medication on Electrophysiological Markers of
+   Response Inhibition in Children with Attention-Deficit/Hyperactivity
+   Disorder
+SO BIOLOGICAL PSYCHIATRY
+LA English
+DT Article
+DE ADHD; electrophysiology; motivation; response inhibition; stimulant
+   medication
+ID DEFICIT HYPERACTIVITY DISORDER; EVENT-RELATED POTENTIALS; STOP-SIGNAL
+   PARADIGM; MOTOR CONTROL; ADHD; METHYLPHENIDATE; REWARD; DOPAMINE; BRAIN;
+   AD/HD
+AB Background: Theories of attention-deficit/hyperactivity disorder (ADHD) posit either executive deficits and/or alterations in motivational style and reward processing as core to the disorder. Effects of motivational incentives on electrophysiological correlates of inhibitory control and relationships between motivation and stimulant medication have not been explicitly tested.
+   Methods: Children (9-15 years) with combined-type ADHD (n = 28) and matched typically developing children (CTRL) (n = 28) performed a go/no-go task. Electroencephalogram data were recorded. Amplitude of two event-related potentials, the N2 and P3 (markers of response conflict and attention), were measured. The ADHD children were all stimulant responders tested on and off their usual dose of methylphenidate; CTRLs were never medicated. All children performed the task under three motivational conditions: reward; response cost; and baseline, in which points awarded/deducted for inhibitory performance varied.
+   Results: There were effects of diagnosis (CTRL > ADHD unmedicated), medication (on > off), and motivation (reward and/or response cost > baseline) on N2 and P3 amplitude, although the N2 diagnosis effect did not reach statistical significance (p = .1). Interactions between motivation and diagnosis/medication were nonsignificant (p > .1).
+   Conclusions: Motivational incentives increased amplitudes of electrophysiological correlates of response conflict and attention in children with ADHD, towards the baseline (low motivation) amplitudes of control subjects. These results suggest that, on these measures, motivational incentives have similar effects in children with ADHD as typically developing CTRLs and have additive effects with stimulant medication, enhancing stimulus salience and allocation of attentional resources during response inhibition.
+C1 [Groom, Madeleine J.] Univ Nottingham, Queens Med Ctr, Nottingham NG7 2UH, England.
+   [Scerif, Gaia] Univ Oxford, Dept Expt Psychol, Oxford OX1 3UD, England.
+   [Liddle, Peter F.] Univ Nottingham, Div Psychiat, Nottingham NG7 2UH, England.
+   [Liotti, Mario] Simon Fraser Univ, Dept Psychol, Burnaby, BC V5A 1S6, Canada.
+RP Groom, MJ (corresponding author), Univ Nottingham, Queens Med Ctr, E Floor,S Block,Derby Rd, Nottingham NG7 2UH, England.
+EM maddie.groom@nottingham.ac.uk
+RI Liddle, Elizabeth/A-2034-2015; Roberts, Katherine/B-9709-2014; Liddle,
+   Peter/AAU-7939-2020
+OI Liddle, Elizabeth/0000-0002-9299-094X; Roberts,
+   Katherine/0000-0002-8735-2249; Hollis, Chris/0000-0003-1083-6744; Batty,
+   Martin/0000-0001-9946-4523; Groom, Madeleine/0000-0002-5182-518X
+FU Wellcome TrustWellcome Trust [076448/Z/05/Z]
+FX Funding for this study was provided by the Wellcome Trust, Grant Ref:
+   076448/Z/05/Z. Patients were recruited with the approval and assistance
+   of Nottinghamshire Healthcare National Health Service (NHS) Mist, United
+   Kingdom.
+NR 40
+TC 49
+Z9 50
+U1 0
+U2 21
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0006-3223
+J9 BIOL PSYCHIAT
+JI Biol. Psychiatry
+PD APR 1
+PY 2010
+VL 67
+IS 7
+BP 624
+EP 631
+DI 10.1016/j.biopsych.2009.09.029
+PG 8
+WC Neurosciences; Psychiatry
+SC Neurosciences & Neurology; Psychiatry
+GA 574QY
+UT WOS:000276008700005
+PM 19914599
+OA Other Gold, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Lahat, A
+   Todd, RM
+   Mahy, CEV
+   Lau, K
+   Zelazo, PD
+AF Lahat, Ayelet
+   Todd, Rebecca M.
+   Mahy, Caitlin Emma Victoria
+   Lau, Karen
+   Zelazo, Philip David
+TI Neurophysiological correlates of executive function: a comparison of
+   European-Canadian and Chinese-Canadian 5-year-old children
+SO FRONTIERS IN HUMAN NEUROSCIENCE
+LA English
+DT Article
+DE executive function; culture; EEG/ERP; children; go/no-go; N2
+ID ATTENTION-DEFICIT/HYPERACTIVITY DISORDER; EVENT-RELATED POTENTIALS;
+   RESPONSE-INHIBITION; PREFRONTAL CORTEX; EMOTION REGULATION; COGNITIVE
+   CONTROL; ERROR-DETECTION; ERP COMPONENTS; BRAIN ACTIVITY; GO
+AB This study explored the neurophysiological correlates of executive function (EF) in young children from two different cultural backgrounds. Twenty European-Canadian and 17 Chinese-Canadian 5-year-olds participated in a go/no-go task, during which high-density electroencephalographic (EEG) data were recorded. No cultural group differences were observed in children's behavioral performance on the task, but marked differences were revealed by ERP analyses, which focused on the amplitude and latency of the N2 waveform. Chinese-Canadian children showed larger (i.e., more negative) N2 amplitudes than European-Canadian children on the right side of the scalp on no-go trials, as well as on the left side of the scalp on go trials, and for all children, larger N2 amplitudes were associated with faster median reaction times. Source analyses of the N2 were consistent with the hypothesis that compared to European-Canadian children, Chinese-Canadian children showed more activation in dorsomedial, ventromedial, and (bilateral) ventrolateral prefrontal cortex. These findings reveal that EEG can provide a measure of cultural differences in neurocognitive function that is more sensitive than behavioral data alone; that Chinese-Canadian children show a pattern of hemispheric differentiation in the context of this task than that is more pronounced than that of age-matched European-Canadian children; that the asymmetrically lateralized N2 may be a reliable marker of both effortful inhibition (on the right) and effortful approach (on the left); and that the neural correlates of EF may vary across samples of healthy participants, even in children.
+C1 [Lahat, Ayelet; Todd, Rebecca M.; Lau, Karen] Univ Toronto, Toronto, ON, Canada.
+   [Todd, Rebecca M.] Rotman Res Inst, Toronto, ON, Canada.
+   [Mahy, Caitlin Emma Victoria] Univ Oregon, Eugene, OR 97403 USA.
+   [Zelazo, Philip David] Univ Minnesota, St Paul, MN 55108 USA.
+RP Zelazo, PD (corresponding author), Univ Minnesota, Inst Child Dev, 51 E River Pkwy, Minneapolis, MN 55455 USA.
+EM zelazo@umn.edu
+FU NSERC of CanadaNatural Sciences and Engineering Research Council of
+   Canada; CFICanada Foundation for Innovation
+FX Funding for this research was provided to PDZ by NSERC of Canada, the
+   CFI, and the Nancy M. and John E. Lindahl Professorship at the
+   University of Minnesota.
+NR 53
+TC 26
+Z9 26
+U1 0
+U2 0
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1662-5161
+J9 FRONT HUM NEUROSCI
+JI Front. Hum. Neurosci.
+PD JAN
+PY 2010
+VL 3
+AR 72
+DI 10.3389/neuro.09.072.2009
+PG 10
+WC Neurosciences; Psychology
+SC Neurosciences & Neurology; Psychology
+GA 556UW
+UT WOS:000274619800006
+PM 20161697
+OA DOAJ Gold, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Cragg, L
+   Fox, A
+   Nation, K
+   Reid, C
+   Anderson, M
+AF Cragg, Lucy
+   Fox, Allison
+   Nation, Kate
+   Reid, Corinne
+   Anderson, Mike
+TI Neural Correlates of Successful and Partial Inhibitions. in Children: An
+   ERP Study
+SO DEVELOPMENTAL PSYCHOBIOLOGY
+LA English
+DT Article
+DE inhibition; go/no-go; event-related potentials; children; development;
+   N2; P3
+ID EVENT-RELATED POTENTIALS; GO/NO-GO TASK; RESPONSE-INHIBITION;
+   STOP-SIGNAL; COGNITIVE-DEVELOPMENT; SUSTAINED ATTENTION; EXECUTIVE
+   FUNCTIONS; PERFORMANCE; COMPONENTS; CHILDHOOD
+AB This experiment used event-related potentials (ERPs) to investigate the neural processes underlying the development of response inhibition in a modified version of the go/no-go paradigm [Cragg and Nation [20081 Developmental Science 11(6): 819-827]. N2 and P3 ERP components on correct go trials and partial and successful inhibitions were compared in 7- and 9-Year-old children. A larger N2 effcct on successful inhibitions was found in 9-year-olds compared to 7-year-olds at fronto-central electrodes. N2 amplitude was positively related to behavioral peiforinance in the 7-year-olds suggesting it may reflect inhibitory processes: however this relationship was not present in the 9-Year-olds. Age differences were also apparent in the go P3, perhaps indicating differences in stimulus processing. The no-go P3 component was larger oil successful than partial inhibitions. In contrast, there was no difference in N2 amplitude between partial and, successful inhibitions. A significant difference was found in N2 latency however This suggests that inhibitory processes are similar in both cases but initiated earlier on successful inhibitions. N2 latency was also shorter in 9-year-olds than 7-year-olds supporting an increase in the efficiency of response inhibition with age. (C) 2009 Wiley Periodicals, Inc. Dev Psychobiol 51: 533-543, 2009.
+C1 [Cragg, Lucy] Univ Nottingham, Sch Psychol, Nottingham NG7 2RD, England.
+   [Cragg, Lucy; Nation, Kate] Univ Oxford, Dept Expt Psychol, Oxford OX1 3UD, England.
+   [Fox, Allison; Anderson, Mike] Univ Western Australia, Sch Psychol, Perth, WA 6009, Australia.
+   [Reid, Corinne] Murdoch Univ, Sch Psychol, Perth, WA, Australia.
+RP Cragg, L (corresponding author), Univ Nottingham, Sch Psychol, Univ Pk, Nottingham NG7 2RD, England.
+EM lucy.cragg@nottingham.ac.uk
+RI Fox, Allison M/H-9218-2014; Cragg, Lucy/B-2070-2010; Nation,
+   Kate/F-8228-2014
+OI Fox, Allison M/0000-0001-5189-6271; Nation, Kate/0000-0001-5048-6107;
+   Cragg, Lucy/0000-0001-7523-0204
+FU Biotechnology and Biological Sciences Research CouncilBiotechnology and
+   Biological Sciences Research Council (BBSRC)
+NR 40
+TC 33
+Z9 33
+U1 0
+U2 28
+PU JOHN WILEY & SONS INC
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN, NJ 07030 USA
+SN 0012-1630
+J9 DEV PSYCHOBIOL
+JI Dev. Psychobiol.
+PD NOV
+PY 2009
+VL 51
+IS 7
+BP 533
+EP 543
+DI 10.1002/dev.20391
+PG 11
+WC Developmental Biology; Psychology
+SC Developmental Biology; Psychology
+GA 506LA
+UT WOS:000270775100002
+PM 19685486
+DA 2020-08-05
+ER
+
+PT J
+AU Duan, XJ
+   Shi, JN
+   Wu, JH
+   Mou, Y
+   Cui, HR
+   Wang, GQ
+AF Duan, Xiaoju
+   Shi, Jiannong
+   Wu, Jianhui
+   Mou, Yi
+   Cui, Hairong
+   Wang, Guiqing
+TI Electrophysiological correlates for response inhibition in
+   intellectually gifted children: A Go/NoGo study
+SO NEUROSCIENCE LETTERS
+LA English
+DT Article
+DE Event-related potentials; Intelligence; Go/NoGo; Inhibitory; Gifted
+ID EVENT-RELATED POTENTIALS; STOP-SIGNAL; MOTOR CONTROL; INTELLIGENCE;
+   TASK; PERFORMANCE; ATTENTION; N2; DISORDER; REFLECTS
+AB Superior response inhibition is an essential component of the advanced cognitive abilities of gifted children. This study investigated response inhibition in intellectually gifted children by recording event-related brain potentials (ERPs) during a Go/NoGo task. Fifteen intellectually gifted children and 15 intellectually average children participated. Our present findings showed that intellectually gifted children had shorter Go-P3 latency, indicating faster processing of Go stimuli, a finding consistent with previous studies. We focused on the two inhibition-related components, NoGo-N2 and NoGo-P3. The results showed that NoGo-P3 latency was shorter for intellectually gifted children compared to their average peers. N2 latency did not indicate the intelligence difference. These results suggested that intellectually gifted children showed faster inhibition when dealing with NoGo stimuli, and this superiority came from the later stages of inhibition, i.e., response evaluation or the success of inhibiting a response, as indexed by the shorter P3 latency. (C) 2009 Elsevier Ireland Ltd. All rights reserved.
+C1 [Duan, Xiaoju; Shi, Jiannong; Wu, Jianhui] Chinese Acad Sci, Inst Psychol, Beijing 100101, Peoples R China.
+   [Duan, Xiaoju] Chinese Acad Sci, Grad Sch, Beijing 100101, Peoples R China.
+   [Mou, Yi] Univ Missouri, Columbia, MO USA.
+   [Cui, Hairong] QiSeGuang Sch, Handan, Peoples R China.
+   [Wang, Guiqing] NE YuCai Sch, Shenyang, Peoples R China.
+RP Shi, JN (corresponding author), Chinese Acad Sci, Inst Psychol, 4A Datun Rd, Beijing 100101, Peoples R China.
+EM shijn@psych.ac.cn
+NR 31
+TC 20
+Z9 21
+U1 0
+U2 15
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0304-3940
+EI 1872-7972
+J9 NEUROSCI LETT
+JI Neurosci. Lett.
+PD JUN 19
+PY 2009
+VL 457
+IS 1
+BP 45
+EP 48
+DI 10.1016/j.neulet.2009.04.006
+PG 4
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 449WE
+UT WOS:000266360300011
+PM 19429159
+DA 2020-08-05
+ER
+
+PT J
+AU Davis, EP
+   Bruce, J
+   Snyder, K
+   Nelson, CA
+AF Davis, EP
+   Bruce, J
+   Snyder, K
+   Nelson, CA
+TI The X-trials: Neural correlates of an inhibitory control task in
+   children and adults
+SO JOURNAL OF COGNITIVE NEUROSCIENCE
+LA English
+DT Article; Proceedings Paper
+CT Biennial Meeting of the Society-for-Research-in-Child-Development
+CY APR 19-20, 2001
+CL MINNEAPOLIS, MN
+SP Soc Res Child Dev
+ID CONTINUOUS PERFORMANCE-TEST; ANTERIOR CINGULATE CORTEX; HUMAN INFANTS;
+   ATTENTION; SELECTION; LESIONS; MONKEYS; ADHD
+AB Event-related potentials (ERPs) were used to examine developmental differences between adults and 6-year-old children in the neural processes involved in an inhibitory control task. Twenty adults and 21 children completed a task that required them to selectively respond to tal-get stimuli while inhibiting responses to equally, salient non-target stimuli. Because this task had been previously studied using functional magnetic resonance imaging (fMRI) the relation between the fMRI and ERP findings was informally examined. The results indicate that latency and amplitude of the P3 differentiated the different types of trials. However, the pattern of event-related neural activity differed for adults and children. These results, which suggest that adults and children may he using different processes to perform this task, have implications for the interpretation of the previous fMRI findings.
+C1 Univ Minnesota, Inst Child Dev, Minneapolis, MN 55455 USA.
+RP Nelson, CA (corresponding author), Univ Minnesota, Inst Child Dev, 51 E River Rd, Minneapolis, MN 55455 USA.
+EM canelson@umn.edu
+RI Davis, Elysia/B-7621-2013
+FU NINDS NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Neurological
+   Disorders & Stroke (NINDS) [NS329976]
+NR 24
+TC 75
+Z9 76
+U1 0
+U2 8
+PU MIT PRESS
+PI CAMBRIDGE
+PA 55 HAYWARD STREET, CAMBRIDGE, MA 02142 USA
+SN 0898-929X
+J9 J COGNITIVE NEUROSCI
+JI J. Cogn. Neurosci.
+PD APR 1
+PY 2003
+VL 15
+IS 3
+BP 432
+EP 443
+DI 10.1162/089892903321593144
+PG 12
+WC Neurosciences; Psychology, Experimental
+SC Neurosciences & Neurology; Psychology
+GA 670EA
+UT WOS:000182393400010
+PM 12729494
+OA Green Published
+DA 2020-08-05
+ER
+
+EF

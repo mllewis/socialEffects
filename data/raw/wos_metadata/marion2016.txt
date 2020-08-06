@@ -1,0 +1,1667 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wessel, I
+   Zandstra, ARE
+   Hengeveld, HME
+   Moulds, ML
+AF Wessel, Ineke
+   Zandstra, Anna Roos E.
+   Hengeveld, Hester M. E.
+   Moulds, Michelle L.
+TI Collaborative recall of details of an emotional film
+SO MEMORY
+LA English
+DT Article
+DE Trauma film paradigm; Collaborative inhibition; Emotion; Error pruning;
+   Detail memory
+ID COLLECTIVE MEMORY; EVENTS; STRESS; OLDER; SIZE
+AB Collaborative inhibition refers to the phenomenon that when several people work together to produce a single memory report, they typically produce fewer items than when the unique items in the individual reports of the same number of participants are combined (i.e., nominal recall). Yet, apart from this negative effect, collaboration may be beneficial in that group members remove errors from a collaborative report. Collaborative inhibition studies on memory for emotional stimuli are scarce. Therefore, the present study examined both collaborative inhibition and collaborative error reduction in the recall of the details of emotional material in a laboratory setting. Female undergraduates (n = 111) viewed a film clip of a fatal accident and subsequently engaged in either collaborative (n = 57) or individual recall (n = 54) in groups of three. The results show that, across several detail categories, collaborating groups recalled fewer details than nominal groups. However, overall, nominal recall produced more errors than collaborative recall. The present results extend earlier findings on both collaborative inhibition and error reduction to the recall of affectively laden material. These findings may have implications for the applied fields of forensic and clinical psychology.
+C1 [Wessel, Ineke; Zandstra, Anna Roos E.; Hengeveld, Hester M. E.] Univ Groningen, NL-9712 TS Groningen, Netherlands.
+   [Moulds, Michelle L.] Univ New S Wales, Sch Psychol, Sydney, NSW, Australia.
+RP Wessel, I (corresponding author), Univ Groningen, Dept Clin Psychol & Expt Psychopathol, Grote Kruisstr 2-1, NL-9712 TS Groningen, Netherlands.
+EM J.P.Wessel@rug.nl
+OI Moulds, Michelle/0000-0001-7064-4248; Wessel, Ineke/0000-0001-6312-376X;
+   Zandstra, Anna Roos/0000-0002-0583-1829
+NR 26
+TC 19
+Z9 20
+U1 2
+U2 43
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 0965-8211
+EI 1464-0686
+J9 MEMORY
+JI Memory
+PD APR 3
+PY 2015
+VL 23
+IS 3
+BP 437
+EP 444
+DI 10.1080/09658211.2014.895384
+PG 8
+WC Psychology, Experimental
+SC Psychology
+GA CB2GR
+UT WOS:000349445600012
+PM 24628679
+DA 2020-08-05
+ER
+
+PT J
+AU Congleton, AR
+   Rajaram, S
+AF Congleton, Adam R.
+   Rajaram, Suparna
+TI Collaboration Changes Both the Content and the Structure of Memory:
+   Building the Architecture of Shared Representations
+SO JOURNAL OF EXPERIMENTAL PSYCHOLOGY-GENERAL
+LA English
+DT Article
+DE collective memory; shared memory; shared retrieval organization;
+   collaborative inhibition; retrieval disruption
+ID SUBJECTIVE ORGANIZATION; COLLECTIVE MEMORY; FREE-RECALL; RETRIEVAL;
+   INHIBITION; EMERGENCE; BENEFITS; EVENTS
+AB Memory research has primarily focused on how individuals form and maintain memories across time. However, less is known about how groups of people working together can create and maintain shared memories of the past. Recent studies have focused on understanding the processes behind the formation of such shared memories, but none has investigated the structure of shared memory. This study investigated the circumstances under which collaboration would influence the likelihood that participants come to share both a similar content and a similar organization of the past by aligning their individual representations into a shared rendering. We tested how the frequency and the timing of collaboration affect participants' retrieval organization, and how this in turn influences the formation of shared memory and its persistence over time. Across numerous foundational and novel analyses, we observed that as the size of the collaborative inhibition effect-a counterintuitive finding that collaboration reduces group recall-increased, so did the amount of shared memory and the shared organization of memories. These findings reveal the interconnected relationship between collaborative inhibition, retrieval disruption, shared memory, and shared organization. Together, these relationships have intriguing implications for research across a wide variety of domains, including the formation of collective memory, beliefs and attitudes, parent-child narratives and the development of autobiographical memory, and the emergence of shared representations in educational settings.
+C1 [Congleton, Adam R.] Macquarie Univ, Dept Cognit Sci, Sydney, NSW 2109, Australia.
+   [Rajaram, Suparna] SUNY Stony Brook, Dept Psychol, Stony Brook, NY USA.
+RP Congleton, AR (corresponding author), Macquarie Univ, ARC Ctr Excellence Cognit & Its Disorders CCD, Dept Cognit Sci, Sydney, NSW 2109, Australia.
+EM adam.congleton@mq.edu.au
+NR 61
+TC 20
+Z9 20
+U1 0
+U2 21
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0096-3445
+EI 1939-2222
+J9 J EXP PSYCHOL GEN
+JI J. Exp. Psychol.-Gen.
+PD AUG
+PY 2014
+VL 143
+IS 4
+BP 1570
+EP 1584
+DI 10.1037/a0035974
+PG 15
+WC Psychology, Experimental
+SC Psychology
+GA AN0TF
+UT WOS:000340296200012
+PM 24588216
+DA 2020-08-05
+ER
+
+PT J
+AU Choi, HY
+   Blumen, HM
+   Congleton, AR
+   Rajaram, S
+AF Choi, Hae-Yoon
+   Blumen, Helena M.
+   Congleton, Adam R.
+   Rajaram, Suparna
+TI The role of group configuration in the social transmission of memory:
+   Evidence from identical and reconfigured groups
+SO JOURNAL OF COGNITIVE PSYCHOLOGY
+LA English
+DT Article
+DE Collaborative inhibition; Collaborative memory; Collective memory;
+   Proximal-distal partners; Reconfigured groups; Social transmission of
+   memory
+ID COLLECTIVE MEMORY; COLLABORATIVE INHIBITION; SUBJECTIVE ORGANIZATION;
+   GROUP RECALL; RETRIEVAL; HYPERMNESIA; FRAMEWORK
+AB Collaborating with others during recall shapes both group and individual memories. Individuals contribute less when recalling in groups than when recalling alone, a phenomenon called collaborative inhibition. In contrast, collaboration improves post-collaborative individual memory by providing re-exposure to information that would have been otherwise forgotten. Collaboration also influences collective memorythe overlap in post-collaborative memory among group members. We examined the role of group configuration on such transmission of memory by varying group configuration across repeated recalls. Participants (N = 162) studied words and completed three recall sessions in one of three conditions (N = 54/condition): Individual-Individual-Individual (Control), Collaborative-Collaborative (Identical group)-Individual and Collaborative-Collaborative (Reconfigured group)-Individual. Collaborative inhibition occurred in both the Identical and Reconfigured groups during the first recall but disappeared in the Reconfigured groups during the second recall. Post-collaborative individual memory was greater following Reconfigured than Identical group collaboration. This pattern reversed for collective memories; repeated collaboration increased overlap in the remembered and forgotten items in Identical groups compared to Reconfigured groups. Finally, Reconfigured groups provided a quantifiable index of the influence of distal partners (i.e., no direct collaboration involved) on post-collaborative individual memory. We conclude that group configuration has powerful consequences on the amount, the similarity and the variety of memory representations.
+C1 [Choi, Hae-Yoon; Rajaram, Suparna] SUNY Stony Brook, Dept Psychol, Stony Brook, NY 11794 USA.
+   [Blumen, Helena M.] Albert Einstein Coll Med, Dept Med, New York, NY USA.
+   [Congleton, Adam R.] Macquarie Univ, Dept Cognit Sci, ARC Ctr Excellence Cognit & Its Disorders CCD, Sydney, NSW 2109, Australia.
+RP Choi, HY (corresponding author), SUNY Stony Brook, Dept Psychol, Stony Brook, NY 11794 USA.
+EM hae-yoon.choi@stonybrook.edu
+RI Choi, Hae-Yoon/AAP-8725-2020
+NR 41
+TC 19
+Z9 19
+U1 1
+U2 12
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 2044-5911
+EI 2044-592X
+J9 J COGN PSYCHOL
+JI J. Cogn. Psychol.
+PD JAN 2
+PY 2014
+VL 26
+IS 1
+BP 65
+EP 80
+DI 10.1080/20445911.2013.862536
+PG 16
+WC Psychology, Experimental
+SC Psychology
+GA 276DN
+UT WOS:000328728400007
+DA 2020-08-05
+ER
+
+PT J
+AU Kelley, MR
+   Pentz, C
+   Reysen, MB
+AF Kelley, Matthew R.
+   Pentz, Carliann
+   Reysen, Matthew B.
+TI The joint influence of collaboration and part-set cueing
+SO QUARTERLY JOURNAL OF EXPERIMENTAL PSYCHOLOGY
+LA English
+DT Article
+DE Collaborative inhibition; Part-set cueing; Part-list cueing; Strategy
+   disruption; Human memory
+ID COLLECTIVE MEMORY; INHIBITION; RECALL
+AB The present study was designed to examine the effects of retrieval cues on memory performance for both individuals and collaborating pairs. Participants worked either alone or together in the presence or absence of part-set cues to recall list items in Experiments 1 and 2 and to reconstruct the order of a list items in Experiment 3. The detrimental effects of collaborative inhibition were observed across all three experiments. In contrast, part-set cueing inhibition was found following free recall, whereas part-set cueing facilitation was observed on reconstruction tasks. Taken together, the results of the present experiments suggest that the effects of collaborative inhibition and part-set cueing may operate independently of one another.
+C1 [Kelley, Matthew R.; Pentz, Carliann] Lake Forest Coll, Dept Psychol, Lake Forest, IL 60035 USA.
+   [Reysen, Matthew B.] Univ Mississippi, Dept Psychol, Oxford, MS USA.
+RP Kelley, MR (corresponding author), Lake Forest Coll, Dept Psychol, Lake Forest, IL 60035 USA.
+EM kelley@lakeforest.edu
+OI Kelley, Matthew/0000-0003-2893-8706
+NR 28
+TC 4
+Z9 4
+U1 0
+U2 5
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1747-0218
+EI 1747-0226
+J9 Q J EXP PSYCHOL
+JI Q. J. Exp. Psychol.
+PY 2014
+VL 67
+IS 10
+BP 1977
+EP 1985
+DI 10.1080/17470218.2014.881405
+PG 9
+WC Psychology, Biological; Physiology; Psychology; Psychology, Experimental
+SC Psychology; Physiology
+GA AP7ZW
+UT WOS:000342298400008
+PM 24460096
+DA 2020-08-05
+ER
+
+PT J
+AU Hyman, IE
+   Cardwell, BA
+   Roy, RA
+AF Hyman, Ira E., Jr.
+   Cardwell, Brittany A.
+   Roy, Rebecca A.
+TI Multiple causes of collaborative inhibition in memory for categorised
+   word lists
+SO MEMORY
+LA English
+DT Article
+DE Collaborative inhibition; Retrieval strategy disruption; Collaborative
+   memory; Conversational remembering
+ID FALSE MEMORIES; INDIVIDUAL RECALL; RECOGNITION MEMORY; COLLECTIVE
+   MEMORY; PRODUCTIVITY LOSS; RETRIEVAL; ORGANIZATION; INFORMATION;
+   PERFORMANCE; DISRUPTION
+AB Collaborative inhibition is the finding that collaborative groups recall less information than nominal groups (the combined output of an equal number of individuals). The retrieval strategy disruption explanation of collaborative inhibition argues that individuals' idiosyncratic retrieval strategies are disrupted by hearing the contributions of others. In a series of studies, we investigated the role of retrieval interference and other cognitive explanations of collaborative inhibition. We asked collaborative and nominal dyads to recall lists of categorised words. We found that collaborative inhibition results from retrieval strategy disruption and from other factors. Collaborative dyads displayed more limited exploration than nominal dyads: They sampled from fewer categories and, thus, recalled fewer words. Collaborative dyads have different goals than nominal dyads, particularly limiting errors which may also reduce correct recall. We also found that the time period of recall contributes to collaborative inhibition because collaborative dyads recall fewer words early in the retrieval period but more words later than nominal dyads. In addition, we found instances of collaborative advantages such that collaborative dyads made fewer errors and demonstrated more recall organisation than nominal dyads.
+C1 [Hyman, Ira E., Jr.; Cardwell, Brittany A.; Roy, Rebecca A.] Western Washington Univ, Bellingham, WA 98225 USA.
+RP Hyman, IE (corresponding author), Western Washington Univ, Dept Psychol, 516 High St, Bellingham, WA 98225 USA.
+EM Ira.Hyman@wwu.edu
+NR 61
+TC 21
+Z9 21
+U1 0
+U2 16
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0965-8211
+EI 1464-0686
+J9 MEMORY
+JI Memory
+PD OCT 1
+PY 2013
+VL 21
+IS 7
+BP 875
+EP 890
+DI 10.1080/09658211.2013.769058
+PG 16
+WC Psychology, Experimental
+SC Psychology
+GA 223GQ
+UT WOS:000324793100009
+PM 23439153
+DA 2020-08-05
+ER
+
+PT J
+AU Harris, CB
+   Barnier, AJ
+   Sutton, J
+AF Harris, Celia B.
+   Barnier, Amanda J.
+   Sutton, John
+TI Shared Encoding and the Costs and Benefits of Collaborative Recall
+SO JOURNAL OF EXPERIMENTAL PSYCHOLOGY-LEARNING MEMORY AND COGNITION
+LA English
+DT Article
+DE collaborative recall; cross-cuing; collaborative inhibition; social
+   memory
+ID COLLECTIVE MEMORY; INDIVIDUAL RECALL; SOCIAL CONTAGION; RETRIEVAL CUES;
+   FALSE MEMORIES; INHIBITION; ORGANIZATION; HYPERMNESIA; DISTINCTIVENESS;
+   FRIENDSHIP
+AB We often remember in the company of others. In particular, we routinely collaborate with friends, family, or colleagues to remember shared experiences. But surprisingly, in the experimental collaborative recall paradigm, collaborative groups remember less than their potential, an effect termed collaborative Rajaram and Pereira-Pasarin (2010) argued that the effects of collaboration on recall are determined by "pre-collaborative" factors. We studied the role of 2 pre-collaborative factors-shared encoding and group relationship-in determining the costs and benefits of collaborative recall. In Experiment 1, we compared groups of strangers who encoded alone versus together, before collaborating to recall. In Experiment 2, we compared groups of friends who encoded alone versus together, before collaborating to recall. We found that shared encoding abolished collaborative inhibition in both Experiments 1 and 2. But prior relationship did not influence collaborative inhibition over and above the effects of shared encoding. Regardless of encoding condition, collaborative group recall contained fewer intrusions than nominal group recall, and these benefits continued in subsequent individual recall. Our findings demonstrate that pre-collaborative factors-specifically shared encoding-have flow-on benefits for group and individual recall amount, but not recall accuracy. We discuss these findings in terms of self- and cross-cuing in collaborative recall.
+C1 [Harris, Celia B.; Barnier, Amanda J.; Sutton, John] Macquarie Univ, ARC Ctr Excellence Cognit & Its Disorders, Sydney, NSW 2109, Australia.
+   [Harris, Celia B.; Barnier, Amanda J.; Sutton, John] Macquarie Univ, Dept Cognit Sci, Sydney, NSW 2109, Australia.
+RP Harris, CB (corresponding author), Macquarie Univ, Dept Cognit Sci, Sydney, NSW 2109, Australia.
+EM celia.harris@mq.edu.au
+RI Sutton, John/D-4339-2013
+OI Sutton, John/0000-0003-3046-9785; Barnier, Amanda/0000-0003-1126-555X;
+   Harris, Celia/0000-0001-5261-4205
+FU Macquarie University Research Fellowship; Australian Research Council
+   Australian Research FellowshipAustralian Research Council; Australian
+   Research Council Discovery-ProjectAustralian Research Council
+   [DP0770271]; Danish National Research FoundationDanmarks
+   Grundforskningsfond
+FX The research we report is part of a larger long-term project on
+   individual and group memory, and the research and the preparation of
+   this article were supported by (a) a Macquarie University Research
+   Fellowship to Celia B. Harris, (b) an Australian Research Council
+   Australian Research Fellowship to Amanda J. Barnier, (c) an Australian
+   Research Council Discovery-Project Grant (DP0770271) to Amanda J.
+   Barnier and John Sutton, and (d) the Danish National Research
+   Foundation. We are grateful for that support. This research was
+   conducted at Macquarie University as part of the requirements for Celia
+   B. Harris's doctoral degree, with the generous support of the Macquarie
+   Centre for Cognitive Science and Macquarie University. We are also most
+   grateful to Paul Keil for research assistance and to Michelle Moulds and
+   Rochelle Cox for their thoughtful comments on drafts of this article.
+NR 54
+TC 40
+Z9 41
+U1 0
+U2 85
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0278-7393
+J9 J EXP PSYCHOL LEARN
+JI J. Exp. Psychol.-Learn. Mem. Cogn.
+PD JAN
+PY 2013
+VL 39
+IS 1
+BP 183
+EP 195
+DI 10.1037/a0028906
+PG 13
+WC Psychology; Psychology, Experimental
+SC Psychology
+GA 070AL
+UT WOS:000313478100014
+PM 22686851
+OA Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Barber, SJ
+   Rajaram, S
+   Fox, EB
+AF Barber, Sarah J.
+   Rajaram, Suparna
+   Fox, Ethan B.
+TI LEARNING AND REMEMBERING WITH OTHERS: THE KEY ROLE OF RETRIEVAL IN
+   SHAPING GROUP RECALL AND COLLECTIVE MEMORY
+SO SOCIAL COGNITION
+LA English
+DT Article
+ID COLLABORATIVE INHIBITION; SOCIAL CONTAGION; FRIENDSHIP; ATTENTION;
+   ADULTS; OLDER
+AB People frequently collaborate to learn and remember information, and this may help groups create shared representations of the world (i.e., collective memories). However, contrary to intuitions, collaboration also lowers group recall levels. Such impairment occurs regardless of whether people collaborate when first experiencing, or encoding, an event (the collaborative encoding deficit), or when retrieving, or remembering, the event (the collaborative inhibition effect). In understanding how collaboration impairs group recall and enhances shared, or collective, memories it remains unknown as to where collaboration exerts the greatest influence-at encoding or at retrieval to shape these distinct phenomena. The current study simultaneously compared collaboration at these two stages and revealed the power of collaborative retrieval. Collaboration impaired the group recall product at both time points, but especially so at retrieval. Furthermore, only collaborative retrieval played a significant role in the formation of collective memories.
+C1 [Barber, Sarah J.] Univ So Calif, Davis Sch Gerontol, Los Angeles, CA 90089 USA.
+   [Rajaram, Suparna] SUNY Stony Brook, Stony Brook, NY USA.
+   [Fox, Ethan B.] New Sch Social Res, New York, NY 10011 USA.
+RP Barber, SJ (corresponding author), Univ So Calif, Davis Sch Gerontol, 3715 McClintock Ave, Los Angeles, CA 90089 USA.
+EM barbersa@usc.edu
+FU NIA NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute on Aging (NIA)
+   [T32 AG000037]
+NR 45
+TC 21
+Z9 24
+U1 1
+U2 57
+PU GUILFORD PUBLICATIONS INC
+PI NEW YORK
+PA 370 SEVENTH AVE, SUITE 1200, NEW YORK, NY 10001-1020 USA
+SN 0278-016X
+J9 SOC COGNITION
+JI Soc. Cogn.
+PD FEB
+PY 2012
+VL 30
+IS 1
+BP 121
+EP 132
+DI 10.1521/soco.2012.30.1.121
+PG 12
+WC Psychology, Social
+SC Psychology
+GA 887EJ
+UT WOS:000299909400008
+PM 25431516
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Kelley, MR
+   Reysen, MB
+   Ahlstrand, KM
+   Pentz, CJ
+AF Kelley, Matthew R.
+   Reysen, Matthew B.
+   Ahlstrand, Kayla M.
+   Pentz, Carliann J.
+TI Collaborative inhibition persists following social processing
+SO JOURNAL OF COGNITIVE PSYCHOLOGY
+LA English
+DT Article
+DE Collaborative memory; Cued recall; Social memory
+ID COLLECTIVE MEMORY; RECALL; INFORMATION; DISRUPTION
+AB In this experiment, participants read target words that were presented in the context of a social sentence "Willow towered over Meadow" or a nonsocial sentence "The willow towered over the meadow." Subsequently, they received a surprise cued recall test for the target nouns/names and completed the test either alone or in a group of two. Despite the fact that the stimulus materials were held constant across conditions, participants showed a social processing advantage in memory-that is, they remembered the social (name) versions of the target words significantly better than the nonsocial (noun) versions. Further, the social benefit was not strong enough to neutralise the inhibitory effects of collaboration as collaborative groups (two people working together) recalled significantly fewer words than did nominal groups (combined, nonredundant, output of two individuals working separately). The present study also demonstrated robust collaborative inhibition with cued recall, a task previously assumed to eliminate such inhibition.
+C1 [Kelley, Matthew R.; Ahlstrand, Kayla M.; Pentz, Carliann J.] Lake Forest Coll, Dept Psychol, Lake Forest, IL 60035 USA.
+   [Reysen, Matthew B.] Univ Mississippi, Dept Psychol, Oxford, MS USA.
+RP Kelley, MR (corresponding author), Lake Forest Coll, Dept Psychol, Lake Forest, IL 60035 USA.
+EM kelley@lakeforest.edu
+OI Kelley, Matthew/0000-0003-2893-8706
+NR 18
+TC 6
+Z9 8
+U1 0
+U2 21
+PU PSYCHOLOGY PRESS
+PI HOVE
+PA 27 CHURCH RD, HOVE BN3 2FA, EAST SUSSEX, ENGLAND
+SN 2044-5911
+J9 J COGN PSYCHOL
+JI J. Cogn. Psychol.
+PY 2012
+VL 24
+IS 6
+BP 727
+EP 734
+DI 10.1080/20445911.2012.684945
+PG 8
+WC Psychology, Experimental
+SC Psychology
+GA 995TG
+UT WOS:000308035200009
+DA 2020-08-05
+ER
+
+PT J
+AU Garrido, MV
+   Garcia-Marques, L
+   Hamilton, DL
+AF Garrido, Margarida V.
+   Garcia-Marques, Leonel
+   Hamilton, David L.
+TI Enhancing the Comparability Between Part-List Cueing and Collaborative
+   Recall A Gradual Part-List Cueing Paradigm
+SO EXPERIMENTAL PSYCHOLOGY
+LA English
+DT Article
+DE part-list cueing; gradual-list cueing; collaborative inhibition; person
+   memory
+ID MEMORY; RETRIEVAL; TESTS; INHIBITION; COGNITION
+AB The effects of part-list cueing and of collaborative recall in memory performance have been recently addressed as parallel phenomena. Notably they both impair recall (and boost frequency estimates) and they have been explained by the same underlying mechanisms. However, the comparability between the two paradigms is hindered by a number of procedural differences. The main contribution of this paper is the introduction of a new paradigm that makes standard part-list cueing and collaborative recall more comparable. In our study we compared free recall and frequency estimates of participants in a non-cueing condition with the same performance in a standard part-list cueing condition and in a condition in which part-list cues were gradually presented during recall (as it occurs in collaborative recall). Results indicate that the effects of part-list cueing continued to be reliable in both cueing conditions. Namely, recall was impaired and frequency estimates were boosted relatively to a non-cueing condition. The results obtained with this new method that enhances the direct comparability of the two paradigms provide further evidence for the parallel between the two effects.
+C1 [Garrido, Margarida V.] Inst Univ Lisboa, ISCTE, Dept Social & Org Psychol, CIS, P-1649026 Lisbon, Portugal.
+   [Garcia-Marques, Leonel] Univ Lisbon, Fac Psicol, P-1699 Lisbon, Portugal.
+   [Hamilton, David L.] Univ Calif Santa Barbara, Santa Barbara, CA 93106 USA.
+RP Garrido, MV (corresponding author), Inst Univ Lisboa, ISCTE, Dept Social & Org Psychol, CIS, Av Forcas Armadas, P-1649026 Lisbon, Portugal.
+EM margarida.garrido@iscte.pt
+RI ; Garrido, Margarida/J-4083-2013
+OI Garcia-Marques, Leonel/0000-0003-0800-7664; Garrido,
+   Margarida/0000-0003-3651-9245
+NR 24
+TC 4
+Z9 6
+U1 0
+U2 18
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA MERKELSTR 3, D-37085 GOTTINGEN, GERMANY
+SN 1618-3169
+EI 2190-5142
+J9 EXP PSYCHOL
+JI Exp. Psychol.
+PY 2012
+VL 59
+IS 4
+BP 199
+EP 205
+DI 10.1027/1618-3169/a000144
+PG 7
+WC Psychology, Experimental
+SC Psychology
+GA 975PS
+UT WOS:000306523900004
+PM 22411179
+DA 2020-08-05
+ER
+
+PT J
+AU Harris, CB
+   Barnier, AJ
+   Sutton, J
+AF Harris, Celia B.
+   Barnier, Amanda J.
+   Sutton, John
+TI Consensus collaboration enhances group and individual recall accuracy
+SO QUARTERLY JOURNAL OF EXPERIMENTAL PSYCHOLOGY
+LA English
+DT Article
+DE Collaborative recall; Collaborative inhibition; Memory accuracy; Social
+   influences on memory; False memory
+ID FALSE MEMORIES; COLLECTIVE MEMORY; SOCIAL CONTAGION; INHIBITION;
+   CONFORMITY; OLDER; PRESSURE; REMEMBER; COUPLES; EVENT
+AB We often remember in groups, yet research on collaborative recall finds "collaborative inhibition": Recalling with others has costs compared to recalling alone. In related paradigms, remembering with others introduces errors into recall. We compared costs and benefits of two collaboration procedures-turn taking and consensus. First, 135 individuals learned a word list and recalled it alone (Recall 1). Then, 45 participants in three-member groups took turns to recall, 45 participants in three-member groups reached a consensus, and 45 participants recalled alone but were analysed as three-member nominal groups (Recall 2). Finally, all participants recalled alone (Recall 3). Both turn-taking and consensus groups demonstrated the usual pattern of costs during collaboration and benefits after collaboration in terms of recall completeness. However, consensus groups, and not turn-taking groups, demonstrated clear benefits in terms of recall accuracy, both during and after collaboration. Consensus groups engaged in beneficial group source-monitoring processes. Our findings challenge assumptions about the negative consequences of social remembering.
+C1 [Harris, Celia B.] Aarhus Univ, Dept Psychol, Ctr Autobiog Memory Res CON AMORE, DK-8000 Aarhus C, Denmark.
+   [Barnier, Amanda J.; Sutton, John] Macquarie Univ, Macquarie Ctr Cognit Sci MACCS, Sydney, NSW 2109, Australia.
+RP Harris, CB (corresponding author), Aarhus Univ, Dept Psychol, Ctr Autobiog Memory Res CON AMORE, Jens Chr Skous Vej 4, DK-8000 Aarhus C, Denmark.
+EM celia@psy.au.dk
+RI Sutton, John/D-4339-2013
+OI Sutton, John/0000-0003-3046-9785; Harris, Celia/0000-0001-5261-4205;
+   Barnier, Amanda/0000-0003-1126-555X
+FU Australian Research CouncilAustralian Research Council [DP0770271];
+   Danish National Research FoundationDanmarks Grundforskningsfond;
+   Macquarie Centre for Cognitive Science
+FX The research we report is part of a larger long-term project on
+   individual and group memory, and the research and the preparation of
+   this manuscript were supported by: (a) an Australian Research Council
+   PhD scholarship to Celia Harris; (b) an Australian Research Council
+   Australian Research Fellowship to Amanda Barnier; (c) an Australian
+   Research Council Discovery-Project Grant (DP0770271) to Amanda Barnier
+   and John Sutton, and (d) the Danish National Research Foundation. We are
+   grateful for that support. This research was conducted at Macquarie
+   University as part of the requirements for Celia Harris's PhD, with the
+   generous support of the Macquarie Centre for Cognitive Science. We are
+   also most grateful to Paul Keil for research assistance and to Suparna
+   Rajaram, Dan Wright, Craig Thorley, and an anonymous reviewer for their
+   helpful comments on a previous draft of this manuscript.
+NR 42
+TC 38
+Z9 40
+U1 0
+U2 48
+PU PSYCHOLOGY PRESS
+PI HOVE
+PA 27 CHURCH RD, HOVE BN3 2FA, EAST SUSSEX, ENGLAND
+SN 1747-0218
+J9 Q J EXP PSYCHOL
+JI Q. J. Exp. Psychol.
+PY 2012
+VL 65
+IS 1
+BP 179
+EP 194
+DI 10.1080/17470218.2011.608590
+PG 16
+WC Psychology, Biological; Physiology; Psychology; Psychology, Experimental
+SC Psychology; Physiology
+GA 922KJ
+UT WOS:000302545500012
+PM 21939368
+DA 2020-08-05
+ER
+
+PT J
+AU Garcia-Marques, L
+   Garrido, MV
+   Hamilton, DL
+   Ferreira, MB
+AF Garcia-Marques, Leonel
+   Garrido, Margarida V.
+   Hamilton, David L.
+   Ferreira, Mario B.
+TI Effects of correspondence between encoding and retrieval organization in
+   social memory
+SO JOURNAL OF EXPERIMENTAL SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE Part-list cueing; Collaborative-inhibition; Impression-formation;
+   Distributed cognition
+ID LIST CUEING INHIBITION; STRATEGY DISRUPTION; COLLECTIVE MEMORY; RECALL;
+   COLLABORATION; COGNITION; INFORMATION; TESTS; MODEL; FRIENDSHIP
+AB Memory research has shown impaired recall performance when a subset of the studied stimuli is presented at recall (the part-list cueing effect, Slamecka, 1968) or when the recall is collaborative (collaborative-inhibition effect, Weldon & Bellinger, 1997). In two experiments we explore these effects in an impression-formation context and compare two prominent accounts (retrieval blocking versus strategy disruption) for them. We varied the correspondence between item organization at encoding and retrieval, either by manipulating the organization of part-list cues (Experiment 1) or the organization of the stimulus list that was later recalled collaboratively (Experiment 2). Results showed that when encoding and recall organizations did not correspond recall was impaired, replicating part-list cueing and collaborative-inhibition effects. However, when encoding and retrieval organization corresponded, these effects were greatly reduced. Such results support the recall strategy disruption hypothesis and challenge the retrieval blocking account. Implications for understanding memory in a social context are discussed. (C) 2011 Elsevier Inc. All rights reserved.
+C1 [Garcia-Marques, Leonel; Ferreira, Mario B.] Univ Lisbon, CIPUL Fac Psicol, Lisbon, Portugal.
+   [Garrido, Margarida V.] Lisbon Univ Inst, CIS ISCTE, Lisbon, Portugal.
+   [Hamilton, David L.] Univ Calif Santa Barbara, Santa Barbara, CA 93106 USA.
+RP Garcia-Marques, L (corresponding author), Fac Psicol & Ciencias Educ, Alameda Univ, P-1649013 Lisbon, Portugal.
+EM garcia_marques@sapo.pt
+RI Ferreira, Mario B./X-1079-2019; Garrido, Margarida/J-4083-2013
+OI Ferreira, Mario B./0000-0001-8962-7157; Garcia-Marques,
+   Leonel/0000-0003-0800-7664; Garrido, Margarida/0000-0003-3651-9245
+NR 49
+TC 8
+Z9 11
+U1 1
+U2 22
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0022-1031
+J9 J EXP SOC PSYCHOL
+JI J. Exp. Soc. Psychol.
+PD JAN
+PY 2012
+VL 48
+IS 1
+BP 200
+EP 206
+DI 10.1016/j.jesp.2011.06.017
+PG 7
+WC Psychology, Social
+SC Psychology
+GA 874DP
+UT WOS:000298935900021
+DA 2020-08-05
+ER
+
+PT J
+AU Congleton, AR
+   Rajaram, S
+AF Congleton, Adam R.
+   Rajaram, Suparna
+TI The Influence of Learning Methods on Collaboration: Prior Repeated
+   Retrieval Enhances Retrieval Organization, Abolishes Collaborative
+   Inhibition, and Promotes Post-Collaborative Memory
+SO JOURNAL OF EXPERIMENTAL PSYCHOLOGY-GENERAL
+LA English
+DT Article
+DE collaborative remembering; retrieval organization; repeated study;
+   repeated test; post-collaborative performance
+ID COLLECTIVE MEMORY; FREE-RECALL; TESTS; RECOGNITION; DISRUPTION;
+   PSYCHOLOGY; PEOPLE
+AB Research on collaborative memory has unveiled the counterintuitive yet robust phenomenon that collaboration impairs group recall. A candidate explanation for this collaborative inhibition effect is the disruption of people's idiosyncratic retrieval strategies during collaboration, and it is hypothesized that employing methods that improve one's organization protects against retrieval disruption. Here it is investigated how one's learning method during the study phase-defined as either repeatedly studying or repeatedly retrieving information-influences retrieval organization and what effects this has on collaborative recall and post-collaborative individual recall. Results show that repeated retrieval consistently eliminated collaborative inhibition. This enabled participants to gain the most from re-exposure to materials recalled by their partners that they themselves did not recall and led to improvements in their individual memory following collaboration. This repeated retrieval advantage stemmed from the preferential manner in which this learning method strengthened retrieval organization. Findings are also discussed that reveal a relationship between retrieval organization and the interaction observed between learning method and short versus long delay seen in the testing effect literature. Finally, results show that the elusive benefits of cross-cuing during collaboration may be best detected with a longer study-test delay. Together, these findings illuminate when and how collaboration can enhance memory.
+C1 [Congleton, Adam R.; Rajaram, Suparna] SUNY Stony Brook, Dept Psychol, Stony Brook, NY 11794 USA.
+RP Rajaram, S (corresponding author), SUNY Stony Brook, Dept Psychol, Stony Brook, NY 11794 USA.
+EM suparna.rajaram@sunysb.edu
+NR 71
+TC 54
+Z9 61
+U1 0
+U2 45
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0096-3445
+EI 1939-2222
+J9 J EXP PSYCHOL GEN
+JI J. Exp. Psychol.-Gen.
+PD NOV
+PY 2011
+VL 140
+IS 4
+BP 535
+EP 551
+DI 10.1037/a0024308
+PG 17
+WC Psychology, Experimental
+SC Psychology
+GA 846OS
+UT WOS:000296913700001
+PM 21744986
+DA 2020-08-05
+ER
+
+PT J
+AU Henkel, LA
+   Rajaram, S
+AF Henkel, Linda A.
+   Rajaram, Suparna
+TI Collaborative Remembering in Older Adults: Age-Invariant Outcomes in the
+   Context of Episodic Recall Deficits
+SO PSYCHOLOGY AND AGING
+LA English
+DT Article
+DE collaborative memory; aging and recall; retrieval organization;
+   collective memory; beliefs about collaboration
+ID REPEATED MEMORY TESTS; COLLECTIVE MEMORY; SOCIAL CONTAGION; FALSE
+   MEMORIES; COGNITIVE RESEARCH; RETRIEVAL; YOUNGER; INHIBITION; BENEFITS;
+   COUPLES
+AB Rapidly growing research reveals complex yet systematic consequences of collaboration on memory in young adults, but much less is known about this phenomenon in older adults. Young and older adults studied a list of categorized words and took three successive recall tests. Test I and 3 were always taken individually, and Test 2 was done either in triads or alone. Despite older adults recalling less overall than young adults, both age groups exhibited similar costs and benefits of collaboration: Collaboration reduced both correct and false recall during collaborative remembering, was associated with more positive beliefs about its value, and produced reminiscence, collective memory, and some forgetting in its cascading effects on postcollaborative recall. We examine the role of retrieval organization in these effects. As environmental support may play a substantial role in healthy aging, the relatively preserved effects of collaboration on memory in older adults hold promise for testing judicious uses of group remembering in aging.
+C1 [Henkel, Linda A.] Fairfield Univ, Dept Psychol, Fairfield, CT 06824 USA.
+   [Rajaram, Suparna] SUNY Stony Brook, Dept Psychol, Stony Brook, NY 11790 USA.
+RP Henkel, LA (corresponding author), Fairfield Univ, Dept Psychol, Fairfield, CT 06824 USA.
+EM lhenkel@fairfield.edu
+NR 82
+TC 22
+Z9 23
+U1 0
+U2 14
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0882-7974
+EI 1939-1498
+J9 PSYCHOL AGING
+JI Psychol. Aging
+PD SEP
+PY 2011
+VL 26
+IS 3
+BP 532
+EP 545
+DI 10.1037/a0023106
+PG 14
+WC Gerontology; Psychology, Developmental
+SC Geriatrics & Gerontology; Psychology
+GA 821OO
+UT WOS:000294984500004
+PM 21463054
+DA 2020-08-05
+ER
+
+PT J
+AU Reysen, MB
+   Talbert, NG
+   Dominko, M
+   Jones, AN
+   Kelley, MR
+AF Reysen, Matthew B.
+   Talbert, Natalie G.
+   Dominko, Mura
+   Jones, Arnie N.
+   Kelley, Matthew R.
+TI The effects of collaboration on recall of social information
+SO BRITISH JOURNAL OF PSYCHOLOGY
+LA English
+DT Article
+ID COLLECTIVE MEMORY; ADAPTIVE MEMORY; PRESSURE
+AB Three experiments examined the effects of passage type on both individual and collaborative memory performance. In Experiment 1, both individuals and collaborative groups recalled more information from passages containing social information than non-social information. Furthermore, collaborative inhibition (CI) was observed for both types of passages. In Experiment 2, which included a social passage that did not contain gossip, significant main effects of both gossip (gossip > non-gossip) and sociability (explicit > implicit) were observed. As in Experiment 1, CI was observed across all conditions. Experiment 3 separately manipulated gossip and the interest level of the passages and both of these factors enhanced memory performance. Moreover, robust CI was again observed across all conditions. Taken together, the present results demonstrate a mnemonic benefit for social information in individuals and collaborative groups.
+C1 [Reysen, Matthew B.] Univ Mississippi, Dept Psychol, University, MS 38677 USA.
+   [Talbert, Natalie G.; Dominko, Mura; Jones, Arnie N.; Kelley, Matthew R.] Lake Forest Coll, Lake Forest, IL USA.
+RP Reysen, MB (corresponding author), Univ Mississippi, Dept Psychol, University, MS 38677 USA.
+EM reysen@olemiss.edu
+OI Kelley, Matthew/0000-0003-2893-8706
+NR 26
+TC 11
+Z9 12
+U1 0
+U2 17
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0007-1269
+J9 BRIT J PSYCHOL
+JI Br. J. Psychol.
+PD AUG
+PY 2011
+VL 102
+BP 646
+EP 661
+DI 10.1111/j.2044-8295.2011.02035.x
+PN 3
+PG 16
+WC Psychology, Multidisciplinary
+SC Psychology
+GA 805GI
+UT WOS:000293714200026
+PM 21752012
+DA 2020-08-05
+ER
+
+PT J
+AU Pereira-Pasarin, LP
+   Rajaram, S
+AF Pereira-Pasarin, Luciane P.
+   Rajaram, Suparna
+TI Study repetition and divided attention: Effects of encoding
+   manipulations on collaborative inhibition in group recall
+SO MEMORY & COGNITION
+LA English
+DT Article
+DE Collaborative inhibition; Collaborative recall; Divided attention; Study
+   repetition
+ID RECOGNITION MEMORY; INDIVIDUAL RECALL; FALSE MEMORIES; RETRIEVAL; TESTS;
+   OLDER; INFORMATION; DISRUPTION; CATEGORIES; RETENTION
+AB Two experiments tested the effects of encoding manipulations on group recall and on the magnitude of collaborative inhibition. Collaborative inhibition refers to the phenomenon where by a collaborative group recalls less than do the same number of individuals who work alone and then have their nonredundant responses pooled. Participants studied categorized word lists once or three times (Experiment 1) or under conditions of full versus divided attention (Experiment 2). Study repetition both improved retrieval organization in recall and attenuated collaborative inhibition, and divided attention encoding both reduced retrieval organization in recall and eliminated collaborative inhibition. These experiments are the first to focus on encoding variables and to show that collaborative inhibition can vary as a function of encoding manipulations.
+C1 [Pereira-Pasarin, Luciane P.] Caldwell Coll, Dept Psychol, Caldwell, NJ 07006 USA.
+   [Rajaram, Suparna] SUNY Stony Brook, Dept Psychol, Stony Brook, NY 11794 USA.
+RP Pereira-Pasarin, LP (corresponding author), Caldwell Coll, Dept Psychol, 120 Bloomfield Ave, Caldwell, NJ 07006 USA.
+EM Lpereirapasarin@caldwell.edu
+NR 39
+TC 23
+Z9 26
+U1 0
+U2 22
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0090-502X
+J9 MEM COGNITION
+JI Mem. Cogn.
+PD AUG
+PY 2011
+VL 39
+IS 6
+BP 968
+EP 976
+DI 10.3758/s13421-011-0087-y
+PG 9
+WC Psychology, Experimental
+SC Psychology
+GA 798HR
+UT WOS:000293194000004
+PM 21503804
+OA Bronze
+DA 2020-08-05
+ER
+
+PT J
+AU Harris, CB
+   Keil, PG
+   Sutton, J
+   Barnier, AJ
+   McIlwain, DJF
+AF Harris, Celia B.
+   Keil, Paul G.
+   Sutton, John
+   Barnier, Amanda J.
+   McIlwain, Doris J. F.
+TI We Remember, We Forget: Collaborative Remembering in Older Couples
+SO DISCOURSE PROCESSES
+LA English
+DT Article
+ID TRANSACTIVE MEMORY-SYSTEMS; COLLECTIVE MEMORY; AGE-DIFFERENCES; PROSE
+   RECALL; RETRIEVAL; ADULTS; COMMUNICATION; INHIBITION; STRATEGIES;
+   COGNITION
+AB Transactive memory theory describes the processes by which benefits for memory can occur when remembering is shared in dyads or groups. In contrast, cognitive psychology experiments demonstrate that social influences on memory disrupt and inhibit individual recall. However, most research in cognitive psychology has focused on groups of strangers recalling relatively meaningless stimuli. This study examined social influences on memory in groups with a shared history, who were recalling a range of stimuli, from word lists to personal, shared memories. The study focused, in detail, on the products and processes of remembering during in-depth interviews with 12 older married couples. These interviews consisted of three recall tasks: (a) word list recall; (b) personal list recall, where stimuli were relevant to the couples' shared past; and (c) an open-ended autobiographical interview. These tasks individually conducted and then collaboratively conducted two weeks later. Across each of the tasks, although some couples demonstrated collaborative inhibition, others demonstrated collaborative facilitation. A number of factors were identified that predicted collaborative successin particular, group-level strategy use. The results show that collaboration may help or hinder memory, and certain interactions are more likely to produce collaborative benefits.
+C1 [Harris, Celia B.; Keil, Paul G.; Sutton, John; Barnier, Amanda J.] Macquarie Univ, Macquarie Ctr Cognit Sci, Sydney, NSW 2109, Australia.
+   [McIlwain, Doris J. F.] Macquarie Univ, Macquarie Ctr Cognit Sci, Dept Psychol, Sydney, NSW 2109, Australia.
+RP Harris, CB (corresponding author), Macquarie Univ, Macquarie Ctr Cognit Sci, Sydney, NSW 2109, Australia.
+EM celia.harris@mq.edu.au
+OI Sutton, John/0000-0003-3046-9785; Harris, Celia/0000-0001-5261-4205;
+   Barnier, Amanda/0000-0003-1126-555X
+NR 46
+TC 98
+Z9 101
+U1 2
+U2 27
+PU LAWRENCE ERLBAUM ASSOC INC-TAYLOR & FRANCIS
+PI PHILADELPHIA
+PA 325 CHESTNUT STREET, STE 800, PHILADELPHIA, PA 19106 USA
+SN 0163-853X
+J9 DISCOURSE PROCESS
+JI Discl. Process.
+PY 2011
+VL 48
+IS 4
+BP 267
+EP 303
+AR PII 937134555
+DI 10.1080/0163853X.2010.541854
+PG 37
+WC Psychology, Educational; Psychology, Experimental
+SC Psychology
+GA 761MC
+UT WOS:000290401100003
+DA 2020-08-05
+ER
+
+PT J
+AU Barber, SJ
+   Rajaram, S
+AF Barber, Sarah J.
+   Rajaram, Suparna
+TI Collaborative memory and part-set cueing impairments: The role of
+   executive depletion in modulating retrieval disruption
+SO MEMORY
+LA English
+DT Article
+DE Memory; Part-set cueing; Collaborative inhibition; Retrieval disruption;
+   Executive depletion
+ID LONG-TERM-MEMORY; SPATIAL LOCATION INFORMATION; WORKING-MEMORY; DIVIDED
+   ATTENTION; FREE-RECALL; RECOGNITION MEMORY; INDIVIDUAL-DIFFERENCES;
+   EMOTION REGULATION; ORDER INFORMATION; COLLECTIVE MEMORY
+AB When people are exposed to a subset of previously studied list items they recall fewer of the remaining items compared to a condition where none of the studied items is provided during recall. This occurs both when the subset of items is provided by the experimenter (i.e., the part-set cueing deficit in individual recall) and when they are provided during the course of a collaborative discussion (i.e., the collaborative inhibition effect in group recall). Previous research has identified retrieval disruption as a common mechanism underlying both effects; however, less is known about the factors that may make individuals susceptible to such retrieval disruption. In the current studies we tested one candidate factor: executive control. Using an executive depletion paradigm we directly manipulated an individual's level of executive control during retrieval. Results revealed no direct role of executive depletion in modulating retrieval disruption. In contrast, executive control abilities were indirectly related to retrieval disruption through their influence at encoding. Together these results suggest that executive control des not directly affect retrieval disruption at the retrieval stage, and that the role of this putative mechanism may be limited to the encoding stage.
+C1 [Barber, Sarah J.] Univ So Calif, Davis Sch Gerontol, Los Angeles, CA 90089 USA.
+   [Rajaram, Suparna] SUNY Stony Brook, Stony Brook, NY 11794 USA.
+RP Barber, SJ (corresponding author), Univ So Calif, Davis Sch Gerontol, 3715 McClintock Ave, Los Angeles, CA 90089 USA.
+EM barbersa@usc.edu
+FU NIA NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute on Aging (NIA)
+   [T32-AG00037, T32 AG000037-32, T32 AG000037]
+NR 113
+TC 10
+Z9 14
+U1 1
+U2 18
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 0965-8211
+EI 1464-0686
+J9 MEMORY
+JI Memory
+PY 2011
+VL 19
+IS 4
+BP 378
+EP 397
+AR PII 938668756
+DI 10.1080/09658211.2011.575787
+PG 20
+WC Psychology, Experimental
+SC Psychology
+GA 780LB
+UT WOS:000291856300005
+PM 21678155
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Barber, SJ
+   Rajaram, S
+AF Barber, Sarah J.
+   Rajaram, Suparna
+TI Exploring the relationship between retrieval disruption from
+   collaboration and recall
+SO MEMORY
+LA English
+DT Article
+DE Collaborative inhibition; Retrieval disruption; Clustering;
+   Cross-cueing; Human memory
+ID MEMORY; INHIBITION
+AB When people recall together in a collaborative group they recall less than their potential. This phenomenon of collaborative inhibition is explained in terms of retrieval disruption. However, collaborative recall also re-exposes individuals to items recalled by others that they themselves might otherwise have forgotten. This re-exposure produces post-collaborative benefits in individual recall. The current study examined whether reduced retrieval disruption during group recall is related not only to less collaborative inhibition, but also to greater post-collaborative recall benefits. To test this we devised a paradigm to calculate the extent to which each individual experienced retrieval disruption during group recall. We also included two types of collaborative groups, one of which was expected to experience greater retrieval disruption than the other. Results suggest that the relationship between retrieval disruption and recall performance depends on the level at which retrieval disruption is measured. When retrieval disruption was assessed at the individual level, then minimising retrieval disruption was associated with higher recall (i.e., less collaborative inhibition and greater post-collaborative individual recall). However, when retrieval disruption was assessed at the group level there was no relationship with recall. Furthermore, the findings from this design suggest a role of cross-cueing in modulating group recall levels.
+C1 [Rajaram, Suparna] SUNY Stony Brook, Dept Psychol, Stony Brook, NY 11794 USA.
+   [Barber, Sarah J.] Univ So Calif, Leonard Davis Sch Gerontol, Los Angeles, CA USA.
+RP Rajaram, S (corresponding author), SUNY Stony Brook, Dept Psychol, Stony Brook, NY 11794 USA.
+EM suparna.rajaram@sunysb.edu
+FU NIA NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute on Aging (NIA)
+   [T32 AG000037, T32-AG00037-32, T32 AG000037-32]
+NR 14
+TC 14
+Z9 19
+U1 1
+U2 17
+PU PSYCHOLOGY PRESS
+PI HOVE
+PA 27 CHURCH RD, HOVE BN3 2FA, EAST SUSSEX, ENGLAND
+SN 0965-8211
+J9 MEMORY
+JI Memory
+PY 2011
+VL 19
+IS 5
+BP 462
+EP 469
+DI 10.1080/09658211.2011.584389
+PG 8
+WC Psychology, Experimental
+SC Psychology
+GA 847ZW
+UT WOS:000297016600004
+PM 21736433
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Blumen, HM
+   Stern, Y
+AF Blumen, Helena M.
+   Stern, Yaakov
+TI Short-term and long-term collaboration benefits on individual recall in
+   younger and older adults
+SO MEMORY & COGNITION
+LA English
+DT Article
+DE Collaborative memory; Group memory; Collaborative inhibition;
+   Collaboration benefits; Re-exposure; Cross-cuing
+ID AGE-DIFFERENCES; RETRIEVAL; MEMORY; RECOGNITION; INHIBITION; TESTS
+AB A recent study of younger adults suggests that, compared to repeated individual recall trials, repeated collaborative recall trials produce better individual recall after a short delay (Blumen & Rajaram, 2008). Our study was designed to determine if such collaboration benefits would remain after a one-week delay, in both younger and older adults. Sixty younger (M age = 24.60) and 60 older (M age = 67.35) adults studied a list of words and then completed either two collaborative recall trials followed by two individual recall trials, or four individual recall trials. A five-min delay was inserted between the first three recall trials. The fourth recall trial was administered 1 week later. Collaborative recall was completed in groups of three individuals working together. Both younger and older adults benefitted from repeated collaborative recall trials to a greater extent than repeated individual recall trials, and such collaboration benefits remained after a one-week delay. This is the first demonstration of collaboration benefits on later individual recall at delays as long as 1 week, in both younger and older adults. Findings are discussed within the context of the negative effects of collaboration associated with group memory (collaborative inhibition) and the positive effects of collaboration associated with later individual memory (collaboration benefits).
+C1 [Blumen, Helena M.; Stern, Yaakov] Columbia Univ, Sergievsky Ctr, New York, NY 10032 USA.
+RP Blumen, HM (corresponding author), Columbia Univ, Sergievsky Ctr, P&S Box 16,630 W 168th St, New York, NY 10032 USA.
+EM hmb2131@columbia.edu
+OI Stern, Yaakov/0000-0001-7542-3241
+FU NIA NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute on Aging (NIA)
+   [T32 AG000261, T32 AG000261-10]
+NR 25
+TC 19
+Z9 20
+U1 0
+U2 21
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0090-502X
+EI 1532-5946
+J9 MEM COGNITION
+JI Mem. Cogn.
+PD JAN
+PY 2011
+VL 39
+IS 1
+BP 147
+EP 154
+DI 10.3758/s13421-010-0023-6
+PG 8
+WC Psychology, Experimental
+SC Psychology
+GA 723NO
+UT WOS:000287513700012
+PM 21264617
+OA Green Accepted, Bronze
+DA 2020-08-05
+ER
+
+PT J
+AU Barber, SJ
+   Rajaram, S
+   Aron, A
+AF Barber, Sarah J.
+   Rajaram, Suparna
+   Aron, Arthur
+TI When two is too many: Collaborative encoding impairs memory
+SO MEMORY & COGNITION
+LA English
+DT Article
+ID COLLECTIVE MEMORY; FALSE MEMORIES; TRANSACTIVE MEMORY; RECOGNITION
+   MEMORY; SOCIAL CONTAGION; SHARED REALITY; CONCEPT MAPS; RETRIEVAL;
+   RECALL; INHIBITION
+AB Humans routinely encode and retrieve experiences in interactive, collaborative contexts. Yet much of what we know about human memory comes from research on individuals working in isolation. Some recent research has examined collaboration during retrieval, but not much is known about how collaboration during encoding affects memory. We examined this issue. Participants created episodes by elaborating on study materials alone or collaboratively, and they later performed a cued-recall task alone, with the study partner, or with a different partner (Experiment I). Collaborative encoding impaired recall. This counterintuitive outcome was found for both individual and group recall, even when the same partners collaborated across encoding and retrieval. This impairment was significantly reduced, but persisted, when the encoding instructions encouraged free-flowing collaboration (Experiment 2). Thus, the collaborative-encoding deficit is robust in nature and likely occurs because collaborative encoding produces less effective cues for later retrieval.
+C1 [Rajaram, Suparna] SUNY Stony Brook, Dept Psychol, Stony Brook, NY 11794 USA.
+RP Rajaram, S (corresponding author), SUNY Stony Brook, Dept Psychol, Stony Brook, NY 11794 USA.
+EM suparna.rajaram@sunysb.edu
+NR 68
+TC 41
+Z9 46
+U1 1
+U2 39
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0090-502X
+EI 1532-5946
+J9 MEM COGNITION
+JI Mem. Cogn.
+PD APR
+PY 2010
+VL 38
+IS 3
+BP 255
+EP 264
+DI 10.3758/MC.38.3.255
+PG 10
+WC Psychology, Experimental
+SC Psychology
+GA 649YL
+UT WOS:000281811800001
+PM 20234016
+OA Bronze
+DA 2020-08-05
+ER
+
+PT J
+AU Meade, ML
+   Roediger, HL
+AF Meade, Michelle L.
+   Roediger, Henry L., III
+TI Age differences in collaborative memory: The role of retrieval
+   manipulations
+SO MEMORY & COGNITION
+LA English
+DT Article
+ID CREATING FALSE MEMORIES; OLDER-ADULTS; FORCED CONFABULATION; COLLECTIVE
+   MEMORY; SOCIAL CONTAGION; RECALL; INHIBITION; RECOLLECTION; RECOGNITION;
+   INFORMATION
+AB In two experiments, we examined age differences in collaborative inhibition (reduced recall in pairs of people, relative to pooled individuals) across repeated retrieval attempts. Younger and older adults studied categorized word lists and were then given two consecutive recall tests and a recognition test. On the first recall test, the subjects were given free-report cued recall or forced-report cued recall instructions (Experiment 1) or free recall instructions (Experiment 2) and recalled the lists either alone or in collaboration with another subject of the same age group. Free-report cued recall and free recall instructions warned the subjects not to guess, whereas forced-report cued recall instructions required them to guess. Collaborative inhibition was obtained for both younger and older adults on initial tests of free-report cued recall, forced-report cued recall, and free recall, showing that the effect generalizes across several tests for both younger and older adults. Collaborative inhibition did not persist on subsequent individual recall or recognition tests for list items. Older adults consistently falsely recalled and recognized items more than did younger adults, as had been found in previous studies. In addition, prior collaboration may exaggerate older adults' tendency toward higher false alarms on a subsequent recognition test, but only after a free recall test. The results provide generality to the phenomenon of collaborative inhibition and can be explained by invoking concepts of strategy disruption and source monitoring.
+C1 [Meade, Michelle L.] Montana State Univ, Bozeman, MT 59717 USA.
+   [Roediger, Henry L., III] Washington Univ, St Louis, MO USA.
+RP Meade, ML (corresponding author), Montana State Univ, Bozeman, MT 59717 USA.
+EM mlmeade@montana.edu
+FU NIA NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute on Aging (NIA)
+   [AG17481]
+NR 65
+TC 39
+Z9 43
+U1 0
+U2 15
+PU PSYCHONOMIC SOC INC
+PI AUSTIN
+PA 1710 FORTVIEW RD, AUSTIN, TX 78704 USA
+SN 0090-502X
+J9 MEM COGNITION
+JI Mem. Cogn.
+PD OCT
+PY 2009
+VL 37
+IS 7
+BP 962
+EP 975
+DI 10.3758/MC.37.7.962
+PG 14
+WC Psychology, Experimental
+SC Psychology
+GA 503ET
+UT WOS:000270516700003
+PM 19744936
+OA Bronze
+DA 2020-08-05
+ER
+
+PT J
+AU Meade, ML
+   Nokes, TJ
+   Morrow, DG
+AF Meade, Michelle L.
+   Nokes, Timothy J.
+   Morrow, Daniel G.
+TI Expertise promotes facilitation on a collaborative memory task
+SO MEMORY
+LA English
+DT Article
+DE Collaborative memory; Expertise
+ID AGE-DIFFERENCES; RECALL; RETRIEVAL; PEOPLE
+AB The effect of expertise on collaborative memory was examined by comparing expert pilots, novice pilots, and non-pilots. Participants were presented with aviation scenarios and asked to recall the scenarios alone or in collaboration with a fellow participant of the same expertise level. Performance in the collaborative condition was compared to nominal group conditions (i.e., pooled individual performance). Results suggest that expertise differentially impacts collaborative memory performance. Non-experts (non-pilots and novices) were relatively disrupted by collaboration, while experts showed a benefit of collaboration. Verbal protocol analyses identified mechanisms related to collaborative skill and domain knowledge that may underlie experts' collaborative success. Specifically, experts were more likely than non-experts to explicitly acknowledge partner contributions by repeating back previously made statements, as well as to further elaborate on concepts in those contributions. The findings are interpreted according to the retrieval strategy disruption theory of collaborative memory and theories of grounding in communication.
+C1 [Meade, Michelle L.] Montana State Univ, Dept Psychol, Bozeman, MT 59717 USA.
+   [Nokes, Timothy J.] Univ Pittsburgh, Pittsburgh, PA 15260 USA.
+   [Morrow, Daniel G.] Univ Illinois, Urbana, IL USA.
+RP Meade, ML (corresponding author), Montana State Univ, Dept Psychol, POB 173440, Bozeman, MT 59717 USA.
+EM mlmeade@montana.edu
+NR 46
+TC 72
+Z9 76
+U1 0
+U2 12
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0965-8211
+EI 1464-0686
+J9 MEMORY
+JI Memory
+PY 2009
+VL 17
+IS 1
+BP 39
+EP 48
+AR PII 907094176
+DI 10.1080/09658210802524240
+PG 10
+WC Psychology, Experimental
+SC Psychology
+GA 390TD
+UT WOS:000262185700005
+PM 19105086
+DA 2020-08-05
+ER
+
+PT J
+AU Peker, M
+   Tekcan, AI
+AF Peker, Muejde
+   Tekcan, Ali I.
+TI The Role of Familiarity Among Group Members in Collaborative Inhibition
+   and Social Contagion
+SO SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE collaborative inhibition; social contagion; familiarity; false memory;
+   collective memory
+ID MEMORY COLLABORATION; COLLECTIVE MEMORY; FALSE MEMORIES; GROUP RECALL;
+   RETRIEVAL; FRIENDSHIP; MISINFORMATION; CONFORMITY; CUE
+AB The present study looks at the effects of familiarity among group members on collaborative inhibition, false memory creation, and social contagion. Friend, nonfriend (adhoc) and nominal three-person groups studied categorized wordlists, followed by free recall and recognition tests, including remember/know judgments. Friend and nonfriend group members were asked to engage in collaborative recall, while nominal group members were tested individually. Results showed that collaborative inhibition was evident among friend and nonfriend groups. However, these detrimental effects of collaboration disappeared during recognition judgments. In terms of susceptibility to false memory creation, it was found that friend groups showed higher levels of social contagion and made more know than remember judgments than nonfriend and nominal group members. These findings suggest that friend group members took the veracity of others' memories for granted and were less able to make clear distinctions between what they did and did not see. The findings are discussed in relation to the lasting effects of collaboration and social pressures on group recall among friend and nonfriend groups.
+C1 [Peker, Muejde] Univ Kent, Keynes Coll, Ctr Study Grp Proc, Dept Psychol, Canterbury CT2 7NP, Kent, England.
+   [Tekcan, Ali I.] Bogazici Univ, Istanbul, Turkey.
+RP Peker, M (corresponding author), Univ Kent, Keynes Coll, Ctr Study Grp Proc, Dept Psychol, Canterbury CT2 7NP, Kent, England.
+EM mp260@kent.ac.uk
+RI Tekcan, Ali I./AAS-1093-2020
+OI Tekcan, Ali Izzet/0000-0001-5888-103X
+NR 37
+TC 23
+Z9 23
+U1 0
+U2 20
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA MERKELSTR 3, D-37085 GOTTINGEN, GERMANY
+SN 1864-9335
+EI 2151-2590
+J9 SOC PSYCHOL-GERMANY
+JI Soc. Psychol.
+PY 2009
+VL 40
+IS 3
+BP 111
+EP 118
+DI 10.1027/1864-9335.40.3.111
+PG 8
+WC Psychology, Social
+SC Psychology
+GA 492WB
+UT WOS:000269692100003
+DA 2020-08-05
+ER
+
+PT J
+AU Ross, M
+   Spencer, SJ
+   Blatz, CW
+   Restorick, E
+AF Ross, Michael
+   Spencer, Steven J.
+   Blatz, Craig W.
+   Restorick, Elaine
+TI Collaboration reduces the frequency of false memories in older and
+   younger adults
+SO PSYCHOLOGY AND AGING
+LA English
+DT Article
+DE collaborative memory; false memories; aging; memory
+ID SOCIAL CONTAGION; RECALL; PEOPLE
+AB Older (mean age = 74.23) and younger (mean age = 33.50) participants recalled items from 6 briefly exposed household scenes either alone or with their spouses. Collaborative recall was compared with the pooled, nonredundant recall of spouses remembering alone (nominal groups). The authors examined hits, self-generated false memories, and false memories produced by another person's (actually a computer program's) misleading recollections. Older adults reported fewer hits and more self-generated false memories than younger adults. Relative to nominal groups, older and younger collaborating groups reported fewer hits and fewer self-generated false memories. Collaboration also reduced older people's computer-initiated false memories. The memory conversations in the collaborative groups were analyzed for evidence that collaboration inhibits the production of errors and/or promotes quality control processes that detect and eliminate errors. Only older adults inhibited the production of wrong answers, but both age groups eliminated errors during their discussions. The partners played an important role in helping rememberers discard false memories in older and younger couples. The results support the use of collaboration to reduce false recall in both younger and older adults.
+C1 [Ross, Michael; Spencer, Steven J.; Blatz, Craig W.; Restorick, Elaine] Univ Waterloo, Dept Psychol, Waterloo, ON N2L 3G1, Canada.
+RP Ross, M (corresponding author), Univ Waterloo, Dept Psychol, PAS 3053, Waterloo, ON N2L 3G1, Canada.
+EM mross@uwaterloo.ca
+NR 27
+TC 56
+Z9 56
+U1 0
+U2 22
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0882-7974
+EI 1939-1498
+J9 PSYCHOL AGING
+JI Psychol. Aging
+PD MAR
+PY 2008
+VL 23
+IS 1
+BP 85
+EP 92
+DI 10.1037/0882-7974.23.1.85
+PG 8
+WC Gerontology; Psychology, Developmental
+SC Geriatrics & Gerontology; Psychology
+GA 275LH
+UT WOS:000254072400011
+PM 18361658
+DA 2020-08-05
+ER
+
+PT J
+AU Blumen, HM
+   Rajaram, S
+AF Blumen, Helena M.
+   Rajaram, Suparna
+TI Influence of re-exposure and retrieval disruption during group
+   collaboration on later individual recall
+SO MEMORY
+LA English
+DT Article; Proceedings Paper
+CT Sydney Collective Memory Meeting
+CY JUL, 2006
+CL Sydney, AUSTRALIA
+ID COLLECTIVE MEMORY; INHIBITION; TESTS; FRIENDSHIP; POWER
+AB This research examined the influence of prior group collaboration on later individual recall. We considered the negative effects of retrieval disruption and the potentially positive effects of re-exposure to additional items during group recall in the context of three hypotheses: the individual-strategy hypothesis, the combined-strategy hypothesis, and the group-strategy hypothesis. After a study phase and a brief delay, participants completed three successive recall trials in four different recall sequence conditions: III (individual-individual-individual), ICI (individual-collaborative-individual), CII (collaborative-individual-individual), and CCI (collaborative-collaborative-individual). Results show that repeated group recalls (CCI), and securing individual retrieval organisation prior to group recall (ICI), benefit later individual recall more than repeated individual recalls (III). These findings support the group-strategy hypothesis and the individual-strategy hypothesis, and have important implications for group versus individual learning practices in educational settings.
+C1 [Blumen, Helena M.; Rajaram, Suparna] SUNY Stony Brook, Dept Psychol, Stony Brook, NY 11794 USA.
+RP Blumen, HM (corresponding author), SUNY Stony Brook, Dept Psychol, Stony Brook, NY 11794 USA.
+EM hblumen@notes.cc.sunysb.edu
+NR 33
+TC 68
+Z9 76
+U1 2
+U2 12
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0965-8211
+EI 1464-0686
+J9 MEMORY
+JI Memory
+PY 2008
+VL 16
+IS 3
+BP 231
+EP 244
+DI 10.1080/09658210701804495
+PG 14
+WC Psychology, Experimental
+SC Psychology
+GA 271BB
+UT WOS:000253762800005
+PM 18324549
+DA 2020-08-05
+ER
+
+PT J
+AU Thorley, C
+   Dewhurst, SA
+AF Thorley, Craig
+   Dewhurst, Stephen A.
+TI Collaborative false recall in the DRM procedure: Effects of group size
+   and group pressure
+SO EUROPEAN JOURNAL OF COGNITIVE PSYCHOLOGY
+LA English
+DT Article
+ID SOCIAL CONTAGION; MEMORY
+AB Basden, Basden, Thomas, and Souphasith (1998) demonstrated that false recall in collaborative trios is enhanced when group members feel under pressure to output items. In the present study, individuals, pairs, trios, and quartets were presented with lists of words drawn from the Deese-Roediger-McDermott paradigm. Memory was tested under high or low group pressure conditions. It was found that false recall increased in proportion to group size regardless of group pressure, but that groups experiencing the most pressure to output items made a greater number of errors. Furthermore, on a surprise later individual recall test, participants who experienced the most pressure during collaboration retained an equivalent level of critical lures. Collectively these findings demonstrate that group pressure can increase collaborative false recall, and that these false memories can be retained beyond group testing.
+C1 Univ Lancaster, Dept Psychol, Lancaster LA1 4YF, England.
+RP Thorley, C (corresponding author), Univ Lancaster, Dept Psychol, Lancaster LA1 4YF, England.
+EM c.thorley2@lancaster.ac.uk
+OI Dewhurst, Steve/0000-0001-5834-0049; Thorley, Craig/0000-0002-3207-435X
+NR 17
+TC 54
+Z9 57
+U1 0
+U2 23
+PU PSYCHOLOGY PRESS
+PI HOVE
+PA 27 CHURCH RD, HOVE BN3 2FA, EAST SUSSEX, ENGLAND
+SN 0954-1446
+EI 1464-0635
+J9 EUR J COGN PSYCHOL
+JI Eur. J. Cogn. Psychol.
+PD NOV
+PY 2007
+VL 19
+IS 6
+BP 867
+EP 881
+DI 10.1080/09541440600872068
+PG 15
+WC Psychology, Experimental
+SC Psychology
+GA 233ZA
+UT WOS:000251129100005
+DA 2020-08-05
+ER
+
+PT J
+AU Takahashi, M
+AF Takahashi, Masanobu
+TI Does collaborative remembering reduce false memories?
+SO BRITISH JOURNAL OF PSYCHOLOGY
+LA English
+DT Article; Proceedings Paper
+CT 3rd International Conference on Memory
+CY JUL, 2001
+CL VALENCIA, SPAIN
+ID RECALL; INHIBITION
+AB Collaborative remembering refers to recall by groups rather than by an individual. Three experiments investigated whether, relative to individual remembering, collaborative remembering decreased correct recall and false recall using the Deese-Roediger-McDermott paradigm. Participants were first asked to study and recall five lists of 15 words that were each semantically associated with a critical non-presented word. Half the participants recalled the words by themselves, while the remaining half were assigned to pairs and collaboratively recalled the words. In Experiment 1, pairs produced the same number of false or correct words as individuals who were tested alone. In Experiment 2, the interpersonal closeness of the groups was also manipulated: friends and pairs who were not friends were assigned to the collaborative groups. Both friends and non-friends produced fewer false or correct words than individuals. Experiment 3, in which the performance of the individuals and non-friend pairs were compared using a recall test of the same 75 words as the previous experiments, replicated the results of Experiment 2. These results are discussed in terms of the retrieval-strategy disruption.
+C1 Univ Sacred Heart, Dept Psychol, Shibuya Ku, Tokyo 1508938, Japan.
+RP Takahashi, M (corresponding author), Univ Sacred Heart, Dept Psychol, Shibuya Ku, Hiroo 4-Chome 3-1, Tokyo 1508938, Japan.
+EM mtakahas@u-sacred-heart.ac.jp
+NR 40
+TC 20
+Z9 22
+U1 0
+U2 11
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0007-1269
+EI 2044-8295
+J9 BRIT J PSYCHOL
+JI Br. J. Psychol.
+PD FEB
+PY 2007
+VL 98
+BP 1
+EP 13
+DI 10.1348/000712606X101628
+PN 1
+PG 13
+WC Psychology, Multidisciplinary
+SC Psychology
+GA 135UD
+UT WOS:000244178500001
+PM 17319047
+DA 2020-08-05
+ER
+
+PT J
+AU Wright, DB
+   Klumpp, A
+AF Wright, DB
+   Klumpp, A
+TI Collaborative inhibition is due to the product, not the process, of
+   recalling in groups
+SO PSYCHONOMIC BULLETIN & REVIEW
+LA English
+DT Article
+ID MEMORY CONFORMITY; RETRIEVAL
+AB When people remember together, they recall less than if they remembered separately. This is called collaborative inhibition. We examine whether this is due to the product of group recall or the process of recalling in groups. In other words, is it what the other people recall or the structure of the group dialogue that impairs group performance? Participants worked either independently or in pairs. For half of the pairs, the participants saw the items that the other person recalled. As was expected, this led to levels of recall that were lower than those for the control participants. For the other half of the pairs, the participants did not see the words recalled by the other person but still followed a turn-taking protocol. Recall was at the level of that in the nominal control condition. Collaborative inhibition is due to interference caused by the product of recall, not the process.
+C1 Univ Sussex, Dept Psychol, Brighton BN1 9QH, E Sussex, England.
+RP Wright, DB (corresponding author), Univ Sussex, Dept Psychol, Brighton BN1 9QH, E Sussex, England.
+EM danw@sussex.ac.uk
+NR 21
+TC 56
+Z9 61
+U1 0
+U2 28
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 1069-9384
+EI 1531-5320
+J9 PSYCHON B REV
+JI Psychon. Bull. Rev.
+PD DEC
+PY 2004
+VL 11
+IS 6
+BP 1080
+EP 1083
+DI 10.3758/BF03196740
+PG 4
+WC Psychology, Mathematical; Psychology, Experimental
+SC Psychology
+GA 911GD
+UT WOS:000227989700013
+PM 15875979
+OA Bronze
+DA 2020-08-05
+ER
+
+PT J
+AU Takahashi, M
+   Saito, S
+AF Takahashi, M
+   Saito, S
+TI Does test delay eliminate collaborative inhibition?
+SO MEMORY
+LA English
+DT Article; Proceedings Paper
+CT 39th Annual Meeting of the Psychonomic-Society
+CY NOV 19-22, 1998
+CL DALLAS, TX
+SP Psychon Soc
+ID RETRIEVAL; RECALL; MEMORY
+AB Earlier research has demonstrated that collaborative groups recall more than individuals, but less than nominal groups (pooled performance of individuals), thus exhibiting collaborative inhibition. In two experiments, all participants were first asked to recall story material on their own. Some participants were then assigned to pairs and recalled the material collaboratively. On the other hand, the participants in the individual recall condition were asked to recall the material once again on their own. In Experiment 1, the collaborative pairs recalled less than the nominal pairs in accordance with previous studies. In Experiment 2, the timing of the initial individual recall was manipulated by inserting one week between the learning and the recall. The collaborative inhibition was eliminated in this situation. Sources of the collaborative inhibition in immediate recall and its disappearance in delayed recall are discussed in terms of the effect of cross cueing in collaborative remembering.
+C1 Univ Sacred Heart, Dept Psychol, Shibuya Ku, Tokyo 1508938, Japan.
+   Kyoto Univ, Kyoto, Japan.
+RP Takahashi, M (corresponding author), Univ Sacred Heart, Dept Psychol, Shibuya Ku, Hiroo 4 Chome 3-1, Tokyo 1508938, Japan.
+EM mtakahas@u-sacred-heart.ac.jp
+OI SAITO, Satoru/0000-0002-0403-3606
+NR 37
+TC 35
+Z9 38
+U1 0
+U2 10
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0965-8211
+EI 1464-0686
+J9 MEMORY
+JI Memory
+PD NOV
+PY 2004
+VL 12
+IS 6
+BP 722
+EP 731
+DI 10.1080/09658210344000521
+PG 10
+WC Psychology, Experimental
+SC Psychology
+GA 877LH
+UT WOS:000225571600006
+PM 15724361
+DA 2020-08-05
+ER
+
+PT J
+AU Ross, M
+   Spencer, SJ
+   Linardatos, L
+   Lam, KCH
+   Perunovic, M
+AF Ross, M
+   Spencer, SJ
+   Linardatos, L
+   Lam, KCH
+   Perunovic, M
+TI Going shopping and identifying landmarks: Does collaboration improve
+   older people's memory?
+SO APPLIED COGNITIVE PSYCHOLOGY
+LA English
+DT Article
+ID AGE-DIFFERENCES; FALSE RECALL; RECOGNITION; PERFORMANCE
+AB Older participants (mean age = 72.82 years) attempted to recall items from shopping lists while shopping in a supermarket and subsequently in their homes on recognition tests. They also attempted to identify local landmarks on a map. The recall occurred either together with their spouses or independently. Collaborative recall was compared to the pooled, nonredundant recall of spouses who completed the memory tasks alone (nominal groups). Nominal groups produced more hits. on most measures and never fewer hits than did collaborative groups. However, collaborative groups consistently generated fewer memory errors than did nominal groups. In many everyday contexts, a tendency for collaboration to reduce false recall could be advantageous to older people. Signal detection analyses revealed that collaboration leads couples to require a higher level of certainty before they are willing to claim that they recognize an item. Finally, we examined the relation between expertise and recall in the shopping and landmark tasks. Copyright (C) 2004 John Wiley Sons, Ltd.
+C1 Univ Waterloo, Dept Psychol, Waterloo, ON N2L 3G1, Canada.
+RP Ross, M (corresponding author), Univ Waterloo, Dept Psychol, Waterloo, ON N2L 3G1, Canada.
+EM mross@uwaterloo.ca
+NR 37
+TC 55
+Z9 57
+U1 0
+U2 8
+PU JOHN WILEY & SONS LTD
+PI CHICHESTER
+PA THE ATRIUM, SOUTHERN GATE, CHICHESTER PO19 8SQ, W SUSSEX, ENGLAND
+SN 0888-4080
+J9 APPL COGNITIVE PSYCH
+JI Appl. Cogn. Psychol.
+PD SEP
+PY 2004
+VL 18
+IS 6
+BP 683
+EP 696
+DI 10.1002/acp.1023
+PG 14
+WC Psychology, Experimental
+SC Psychology
+GA 855WJ
+UT WOS:000224005300004
+DA 2020-08-05
+ER
+
+PT J
+AU Finlay, F
+   Hitch, GJ
+   Meudell, PR
+AF Finlay, F
+   Hitch, GJ
+   Meudell, PR
+TI Mutual inhibition in collaborative recall: Evidence for a
+   retrieval-based account
+SO JOURNAL OF EXPERIMENTAL PSYCHOLOGY-LEARNING MEMORY AND COGNITION
+LA English
+DT Article
+ID SUBJECTIVE ORGANIZATION; LIST; MEMORY; TESTS
+AB In Experiment 1 participants gave 3 successive free recalls of items learned either individually or in pairwise collaboration. The first and third recalls were performed individually, the second alone or in collaboration. Collaborative recall led to an inhibitory effect after individual learning but not after collaborative learning, in which partners had similar retrieval strategies. Consistent with a retrieval locus for collaborative inhibition, non-recalled items reappeared in subsequent individual recall. Experiment 2 showed that collaborative inhibition was eliminated when a separate retrieval cue was given for each item. Experiments 2 and 3 also showed that when participants learned items in the same order, their retrieval strategies were more similar and they showed less collaborative inhibition. It is concluded that mutual interference in collaborative recall is due to the mutual disruption of individual retrieval strategies.
+C1 Univ Lancaster, Dept Psychol, Lancaster LA1 4YW, England.
+   Univ Manchester, Dept Psychol, Manchester M13 9PL, Lancs, England.
+RP Hitch, GJ (corresponding author), Univ York, Dept Psychol, York Y010 50D, N Yorkshire, England.
+EM g.hitch@lancaster.ac.uk
+RI Hitch, Graham J/K-8014-2012
+NR 30
+TC 100
+Z9 107
+U1 0
+U2 18
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0278-7393
+EI 1939-1285
+J9 J EXP PSYCHOL LEARN
+JI J. Exp. Psychol.-Learn. Mem. Cogn.
+PD NOV
+PY 2000
+VL 26
+IS 6
+BP 1556
+EP 1567
+DI 10.1037//0278-7393.26.6.1556
+PG 12
+WC Psychology; Psychology, Experimental
+SC Psychology
+GA 377BW
+UT WOS:000165492900014
+PM 11185782
+DA 2020-08-05
+ER
+
+PT J
+AU Weldon, MS
+   Blair, C
+   Huebsch, PD
+AF Weldon, MS
+   Blair, C
+   Huebsch, PD
+TI Group remembering: Does social leafing underlie collaborative
+   inhibition?
+SO JOURNAL OF EXPERIMENTAL PSYCHOLOGY-LEARNING MEMORY AND COGNITION
+LA English
+DT Article
+ID TRANSACTIVE MEMORY; GROUP-SIZE; RETRIEVAL; RECALL; PEOPLE; FACILITATION;
+   FRIENDSHIP
+AB When people collaborate to recall information, they experience collaborative inhibition, a deficit in recall relative to nominal groups (the pooled, nonredundant recall of individuals working alone). That is, people recalling in groups do not perform up to their potential. Collaborative inhibition may be due to retrieval interference (e.g., B. H. Basden, D. R. Basden, S. Bryner, & R. L. Thomas, 1997) or to motivational factors such as social leafing in the group situation. Five experiments examined the role of motivational factors by varying monetary incentives, recall criterion, personal accountability, group cohesion, and group gender. Increasing motivation sometimes increased the overall level of recall but failed to eliminate the collaborative inhibition effect. The results suggest that collaboration interferes with an individual's ability to reconstruct his or her knowledge.
+C1 Univ Calif Santa Cruz, Dept Psychol, Santa Cruz, CA 95064 USA.
+RP Weldon, MS (corresponding author), Univ Calif Santa Cruz, Dept Psychol, Santa Cruz, CA 95064 USA.
+EM weldon@cats.ucsc.edu
+NR 53
+TC 103
+Z9 106
+U1 0
+U2 34
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0278-7393
+EI 1939-1285
+J9 J EXP PSYCHOL LEARN
+JI J. Exp. Psychol.-Learn. Mem. Cogn.
+PD NOV
+PY 2000
+VL 26
+IS 6
+BP 1568
+EP 1577
+DI 10.1037/0278-7393.26.6.1568
+PG 10
+WC Psychology; Psychology, Experimental
+SC Psychology
+GA 377BW
+UT WOS:000165492900015
+PM 11185783
+DA 2020-08-05
+ER
+
+PT J
+AU Andersson, J
+   Ronnberg, J
+AF Andersson, J
+   Ronnberg, J
+TI Cued memory collaboration: Effects of friendship and type of retrieval
+   cue
+SO EUROPEAN JOURNAL OF COGNITIVE PSYCHOLOGY
+LA English
+DT Article
+ID RECALL
+AB The effects of friendship and collaboration on memory retrieval were investigated in two experiments. The net negative effect of collaboration in memory retrieval and the effect of friendship were studied within a cueing framework. The aim of the study was to investigate the reduced cue effectiveness hypothesis. In Experiment 1, dyadic retrieval was compared to that of a nominal group (a pooled score from two individuals working individually). The task was to encode and retrieve 90 words individually or dyadically. The retrieval phase was supported by cues produced by others or produced by the participants themselves (individually or dyadically). In Experiment 2, friends were compared to non-friends in a memory retrieval phase. All participants retrieved alone in Experiment 2. The results of Experiment 1 revealed that dyadic retrieval suffered compared to nominal group retrieval and that no such discrepancies were found for retrieval with cues produced by others. In Experiment 2, friends could help each other towards successful retrieval to a greater extent than non-friends, and ''for others'' instructions increased retrieval performance as well. These findings replicate previous studies by Andersson and Ronnberg (1995, 1996), and advance the understanding of collaborative memory; that is, net negative effects of collaboration can be explained in terms of the reduced cue effectiveness hypothesis.
+RP Andersson, J (corresponding author), LINKOPING UNIV,DEPT EDUC & PSYCHOL,S-58183 LINKOPING,SWEDEN.
+OI Ronnberg, Jerker/0000-0001-7311-9959
+NR 17
+TC 43
+Z9 44
+U1 0
+U2 4
+PU PSYCHOLOGY PRESS
+PI HOVE
+PA 27 CHURCH RD, HOVE, EAST SUSSEX, ENGLAND BN3 2FA
+SN 0954-1446
+J9 EUR J COGN PSYCHOL
+JI Eur. J. Cogn. Psychol.
+PD SEP
+PY 1997
+VL 9
+IS 3
+BP 273
+EP 287
+DI 10.1080/713752558
+PG 15
+WC Psychology, Experimental
+SC Psychology
+GA XZ774
+UT WOS:A1997XZ77400003
+DA 2020-08-05
+ER
+
+PT J
+AU Basden, BH
+   Basden, DR
+   Bryner, S
+   Thomas, RL
+AF Basden, BH
+   Basden, DR
+   Bryner, S
+   Thomas, RL
+TI A comparison of group and individual remembering: Does collaboration
+   disrupt retrieval strategies?
+SO JOURNAL OF EXPERIMENTAL PSYCHOLOGY-LEARNING MEMORY AND COGNITION
+LA English
+DT Article; Proceedings Paper
+CT Annual Convention of the Psychonomic-Society
+CY NOV, 1995
+CL LOS ANGELES, CA
+SP Psychon Soc
+ID RECALL; MEMORY; CRYPTOMNESIA; PERFORMANCE; ACCURACY; WORDS; CUE
+AB M. S. Weldon and K. D. Bellinger (1997) showed that people who collaborate on a recall test (collaborative group) perform much more poorly than the same number of people tested individually (nominal group). Four experiments tested the hypothesis that retrieval-strategy disruption underlies this collaborative inhibition when categorized lists are studied. Collaborative groups performed worse than nominal groups when categories were large (Experiment 1) and when category names were provided at recall (Experiment 2). However, collaborative and nominal-group recall were equivalent when participants retrieved nonoverlapping parts of the list (Experiment 3) and when participants were forced to organize their recall by category (Experiment 4). Clearly, disorganized retrieval can account for collaborative inhibition with the materials and procedures used here.
+RP Basden, BH (corresponding author), CALIF STATE UNIV FRESNO,DEPT PSYCHOL MS 11,FRESNO,CA 93740, USA.
+NR 44
+TC 213
+Z9 221
+U1 0
+U2 62
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0278-7393
+J9 J EXP PSYCHOL LEARN
+JI J. Exp. Psychol.-Learn. Mem. Cogn.
+PD SEP
+PY 1997
+VL 23
+IS 5
+BP 1176
+EP 1191
+DI 10.1037/0278-7393.23.5.1176
+PG 16
+WC Psychology; Psychology, Experimental
+SC Psychology
+GA XU358
+UT WOS:A1997XU35800007
+PM 9293628
+DA 2020-08-05
+ER
+
+EF

@@ -1,0 +1,1243 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Pellizzoni, S
+   Apuzzo, GM
+   De Vita, C
+   Agostini, T
+   Passolunghi, MC
+AF Pellizzoni, Sandra
+   Apuzzo, Gian Matteo
+   De Vita, Chiara
+   Agostini, Tiziano
+   Passolunghi, Maria Chiara
+TI Evaluation and training of Executive Functions in genocide survivors.
+   The case of Yazidi children
+SO DEVELOPMENTAL SCIENCE
+LA English
+DT Article
+DE cognitive control; genocide; hot and cool executive functions; war
+   context; war trauma; Yazidi minority
+ID WORKING-MEMORY; INHIBITORY CONTROL; INDIVIDUAL-DIFFERENCES;
+   PRESCHOOL-CHILDREN; EFFORTFUL CONTROL; COGNITIVE SKILLS; SCHOOL
+   READINESS; SELF-REGULATION; YOUNG-CHILDREN; MENTAL-HEALTH
+AB Executive Functions (EFs) development is critically affected by stress and trauma, as well as the socioeconomic context in which children grow up (Welsh, Nix, Blair, Bierman, & Nelson, 2010, Journal of Educational Psychology, 102, 43-53). Research in this field is surprisingly lacking in relation to war contexts. This study represents a first attempt at addressing this topic by evaluating EFs in Yazidi children. The Yazidi community is an ethnic and religious minority living in Iraq. From August 2014 onwards, the Yazidi community has been the target of several atrocities perpetrated by ISIS and described as genocide by the international community at large. The University of Trieste, thanks to a program financed by the Friuli Venezia Giulia Region, developed a study aimed at (a) evaluating hot and cool EFs in children living in a war context and (b) developing a specific training method to enhance hot and cool EFs in Yazidi children of preschool age (N = 53). Data related to this group of children were compared with a sample of typically developing Italian children randomly assigned to either an EFs training group (N = 55) or a passive control group (N = 51). Results indicate different baselines in EFs in Yazidi and Italian samples and a significant effect of the program on both trained groups, especially in tasks measuring hot EFs. Data are discussed in terms of hot and cool EFs in children growing in adverse environments, as well as the evaluation of educational and developmental opportunities to prevent children who survived genocide from becoming a 'lost generation'. A video abstract of this article can be viewed at .
+C1 [Pellizzoni, Sandra; Apuzzo, Gian Matteo; De Vita, Chiara; Agostini, Tiziano; Passolunghi, Maria Chiara] Univ Trieste, Dept Life Sci, Trieste, Italy.
+RP Pellizzoni, S (corresponding author), Univ Trieste, Dept Life Sci, Trieste, Italy.
+EM spellizzoni@units.it
+NR 59
+TC 4
+Z9 4
+U1 0
+U2 6
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1363-755X
+EI 1467-7687
+J9 DEVELOPMENTAL SCI
+JI Dev. Sci.
+PD SEP
+PY 2019
+VL 22
+IS 5
+SI SI
+AR e12798
+DI 10.1111/desc.12798
+PG 14
+WC Psychology, Developmental; Psychology, Experimental
+SC Psychology
+GA IU6LL
+UT WOS:000483697700011
+PM 30620434
+DA 2020-08-05
+ER
+
+PT J
+AU Pozuelos, JP
+   Combita, LM
+   Abundis, A
+   Paz-Alonso, PM
+   Conejero, A
+   Guerra, S
+   Rueda, MR
+AF Paul Pozuelos, Joan
+   Combita, Lina M.
+   Abundis, Alicia
+   Paz-Alonso, Pedro M.
+   Conejero, Angela
+   Guerra, Sonia
+   Rosario Rueda, M.
+TI Metacognitive scaffolding boosts cognitive and neural benefits following
+   executive attention training in children
+SO DEVELOPMENTAL SCIENCE
+LA English
+DT Article
+DE development; ERPs; executive attention; intelligence; metacognition;
+   scaffolding; training
+ID WORKING-MEMORY; FLUID INTELLIGENCE; SELF-REGULATION; MECHANISMS;
+   EFFICIENCY; CORTEX; INTROSPECTION; UNCERTAINTY; PERFORMANCE; CHILDHOOD
+AB Interventions including social scaffolding and metacognitive strategies have been used in educational settings to promote cognition. In addition, increasing evidence shows that computerized process-based training enhances cognitive skills. However, no prior studies have examined the effect of combining these two training strategies. The goal of this study was to test the combined effect of metacognitive scaffolding and computer-based training of executive attention in a sample of typically developing preschoolers at the cognitive and brain levels. Compared to children in the regular training protocol and an untrained active control group, children in the metacognitive group showed larger gains on intelligence and significant increases on an electrophysiological index associated with conflict processing. Moreover, changes in the conflict-related brain activity predicted gains in intelligence in the metacognitive scaffolding group. These results suggest that metacognitive scaffolding boosts the influence of process-based training on cognitive efficiency and brain plasticity related to executive attention.
+C1 [Paul Pozuelos, Joan; Combita, Lina M.; Abundis, Alicia; Conejero, Angela; Guerra, Sonia; Rosario Rueda, M.] Univ Granada, Dept Expt Psychol, Granada, Spain.
+   [Paul Pozuelos, Joan; Combita, Lina M.; Abundis, Alicia; Conejero, Angela; Guerra, Sonia; Rosario Rueda, M.] Univ Granada, Ctr Res Mind Brain & Behav CIMCYC, Granada, Spain.
+   [Paz-Alonso, Pedro M.] BCBL, Basque Ctr Cognit Brain & Language, San Sebastian, Spain.
+RP Rueda, MR (corresponding author), Univ Granada, Dept Expt Psychol, Ctr Res Mind Brain & Behav CIMCYC, Granada, Spain.
+EM rorueda@ugr.es
+RI Rueda, M/G-4402-2011; Gutierrez, Alicia Abundis/Q-4715-2017; Conejero,
+   Angela/P-6984-2019; Conejero, Angela/P-6328-2019; Paz-Alonso, Pedro
+   M./I-1981-2015
+OI Rueda, M/0000-0002-3941-9031; Gutierrez, Alicia
+   Abundis/0000-0001-7831-3742; Conejero, Angela/0000-0001-7323-6805;
+   Paz-Alonso, Pedro M./0000-0002-0325-9304
+FU Secretaria de Estado de Investigacion, Desarrollo e Innovacion
+   [PSI2014-55833-P]
+FX Secretaria de Estado de Investigacion, Desarrollo e Innovacion,
+   Grant/Award Number: PSI2014-55833-P
+NR 85
+TC 5
+Z9 5
+U1 1
+U2 22
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1363-755X
+EI 1467-7687
+J9 DEVELOPMENTAL SCI
+JI Dev. Sci.
+PD MAR
+PY 2019
+VL 22
+IS 2
+AR e12756
+DI 10.1111/desc.12756
+PG 15
+WC Psychology, Developmental; Psychology, Experimental
+SC Psychology
+GA HM8AU
+UT WOS:000459701600010
+PM 30257077
+DA 2020-08-05
+ER
+
+PT J
+AU Zhang, Q
+   Wang, CP
+   Zhao, QW
+   Yang, L
+   Buschkuehl, M
+   Jaeggi, SM
+AF Zhang, Qiong
+   Wang, Cuiping
+   Zhao, Qianwen
+   Yang, Ling
+   Buschkuehl, Martin
+   Jaeggi, Susanne M.
+TI The malleability of executive function in early childhood: Effects of
+   schooling and targeted training
+SO DEVELOPMENTAL SCIENCE
+LA English
+DT Article
+DE cognitive training; education; fluid intelligence; inhibitory control;
+   transfer; working memory
+ID IMPROVING FLUID INTELLIGENCE; WORKING-MEMORY; COGNITIVE CONTROL;
+   CHILDREN; INTERFERENCE; MECHANISMS; METAANALYSIS; PERFORMANCE;
+   INHIBITION; EDUCATION
+AB Executive function (EF), its importance for scholastic achievement and the question of whether or not EF is malleable, have become a topic of intense interest. Education or schooling is often seen as effective approaches to enhance EF due to the specific school-related requirements as compared to kindergarten or pre-school. However, no study to date has investigated whether targeted training focusing on those domains might be comparable with regular schooling in improving EF and fluid intelligence (Gf). The aim of the present study was to replicate and extend the previously demonstrated schooling effects on EF by using a school-cutoff design, and to further investigate whether a theoretically motivated intervention targeting specific EF, i.e., working memory (WM) or inhibitory control (IC), could achieve comparable effects with schooling in both, WM and IC, as well as Gf. 91 6-year-old kindergarteners and first-graders with similar chronological age participated the study. We compared the performance of a first-grade schooling group with that of two kindergarten training groups as well as a business-as-usual kindergarten control group. Participants were assessed in WM, IC and Gf at baseline, immediately after the intervention (posttest), as well as 3 months after training completion (follow-up). The results showed that the schooling group indeed outperformed the kindergarten groups at baseline in several cognitive tasks. Furthermore, both the WM and IC training showed pronounced gains in the trained tasks, as well as varying degrees of improvement in non-trained outcome measures. Most importantly, both training groups achieved comparable performance with the schooling group, which was especially apparent in Gf at follow-up. Our findings provide further evidence for the malleability of EF demonstrating that both, long-term and short-term interventions can facilitate the acquisition of those important skills, and as such, our work has important implications for educational practice.
+C1 [Zhang, Qiong; Wang, Cuiping; Yang, Ling] Zhejiang Univ, Dept Psychol & Behav Sci, Hangzhou, Zhejiang, Peoples R China.
+   [Zhao, Qianwen] Hangzhou 4 High Sch, Hangzhou, Zhejiang, Peoples R China.
+   [Buschkuehl, Martin] MIND Res Inst, Irvine, CA USA.
+   [Jaeggi, Susanne M.] Univ Calif Irvine, Sch Educ, Irvine, CA USA.
+RP Jaeggi, SM (corresponding author), Univ Calif Irvine, 3452 Educ, Irvine, CA 92697 USA.
+EM smjaeggi@uci.edu
+FU National Natural Science Foundation of ChinaNational Natural Science
+   Foundation of China [31100753]; National Key Technologies RD
+   ProgramNational Key Technology R&D Program [2012BAI36B02]; Social
+   Sciences Foundation of Zhejiang Province [11ZJQN033YB]; Fundamental
+   Research Funds for the Central UniversitiesFundamental Research Funds
+   for the Central Universities [2015QNA3021]; Natural Sciences Foundation
+   of Zhejiang ProvinceNatural Science Foundation of Zhejiang Province
+   [LY16C090002]; National Institute on AgingUnited States Department of
+   Health & Human ServicesNational Institutes of Health (NIH) - USANIH
+   National Institute on Aging (NIA) [1K02AG054665]
+FX National Natural Science Foundation of China, Grant/Award Number:
+   31100753; National Key Technologies R&D Program, Grant/Award Number:
+   2012BAI36B02; Social Sciences Foundation of Zhejiang Province,
+   Grant/Award Number: 11ZJQN033YB; Fundamental Research Funds for the
+   Central Universities, Grant/Award Number: 2015QNA3021; Natural Sciences
+   Foundation of Zhejiang Province, Grant/Award Number: LY16C090002;
+   National Institute on Aging, Grant/Award Number: 1K02AG054665
+NR 83
+TC 6
+Z9 6
+U1 1
+U2 15
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1363-755X
+EI 1467-7687
+J9 DEVELOPMENTAL SCI
+JI Dev. Sci.
+PD MAR
+PY 2019
+VL 22
+IS 2
+AR e12748
+DI 10.1111/desc.12748
+PG 14
+WC Psychology, Developmental; Psychology, Experimental
+SC Psychology
+GA HM8AU
+UT WOS:000459701600011
+PM 30171785
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Mulvey, KL
+   Taunton, S
+   Pennell, A
+   Brian, A
+AF Mulvey, Kelly Lynn
+   Taunton, Sally
+   Pennell, Adam
+   Brian, Ali
+TI Head, Toes, Knees, SKIP! Improving Preschool Children's Executive
+   Function Through a Motor Competence Intervention
+SO JOURNAL OF SPORT & EXERCISE PSYCHOLOGY
+LA English
+DT Article
+DE cognition; early childhood; integrative intervention; motor development;
+   movement programming
+ID SCHOOL READINESS; SELF-REGULATION; PERFORMANCE; MOVEMENT; EXERCISE;
+   ACHIEVEMENT; ATTENTION; GENDER; SKILLS
+AB Executive function skills play a critical role in school readiness for young children and can be improved through targeted intervention. However, children in preschool often experience deficits in multiple developmental domains. Thus, there is a need for integrated interventions that target multiple domains in concert. This study tested whether a proven gross motor skill intervention, Successful Kinesthetic Instruction for Preschoolers (SKIP), also improves preschoolers' executive function. Participants were randomly assigned to either intervention (n = 50) or control (n = 57) conditions. Prior to intervention, executive function and gross motor skills were tested. Intervention occurred for 6 weeks with 30-min sessions twice weekly (dose = 360 min). At posttest, participants in the SKIP condition showed significantly better gross motor and executive function skills than control participants. Results are the first to document the effectiveness of the SKIP intervention in also improving children's executive function.
+C1 [Mulvey, Kelly Lynn] North Carolina State Univ, Raleigh, NC 27695 USA.
+   [Taunton, Sally; Pennell, Adam; Brian, Ali] Univ South Carolina, Columbia, SC USA.
+RP Mulvey, KL (corresponding author), North Carolina State Univ, Raleigh, NC 27695 USA.
+EM klmulvey1@ncsu.edu
+OI Mulvey, Kelly Lynn/0000-0002-1292-9066
+NR 48
+TC 3
+Z9 3
+U1 7
+U2 26
+PU HUMAN KINETICS PUBL INC
+PI CHAMPAIGN
+PA 1607 N MARKET ST, PO BOX 5076, CHAMPAIGN, IL 61820-2200 USA
+SN 0895-2779
+EI 1543-2904
+J9 J SPORT EXERCISE PSY
+JI J. Sport Exerc. Psychol.
+PD OCT
+PY 2018
+VL 40
+IS 5
+BP 233
+EP 239
+DI 10.1123/jsep.2018-0007
+PG 7
+WC Hospitality, Leisure, Sport & Tourism; Psychology, Applied; Psychology;
+   Sport Sciences
+SC Social Sciences - Other Topics; Psychology; Sport Sciences
+GA HA9EY
+UT WOS:000450600700001
+PM 30376755
+DA 2020-08-05
+ER
+
+PT J
+AU Brock, LL
+   Murrah, WM
+   Cottone, EA
+   Mashburn, AJ
+   Grissmer, DW
+AF Brock, Laura L.
+   Murrah, William M.
+   Cottone, Elizabeth A.
+   Mashburn, Andrew J.
+   Grissmer, David W.
+TI An after-school intervention targeting executive function and
+   visuospatial skills also improves classroom behavior
+SO INTERNATIONAL JOURNAL OF BEHAVIORAL DEVELOPMENT
+LA English
+DT Article
+DE Executive function; visuospatial skills; learning-related behavior;
+   problem behavior; after school; intervention
+ID FINE MOTOR-SKILLS; VISUOMOTOR INTEGRATION; ACADEMIC-ACHIEVEMENT; YOUTH
+   DEVELOPMENT; SELF-REGULATION; HEAD-START; KINDERGARTEN; READINESS;
+   TRANSITION; MEDIATION
+AB Executive function (EF) describes a complex set of skills, including flexible attention, inhibitory control, and working memory, that coordinate to achieve behavioral regulation. Visuospatial skills (VS) describe the capacity to visually perceive and understand spatial relationships among objects. Emerging research suggests VS skills are associated with classroom functioning, including behavioral adjustment. Children from socioeconomically disadvantaged backgrounds are more likely to enter school with EF and VS deficits, with consequences for classroom adjustment. In response, we developed and experimentally tested an after-school intervention that incorporates fine and gross motor activities targeting EF and VS skills in a sample of 87 kindergarten and first-grade students from low-income communities. The aim of the present study was to preliminarily explore whether EF and VS skills were bolstered by the intervention and subsequently whether EF and VS skills mediate or moderate intervention impacts on learning-related and problem behaviors in the classroom. Intent-to-treat analyses confirm intervention effects for EF and VS skills. Using full information maximum likelihood and bias-corrected bootstrapping, results indicate that improvements in EF mediated the impact of assignment to the treatment condition on improvements in learning-related behaviors and reductions in problem behavior. Taken together, findings suggest out-of-school contexts are a reasonable point of intervention for improving daytime classroom behavior.
+C1 [Brock, Laura L.] Coll Charleston, Dept Teacher Educ, 66 George St, Charleston, SC 29424 USA.
+   [Murrah, William M.] Auburn Univ, Coll Educ, Educ Fdn Leadership & Technol, Auburn, AL 36849 USA.
+   [Cottone, Elizabeth A.; Grissmer, David W.] Univ Virginia, Sch Educ, Ctr Adv Study Teaching & Learning, Charlottesville, VA USA.
+   [Mashburn, Andrew J.] Portland State Univ, Dept Appl Dev Psychol, Portland, OR 97207 USA.
+RP Brock, LL (corresponding author), Coll Charleston, Dept Teacher Educ, 66 George St, Charleston, SC 29424 USA.
+EM brockll@cofc.edu
+RI Murrah, William/AAN-1076-2020
+OI Murrah, William/0000-0001-9822-2522
+FU Department of Health and Human Services (HHS) American Recovery and
+   Reinvestment Act (ARRA) [1RC1HD063534-01]; National Science
+   FoundationNational Science Foundation (NSF) [DRL-0815787]; Institute of
+   Education Sciences, U.S. Department of EducationUS Department of
+   Education [R305B090002]
+FX The authors disclosed receipt of the following financial support for the
+   research, authorship, and/or publication of this article: This study was
+   funded by the Department of Health and Human Services (HHS) American
+   Recovery and Reinvestment Act (ARRA) under award number 1RC1HD063534-01,
+   the National Science Foundation under award number DRL-0815787, and by
+   the Institute of Education Sciences, U.S. Department of Education,
+   through Grant # R305B090002 to the University of Virginia. The opinions
+   expressed are those of the authors and do not represent views of the
+   Institute or the U.S. Department of Education.
+NR 64
+TC 5
+Z9 5
+U1 2
+U2 24
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0165-0254
+EI 1464-0651
+J9 INT J BEHAV DEV
+JI Int. J. Behav. Dev.
+PD SEP
+PY 2018
+VL 42
+IS 5
+BP 474
+EP 484
+DI 10.1177/0165025417738057
+PG 11
+WC Psychology, Developmental
+SC Psychology
+GA GR1EF
+UT WOS:000442271900003
+DA 2020-08-05
+ER
+
+PT J
+AU Schmitt, SA
+   Korucu, I
+   Napoli, AR
+   Bryant, LM
+   Purpura, DJ
+AF Schmitt, Sara A.
+   Korucu, Irem
+   Napoli, Amy R.
+   Bryant, Lindsey M.
+   Purpura, David J.
+TI Using block play to enhance preschool children's mathematics and
+   executive functioning: A randomized controlled trial
+SO EARLY CHILDHOOD RESEARCH QUARTERLY
+LA English
+DT Article
+DE Block play; Mathematics; Executive function; Preschool; Intervention
+ID SELF-REGULATION; SPATIAL SKILLS; CHILDHOOD MATHEMATICS;
+   BEHAVIORAL-REGULATION; SCHOOL READINESS; NUMERACY SKILLS; GUIDED PLAY;
+   LANGUAGE; LITERACY; KINDERGARTEN
+AB The current study investigated the extent to which a semi-structured block play intervention supported growth in mathematics and executive functioning for preschool children using a randomized controlled design. A secondary aim was to explore whether differential intervention effects emerged for children from various socioeconomic backgrounds, indicated by parental education level. Participants included 59 preschool children. Children ranged in age from 38 to 69 months (M = 55.20, SD = 7.17), and 56% were female. Results from regression models indicated that, although not statistically significant, children who participated in the intervention demonstrated greater gains in three mathematics skills (numeracy, shape recognition, and mathematical language) and two indicators of executive functioning (cognitive flexibility and a measure of global executive functioning) compared to children in a control group. Further, three significant interactions were found, suggesting that for numeracy, cognitive flexibility, and global executive functioning, children of parents with low educational attainment benefited the most from intervention participation. These findings provide preliminary evidence for the effectiveness of a semi structured block play intervention for improving children's school readiness and have implications for including intentional instruction using blocks in preschool classrooms. (C) 2018 Elsevier Inc. All rights reserved.
+C1 [Schmitt, Sara A.; Korucu, Irem; Napoli, Amy R.; Bryant, Lindsey M.; Purpura, David J.] Purdue Univ, Human Dev & Family Studies, 1202 W State St, W Lafayette, IN 47907 USA.
+RP Schmitt, SA (corresponding author), Purdue Univ, Human Dev & Family Studies, 1202 W State St, W Lafayette, IN 47907 USA.
+EM saraschmitt@purdue.edu
+OI Korucu, Irem/0000-0001-7185-2284
+FU Clifford B. Kinley Trust [208424]
+FX This study was supported by a grant from the Clifford B. Kinley Trust
+   (Award# 208424).
+NR 80
+TC 11
+Z9 12
+U1 9
+U2 27
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0885-2006
+EI 1873-7706
+J9 EARLY CHILD RES Q
+JI Early Childhood Res. Q.
+PY 2018
+VL 44
+BP 181
+EP 191
+DI 10.1016/j.ecresq.2018.04.006
+PG 11
+WC Education & Educational Research; Psychology, Developmental
+SC Education & Educational Research; Psychology
+GA GL3QC
+UT WOS:000437052100017
+DA 2020-08-05
+ER
+
+PT J
+AU Fernandez, DAG
+   Valenzuela, MEC
+   Chavez, CC
+   Delgado, JCG
+   Saucedo, GV
+   Gonzalez, MZ
+AF Garcia Fernandez, David Arnoldo
+   Chavez Valenzuela, Maria Elena
+   Cruz Chavez, Concepcion
+   Guedea Delgado, Julio Cesar
+   Velazquez Saucedo, Gabriela
+   Zubiaur Gonzalez, Marta
+TI Impact of a motor activity program with executive functions to
+   strengthen the integral development of the child
+SO SPORTIS-SCIENTIFIC TECHNICAL JOURNAL OF SCHOOL SPORT PHYSICAL EDUCATION
+   AND PSYCHOMOTRICITY
+LA Spanish
+DT Article
+DE Executive functions; cognition; reading; Mathematics and early childhood
+   education
+ID ACADEMIC-ACHIEVEMENT; PHYSICAL-ACTIVITY; INTERVENTION; SKILLS;
+   COORDINATION; DISABILITIES; METAANALYSIS; PERFORMANCE; SCHOOL
+AB The present investigation consisted in analyzing the impact of the application of a program of motor activity linked to executive functions, in order to contribute to the development of cognition, executive functions, motor skills, reading, writing and mathematics. The sample consisted of 66 children (35 experimental group and 31 control group) with normal development and ages ranging from 5.2 to 6.9 years, the average was 6.2 +/- 054, who attended third kindergarten and first grade of a public school of the city of Leon, Spain. To carry out the program, the children made their materials and their parents supported them in the design of the most difficult materials. The program was completed in 45 sessions 2 per week, with a duration of 60 minutes each, during 6 months, being transcendental that a week a month the parents of the family participated in the class. The instruments used were: Merrill Palmer Revised Developmental Scale, NEPSY Test II, Infant Neuropsychological Maturity Questionnaire, Movement Assessment Battery for Children-2 and Mathematical Competence Test Basic. The most relevant results indicate that in the pre-test and post-test experimental group there are significant differences in: motor cognition, executive functions, writing and reading with a p < 0.05. Among the control groups and experimental post-test, significant differences were found p < 0.05 in: motor cognition, executive functions, writing and reading. In conclusion: the importance of creating motor programs linked to the executive functions is emphasized in order to strengthen the integral formation of the child.
+C1 [Garcia Fernandez, David Arnoldo; Guedea Delgado, Julio Cesar; Velazquez Saucedo, Gabriela] Univ Autonoma Chihuahua, Chihuahua, Mexico.
+   [Chavez Valenzuela, Maria Elena] Univ Sonora, Hermosillo, Sonora, Mexico.
+   [Cruz Chavez, Concepcion; Zubiaur Gonzalez, Marta] Univ Leon, Leon, Spain.
+RP Fernandez, DAG (corresponding author), Univ Autonoma Chihuahua, Chihuahua, Mexico.
+EM dgarcf06@estudiantes.unileon.es
+OI Garcia Fernandez, David Arnoldo/0000-0002-9741-9152; Chavez Valenzuela,
+   Maria Elena/0000-0001-9418-1321
+NR 36
+TC 2
+Z9 2
+U1 0
+U2 7
+PU UNIV CORUNA, SERVICIO PUBLICACIONS
+PI CORUNA
+PA CAMPUS DE ELVINA, CORUNA, 15071, SPAIN
+SN 2386-8333
+J9 SPORTIS
+JI Sportis
+PD JAN
+PY 2018
+VL 4
+IS 1
+BP 37
+EP 58
+DI 10.17979/sportis.2018.4.1.2060
+PG 22
+WC Education & Educational Research
+SC Education & Educational Research
+GA GG0DD
+UT WOS:000432347700004
+OA DOAJ Gold
+DA 2020-08-05
+ER
+
+PT J
+AU Capodieci, A
+   Gola, ML
+   Cornoldi, C
+   Re, AM
+AF Capodieci, Agnese
+   Gola, Maria Laura
+   Cornoldi, Cesare
+   Re, Anna Maria
+TI Effects of a working memory training program in preschoolers with
+   symptoms of attention-deficit/hyperactivity disorder
+SO JOURNAL OF CLINICAL AND EXPERIMENTAL NEUROPSYCHOLOGY
+LA English
+DT Article
+DE Attention-deficit/hyperactivity disorder; executive functions;
+   preschoolers; training; working memory
+ID DEFICIT HYPERACTIVITY DISORDER; NONPHARMACOLOGICAL INTERVENTIONS;
+   EXECUTIVE FUNCTIONS; CHILDREN; ADHD; PARENT; INTELLIGENCE; PERFORMANCE;
+   DIAGNOSIS
+AB Introduction: Preschoolers with attention-deficit/hyperactivity disorder (ADHD) have been found to exhibit impairments on neuropsychological measures of working memory (WM). As WM is an important predictor of future learning abilities, early intervention could help to prevent severe problems. The purpose of this research was to ascertain the efficacy of an intervention for training WM in 5-year-old children with symptoms of ADHD. Method: Thirty-four children with symptoms of ADHD were randomly divided into two groups: One was assigned to the WM training condition, and the other continued normal class activities. The training was provided at school in small groups that also included typically developing children. Results: The trained group showed a significant improvement in tasks measuring their WM and other controlled processes at conclusion of study, whereas no significant improvement was found in the control group. Conclusions: We concluded that early intervention on WM may be effective in children with symptoms of ADHD.
+C1 [Capodieci, Agnese; Gola, Maria Laura; Cornoldi, Cesare] Univ Padua, Dept Gen Psychol, Padua, Italy.
+   [Re, Anna Maria] Univ Padua, Dept Dev & Socializat Psychol, Padua, Italy.
+RP Capodieci, A (corresponding author), Univ Padua, Via Martini 10, I-31030 Treviso, Italy.
+EM agnesecapox@gmail.com
+RI Capodieci, Agnese/G-4405-2018
+OI Capodieci, Agnese/0000-0002-2165-6899; RE, ANNA
+   MARIA/0000-0002-6420-1923
+NR 49
+TC 4
+Z9 4
+U1 1
+U2 18
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 1380-3395
+EI 1744-411X
+J9 J CLIN EXP NEUROPSYC
+JI J. Clin. Exp. Neuropsychol.
+PY 2018
+VL 40
+IS 1
+BP 17
+EP 29
+DI 10.1080/13803395.2017.1307946
+PG 13
+WC Psychology, Clinical; Clinical Neurology; Psychology
+SC Psychology; Neurosciences & Neurology
+GA FU0AC
+UT WOS:000423512800002
+PM 28332914
+DA 2020-08-05
+ER
+
+PT J
+AU Peng, J
+   Mo, L
+   Huang, P
+   Zhou, Y
+AF Peng, Jun
+   Mo, Lei
+   Huang, Ping
+   Zhou, Ying
+TI The effects of working memory training on improving fluid intelligence
+   of children during early childhood
+SO COGNITIVE DEVELOPMENT
+LA English
+DT Article
+DE Working memory; Intervention; Fluid intelligence; Early childhood
+ID INDIVIDUAL-DIFFERENCES; INHIBITORY PROCESSES; EXECUTIVE ATTENTION;
+   AGE-DIFFERENCES; CAPACITY; PLASTICITY; YOUNG; PERFORMANCE; ABILITY;
+   CORTEX
+AB Early childhood is a phase of rapid development in many aspects, and early interventions can be more effective than interventions provided later on. In prior research, working memory training has demonstrated the possibility to improve the fluid intelligence of both adults and school-aged children. This study examined the training effects of enhancing the development of fluid intelligence in the long-term for preschoolers. Seventy-four preschoolers participated in the experiment. Participants in the experimental group were trained for 14 days using n-back program. Fluid intelligence tests were administered four times: pretest, post-test, 6-month follow-up, and 12-month follow-up. Results indicated that, the experimental group significantly enhanced their working memory performance. The experimental group also significantly outperformed the two control groups on the fluid intelligence post test and maintained their superior performance for up to 12 months. Implications are discussed within the context of providing effective early childhood interventions to improve fluid intelligence.
+C1 South China Normal Univ, Ctr Studies Psychol Applicat, Guangzhou, Guangdong, Peoples R China.
+   South China Normal Univ, Sch Psychol, Guangzhou, Guangdong, Peoples R China.
+RP Mo, L (corresponding author), South China Normal Univ, Guangzhou 510631, Guangdong, Peoples R China.
+EM molei@scnu.edu.cn
+FU Project of Key Institute of Humanities and Social Sciences, MOE, China
+   [16JJD190001]
+FX This research was funded by grants from the Project of Key Institute of
+   Humanities and Social Sciences, MOE, China (No. 16JJD190001).
+NR 91
+TC 3
+Z9 4
+U1 2
+U2 22
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0885-2014
+EI 1879-226X
+J9 COGNITIVE DEV
+JI Cogn. Dev.
+PD JUL-SEP
+PY 2017
+VL 43
+BP 224
+EP 234
+DI 10.1016/j.cogdev.2017.05.006
+PG 11
+WC Psychology, Developmental; Psychology, Experimental
+SC Psychology
+GA FF3GK
+UT WOS:000408783300019
+DA 2020-08-05
+ER
+
+PT J
+AU Gade, M
+   Zoelch, C
+   Seitz-Stein, K
+AF Gade, Miriam
+   Zoelch, Christof
+   Seitz-Stein, Katja
+TI Training of Visual-Spatial Working Memory in Preschool Children
+SO ADVANCES IN COGNITIVE PSYCHOLOGY
+LA English
+DT Article
+DE working memory; preschoolers; training; compensation
+ID YOUNG-CHILDREN; SKILLS
+AB Working memory, the ability to store and manipulate information is of great importance for scholastic achievement in children. In this study, we report four studies in which preschoolers were trained on a visual-spatial working memory span task, namely the Corsi Block Task. Across all four studies, we found significant training effects for the intervention groups compared to active control groups. Confirming recent research, no transfer effects to other working memory tasks were found. Most importantly, our training effects were mainly brought about by children performing below the median in the pretest and those showing median performance, thereby closing the gap to children performing above the median (compensation effect). We consider this finding of great interest to ensure comparable starting conditions when entering school with a relatively short intervention.
+C1 [Gade, Miriam; Zoelch, Christof; Seitz-Stein, Katja] Catholic Univ Eichstatt Ingolstadt, Eichstatt, Germany.
+RP Gade, M (corresponding author), Catholic Univ Eichstatt Ingolstadt, Dev Psychol & Educ Sci & Gen Psychol, Ostenstr 27, D-85072 Eichstatt, Germany.
+EM miriam.gade@ku.de
+RI Gade, Miriam/B-4772-2019
+OI Gade, Miriam/0000-0002-1537-0157
+NR 45
+TC 4
+Z9 4
+U1 1
+U2 12
+PU UNIV FINANCE & MANAGEMENT WARSAW
+PI WARSAW
+PA 55 PAWIA STR, WARSAW, 01-030, POLAND
+SN 1895-1171
+J9 ADV COGN PSYCHOL
+JI Adv. Cogn. Psychol.
+PD JUN 30
+PY 2017
+VL 13
+IS 2
+BP 177
+EP 187
+DI 10.5709/acp-0217-7
+PG 11
+WC Psychology, Experimental
+SC Psychology
+GA FB3GF
+UT WOS:000406030200006
+PM 28713452
+OA DOAJ Gold, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Howard, SJ
+   Powell, T
+   Vasseleu, E
+   Johnstone, S
+   Melhuish, E
+AF Howard, S. J.
+   Powell, T.
+   Vasseleu, E.
+   Johnstone, S.
+   Melhuish, E.
+TI Enhancing Preschoolers' Executive Functions Through Embedding Cognitive
+   Activities in Shared Book Reading
+SO EDUCATIONAL PSYCHOLOGY REVIEW
+LA English
+DT Article
+DE Executive function; Cognitive development; Training; Shared reading;
+   Preschool; Intervention
+ID WORKING-MEMORY; CHILDREN
+AB Given evidence that early executive functioning sets the stage for a broad range of subsequent outcomes, researchers have sought to identify ways to foster these cognitive capacities. The current series of studies sought to design, develop, and provide evidence for the efficacy of embedding cognitive activities in a commonplace activity-shared reading of a children's book. The book, Quincey Quokka's Quest, required children to control their thinking and behavior to help the story's main character through a series of obstacles. The first study investigated effects of reading with embedded cognitive activities in individual and group contexts on young children's executive functions (EFs). The second study compared reading with embedded cognitive activities against a more active control condition (dialogic reading) that similarly engaged children in the reading process yet lacked clear engagement of EFs. The third study sought to investigate whether the effect of reading the story with embedded EF activities changed across differing doses of the intervention and whether effects persisted 2 months post-intervention. All studies provided evidence of intervention effects on shifting, with working memory benefits shown in two of the three studies, in as little as 3 weeks (compared to more traditional reading). Study 3 further indicated maintenance of these gains 2 months later. This suggests the efficacy of embedding cognitive activities in the context of everyday activities, thereby extending the range of users and contexts in which this approach can be used.
+C1 [Howard, S. J.] Univ Wollongong, Sch Educ, Wollongong, NSW 2522, Australia.
+   [Howard, S. J.; Johnstone, S.; Melhuish, E.] Univ Wollongong, Early Start Res Inst, Wollongong, NSW 2522, Australia.
+   [Powell, T.; Vasseleu, E.; Johnstone, S.; Melhuish, E.] Univ Wollongong, Sch Psychol, Wollongong, NSW 2522, Australia.
+RP Howard, SJ (corresponding author), Univ Wollongong, Sch Educ, Wollongong, NSW 2522, Australia.; Howard, SJ (corresponding author), Univ Wollongong, Early Start Res Inst, Wollongong, NSW 2522, Australia.
+EM stevenh@uow.edu.au
+OI Howard, Steven/0000-0002-1258-3210
+FU Internal Funding from the University of Wollongong
+FX This research was funded by Internal Funding from the University of
+   Wollongong. We are grateful to the participating preschools and the
+   children who participated in the project.
+NR 47
+TC 9
+Z9 9
+U1 1
+U2 18
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1040-726X
+EI 1573-336X
+J9 EDUC PSYCHOL REV
+JI Educ. Psychol. Rev.
+PD MAR
+PY 2017
+VL 29
+IS 1
+SI SI
+BP 153
+EP 174
+DI 10.1007/s10648-016-9364-4
+PG 22
+WC Psychology, Educational
+SC Psychology
+GA EM1HH
+UT WOS:000395068200011
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Passolunghi, MC
+   Costa, HM
+AF Passolunghi, Maria Chiara
+   Costa, Hiwet Mariam
+TI Working memory and early numeracy training in preschool children
+SO CHILD NEUROPSYCHOLOGY
+LA English
+DT Article
+DE Working memory; Working memory training; Mathematical precursors;
+   Cognitive abilities; Preschool
+ID SHORT-TERM-MEMORY; NUMBER SENSE; MATHEMATICAL SKILLS;
+   COGNITIVE-ABILITIES; NATIONAL CURRICULUM; EXECUTIVE FUNCTIONS;
+   INHIBITORY CONTROL; BOARD GAMES; KINDERGARTEN; PRECURSORS
+AB Many factors influence children's performance in mathematical achievement, including both domain-specific and domain-general factors. This study aimed to verify and compare the effects of two types of training on early numerical skills. One type of training focused on the enhancement of working memory, a domain-general precursor, while the other focused on the enhancement of early numeracy, a domain-specific precursor. The participants were 48 five-year-old preschool children. Both the working memory and early numeracy training programs were implemented for 5 weeks. The results showed that the early numeracy intervention specifically improved early numeracy abilities in preschool children, whereas working memory intervention improved not only working memory abilities but also early numeracy abilities. These findings stress the importance of performing activities designed to train working memory abilities, in addition to activities aimed to enhance more specific skills, in the early prevention of learning difficulties during preschool years.
+C1 [Passolunghi, Maria Chiara; Costa, Hiwet Mariam] Univ Trieste, Dept Life Sci, Psychol Unit Gaetano Kanizsa, I-34128 Trieste, Italy.
+RP Passolunghi, MC (corresponding author), Univ Trieste, Dept Life Sci, Psychol Unit Gaetano Kanizsa, Via Weiss,21 Bldg W, I-34128 Trieste, Italy.
+EM passolu@units.it
+RI Passolunghi, Maria Chiara/I-2029-2019
+OI Passolunghi, Maria Chiara/0000-0001-6713-866X; Costa, Hiwet
+   Mariam/0000-0002-3517-4292
+FU University of Trieste [FRA2012]
+FX This work was supported by the University of Trieste [grant number
+   FRA2012].
+NR 75
+TC 25
+Z9 27
+U1 1
+U2 2
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0929-7049
+EI 1744-4136
+J9 CHILD NEUROPSYCHOL
+JI Child Neuropsychol.
+PD JAN 2
+PY 2016
+VL 22
+IS 1
+BP 81
+EP 98
+DI 10.1080/09297049.2014.971726
+PG 18
+WC Clinical Neurology
+SC Neurosciences & Neurology
+GA CV3VV
+UT WOS:000364195400004
+PM 25366543
+DA 2020-08-05
+ER
+
+PT J
+AU Liu, Q
+   Zhu, XY
+   Ziegler, A
+   Shi, JN
+AF Liu, Qian
+   Zhu, Xinyi
+   Ziegler, Albert
+   Shi, Jiannong
+TI The effects of inhibitory control training for preschoolers on reasoning
+   ability and neural activity
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+ID EXECUTIVE FUNCTION; RESPONSE-INHIBITION; COGNITIVE CONTROL; FLUID
+   INTELLIGENCE; WORKING-MEMORY; PREFRONTAL CORTEX; GO/NOGO TASK; CHILDREN;
+   BRAIN; CHILDHOOD
+AB Inhibitory control (including response inhibition and interference control) develops rapidly during the preschool period and is important for early cognitive development. This study aimed to determine the training and transfer effects on response inhibition in young children. Children in the training group (N = 20; 12 boys, mean age 4.87 +/- 0.26 years) played "Fruit Ninja" on a tablet computer for 15 min/day, 4 days/week, for 3 weeks. Children in the active control group (N = 20; 10 boys, mean age 4.88 +/- 0.20 years) played a coloring game on a tablet computer for 10 min/day, 1-2 days/week, for 3 weeks. Several cognitive tasks (involving inhibitory control, working memory, and fluid intelligence) were used to evaluate the transfer effects, and electroencephalography (EEG) was performed during a go/no-go task. Progress on the trained game was significant, while performance on a reasoning task (Raven's Progressive Matrices) revealed a trend-level improvement from pre-to post-test. EEG indicated that the N-2 effect of the go/no-go task was enhanced after training for girls. This study is the first to show that pure response inhibition training can potentially improve reasoning ability. Furthermore, gender differences in the training-induced changes in neural activity were found in preschoolers.
+C1 [Liu, Qian; Zhu, Xinyi; Shi, Jiannong] Chinese Acad Sci, Inst Psychol, Beijing 100101, Peoples R China.
+   [Shi, Jiannong] Aalborg Univ, Dept Learning & Philosophy, Aalborg, Denmark.
+   [Ziegler, Albert] Univ Erlangen Nurnberg, Dept Educ Psychol, Erlangen, Germany.
+RP Shi, JN (corresponding author), Chinese Acad Sci, Inst Psychol, Beijing 100101, Peoples R China.
+EM shijn@psych.ac.cn
+FU National Key Technologies R D ProgramNational Key Technology R&D Program
+   [2012BAI36B02]; Knowledge Innovation Program of the Chinese Academy of
+   SciencesChinese Academy of SciencesKnowledge Innovation Program of the
+   Chinese Academy of Sciences [KSCX2-EW-J-8]
+FX We thank the three graduate students, and the participants and their
+   parents for their time and effort. This work was supported by grants
+   from National Key Technologies R & D Program (No. 2012BAI36B02) and the
+   Knowledge Innovation Program of the Chinese Academy of Sciences
+   (KSCX2-EW-J-8).
+NR 60
+TC 8
+Z9 8
+U1 1
+U2 49
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 2045-2322
+J9 SCI REP-UK
+JI Sci Rep
+PD SEP 23
+PY 2015
+VL 5
+AR 14200
+DI 10.1038/srep14200
+PG 10
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA CR8HO
+UT WOS:000361592000001
+PM 26395158
+OA DOAJ Gold, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Re, AM
+   Capodieci, A
+   Cornoldi, C
+AF Re, Anna M.
+   Capodieci, Agnese
+   Cornoldi, Cesare
+TI Effect of training focused on executive functions(attention, inhibition,
+   and working memory) in preschoolers exhibition ADHD symptoms
+SO FRONTIERS IN PSYCHOLOGY
+LA English
+DT Article
+DE ADHD; preschool children; training; executive function; attention;
+   impulsive behavior; working memory
+ID ATTENTION-DEFICIT/HYPERACTIVITY DISORDER; WORKING-MEMORY;
+   NONPHARMACOLOGICAL INTERVENTIONS; INDIVIDUAL-DIFFERENCES; CONTROL
+   DEFICIT; CHILDREN; PARENT; PROGRAMS
+AB The development of early intervention strategies for children with symptoms of Attention Deficit Hyperactivity Disorder (ADHD) is important because it provides an opportunity to prevent severe problems in the future. The main purpose of this investigation was to determine the efficacy of a group training for the control of attention, working memory and impulsive behaviors, involving 5-year-old children with ADHD symptoms. Twenty-six children with ADHD symptoms and 26 with typical development were randomly divided in two conditions. Thirteen children in each group were assigned to the training condition and the other to the business as usual condition (normal class activity). Children who participated in the intervention showed an improvement in the tasks measuring their control of attention, impulsive behavior, and working memory. Moreover, children with typical development who attended the training also improved their competencies. The results confirm the importance of an early intervention for preschool-age children with ADHD symptoms.
+C1 [Re, Anna M.] Univ Padua, Dept Dev & Socializat Psychol, I-35131 Padua, Italy.
+   [Capodieci, Agnese; Cornoldi, Cesare] Univ Padua, Dept Gen Psychol, I-35131 Padua, Italy.
+RP Re, AM (corresponding author), Univ Padua, Dept Dev & Socializat Psychol, Via Venezia 10, I-35131 Padua, Italy.
+EM anna.re2011@gmail.com
+RI Capodieci, Agnese/G-4405-2018
+OI Capodieci, Agnese/0000-0002-2165-6899
+NR 41
+TC 20
+Z9 20
+U1 4
+U2 69
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1664-1078
+J9 FRONT PSYCHOL
+JI Front. Psychol.
+PD AUG 6
+PY 2015
+VL 6
+AR 1161
+DI 10.3389/fpsyg.2015.01161
+PG 9
+WC Psychology, Multidisciplinary
+SC Psychology
+GA CP3RQ
+UT WOS:000359799300001
+PM 26300836
+OA DOAJ Gold, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Rojas-Barahona, CA
+   Forster, CE
+   Moreno-Rios, S
+   McClelland, MM
+AF Rojas-Barahona, Cristian A.
+   Foerster, Carla E.
+   Moreno-Rios, Sergio
+   McClelland, Megan M.
+TI Improvement of Working Memory in Preschoolers and Its Impact on Early
+   Literacy Skills: A Study in Deprived Communities of Rural and Urban
+   Areas
+SO EARLY EDUCATION AND DEVELOPMENT
+LA English
+DT Article
+ID EARLY LEARNING-GOALS; SHORT-TERM-MEMORY; EXECUTIVE FUNCTION; CHILDHOOD
+   POVERTY; EFFORTFUL CONTROL; COGNITIVE SKILLS; SCHOOL READINESS;
+   CHILDREN; ACHIEVEMENT; VOCABULARY
+AB Research Findings: The present study evaluated the impact of a working memory (WM) stimulation program on the development of WM and early literacy skills (ELS) in preschoolers from socioeconomically deprived rural and urban schools in Chile. The sample consisted of 268 children, 144 in the intervention group and 124 in the comparison group. The computer-based intervention comprised 16 sessions of 30min each. Children in the intervention group demonstrated significantly more progress in WM than those in the comparison group when we evaluated them 3 months after exposure to the program and controlled for initial differences with an analysis of covariance. ELS were significantly stronger in children who were exposed to the stimulation program, which supports a link between WM and ELS. Practice or Policy: Results suggest that children's WM can be improved from an early age regardless of socioeconomic context or geographic location (rural or urban). This has direct implications for early education and may compensate for some of the difficulties that children experience when starting school.
+C1 [Rojas-Barahona, Cristian A.; Foerster, Carla E.] Pontificia Univ Catolica Chile, Fac Educ, Santiago 4860, Chile.
+   [Moreno-Rios, Sergio] Univ Granada, Sch Psychol, E-18071 Granada, Spain.
+   [McClelland, Megan M.] Oregon State Univ, Human Dev & Family Sci, Corvallis, OR 97331 USA.
+RP Rojas-Barahona, CA (corresponding author), Pontificia Univ Catolica Chile, Fac Educ, Santiago 4860, Chile.
+EM crojash@uc.cl
+RI Rojas, Cristian/AAI-4137-2020; Forster, Carla/B-2104-2017; Moreno-Rios,
+   Sergio/H-2443-2013; Rojas, Cristian/P-4468-2014
+OI Rojas, Cristian/0000-0002-7733-6157; Forster, Carla/0000-0003-0576-6542;
+   Moreno-Rios, Sergio/0000-0001-5553-207X; Rojas,
+   Cristian/0000-0002-7733-6157
+FU Chilean government's National Fund for Scientific and Technological
+   Development (project FONDECYT)Comision Nacional de Investigacion
+   Cientifica y Tecnologica (CONICYT)CONICYT FONDECYT [1110956]
+FX This study was financed by the Chilean government's National Fund for
+   Scientific and Technological Development (project FONDECYT number
+   1110956).
+NR 60
+TC 7
+Z9 9
+U1 2
+U2 34
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1040-9289
+EI 1556-6935
+J9 EARLY EDUC DEV
+JI Early Educ. Dev.
+PD JUL 1
+PY 2015
+VL 26
+IS 5-6
+SI SI
+BP 871
+EP 892
+DI 10.1080/10409289.2015.1036346
+PG 22
+WC Education & Educational Research; Psychology, Educational; Psychology,
+   Developmental
+SC Education & Educational Research; Psychology
+GA CP3RJ
+UT WOS:000359798500014
+DA 2020-08-05
+ER
+
+PT J
+AU Traverso, L
+   Viterbori, P
+   Usai, MC
+AF Traverso, Laura
+   Viterbori, Paola
+   Usai, Maria Carmen
+TI Improving executive function in childhood: evaluation of a training
+   intervention for 5-year-old children
+SO FRONTIERS IN PSYCHOLOGY
+LA English
+DT Article
+DE executive function; training; preschool; inhibition (psychology);
+   working memory; cognitive flexibility
+ID ACADEMIC SCHOOL READINESS; WORKING-MEMORY; PRESCHOOL-CHILDREN;
+   INHIBITORY CONTROL; INDIVIDUAL-DIFFERENCES; SOCIOECONOMIC-STATUS;
+   RESPONSE-INHIBITION; EFFORTFUL CONTROL; SELF-REGULATION; SHORT-TERM
+AB Executive function (EF) refers to a set of higher order cognitive processes that control and modulate cognition under continuously changing and multiple task demands. EF plays a central role in early childhood, is associated and predictive of important cognitive achievements and has been recognized as a significant aspect of school readiness. This study examines the efficacy of a group based intervention for 5-year-old children that focuses on basic components of EF (working memory, inhibitory control, cognitive flexibility). The intervention included 12 sessions, lasted 1 month and used low-cost materials. Seventy-five children took part in the study. The results indicate that the children who attended the intervention outperformed controls in simple and more complex EF tasks. Specifically, these children exhibited increased abilities to delay gratification, to control on-going responses, to process and update information, and to manage high cognitive conflict. These results suggest the possibility that this intervention, which may be easily implemented in educational services, can promote EF during preschool period before the entrance in primary school.
+C1 [Traverso, Laura; Viterbori, Paola; Usai, Maria Carmen] Univ Genoa, Dept Educ Sci, I-16128 Genoa, Italy.
+RP Traverso, L (corresponding author), Univ Genoa, Dept Educ Sci, Corso Podesta 2, I-16128 Genoa, Italy.
+EM lauratraverso4@gmail.com
+RI Usai, Maria Carmen/N-9743-2019; viterbori, paola/P-6861-2019; Traverso,
+   Laura/P-9998-2019
+OI Usai, Maria Carmen/0000-0002-2172-7941; viterbori,
+   paola/0000-0002-0241-646X; Traverso, Laura/0000-0002-4831-4258;
+   TRAVERSO, LAURA/0000-0002-5371-1426
+FU Carige FoundationFondazione Carige
+FX This study was supported by the Carige Foundation.
+NR 86
+TC 55
+Z9 56
+U1 2
+U2 89
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1664-1078
+J9 FRONT PSYCHOL
+JI Front. Psychol.
+PD APR 30
+PY 2015
+VL 6
+AR 525
+DI 10.3389/fpsyg.2015.00525
+PG 14
+WC Psychology, Multidisciplinary
+SC Psychology
+GA CI2YG
+UT WOS:000354613600001
+PM 25983706
+OA DOAJ Gold, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Volckaert, AMS
+   Noel, MP
+AF Volckaert, Alexandra Maria S.
+   Noel, Marie-Pascale
+TI Training executive function in preschoolers reduce externalizing
+   behaviors
+SO TRENDS IN NEUROSCIENCE AND EDUCATION
+LA English
+DT Article
+DE Inhibition; Executive function; Externalizing behavior disorders;
+   Metacognition; Training; Preschoolers
+ID INHIBITORY CONTROL; WORKING-MEMORY; INDIVIDUAL-DIFFERENCES;
+   RESPONSE-INHIBITION; YOUNG-CHILDREN; ADHD; HYPERACTIVITY; ATTENTION;
+   PERFORMANCE; SYMPTOMS
+AB In this research we want to observe, in preschool children, and with an experimental design, whether a cognitive intervention aiming at enhancing inhibition capacities would have an impact not only on executive functions but also lead to behavioral changes with a decrease in external behavioral problems (EB).
+   Forty-seven normally developed preschoolers (mean age of 60 months) took part in a pretest assessing executive function (EF) capacities (attention, motor and cognitive inhibition, flexibility and working memory) and behavior (questionnaires and an observational paradigm for externalizing behaviors). Children were then randomly allocated to either a control (n =23) or an experimental group (n=24). Both groups participated in 2 45-min sessions per week for 8 weeks. Children from the control group took part in handicraft sessions and children from the experimental group received inhibitiontraining sessions. The latter consisted of a series of games/exercises aimed at increasing the different components of inhibition functions (interrupt an ongoing response, impulsivity management, inhibition of a predominant response, inhibition of external distractors) and involving the use of fictional characters aimed at improving the child's metacognition relative to those functions. At the end of the intervention, every child from each group took part in the post-test.
+   We observed significant differences between control and experimental groups, with the latter group performing better on inhibition, attention and working memory measures. More importantly, differences were also measured on behavioral measures of inattention, and on negative reaction in an observational paradigm. We thus show that it is possible to enhance EF capacities in preschoolers and that this has an impact on EB. (C) 2015 Elsevier GmbH. All rights reserved.
+C1 [Volckaert, Alexandra Maria S.; Noel, Marie-Pascale] Catholic Univ Louvain, Inst Psychol Sci, B-1348 Louvain La Neuve, Belgium.
+RP Volckaert, AMS (corresponding author), Catholic Univ Louvain, Inst Psychol Sci, 10 Pl Cardinal Mercier, B-1348 Louvain La Neuve, Belgium.
+EM alexandra.volckaert@uclouvain.be; marie-pascale.noel@uclouvain.be
+RI Noel, Marie-Pascale/H-7145-2019
+NR 60
+TC 22
+Z9 25
+U1 2
+U2 44
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2452-0837
+EI 2211-9493
+J9 TRENDS NEUROSCI EDUC
+JI Trends Neurosci. Educ.
+PD MAR-JUN
+PY 2015
+VL 4
+IS 1-2
+BP 37
+EP 47
+DI 10.1016/j.tine.2015.02.001
+PG 11
+WC Neurosciences
+SC Neurosciences & Neurology
+GA CU5BA
+UT WOS:000363545300005
+DA 2020-08-05
+ER
+
+PT J
+AU Schmitt, SA
+   McClelland, MM
+   Tominey, SL
+   Acock, AC
+AF Schmitt, Sara A.
+   McClelland, Megan M.
+   Tominey, Shauna L.
+   Acock, Alan C.
+TI Strengthening school readiness for Head a self-regulation intervention
+   Start children: Evaluation of
+SO EARLY CHILDHOOD RESEARCH QUARTERLY
+LA English
+DT Article
+DE Intervention; School readiness; Self-regulation; Academic achievement
+ID BEHAVIORAL-REGULATION; EXECUTIVE FUNCTION; WORKING-MEMORY;
+   ACADEMIC-ACHIEVEMENT; EFFECT SIZES; SKILLS; FAMILY; IMPACT; RISK;
+   PRESCHOOLERS
+AB The present study examined the efficacy of a self-regulation intervention for children experiencing demographic risk. Utilizing a randomized controlled design, analyses examined if children (N = 276 children in 14 Head Start classrooms; M age = 51.69, SD = 6.55) who participated in an 8-week self-regulation intervention demonstrated greater gains in self-regulation and academic achievement over the preschool year compared to children in a control group. In addition, indirect intervention effects on achievement outcomes through self-regulation were explored and differential intervention effects for English language learners within a sample of children from low-income families were tested. Results indicated that children in the intervention group demonstrated stronger levels of self-regulation compared to the control group in the spring of the preschool year. Group comparisons also revealed that the intervention was related to significantly higher math skills for children who were English language learners. In other words, English language learners who participated in the intervention demonstrated stronger levels of math in the spring of preschool in comparison to children in the control group and relative to English speakers who also participated in the intervention. The present study provides support for the efficacy of a school readiness intervention in promoting self-regulation and achievement in young children, especially English language learners. (C) 2014 Elsevier Inc. All rights reserved.
+C1 [Schmitt, Sara A.] Purdue Univ, W Lafayette, IN 47907 USA.
+   [McClelland, Megan M.; Acock, Alan C.] Oregon State Univ, Corvallis, OR 97331 USA.
+   [Tominey, Shauna L.] Yale Univ, New Haven, CT 06520 USA.
+RP Schmitt, SA (corresponding author), Purdue Univ, Dept Human Dev & Family Studies, 1202 W State St, W Lafayette, IN 47907 USA.
+EM saraschmitt@purdue.edu; megan.mcclelland@oregonstate.edu;
+   shauna.tominey@yale.edu; alan.acock@oregonstate.edu
+NR 89
+TC 98
+Z9 100
+U1 6
+U2 75
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0885-2006
+EI 1873-7706
+J9 EARLY CHILD RES Q
+JI Early Childhood Res. Q.
+PY 2015
+VL 30
+BP 20
+EP 31
+DI 10.1016/j.ecresq.2014.08.001
+PN A
+PG 12
+WC Education & Educational Research; Psychology, Developmental
+SC Education & Educational Research; Psychology
+GA AY0BW
+UT WOS:000347263900003
+HC Y
+HP N
+DA 2020-08-05
+ER
+
+PT J
+AU Rothlisberger, M
+   Neuenschwander, R
+   Cimeli, P
+   Michel, E
+   Roebers, CM
+AF Roethlisberger, Marianne
+   Neuenschwander, Regula
+   Cimeli, Patriza
+   Michel, Eva
+   Roebers, Claudia M.
+TI Improving executive functions in 5- and 6-year-olds: Evaluation of a
+   small group intervention in prekindergarten and kindergarten children
+SO INFANT AND CHILD DEVELOPMENT
+LA English
+DT Article
+DE executive functions; early childhood education; school readiness
+ID SCHOOL READINESS; INDIVIDUAL-DIFFERENCES; WORKING-MEMORY;
+   PRESCHOOL-CHILDREN; INHIBITORY CONTROL; SELF-REGULATION; COGNITIVE
+   CONTROL; SKILLS; MIND; AGE
+AB Research suggests a central role of executive functions for children's cognitive and social development during preschool years, especially in promoting school readiness. Interventions aiming to improve executive functions are therefore being called for. The present study examined the effect of a small group intervention implemented in kindergarten settings focusing on basic components of executive functions, i.e., working memory, interference control and cognitive flexibility. A total of 135 children enrolled in Swiss prekindergarten (5-year-olds) and kindergarten (6-year-olds) were involved. Results revealed that the small group intervention promoted gains in all three included components of executive functions: prekindergarten children substantially improved their working memory and cognitive flexibility processes, whereas significant training effects were found for the kindergarten children in interference control. Implications of these findings for early intervention programs and for tailoring preschool curricula are discussed, particularly with respect to children's school readiness. Copyright (c) 2011 John Wiley & Sons, Ltd.
+C1 [Roethlisberger, Marianne; Neuenschwander, Regula; Cimeli, Patriza; Roebers, Claudia M.] Univ Bern, Dept Dev Psychol, CH-3009 Bern, Switzerland.
+   [Michel, Eva] Univ Wurzburg, Inst Psychol, Wurzburg, Germany.
+RP Rothlisberger, M (corresponding author), Univ Bern, Dept Dev Psychol, Muesmattstr 45, CH-3009 Bern, Switzerland.
+EM marianne.roethlisberger@psy.unibe.ch
+NR 77
+TC 63
+Z9 66
+U1 1
+U2 78
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1522-7219
+J9 INFANT CHILD DEV
+JI Infant Child Dev.
+PD JUL-AUG
+PY 2012
+VL 21
+IS 4
+BP 411
+EP 429
+DI 10.1002/icd.752
+PG 19
+WC Psychology, Developmental
+SC Psychology
+GA 979HC
+UT WOS:000306807100008
+DA 2020-08-05
+ER
+
+PT J
+AU Rueda, MR
+   Checa, P
+   Combita, LM
+AF Rosario Rueda, M.
+   Checa, Puri
+   Combita, Lina M.
+TI Enhanced efficiency of the executive attention network after training in
+   preschool children: Immediate changes and effects after two months
+SO DEVELOPMENTAL COGNITIVE NEUROSCIENCE
+LA English
+DT Article
+DE Training; Executive attention; Conflict resolution; ERPs; Fluid
+   intelligence; Affect regulation
+ID ANTERIOR CINGULATE; FLUID INTELLIGENCE; EFFORTFUL CONTROL;
+   SELF-REGULATION; EARLY-CHILDHOOD; YOUNG-CHILDREN; ABILITY; BRAIN;
+   INHIBITION; NEGLECT
+AB Executive attention is involved in the regulation of thoughts, emotions and responses. This function experiences major development during preschool years and is associated to a neural network involving the anterior cingulate cortex and prefrontal structures. Recently, there have been some attempts to improve attention and other executive functions through training. In the current study, a group of 5 years old children (n = 37) were assigned to either a training-group who performed ten sessions of computerized training of attention or a non-trained control group. Assessment of performance in a range of tasks, targeting attention, intelligence and regulation of affect was carried out in three occasions: (1) before, (2) after, and (3) two months after completion of training. Also, brain function was examined with a high-density electroencephalogram system. Results demonstrate that trained children activate the executive attention network faster and more efficiently than untrained children, an effect that was still observed two months after without further training. Also, evidence of transfer of attention training to fluid intelligence and, to a lesser degree, to regulation of affect was observed. Results show that efficiency of the brain system underlying self-regulation can be enhanced by experience during development, providing opportunities for curricular improvement. (c) 2011 Elsevier Ltd. All rights reserved.
+C1 [Rosario Rueda, M.; Checa, Puri; Combita, Lina M.] Univ Granada, Dept Psicol Expt, E-18071 Granada, Spain.
+RP Rueda, MR (corresponding author), Univ Granada, Dept Psicol Expt, Campus Cartuja S-N, E-18071 Granada, Spain.
+EM rorueda@ugr.es
+RI Rueda, M/G-4402-2011
+OI Rueda, M/0000-0002-3941-9031
+FU Spanish Ministry of Science and InnovationSpanish Government
+   [PSI2008.02955]; Consolider Ingenio Program of the MICINN on Cognition
+   and Education
+FX This work was supported by a grant from the Spanish Ministry of Science
+   and Innovation (ref. PSI2008.02955) awarded to the first author. Also
+   supported by funds from the Consolider Ingenio 2010 Program of the
+   MICINN on Cognition and Education. We are also grateful to children,
+   families and staff of the Colegio Jesus-Maria Cristo de la Yedra of
+   Granada who participated in the study.
+NR 67
+TC 109
+Z9 113
+U1 1
+U2 58
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1878-9293
+EI 1878-9307
+J9 DEV COGN NEUROS-NETH
+JI Dev. Cogn. Neurosci.
+PD FEB 15
+PY 2012
+VL 2
+SU 1
+BP S192
+EP S204
+DI 10.1016/j.dcn.2011.09.004
+PG 13
+WC Psychology, Developmental; Neurosciences
+SC Psychology; Neurosciences & Neurology
+GA 095EL
+UT WOS:000315317400017
+PM 22682908
+OA Bronze, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Nutley, SB
+   Soderqvist, S
+   Bryde, S
+   Thorell, LB
+   Humphreys, K
+   Klingberg, T
+AF Nutley, Sissela Bergman
+   Soderqvist, Stina
+   Bryde, Sara
+   Thorell, Lisa B.
+   Humphreys, Keith
+   Klingberg, Torkel
+TI Gains in fluid intelligence after training non-verbal reasoning in
+   4-year-old children: a controlled, randomized study
+SO DEVELOPMENTAL SCIENCE
+LA English
+DT Article
+ID WORKING-MEMORY CAPACITY; TRAUMATIC BRAIN-INJURY; EXECUTIVE FUNCTIONS;
+   IMPAIRMENTS; EXPECTANCY; ACTIVATION; PLASTICITY; MECHANISM; DEFICITS;
+   SPAN
+AB Fluid intelligence (Gf) predicts performance on a wide range of cognitive activities, and children with impaired Gf often experience academic difficulties. Previous attempts to improve Gf have been hampered by poor control conditions and single outcome measures. It is thus still an open question whether Gf can be improved by training. This study included 4-year-old children (N = 101) who performed computerized training (15 min/day for 25 days) of either non-verbal reasoning, working memory, a combination of both, or a placebo version of the combined training. Compared to the placebo group, the non-verbal reasoning training group improved significantly on Gf when analysed as a latent variable of several reasoning tasks. Smaller gains on problem solving tests were seen in the combination training group. The group training working memory improved on measures of working memory, but not on problem solving tests. This study shows that it is possible to improve Gf with training, which could have implications for early interventions in children.
+C1 [Nutley, Sissela Bergman] Karolinska Inst, Dept Neurosci, Retzius Lab, Stockholm, Sweden.
+   [Nutley, Sissela Bergman; Soderqvist, Stina; Bryde, Sara; Thorell, Lisa B.; Klingberg, Torkel] Karolinska Inst, Stockholm Brain Inst, Stockholm, Sweden.
+   [Thorell, Lisa B.] Karolinska Inst, Dept Clin Neurosci, Stockholm, Sweden.
+   [Thorell, Lisa B.] Karolinska Inst, Ctr Neurodev Disorders, Stockholm, Sweden.
+   [Humphreys, Keith] Karolinska Inst, Dept Med Epidemiol & Biostat, Stockholm, Sweden.
+RP Nutley, SB (corresponding author), Karolinska Inst, Dept Neurosci, Retzius Lab, Stockholm, Sweden.
+EM sissela.bergman.nutley@ki.se
+RI Thorell, Lisa B/E-5259-2011
+OI Thorell, Lisa B/0000-0002-7417-6637; Klingberg,
+   Torkel/0000-0002-3175-2171
+NR 57
+TC 138
+Z9 140
+U1 2
+U2 38
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1363-755X
+EI 1467-7687
+J9 DEVELOPMENTAL SCI
+JI Dev. Sci.
+PD MAY
+PY 2011
+VL 14
+IS 3
+BP 591
+EP 601
+DI 10.1111/j.1467-7687.2010.01022.x
+PG 11
+WC Psychology, Developmental; Psychology, Experimental
+SC Psychology
+GA 747ED
+UT WOS:000289302200013
+PM 21477197
+DA 2020-08-05
+ER
+
+PT J
+AU Tominey, SL
+   McClelland, MM
+AF Tominey, Shauna L.
+   McClelland, Megan M.
+TI Red Light, Purple Light: Findings From a Randomized Trial Using Circle
+   Time Games to Improve Behavioral Self-Regulation in Preschool
+SO EARLY EDUCATION AND DEVELOPMENT
+LA English
+DT Article
+ID EFFORTFUL CONTROL; SCHOOL READINESS; WORKING-MEMORY;
+   EDUCATIONAL-ACHIEVEMENT; CHILDREN; INTERVENTION; LITERACY; SKILLS; RISK;
+   MATH
+AB Research Findings: The present study examined the efficacy of a self-regulation intervention with 65 preschool children. Using circle time games, the study examined whether participating in a treatment group significantly improved behavioral self-regulation and early academic outcomes. Half of the children were randomly assigned to participate in 16 playgroups during the winter of the school year. Behavioral aspects of self-regulation and early achievement were assessed in the fall and spring. Although there was no treatment effect in the overall sample, post hoc analyses revealed that participation in the treatment group was significantly related to self-regulation gains in children who started the year with low levels of these skills. Children in the treatment group also demonstrated significant letter-word identification gains compared to children in the control group. Practice or Policy: The findings from this study provide preliminary evidence for the efficacy of the intervention in terms of improving preschoolers' behavioral self-regulation for children low in these skills and improving letter-word identification. Although preliminary, these results have the potential to inform preschool curricula that emphasize behavioral self-regulation as a means of facilitating school readiness.
+C1 [Tominey, Shauna L.; McClelland, Megan M.] Oregon State Univ, Dept Human Dev & Family Sci, Corvallis, OR 97331 USA.
+RP Tominey, SL (corresponding author), Oregon State Univ, Dept Human Dev & Family Sci, 322 Milam Hall, Corvallis, OR 97331 USA.
+EM tomineys@onid.orst.edu
+NR 69
+TC 122
+Z9 123
+U1 4
+U2 44
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1040-9289
+EI 1556-6935
+J9 EARLY EDUC DEV
+JI Early Educ. Dev.
+PY 2011
+VL 22
+IS 3
+BP 489
+EP 519
+AR PII 938296601
+DI 10.1080/10409289.2011.574258
+PG 31
+WC Education & Educational Research; Psychology, Educational; Psychology,
+   Developmental
+SC Education & Educational Research; Psychology
+GA 772ZA
+UT WOS:000291275600007
+DA 2020-08-05
+ER
+
+EF

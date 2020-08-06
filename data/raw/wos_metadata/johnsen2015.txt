@@ -1,0 +1,2314 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Lopes, RT
+   Goncalves, MM
+   Fassnacht, DB
+   Machado, PPP
+   Sousa, I
+AF Lopes, Rodrigo T.
+   Goncalves, Miguel M.
+   Fassnacht, Daniel B.
+   Machado, Paulo P. P.
+   Sousa, Ines
+TI Long-term effects of psychotherapy on moderate depression: A comparative
+   study of narrative therapy and cognitive-behavioral therapy
+SO JOURNAL OF AFFECTIVE DISORDERS
+LA English
+DT Article
+DE Unipolar depression; Psychological treatment of depression; Long-term
+   effects of psychological treatment; Empirically supported therapies
+   (ESTs); Narrative therapy; Cognitive-behavioral therapy
+ID RANDOMIZED CONTROLLED-TRIAL; EMPIRICALLY SUPPORTED THERAPIES;
+   TIME-LIMITED PSYCHOTHERAPY; MENTAL-HEALTH-TREATMENT; FOLLOW-UP; MAJOR
+   DEPRESSION; CLINICAL-SIGNIFICANCE; OUTCOME QUESTIONNAIRE; RECURRENT
+   DEPRESSION; INVENTORY-II
+AB Background: In a previous clinical controlled trial (Lopes et al., 2014), narrative therapy (NT) showed promising results in ameliorating depressive symptoms with comparable outcomes to cognitive-behavioral therapy (CBT) when patients completed treatment. This paper aims to assess depressive symptoms and interpersonal problems in this clinical sample at follow-up.
+   Methods: Using the Beck Depression Inventory-II and Outcome Questionnaire-45.2 Interpersonal Relations Scale, naturalistic prospective follow-up assessment was conducted at 21 and 31 months after the last treatment session.
+   Results: At follow-up, patients kept improving in terms of depressive symptoms and interpersonal problems. The odds that a patient maintained recovery from depressive symptoms at follow-up were five times higher than the odds that a patient maintained recovery from interpersonal problems. In the same way, the odds of a patient never recovering from interpersonal problems were five times higher than the odds of never recovering from depressive symptoms.
+   Limitations: The study did not control for the natural course of depression or treatment continuation.
+   Conclusions: For depressed patients with greater interpersonal disabilities, longer treatment plans and alternative continuation treatments should be considered. (C) 2014 Elsevier B.V. All rights reserved.
+C1 [Lopes, Rodrigo T.; Goncalves, Miguel M.; Machado, Paulo P. P.] Univ Minho, Sch Psychol, P-4710057 Braga, Portugal.
+   [Fassnacht, Daniel B.] James Cook Univ, Dept Psychol, Singapore, Singapore.
+   [Sousa, Ines] Univ Minho, Dept Math & Applicat, P-4710057 Braga, Portugal.
+RP Goncalves, MM (corresponding author), Univ Minho, Sch Psychol, P-4710057 Braga, Portugal.
+EM mgoncalves@psi.uminho.pt
+RI Fassnacht, Daniel B./H-5654-2019; Machado, Paulo PP/B-3358-2008; Sousa,
+   Ines/AAB-6046-2020; Goncalves, Miguel/D-6695-2012
+OI Fassnacht, Daniel B./0000-0001-6542-5008; Machado, Paulo
+   PP/0000-0003-4277-9203; Sousa, Ines/0000-0002-2712-1713; Goncalves,
+   Miguel/0000-0003-2575-7221; Teixeira Lopes, Rodrigo/0000-0002-6579-3043
+FU Portuguese Foundation for Science and Technology (FCT)Portuguese
+   Foundation for Science and Technology [PTDC/PSI-PCL/121525/2010,
+   SFRH/BD/47343/2008]
+FX The Portuguese Foundation for Science and Technology (FCT) supported
+   this article through the Research Project "Ambivalence and Unsuccessful
+   Psychotherapy" [PTDC/PSI-PCL/121525/2010], coordinated by M. Goncalves,
+   and through a doctoral grant to R. Lopes [SFRH/BD/47343/2008].The
+   funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+NR 89
+TC 11
+Z9 16
+U1 1
+U2 58
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0165-0327
+EI 1573-2517
+J9 J AFFECT DISORDERS
+JI J. Affect. Disord.
+PD OCT 1
+PY 2014
+VL 167
+BP 64
+EP 73
+DI 10.1016/j.jad.2014.05.042
+PG 10
+WC Clinical Neurology; Psychiatry
+SC Neurosciences & Neurology; Psychiatry
+GA AO4UA
+UT WOS:000341335700011
+PM 25082116
+OA Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Tovote, KA
+   Fleer, J
+   Snippe, E
+   Peeters, ACTM
+   Emmelkamp, PMG
+   Sanderman, R
+   Links, TP
+   Schroevers, MJ
+AF Tovote, K. Annika
+   Fleer, Joke
+   Snippe, Evelien
+   Peeters, Anita C. T. M.
+   Emmelkamp, Paul M. G.
+   Sanderman, Robbert
+   Links, Thera P.
+   Schroevers, Maya J.
+TI Individual Mindfulness-Based Cognitive Therapy and Cognitive Behavior
+   Therapy for Treating Depressive Symptoms in Patients With Diabetes:
+   Results of a Randomized Controlled Trial
+SO DIABETES CARE
+LA English
+DT Article
+ID PRIMARY-CARE PATIENTS; TREATMENT PREFERENCES; MENTAL-HEALTH;
+   METAANALYSIS; INTERVENTION; OUTPATIENTS; DISTRESS; MELLITUS; ANXIETY;
+   FUTURE
+AB OBJECTIVE
+   Depression is a common comorbidity of diabetes, undesirably affecting patients' physical and mental functioning. Psychological interventions are effective treatments for depression in the general population as well as in patients with a chronic disease. The aim of this study was to assess the efficacy of individual mindfulness-based cognitive therapy (MBCT) and individual cognitive behavior therapy (CBT) in comparison with awaiting-list control condition for treating depressive symptoms in adults with type 1 or type 2 diabetes.
+   RESEARCH DESIGN AND METHODS
+   In this randomized controlled trial, 94 outpatients with diabetes and comorbid depressive symptoms (i.e., Beck Depression Inventory-II [ BDI-II] >= 14) were randomized to MBCT (n = 31), CBT (n = 32), or waiting list (n = 31). All participants completed written questionnaires and interviews at pre- and postmeasurement (3 months later). Primary outcome measure was severity of depressive symptoms (BDI-II and Toronto Hamilton Depression Rating Scale). Anxiety (Generalized Anxiety Disorder 7), well-being (Well-Being Index), diabetes-related distress (Problem Areas In Diabetes), and HbA(1c) levels were assessed as secondary outcomes.
+   RESULTS
+   Results showed that participants receiving MBCT and CBT reported significantly greater reductions in depressive symptoms compared with patients in the waiting-list control condition (respectively, P = 0.004 and P < 0.001; d = 0.80 and 1.00; clinically relevant improvement 26% and 29% vs. 4%). Both interventions also had significant positive effects on anxiety, well-being, and diabetes-related distress. No significant effect was found on HbA(1c) values.
+   CONCLUSIONS
+   Both individual MBCT and CBT are effective in improving a range of psychological symptoms in individuals with type 1 and type 2 diabetes.
+C1 [Tovote, K. Annika; Fleer, Joke; Snippe, Evelien; Sanderman, Robbert; Schroevers, Maya J.] Univ Groningen, Univ Med Ctr Groningen, Dept Hlth Psychol, Groningen, Netherlands.
+   [Peeters, Anita C. T. M.] Hosp Rivierenland Tiel, Dept Internal Med, Tiel, Netherlands.
+   [Emmelkamp, Paul M. G.] Univ Amsterdam, Dept Clin Psychol, NL-1018 WB Amsterdam, Netherlands.
+   [Emmelkamp, Paul M. G.] King Abdulaziz Univ, Ctr Social & Humanities Res, Jeddah 21413, Saudi Arabia.
+   [Sanderman, Robbert] Univ Twente, Dept Psychol Hlth & Technol, NL-7500 AE Enschede, Netherlands.
+   [Links, Thera P.] Univ Groningen, Univ Med Ctr Groningen, Dept Endocrinol, Groningen, Netherlands.
+RP Schroevers, MJ (corresponding author), Univ Groningen, Univ Med Ctr Groningen, Dept Hlth Psychol, Groningen, Netherlands.
+EM m.j.schroevers@umcg.nl
+RI , paulemmelkamp/G-3274-2011
+OI , paulemmelkamp/0000-0001-6066-5512
+FU University of Groningen
+FX This study was financed by the University of Groningen.
+NR 40
+TC 68
+Z9 72
+U1 2
+U2 83
+PU AMER DIABETES ASSOC
+PI ALEXANDRIA
+PA 1701 N BEAUREGARD ST, ALEXANDRIA, VA 22311-1717 USA
+SN 0149-5992
+EI 1935-5548
+J9 DIABETES CARE
+JI Diabetes Care
+PD SEP
+PY 2014
+VL 37
+IS 9
+BP 2427
+EP 2434
+DI 10.2337/dc13-2918
+PG 8
+WC Endocrinology & Metabolism
+SC Endocrinology & Metabolism
+GA AN8HX
+UT WOS:000340846300014
+PM 24898301
+OA Bronze
+DA 2020-08-05
+ER
+
+PT J
+AU Wagner, B
+   Horn, AB
+   Maercker, A
+AF Wagner, Birgit
+   Horn, Andrea B.
+   Maercker, Andreas
+TI Internet-based versus face-to-face cognitive-behavioral intervention for
+   depression: A randomized controlled non-inferiority trial
+SO JOURNAL OF AFFECTIVE DISORDERS
+LA English
+DT Article
+DE Depression; Internet; Face-to-face; CBT
+ID PSYCHOLOGICAL TREATMENTS; OVERCOMING DEPRESSION; WORKING ALLIANCE;
+   SELF-HELP; THERAPY; PSYCHOTHERAPY; PREVALENCE; STRESS; ODIN
+AB Background and aims: In the past decade, a large body of research has demonstrated that intemet-based interventions can have beneficial effects on depression. However, only a few clinical trials have compared internet-based depression therapy with an equivalent Face-to-lace treatment. The primary aim of this study was to compare treatment outcomes of an intemet-based intervention with a face-to-face intervention for depression in a randomized non-inferiority trial.
+   Method: A total of 62 participants suffering from depression were randomly assigned to the therapist-supported intemet-based intervention group (n=32) and to the face-to-face intervention (n=30). The 8 week interventions were based on cognitive-behavioral therapy principles. Patients in both groups received the same treatment modules in the same chronological order and time-frame. Primary outcome measure was the Beck Depression inventory-II (BDI-II); secondary outcome variables were suicidal ideation, anxiety, hopelessness and automatic thoughts.
+   Results: The intention-to-treat analysis yielded no significant between-group difference (online vs face-to-face group) for any of the pre- to post-treatment measurements. At post-treatment both treatment conditions revealed significant symptom changes compared to before the intervention. Within group effect sizes for depression in the online group (d=1.27) and the face-to-face group (d=1.37) can be considered large. At 3-month follow-up, results in the online group remained stable. In contrast to this, participants in the face-to-face group showed significantly worsened depressive symptoms three months after termination of treatment (t=-2.05, df = 19, p < .05).
+   Limitations: Due to the small sample size, it will be important to evaluate these outcomes in adequately-powered trials.
+   Conclusions: This study shows that an intemet-based intervention for depression is equally beneficial to regular face-to-face therapy. However, more long term efficacy, indicated by continued symptom reduction three months after treatment, could be only be found for the online group. (C) 2013 Elsevier B.V. All rights reserved.
+C1 [Wagner, Birgit] Univ Leipzig, Dept Psychosomat Med & Psychotherapy, D-04103 Leipzig, Germany.
+   [Horn, Andrea B.; Maercker, Andreas] Univ Zurich, Dept Psychol, CH-8050 Zurich, Switzerland.
+RP Wagner, B (corresponding author), Univ Leipzig, Dept Psychosomat Med & Psychotherapy, Semmelweisstr 10, D-04103 Leipzig, Germany.
+EM birgit.wagner@medizin.uni-leipzig.de
+OI Horn, Andrea B./0000-0003-2729-7062
+FU Selo Foundation, Switzerland
+FX This research was supported by the Selo Foundation, Switzerland.
+NR 50
+TC 103
+Z9 105
+U1 1
+U2 52
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0165-0327
+EI 1573-2517
+J9 J AFFECT DISORDERS
+JI J. Affect. Disord.
+PD JAN
+PY 2014
+VL 152
+BP 113
+EP 121
+DI 10.1016/j.jad.2013.06.032
+PG 9
+WC Clinical Neurology; Psychiatry
+SC Neurosciences & Neurology; Psychiatry
+GA 262UP
+UT WOS:000327763600015
+PM 23886401
+DA 2020-08-05
+ER
+
+PT J
+AU Ammerman, RT
+   Putnam, FW
+   Altaye, M
+   Stevens, J
+   Teeters, AR
+   Van Ginkel, JB
+AF Ammerman, Robert T.
+   Putnam, Frank W.
+   Altaye, Mekibib
+   Stevens, Jack
+   Teeters, Angelique R.
+   Van Ginkel, Judith B.
+TI A Clinical Trial of In-Home CBT for Depressed Mothers in Home Visitation
+SO BEHAVIOR THERAPY
+LA English
+DT Article
+DE home visitation; maternal depression; cognitive behavioral therapy;
+   adapted treatment
+ID PREVENT CHILD-ABUSE; POSTPARTUM DEPRESSION; POSTNATAL DEPRESSION;
+   MATERNAL DEPRESSION; TREATING DEPRESSION; VISITING PROGRAM;
+   MENTAL-HEALTH; SCALE; PSYCHOTHERAPY; FAMILIES
+AB Despite negative outcomes for depressed mothers and their children, no treatment specifically designed to address maternal depression in the context of home visitation has emerged. Ea-Home Cognitive Behavioral Therapy (IH-CBT) is an adapted treatment that is delivered in the home, focuses on the needs of new mothers, and leverages ongoing home visiting to optimize engagement and outcomes. This study examined the efficacy of IH-CBT using a randomized clinical trial. Subjects were 93 new mothers in a home visiting program. Mothers with major depressive disorder identified at 3 months postpartum were randomized into IH-CBT and ongoing home visitation (n=47) or standard home visitation (SHV; n=46) in which they received home visitation alone and could obtain treatment in the community. Depression was measured at pre- and posttreatment, and 3-month follow-up using interviews, clinician ratings, and self-report. Mothers receiving IH-CBT showed improvements in all indicators of depression relative to the SHY condition and these gains were maintained at follow-up. For example, 70.7% of mothers receiving IH-CBT were no longer depressed at posttreatment in terms of meeting criteria for major depressive disorder compared to 30.2% in the SHV group. These findings suggest that IH-CBT is an efficacious treatment for depressed mothers in home visitation programs.
+C1 [Ammerman, Robert T.; Putnam, Frank W.; Altaye, Mekibib; Teeters, Angelique R.; Van Ginkel, Judith B.] Univ Cincinnati, Coll Med, Cincinnati Childrens Hosp Med Ctr, Cincinnati, OH 45221 USA.
+   [Putnam, Frank W.] Univ N Carolina, Sch Med, Chapel Hill, NC 27515 USA.
+   [Stevens, Jack] Ohio State Univ, Coll Med, Nationwide Childrens Hosp, Columbus, OH 43210 USA.
+RP Ammerman, RT (corresponding author), Cincinnati Childrens Hosp Med Ctr, 3333 Burnet Ave,ML3015, Cincinnati, OH 45229 USA.
+EM robert.ammerman@cchmc.org
+RI Altaye, Mekibib/N-5274-2015
+FU NCATS NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Center for Advancing
+   Translational Sciences (NCATS) [UL1 TR000077]; NIMH NIH HHSUnited States
+   Department of Health & Human ServicesNational Institutes of Health (NIH)
+   - USANIH National Institute of Mental Health (NIMH) [R34 MH073867,
+   R34MH073867]
+NR 46
+TC 51
+Z9 51
+U1 1
+U2 29
+PU ASSOC ADV BEHAVIOR THERAPY
+PI NEW YORK
+PA 305 7TH AVE #16A, NEW YORK, NY 10001-6008 USA
+SN 0005-7894
+J9 BEHAV THER
+JI Behav. Therapy
+PD SEP
+PY 2013
+VL 44
+IS 3
+BP 359
+EP 372
+DI 10.1016/j.beth.2013.01.002
+PG 14
+WC Psychology, Clinical; Psychiatry
+SC Psychology; Psychiatry
+GA 176PR
+UT WOS:000321317100003
+PM 23768664
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Gibbons, C
+   Stirman, SW
+   DeRubeis, RJ
+   Newman, CF
+   Beck, AT
+AF Gibbons, Carly R.
+   Stirman, Shannon Wiltsey
+   DeRubeis, Robert J.
+   Newman, Cory F.
+   Beck, Aaron T.
+TI Research Setting Versus Clinic Setting: Which Produces Better Outcomes
+   in Cognitive Therapy for Depression?
+SO COGNITIVE THERAPY AND RESEARCH
+LA English
+DT Article
+DE Cognitive therapy; Depression; Effectiveness
+ID PSYCHOTHERAPY-RESEARCH; BEHAVIOR THERAPY; METAANALYSIS; DISORDERS; CARE;
+   PHARMACOTHERAPY; INVENTORY
+AB To compare the outcomes of cognitive therapy for depression under controlled and clinically representative conditions, while holding several therapist and clinical assessment factors constant. Treatment outcomes for a sample of 23 adults with a primary diagnosis of Major Depressive Disorder who received cognitive therapy in an outpatient clinic were compared with outcomes of 18 clients who were treated in the cognitive therapy condition of a large, multi-site randomized clinical trial of treatments for depression. All participants had been treated by one of two therapists who served as clinicians in both settings. Individuals in the two samples were diagnostically and demographically similar (approximately 50 % Female, 83 % White). A variety of client characteristics, assessed prior to treatment, as well as the outcomes of treatment, were examined. Significantly superior treatment outcomes were observed in the individuals treated in the research study, relative to clients in the outpatient clinic, and the difference was not accounted for by intake characteristics. Individuals treated by the therapists in the RCT experienced almost three times as much improvement in depressive symptoms as clients seen in the outpatient setting. If replicated, the findings suggest that differences exist between treatment outcomes in research and outpatient settings and that these differences may not simply be due to therapist experience and training, or differences in patient populations. Future research should further examine the impact of fidelity monitoring, treatment expectation and motivation, and the duration and timing of treatment protocols on clinical outcomes.
+C1 [Stirman, Shannon Wiltsey] VA Boston Healthcare Syst, Natl Ctr PTSD, Boston, MA USA.
+   [Stirman, Shannon Wiltsey] Boston Univ, Boston, MA 02215 USA.
+   [DeRubeis, Robert J.; Newman, Cory F.; Beck, Aaron T.] Univ Penn, Philadelphia, PA 19104 USA.
+RP Stirman, SW (corresponding author), VA Boston Healthcare Syst, Natl Ctr PTSD, Boston, MA USA.
+EM sws@bu.edu
+OI DeRubeis, Robert/0000-0003-3129-0277; Wiltsey Stirman,
+   Shannon/0000-0001-9917-5078
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [R00 MH080100, R10 MH055875, R25 MH080916, R37 MH047383]
+NR 30
+TC 6
+Z9 6
+U1 0
+U2 29
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0147-5916
+J9 COGNITIVE THER RES
+JI Cogn. Ther. Res.
+PD JUN
+PY 2013
+VL 37
+IS 3
+BP 605
+EP 612
+DI 10.1007/s10608-012-9499-7
+PG 8
+WC Psychology, Clinical
+SC Psychology
+GA 142SI
+UT WOS:000318817000020
+PM 23710102
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Kohler, S
+   Hoffmann, S
+   Unger, T
+   Steinacher, B
+   Dierstein, N
+   Fydrich, T
+AF Koehler, Stephan
+   Hoffmann, Sabine
+   Unger, Theresa
+   Steinacher, Bruno
+   Dierstein, Nicholas
+   Fydrich, Thomas
+TI Effectiveness of Cognitive-Behavioural Therapy Plus Pharmacotherapy in
+   Inpatient Treatment of Depressive Disorders
+SO CLINICAL PSYCHOLOGY & PSYCHOTHERAPY
+LA English
+DT Article
+DE Acute Depression; CognitiveBehavioural Therapy; Combination Treatment;
+   Inpatient Treatment
+ID STAR-ASTERISK-D; UNIPOLAR DEPRESSION; CLINICAL-PRACTICE; MAJOR
+   DEPRESSION; PRIMARY-CARE; PSYCHOTHERAPY; METAANALYSIS; MEDICATION;
+   TRIAL; COMBINATION
+AB Background Meta-analyses show benefits for patients from a combination of medication and cognitivebehavioural psychotherapy. However, it is still unclear whether or not additional cognitivebehavioural therapy (CBT) also produces a better treatment outcome in a naturalistic psychiatric setting. Methods Two-hundred six consecutively registered acute psychiatric inpatients with a unipolar depressive disorder were treated with additional CBT. This combined therapy was then compared with psychiatric primary care in an inpatient setting (clinical management). In addition to pharmacological treatment, 105 of the 206 patients also received symptom-focused CBT after hospitalization. Seventeen-item Hamilton Rating Scale for Depression (HAMD, primary outcome criterion), Beck Depression Inventory (BDI), Dysfunctional Attitude Scale, Clinical Global Impression Scale and the Global Assessment of Functioning were performed with all patients. Results Patients who were treated with additional CBT revealed a considerably greater reduction of depressive symptoms than in patients who received inpatient primary care only (HAMD: 22.21 versus 19.86, p=0.027; BDI: 14.99 versus 11.36, p=0.031). Moreover, remission rates were significantly higher (HAMD: 72% to 51%, p=0.045; BDI: 58.8% versus 43.1%, p=0.044) in the combined treatment group than in the primary care only group. Limitation The naturalistic design and the inconsistent pharmacological treatment are design flaws. Conclusion The results show that additional cognitivebehavioural treatment of depressive disorders notably improves outcome over standard procedure in acute psychiatric treatment. Copyright (c) 2011 John Wiley & Sons, Ltd. Key Practitioner Message There is a need for treatment strategies to accompany medication. In the Sequenced Treatment Alternatives to Relieve Depression trial (STAR*D), only 33% of the patients reached remission criteria after the first antidepressant treatment step and only 50% after the second step. The strict inclusion criteria of randomized controlled trials often render their patient populations unrepresented. For an accurate view of treatment effectiveness, their results need to be complemented with results gained from trials in clinical practice. Additional cognitivebehavioural treatment notably improves treatment outcomes compared with standard treatments in the acute psychiatric treatment of depressive disorders. The results of this study under naturalistic conditions are an important addition to findings from randomized and controlled studies.
+C1 [Koehler, Stephan; Dierstein, Nicholas] Charite, Dept Psychiat, D-10117 Berlin, Germany.
+   [Hoffmann, Sabine; Unger, Theresa; Steinacher, Bruno] Kliniken Theodor Wenzel Werk, Dept Psychiat & Psychotherapy, Berlin, Germany.
+   [Fydrich, Thomas] Humboldt Univ, Dept Psychol, D-10099 Berlin, Germany.
+RP Kohler, S (corresponding author), Charite, Dept Psychiat & Psychotherapy, Campus Mitte,Charitepl 1, D-10117 Berlin, Germany.
+EM stephan.koehler@charite.de
+NR 40
+TC 19
+Z9 20
+U1 1
+U2 47
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1063-3995
+J9 CLIN PSYCHOL PSYCHOT
+JI Clin. Psychol. Psychother.
+PD MAR-APR
+PY 2013
+VL 20
+IS 2
+BP 97
+EP 106
+DI 10.1002/cpp.795
+PG 10
+WC Psychology, Clinical
+SC Psychology
+GA 118HP
+UT WOS:000317016600001
+PM 22095701
+DA 2020-08-05
+ER
+
+PT J
+AU Puig, FJE
+   Encinas, FJL
+AF Estupina Puig, Francisco Jose
+   Labrador Encinas, Francisco Javier
+TI Effectiveness of Cognitive-Behavioral Treatment for Major Depressive
+   Disorder in a University Psychology Clinic
+SO SPANISH JOURNAL OF PSYCHOLOGY
+LA English
+DT Article
+DE depression; effectiveness; cognitive behavioral treatment; clinical
+   context
+ID PSYCHOTHERAPY EFFICACY; THERAPY; GENERALIZE
+AB Major Depressive Disorder (MDD) is the most prevalent mental disorder in our environment, and one of the main causes of disability. While several empirically supported treatments (ESTs) for MDD exist, some doubts have been cast on the applicability-in time, components, and effectiveness-of these ESTs in routine clinical practice. A few attempts have been made to contrast the effectiveness of ESTs, but usually the precise components of the treatment developed are not considered in detail. The purpose of this study is to analyze the components of an EST-based treatment on a sample of 69 MDD cases from a University Psychology Clinic, and to benchmark them against the results of published efficacy studies on ESTs (behavioral activation, cognitive therapy, interpersonal therapy). Results show that treatments delivered at this clinical facility are similar in components, length, and effectiveness (in effect size, completers and improved ratio) to the benchmarked studies. Cognitive restructuring is the most frequent component of the delivered treatments. Therapy results show a 3.12 effect size, and a 55.1% improved ratio over initial sample, an 80% of completers. Results and limitations of the current study, especially those related to sample and center characteristics, are discussed.
+C1 [Estupina Puig, Francisco Jose; Labrador Encinas, Francisco Javier] Univ Complutense, Madrid, Spain.
+RP Puig, FJE (corresponding author), Clin Univ Psicol, Edificio Caracolas,Campus Somosaguas S-N, Pozuelo De Alarcon Madri 28223, Spain.
+EM fjepuig@pas.ucm.es
+RI Puig, Francisco J. Estupina/E-8137-2016
+OI Puig, Francisco J. Estupina/0000-0001-9941-0365
+NR 49
+TC 3
+Z9 3
+U1 0
+U2 12
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 1138-7416
+EI 1988-2904
+J9 SPAN J PSYCHOL
+JI Span. J. Psychol.
+PD NOV
+PY 2012
+VL 15
+IS 3
+BP 1388
+EP 1399
+DI 10.5209/rev_SJOP.2012.v15.n3.39423
+PG 12
+WC Psychology; Psychology, Multidisciplinary
+SC Psychology
+GA 055SO
+UT WOS:000312437600045
+PM 23156941
+DA 2020-08-05
+ER
+
+PT J
+AU Power, MJ
+   Freeman, C
+AF Power, Michael J.
+   Freeman, C.
+TI A Randomized Controlled Trial of IPT Versus CBT in Primary Care: With
+   Some Cautionary Notes About Handling Missing Values in Clinical Trials
+SO CLINICAL PSYCHOLOGY & PSYCHOTHERAPY
+LA English
+DT Article
+DE Cognitive Behaviour Therapy; Interpersonal Psychotherapy; Depression;
+   Primary Care; RCT
+ID DEPRESSION; PSYCHOTHERAPY; METAANALYSIS; SCALE
+AB A randomized controlled trial is reported in which three treatments were compared for the management of depression in Primary Care. The treatments were Treatment As Usual (TAU) carried out by the General Practitioners, Cognitive-Behaviour Therapy (CBT) or Interpersonal Psychotherapy (IPT). Measurements of depressive symptomatology were taken at Baseline (Time1), at end of treatment (Time2), and at 5-month follow-up (Time3). An initial analysis of the longitudinal data revealed that there were a significant number of missing values, especially in the Time3 follow-up for the TAU group. That is, the missing data were not missing at random within the dataset, which is one of the considerations for usual procedures for replacement of missing values (RMV). The paper presents, therefore, the outcome of different approaches to RMV and their consequences for conclusions about the relative efficacy of the treatment conditions. The results showed that clients in all conditions improved significantly, with at least some analyses showing superiority of IPT and CBT at end of treatment Time 2. However, by the follow-up clients in all conditions performed equally well. Copyright (C) 2012 John Wiley & Sons, Ltd.
+C1 [Power, Michael J.; Freeman, C.] Univ Edinburgh, Sch Med, Edinburgh EH8 9AG, Midlothian, Scotland.
+RP Power, MJ (corresponding author), Univ Edinburgh, Sch Med, Teviot Pl, Edinburgh EH8 9AG, Midlothian, Scotland.
+EM mjpower@staffmail.ed.ac.uk
+OI Power, Michael/0000-0001-9481-9225
+NR 24
+TC 12
+Z9 12
+U1 0
+U2 15
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1063-3995
+EI 1099-0879
+J9 CLIN PSYCHOL PSYCHOT
+JI Clin. Psychol. Psychother.
+PD MAR-APR
+PY 2012
+VL 19
+IS 2
+SI SI
+BP 159
+EP 169
+DI 10.1002/cpp.1781
+PG 11
+WC Psychology, Clinical
+SC Psychology
+GA 918GF
+UT WOS:000302236600009
+PM 22337508
+DA 2020-08-05
+ER
+
+PT J
+AU Dobkin, RD
+   Menza, M
+   Allen, LA
+   Gara, MA
+   Mark, MH
+   Tiu, J
+   Bienfait, KL
+   Friedman, J
+AF Dobkin, Roseanne D.
+   Menza, Matthew
+   Allen, Lesley A.
+   Gara, Michael A.
+   Mark, Margery H.
+   Tiu, Jade
+   Bienfait, Karina L.
+   Friedman, Jill
+TI Cognitive-Behavioral Therapy for Depression in Parkinson's Disease: A
+   Randomized, Controlled Trial
+SO AMERICAN JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+ID DOUBLE-BLIND; DIAGNOSTIC-CRITERIA; PSYCHOTHERAPY; SYMPTOMS; ANXIETY
+AB Objective: Despite the negative effects of depression in Parkinson's disease, there is currently no evidence-based standard of care. The purpose of this study was to examine the efficacy of individually administered cognitive-behavioral therapy (CBT), relative to clinical monitoring (with no new treatment), for depression in this medical population.
+   Method: Eighty depressed (based on DSM-IV criteria) patients with Parkinson's disease participated in a randomized, controlled trial of CBT relative to clinical monitoring (1: 1 ratio) in an academic medical center from April 2007 to July 2010. All patients continued to maintain stable medication regimens under the care of their personal physicians. The 17-item Hamilton Depression Rating Scale (HAM-D) total score was the primary outcome. CBT was modified to meet the unique needs of the Parkinson's disease population and provided for 10 weeks. Assessments were completed by blind raters at baseline and 5 (midpoint), 10 (end of treatment), and 14 weeks (follow-up evaluation) postrandomization.
+   Results: The CBT group reported greater reductions in depression (change in HAM-D score) than the clinical monitoring group. At week 10, the mean HAM-D score change was 7.35 for CBT relative to 0.05 for clinical monitoring. CBT was also superior to clinical monitoring on several secondary outcomes (i.e., Beck Depression Inventory scores, anxiety, quality of life, coping, Parkinson's disease symptom ratings). There were more treatment responders in the CBT group than the clinical monitoring group (56% versus 8%, respectively).
+   Conclusions: CBT may be a viable approach for the treatment of depression in Parkinson's disease. Further research is needed to replicate and extend these findings.
+C1 [Dobkin, Roseanne D.] Univ Med & Dent New Jersey, Robert Wood Johnson Med Sch, Dept Psychiat, Piscataway, NJ 08854 USA.
+   Univ Med & Dent New Jersey, Robert Wood Johnson Med Sch, Dept Neurol, Piscataway, NJ 08854 USA.
+   Merck & Co Inc, Whitehouse Stn, NJ USA.
+RP Dobkin, RD (corresponding author), Univ Med & Dent New Jersey, Robert Wood Johnson Med Sch, Dept Psychiat, Piscataway, NJ 08854 USA.
+EM dobkinro@umdnj.edu
+OI Dobkin, Roseanne/0000-0002-2535-5495
+FU National Institutes of Health/National Institute of Neurological
+   Disorders and StrokeUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USANIH National Institute
+   of Neurological Disorders & Stroke (NINDS) [1 K23 NS052155-01A2];
+   AstraZenecaAstraZeneca; Boehringer IngelheimBoehringer Ingelheim;
+   Bristol-Myers SquibbBristol-Myers Squibb; Forest Laboratories;
+   GlaxoSmithKlineGlaxoSmithKline; LillyEli Lilly; PfizerPfizer;
+   Sanofi-AventisSanofi-Aventis; Sepracor; TakedaTakeda Pharmaceutical
+   Company Ltd; WyethWyeth; National Institute of Mental HealthUnited
+   States Department of Health & Human ServicesNational Institutes of
+   Health (NIH) - USANIH National Institute of Mental Health (NIMH);
+   Cephalon; Kyowa
+FX Dr. Dobkin has received research support from the National Institutes of
+   Health/National Institute of Neurological Disorders and Stroke. Dr.
+   Menza has received research support from AstraZeneca, Boehringer
+   Ingelheim, Bristol-Myers Squibb, Forest Laboratories, GlaxoSmithKline,
+   Lilly, the National Institutes of Health/National Institute of
+   Neurological Disorders and Stroke, Pfizer, Sanofi-Aventis, Sepracor,
+   Takeda, and Wyeth; he has served as a consultant to GlaxoSmithKline,
+   Kyowa, Lilly Research Laboratories, the National Institutes of
+   Health/National Institute of Neurological Disorders and Stroke, Pfizer,
+   Sepracor, and Takeda; and he has served as a speaker for Sanofi-Aventis.
+   Dr. Allen has received research support from the National Institute of
+   Mental Health and Sepracor. Dr. Gara has received research support from
+   the National Institute of Mental Health. Dr. Mark has received research
+   support from Cephalon, Kyowa, and the National Institutes of
+   Health/National Institute of Neurological Disorders and Stroke; and she
+   has served as a speaker for Allergan, Boehringer Ingelheim,
+   GlaxoSmithKline, and Valeant. Dr. Bienfait was a postdoctoral fellow at
+   the Robert Wood Johnson Medical School (2007-2009) while this study was
+   in progress; upon completion of her fellow ship, she accepted a position
+   with Merck, where she is currently employed. Ms. Tiu and Dr. Friedman
+   report no financial relationships with commercial interests.; Supported
+   by the National Institutes of Health/National Institute of Neurological
+   Disorders and Stroke grant 1 K23 NS052155-01A2 (Dr. Dobkin).
+NR 45
+TC 143
+Z9 149
+U1 0
+U2 32
+PU AMER PSYCHIATRIC PUBLISHING, INC
+PI WASHINGTON
+PA 800 MAINE AVE SW, SUITE 900, WASHINGTON, DC 20024 USA
+SN 0002-953X
+EI 1535-7228
+J9 AM J PSYCHIAT
+JI Am. J. Psychiat.
+PD OCT
+PY 2011
+VL 168
+IS 10
+BP 1066
+EP 1074
+DI 10.1176/appi.ajp.2011.10111669
+PG 9
+WC Psychiatry
+SC Psychiatry
+GA 828DL
+UT WOS:000295481200014
+PM 21676990
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Rieu, J
+   Bui, E
+   Rouch, V
+   Faure, K
+   Birmes, P
+   Schmitt, L
+AF Rieu, Julie
+   Bui, Eric
+   Rouch, Virginie
+   Faure, Karine
+   Birmes, Philippe
+   Schmitt, Laurent
+TI Efficacy of Ultrabrief Cognitive and Behavioural Therapy Performed by
+   Psychiatric Residents on Depressed Inpatients
+SO PSYCHOTHERAPY AND PSYCHOSOMATICS
+LA English
+DT Letter
+ID PSYCHOTHERAPY
+C1 [Rieu, Julie; Bui, Eric; Rouch, Virginie; Faure, Karine; Birmes, Philippe; Schmitt, Laurent] Univ Toulouse, UPS, Lab Stress Traumat JE 2511, FR-31059 Toulouse 9, France.
+RP Bui, E (corresponding author), Univ Toulouse, Hop Casselardit, UPS, Lab Stress Traumat LST JE 2511, 170 Ave Casselardit, FR-31059 Toulouse 9, France.
+EM bui.e@chu-toulouse.fr
+RI Bui, Eric/J-8347-2015
+OI Bui, Eric/0000-0002-1413-6473
+NR 19
+TC 5
+Z9 5
+U1 0
+U2 3
+PU KARGER
+PI BASEL
+PA ALLSCHWILERSTRASSE 10, CH-4009 BASEL, SWITZERLAND
+SN 0033-3190
+J9 PSYCHOTHER PSYCHOSOM
+JI Psychother. Psychosom.
+PY 2011
+VL 80
+IS 6
+BP 374
+EP 376
+DI 10.1159/000323406
+PG 3
+WC Psychiatry; Psychology
+SC Psychiatry; Psychology
+GA 836VT
+UT WOS:000296145500009
+PM 21968526
+DA 2020-08-05
+ER
+
+PT J
+AU Craigie, MA
+   Nathan, P
+AF Craigie, Mark A.
+   Nathan, Paula
+TI A Nonrandomized Effectiveness Comparison of Broad-Spectrum Group CBT to
+   Individual CBT for Depressed Outpatients in a Community Mental Health
+   Setting
+SO BEHAVIOR THERAPY
+LA English
+DT Article
+ID COGNITIVE-BEHAVIOR THERAPY; PSYCHODYNAMIC-INTERPERSONAL PSYCHOTHERAPY;
+   COLLABORATIVE RESEARCH-PROGRAM; GENERALIZED ANXIETY DISORDER; NATIONAL
+   COMORBIDITY SURVEY; QUALITY-OF-LIFE; CLINICAL-SIGNIFICANCE; PANIC
+   DISORDER; BENCHMARKING; METAANALYSIS
+AB Controlled trials have established the efficacy of cognitive-behavior therapy (CBT) for depression. However, the relative effectiveness of individual versus group treatment formats in real-world settings is less well established. The current study evaluated the effectiveness of group CBT (n = 157) compared to individual CBT (n = 77) for depressed outpatients in a naturalistic setting. Symptom improvements for depression, anxiety, and quality of life were compared between treatment formats in intent-to-treat and completer analyses. Effect sizes and rates of recovery were examined. Results showed that both individual and group CBT were effective, even in the presence of high levels of comorbidity. Whereas individual CBT was associated with larger effect sizes and significantly higher rates of recovery, group CBT compared favorably to outcomes established by past research. A broad-spectrum group CBT program may be a viable treatment option when depression symptoms are less severe and when this for-mat of treatment delivery is desirable.
+C1 [Craigie, Mark A.; Nathan, Paula] Ctr Clin Intervent, Perth, WA 6003, Australia.
+RP Craigie, MA (corresponding author), Ctr Clin Intervent, 223 James St Northbridge, Perth, WA 6003, Australia.
+EM markcraigie@bigpond.com.au
+NR 54
+TC 19
+Z9 20
+U1 0
+U2 18
+PU ASSOC ADV BEHAVIOR THERAPY
+PI NEW YORK
+PA 305 7TH AVE #16A, NEW YORK, NY 10001-6008 USA
+SN 0005-7894
+J9 BEHAV THER
+JI Behav. Therapy
+PD SEP
+PY 2009
+VL 40
+IS 3
+BP 302
+EP 314
+DI 10.1016/j.beth.2008.08.002
+PG 13
+WC Psychology, Clinical; Psychiatry
+SC Psychology; Psychiatry
+GA 497NF
+UT WOS:000270065800010
+PM 19647531
+DA 2020-08-05
+ER
+
+PT J
+AU Quilty, LC
+   McBride, C
+   Bagby, RM
+AF Quilty, L. C.
+   McBride, C.
+   Bagby, R. M.
+TI Evidence for the cognitive mediational model of cognitive behavioural
+   therapy for depression
+SO PSYCHOLOGICAL MEDICINE
+LA English
+DT Article
+DE Cognitive behavioural therapy; dysfunctional attitudes; interpersonal
+   therapy; mediation; treatment outcome
+ID DYSFUNCTIONAL ATTITUDE SCALE; MAJOR DEPRESSION; PHARMACOTHERAPY;
+   MODERATORS; MEDIATORS; RECOVERY; MOOD; PATTERNS; DISORDER; THINKING
+AB Background. Although empirical support for the efficacy of cognitive behavioural therapy (CBT) as a treatment for major depressive disorder (MDD) is well established, its mechanism of action is uncertain. In this investigation, we examined evidence for the cognitive mediational model in a randomized control trial involving CBT, interpersonal therapy (IPT) and pharmacotherapy (PHT) in patients with MDD.
+   Method. One hundred and thirty participants diagnosed with MDD were treated with CBT, IPT or PHT. Participants completed the Hamilton Depression Rating Scale, Beck Depression Inventory - II and Dysfunctional Attitudes Scale prior to and following treatment.
+   Results. The cognitive mediational model, in which dysfunctional attitudes are proposed to mediate depressive symptom reduction in response to treatment, provided a good fit to the data when contrasting CBT v. IPT, with results supporting a mediational role for dysfunctional attitude change in depressive symptom reduction. The complication model, in which dysfunctional attitudes are proposed to be a consequence of depressive symptom reduction, provided a good fit to the data when contrasting CBT v. PHT, with results supporting a mediational role for depressive symptom reduction in dysfunctional attitude change.
+   Conclusions. There was no evidence for a mediational role for dysfunctional attitude change in IPT. Changes in dysfunctional attitudes accompanied both CBT and PHT; however, empirical evidence suggests that the role of attitudes in treatment outcome may differ between these two treatments.
+C1 [Quilty, L. C.; McBride, C.; Bagby, R. M.] Univ Toronto, Dept Psychiat, Dept Clin Res, Ctr Addict & Mental Hlth, Toronto, ON M5T 1R8, Canada.
+RP Bagby, RM (corresponding author), Univ Toronto, Dept Psychiat, Dept Clin Res, Ctr Addict & Mental Hlth, 250 Coll St, Toronto, ON M5T 1R8, Canada.
+EM michael_bagby@camh.net
+FU Ontario Mental Health Foundation (OMHF); OMHF Senior Research
+   Fellowship; Canadian Institutes of Health Research Postdoctoral
+   FellowshipCanadian Institutes of Health Research (CIHR)
+FX This study was supported by an operating grant from the Ontario Mental
+   Health Foundation (OMHF) awarded to R. M. B. (principal investigator and
+   senior responsible author) and C.McB. (co-investigator), an OMHF Senior
+   Research Fellowship awarded to R. M. B, and a Canadian Institutes of
+   Health Research Postdoctoral Fellowship awarded to L.C.Q.
+NR 57
+TC 46
+Z9 47
+U1 2
+U2 30
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0033-2917
+EI 1469-8978
+J9 PSYCHOL MED
+JI Psychol. Med.
+PD NOV
+PY 2008
+VL 38
+IS 11
+BP 1531
+EP 1541
+DI 10.1017/S0033291708003772
+PG 11
+WC Psychology, Clinical; Psychiatry; Psychology
+SC Psychology; Psychiatry
+GA 368UQ
+UT WOS:000260648600002
+PM 18578895
+DA 2020-08-05
+ER
+
+PT J
+AU Laidlaw, K
+   Davidson, K
+   Toner, H
+   Jackson, G
+   Clark, S
+   Law, J
+   Howley, M
+   Bowie, G
+   Connery, H
+   Cross, S
+AF Laidlaw, Ken
+   Davidson, Kate
+   Toner, Hugh
+   Jackson, Graham
+   Clark, Stella
+   Law, Jim
+   Howley, Mary
+   Bowie, Gillian
+   Connery, Hazel
+   Cross, Susan
+TI A randomised controlled trial of cognitive behaviour therapy vs
+   treatment as usual in the treatment of mild to moderate late life
+   depression
+SO INTERNATIONAL JOURNAL OF GERIATRIC PSYCHIATRY
+LA English
+DT Article; Proceedings Paper
+CT 57th Annual Meeting of the Gerontological-Society-of-America
+CY NOV 19-23, 2004
+CL Washington, DC
+SP Gerontol Soc Amer
+DE late life depression; cognitive-behaviour therapy; randomised controlled
+   trial; psychotherapy outcome
+ID PREVALENCE RATES; METAANALYSIS
+AB Objectives This study provides an empirical evaluation of Cognitive Behaviour Therapy (CBT) alone vs Treatment as usual (TAU) alone (generally pharmacotherapy) for late life depression in a UK primary care setting.
+   Method General Practitioners in Fife and Glasgow referred 114 Participants to the study with 44 meeting inclusion criteria and 40 participants providing data that permitted analysis. All participants had a diagnosis of mild to moderate Major Depressive Episode. Participants were randomly allocated to receive either TAU alone or CBT alone.
+   Results Participants in both treatment conditions benefited from treatment with reduced scores on primary measures of mood at end of treatment and at 6 months follow-up from the end of treatment. When adjusting for differences in baseline scores, gender and living arrangements, CBT may be beneficial in levels of hopelessness at 6 months follow-up. When evaluating outcome in terms of numbers of participants meeting Research Diagnostic Criteria for depression, there were significant differences favouring the CBT condition at the end of treatment and at 3 months follow-up after treatment.
+   Conclusions CBT alone and TAU alone produced significant reductions in depressive symptoms at the end of treatment and at 6 months follow-up. CBT on its own is shown to be an effective treatment procedure for mild to moderate late life depression and has utility as a treatment alternative for older people who cannot or will not tolerate physical treatment approaches for depression. Copyright (C) 2008 John Wiley & Sons, Ltd.
+C1 [Laidlaw, Ken; Law, Jim; Bowie, Gillian] Univ Edinburgh, Sect Clin & Hlth Psychol, Edinburgh, Midlothian, Scotland.
+   [Davidson, Kate; Howley, Mary; Connery, Hazel] Univ Glasgow, Glasgow Inst Psychol Intervent, Glasgow, Lanark, Scotland.
+   [Jackson, Graham; Cross, Susan] Greater Glasgow Hlth Board, Dept Old Age Psychiat, Glasgow, Lanark, Scotland.
+RP Laidlaw, K (corresponding author), Univ Edinburgh, Sect Clin & Hlth Psychol, Edinburgh, Midlothian, Scotland.
+EM klaidlaw@ed.ac.uk
+FU Chief Scientist Office [K/OPR/2/2/D367]
+NR 42
+TC 67
+Z9 68
+U1 0
+U2 47
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0885-6230
+EI 1099-1166
+J9 INT J GERIATR PSYCH
+JI Int. J. Geriatr. Psychiatr.
+PD AUG
+PY 2008
+VL 23
+IS 8
+BP 843
+EP 850
+DI 10.1002/gps.1993
+PG 8
+WC Geriatrics & Gerontology; Gerontology; Psychiatry
+SC Geriatrics & Gerontology; Psychiatry
+GA 337IC
+UT WOS:000258427800011
+PM 18311844
+DA 2020-08-05
+ER
+
+PT J
+AU David, D
+   Szentagotai, A
+   Lupu, V
+   Cosman, D
+AF David, Daniel
+   Szentagotai, Aurora
+   Lupu, Viorel
+   Cosman, Doina
+TI Rational Emotive Behavior Therapy, Cognitive Therapy, and Medication in
+   the Treatment of Major Depressive Disorder: A Randomized Clinical Trial,
+   Posttreatment Outcomes, and Six-Month Follow-Up
+SO JOURNAL OF CLINICAL PSYCHOLOGY
+LA English
+DT Article; Proceedings Paper
+CT 35th Annual Congress of the
+   European-Association-of-Behavioural-and-Cognitive-Therapies
+CY SEP, 2005
+CL Thessaloniki, GREECE
+SP European Assoc Behav & Cognit Therapies
+DE major depressive disorder; rational emotive behavior therapy; cognitive
+   therapy; selective serotonin reuptake inhibitors; efficacy/outcome study
+ID MENTAL-HEALTH-TREATMENT; IRRATIONAL BELIEFS; EFFICACY; PHARMACOTHERAPY;
+   DISTRESS; MODERATE; ELEMENT
+AB A randomized clinical trial was undertaken to investigate the relative efficacy of rational-emotive behavior therapy (REBT), cognitive therapy (CT), and pharmacotherapy in the treatment of 170 outpatients with nonpsychotic major depressive disorder. The patients were randomly assigned to one of the following: 14 weeks of REBT, 14 weeks of CT, or 14 weeks of pharmacotherapy (fluoxetine). The outcome measures used were the Hamilton Rating Scale for Depression and the Beck Depression Inventory. No differences among treatment conditions at posttest were observed. A larger effect of REBT (significant) and CT (nonsignificant) over pharmacotherapy at 6 months follow-up was noted on the Hamilton Rating Scale for Depression only. (C) 2008 Wiley Periodicals, Inc.
+C1 [David, Daniel; Szentagotai, Aurora] Univ Babes Bolyai, Dept Clin Psychol & Psychotherapy, Cluj Napoca 400015, Romania.
+   Iuliu Hatieganu Univ Med & Pharm, Cluj Napoca, Romania.
+RP David, D (corresponding author), Univ Babes Bolyai, Dept Clin Psychol & Psychotherapy, 37 Republicii St, Cluj Napoca 400015, Romania.
+EM daniel.david@mssm.edu
+RI Szentagotai Tatar, Aurora/C-4045-2012; Cosman, Doina/L-9087-2013; David,
+   Daniel/N-1285-2014
+OI Cosman, Doina/0000-0001-7102-2432; 
+NR 57
+TC 70
+Z9 71
+U1 4
+U2 58
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0021-9762
+EI 1097-4679
+J9 J CLIN PSYCHOL
+JI J. Clin. Psychol.
+PD JUN
+PY 2008
+VL 64
+IS 6
+BP 728
+EP 746
+DI 10.1002/jclp.20487
+PG 19
+WC Psychology, Clinical
+SC Psychology
+GA 304EY
+UT WOS:000256094000005
+PM 18473339
+DA 2020-08-05
+ER
+
+PT J
+AU Constantino, MJ
+   Marnell, ME
+   Haile, AJ
+   Kanther-Sista, SN
+   Wolman, K
+   Zappert, L
+   Arnow, BA
+AF Constantino, Michael J.
+   Marnell, Margaret E.
+   Haile, Abigail J.
+   Kanther-Sista, Susanna N.
+   Wolman, Kari
+   Zappert, Laurel
+   Arnow, Bruce A.
+TI Integrative cognitive therapy for depression: A randomized pilot
+   comparison
+SO PSYCHOTHERAPY
+LA English
+DT Article
+DE integrative cognitive therapy (ICT); cognitive therapy (CT); depression;
+   randomized clinical trial
+ID EMPIRICALLY SUPPORTED THERAPIES; CLINICAL-SIGNIFICANCE; WORKING
+   ALLIANCE; PSYCHOTHERAPY; PHARMACOTHERAPY; METAANALYSIS; INVENTORY
+AB This pilot study examined the efficacy of an integrative fom of cognitive therapy (ICT) for depression that incorporates specific strategies for addressing alliance ruptures. Although a previous study on depression found that ICT was superior to a wait-list condition (L. G. Castonguay et al., 2004), the current study provides the 1st direct comparison between ICT and traditional cognitive therapy (CT). Twenty-two depressed adults were randomly assigned to ICT or CT (11 patients per condition), which were delivered by clinicians in training. Outcome was assessed with a specific depression measure and a global symptomatology measure. The groups were also compared on patient-perceived alliance quality and therapist empathy. Effect size estimates revealed that ICT patients evidenced greater posttreatment improvement on both outcome measures (with small to medium effects) and more clinically significant change than did CT patients. ICT patients also had higher alliance and empathy scores across treatment (with medium to large effects). The findings, albeit very preliminary, support the potential viability of ICT and the potential causal influence of the rupture-repair interventions on treatment process and outcome.
+C1 [Constantino, Michael J.] Univ Massachusetts, Dept Psychol, Amherst, MA 01003 USA.
+   [Marnell, Margaret E.; Arnow, Bruce A.] Stanford Univ, Med Ctr, Dept Psychiat & Behav Sci, Stanford, CA 94305 USA.
+   [Haile, Abigail J.; Kanther-Sista, Susanna N.; Wolman, Kari; Zappert, Laurel] Stanford PsyD Consortium, Pacific Grad Sch Psychol, Stanford, CA USA.
+RP Constantino, MJ (corresponding author), Univ Massachusetts, Dept Psychol, 612 Tobin Hall, Amherst, MA 01003 USA.
+EM mconstantino@psych.umass.edu
+NR 57
+TC 52
+Z9 52
+U1 0
+U2 11
+PU AMER PSYCHOLOGICAL ASSOC, DIV PSYCHOTHERAPY
+PI CORAL GABLES
+PA 1390 SOUTH DIXIE HIGHWAY, STE 2222, CORAL GABLES, FL 33146-2946 USA
+SN 0033-3204
+J9 PSYCHOTHERAPY
+JI Psychotherapy
+PD JUN
+PY 2008
+VL 45
+IS 2
+BP 122
+EP 134
+DI 10.1037/0033-3204.45.2.122
+PG 13
+WC Psychology, Clinical
+SC Psychology
+GA 313UT
+UT WOS:000256766200002
+PM 22122413
+DA 2020-08-05
+ER
+
+PT J
+AU Forman, EM
+   Herbert, JD
+   Moitra, E
+   Yeomans, PD
+   Geller, PA
+AF Forman, Evan M.
+   Herbert, James D.
+   Moitra, Ethan
+   Yeomans, Peter D.
+   Geller, Pamela A.
+TI A randomized controlled effectiveness trial of acceptance and commitment
+   therapy and cognitive therapy for anxiety and depression
+SO BEHAVIOR MODIFICATION
+LA English
+DT Article
+DE acceptance and commitment therapy; cognitive therapy; cognitive-behavior
+   therapy; psychotherapy outcome; mechanisms of action
+ID POSTTRAUMATIC-STRESS-DISORDER; SOCIAL PHOBIA; BEHAVIOR THERAPY; CHRONIC
+   PAIN; EXPERIENTIAL AVOIDANCE; EXPOSURE THERAPY; INVENTORY;
+   PSYCHOTHERAPY; MINDFULNESS; MEDIATION
+AB Acceptance and commitment therapy (ACT) has a small but growing database of support. One hundred and one heterogeneous outpatients reporting moderate to severe levels of anxiety or depression were randomly assigned to traditional cognitive therapy (CT) or to ACT. To maximize external validity, the authors utilized very minimal exclusion criteria. Participants receiving CT and ACT evidenced large, equivalent improvements in depression, anxiety, functioning, difficulties, quality of life, life satisfaction, and clinician-rated functioning. Whereas improvements were equivalent across the two groups, the mechanisms of action appeared to differ. Changes in "observing" and "describing" one's experiences appeared to mediate outcomes for the CT group relative to the ACT group, whereas "experiential avoidance," "acting with awareness," and "acceptance" mediated outcomes for the ACT group. Overall, the results suggest that ACT is a viable and disseminable treatment, the effectiveness of which appears equivalent to that of CT, even as its mechanisms appear to be distinct.
+C1 Drexel Univ, Clin Sci Program, Philadelphia, PA 19104 USA.
+RP Forman, EM (corresponding author), Drexel Univ, Clin Sci Program, Philadelphia, PA 19104 USA.
+EM evan.forman@drexel.edu
+RI Forman, Evan/I-1042-2012
+OI Forman, Evan/0000-0001-7233-1384
+NR 92
+TC 297
+Z9 301
+U1 6
+U2 144
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0145-4455
+EI 1552-4167
+J9 BEHAV MODIF
+JI Behav. Modificat.
+PD NOV
+PY 2007
+VL 31
+IS 6
+BP 772
+EP 799
+DI 10.1177/0145445507302202
+PG 28
+WC Psychology, Clinical
+SC Psychology
+GA 223NZ
+UT WOS:000250379100004
+PM 17932235
+DA 2020-08-05
+ER
+
+PT J
+AU Luty, SE
+   Carter, JD
+   McKenzie, JM
+   Rae, AM
+   Frampton, CMA
+   Mulder, RT
+   Joyce, PR
+AF Luty, Suzanne E.
+   Carter, Janet D.
+   McKenzie, Janice M.
+   Rae, Alma M.
+   Frampton, Christopher M. A.
+   Mulder, Roger T.
+   Joyce, Peter R.
+TI Randomised controlled trial of interpersonal psychotherapy and
+   cognitive-behavioural therapy for depression
+SO BRITISH JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+ID COLLABORATIVE RESEARCH-PROGRAM; MENTAL-HEALTH TREATMENT;
+   NATIONAL-INSTITUTE; RATING-SCALE; SEVERITY; MELANCHOLIA; ADHERENCE
+AB Background Interpersonal psychotherapy and cognitive-behavioural therapy (CBT) are established as effective treatments for major depression. Controversy remains regarding their effectiveness for severe and melancholic depression.
+   Aims To compare the efficacy of interpersonal psychotherapy and CBT in people receiving out-patient treatment for depression and to explore response in severe depression (Montgomery-Asberg Depression Rating Scale (MADRS) score above 30), and in melancholic depression.
+   Method Randomised clinical trial of 177 patients with a principal Axis 1 diagnosis of major depressive disorder receiving 16 weeks of therapy comprising 8-19 sessions. Primary outcome was improvement in MADRS score from baseline to end of treatment.
+   Results There was no difference between the two psychotherapies in the sample as a whole, but CBT was more effective than interpersonal psychotherapy in severe depression, and the response was comparable with that for mild and moder-ate depression. Melancholia did not predict poor response to either psychotherapy
+   Conclusions Both therapies are equally effective for depression but CBT may be preferred in severe depression.
+   Declaration of interest None.
+C1 Christchurch Sch Med & Hlth Sci, Dept Psychol Med, Christchurch, New Zealand.
+RP Luty, SE (corresponding author), Christchurch Sch Med & Hlth Sci, Dept Psychol Med, POB 4345, Christchurch, New Zealand.
+EM sue.luty@chmeds.ac.nz
+NR 33
+TC 95
+Z9 97
+U1 1
+U2 61
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 0007-1250
+EI 1472-1465
+J9 BRIT J PSYCHIAT
+JI Br. J. Psychiatry
+PD JUN
+PY 2007
+VL 190
+BP 496
+EP 502
+DI 10.1192/bjp.bp.106.024729
+PG 7
+WC Psychiatry
+SC Psychiatry
+GA 176BV
+UT WOS:000247058600008
+PM 17541109
+OA Bronze
+DA 2020-08-05
+ER
+
+PT J
+AU Dobkin, RD
+   Allen, LA
+   Menza, M
+AF Dobkin, Roseanne DeFronzo
+   Allen, Lesley A.
+   Menza, Matthew
+TI Cognitive-behavioral therapy for depression in Parkinson's disease: A
+   pilot study
+SO MOVEMENT DISORDERS
+LA English
+DT Article
+DE Parkinson's disease; depression; cognitive-behavioral therapy; caregiver
+   support
+ID LATE-LIFE DEPRESSION; QUALITY-OF-LIFE; PSYCHOTHERAPEUTIC INTERVENTIONS;
+   GERIATRIC DEPRESSION; OLDER-ADULTS; ANXIETY; METAANALYSIS; COMORBIDITY
+AB The present study was conducted to examine the feasibility and effect of an individual cognitive-behavioral treatment (CBT) for depression that was modified to meet the unique needs of the PD patient and incorporated a separate social support intervention for caregivers. Fifteen PD patients with Major Depressive Disorder participated in the study with a caregiver. Patients received 10-14 sessions of modified individual CBT. Caregivers attended 3-4 psychoeducational sessions, occurring separately from the patients treatment sessions, which focused on strategies for offering appropriate support, and ways to respond to the patients' negative thoughts in a targeted manner. Patients experienced a significant reduction in depressive symptoms and negative cognitions, and an increased perception of social support over the course of treatment. Gains were maintained at 1-month follow-up. Individual CBT, when modified appropriately, may be a feasible and effective option for PD depression. Larger, randomized controlled trials are needed to further evaluate the efficacy of this intervention and to identify specific mechanisms of change. (C) 2007 Movement Disorder Society.
+C1 Univ Med & Dent New Jersey, Robert Wood Johnson Med Sch, Dept Psychiat, Piscataway, NJ 08854 USA.
+   Univ Med & Dent New Jersey, Robert Wood Johnson Med Sch, Dept Neurol, Piscataway, NJ 08854 USA.
+RP Dobkin, RD (corresponding author), Univ Med & Dent New Jersey, Robert Wood Johnson Med Sch, Dept Psychiat, 675 Hoes Lane, Room D-317, Piscataway, NJ 08854 USA.
+EM dobkinro@umdnj.edu
+OI Dobkin, Roseanne/0000-0002-2535-5495
+NR 49
+TC 68
+Z9 68
+U1 0
+U2 14
+PU WILEY-LISS
+PI HOBOKEN
+PA DIV JOHN WILEY & SONS INC, 111 RIVER ST, HOBOKEN, NJ 07030 USA
+SN 0885-3185
+J9 MOVEMENT DISORD
+JI Mov. Disord.
+PD MAY 15
+PY 2007
+VL 22
+IS 7
+BP 946
+EP 952
+DI 10.1002/mds.21455
+PG 7
+WC Clinical Neurology
+SC Neurosciences & Neurology
+GA 174BU
+UT WOS:000246917000006
+PM 17377926
+DA 2020-08-05
+ER
+
+PT J
+AU McBride, C
+   Atkinson, L
+   Quilty, LC
+   Bagby, RM
+AF McBride, Carolina
+   Atkinson, Leslie
+   Quilty, Lena C.
+   Bagby, R. Michael
+TI Attachment as moderator of treatment outcome in major depression: A
+   randomized control trial of interpersonal psychotherapy versus cognitive
+   behavior therapy
+SO JOURNAL OF CONSULTING AND CLINICAL PSYCHOLOGY
+LA English
+DT Article
+DE attachment anxiety; attachment avoidance; treatment outcome;
+   interpersonal psychotherapy; cognitive behavioral therapy
+ID COLLABORATIVE RESEARCH-PROGRAM; DSM-III-R; MENTAL-HEALTH TREATMENT;
+   PERSONALITY-DISORDERS; NATIONAL-INSTITUTE; GOLD STANDARD; RATING-SCALE;
+   QUESTIONNAIRE; STABILITY; REMISSION
+AB Anxiety and avoidance dimensions of adult attachment insecurity were tested as moderators of treatment outcome for interpersonal psychotherapy (IPT) and cognitive- behavioral therapy (CBT). Fifty-six participants with major depression were randomly assigned to these treatment conditions. Beck Depression Inventory-If, Six-Item Hamilton Rating Scale for Depression scores, and remission status served as outcome measures. Patients higher on attachment avoidance showed significantly greater reduction in depression severity and greater likelihood of symptom remission with CBT as compared with IPT, even after controlling for obsessive-compulsive and avoidant personality disorder symptoms. Results were replicated across treatment completers and intent-to-treat samples. These results suggest that it is important to consider the interaction between attachment insecurity and treatment type when comparing efficacy of treatments.
+C1 Univ Toronto, Dept Psychiat, Ctr Addict & Mental Hlth, Toronto, ON M5T 1R8, Canada.
+   Univ Waterloo, Waterloo, ON N2L 3G1, Canada.
+RP McBride, C (corresponding author), Univ Toronto, Dept Psychiat, Ctr Addict & Mental Hlth, 250 Coll St, Toronto, ON M5T 1R8, Canada.
+EM Carolina_McBride@camh.net
+OI Atkinson, Leslie/0000-0003-1265-3298
+NR 46
+TC 102
+Z9 106
+U1 1
+U2 40
+PU AMER PSYCHOLOGICAL ASSOC/EDUCATIONAL PUBLISHING FOUNDATION
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-006X
+J9 J CONSULT CLIN PSYCH
+JI J. Consult. Clin. Psychol.
+PD DEC
+PY 2006
+VL 74
+IS 6
+BP 1041
+EP 1054
+DI 10.1037/0022-006X.74.6.1041
+PG 14
+WC Psychology, Clinical
+SC Psychology
+GA 113SL
+UT WOS:000242617500006
+PM 17154734
+DA 2020-08-05
+ER
+
+PT J
+AU Dimidjian, S
+   Hollon, SD
+   Dobson, KS
+   Schmaling, KB
+   Kohlenberg, RJ
+   Addis, ME
+   Gallop, R
+   McGlinchey, JB
+   Markley, DK
+   Gollan, JK
+   Atkins, DC
+   Dunner, DL
+   Jacobson, NS
+AF Dimidjian, Sona
+   Hollon, Steven D.
+   Dobson, Keith S.
+   Schmaling, Karen B.
+   Kohlenberg, Robert J.
+   Addis, Michael E.
+   Gallop, Robert
+   McGlinchey, Joseph B.
+   Markley, David K.
+   Gollan, Jackie K.
+   Atkins, David C.
+   Dunner, David L.
+   Jacobson, Neil S.
+TI Randomized trial of behavioral activation, cognitive therapy, and
+   antidepressant medication in the acute treatment of adults with major
+   depression
+SO JOURNAL OF CONSULTING AND CLINICAL PSYCHOLOGY
+LA English
+DT Article
+DE behavioral activation; cognitive therapy; antidepressant medication;
+   major depression
+ID MENTAL-HEALTH TREATMENT; NATIONAL-INSTITUTE; COMPONENT ANALYSIS;
+   EQUIVALENCE; SCALE; TESTS; POWER
+AB Antidepressant medication is considered the current standard for severe depression, and cognitive therapy is the most widely investigated psychosocial treatment for depression. However, not all patients want to take medication, and cognitive therapy has not demonstrated consistent efficacy across trials. Moreover, dismantling designs have suggested that behavioral components may account for the efficacy of cognitive therapy. The present study tested the efficacy of behavioral activation by comparing it with cognitive therapy and antidepressant medication in a randomized placebo-controlled design in adults with major depressive disorder (N = 241). In addition, it examined the importance of initial severity as a moderator of treatment outcome. Among more severely depressed patients, behavioral activation was comparable to antidepressant medication, and both significantly outperformed cognitive therapy. The implications of these findings for the evaluation of current treatment guidelines and dissemination are discussed.
+C1 Univ Washington, Dept Psychol, Seattle, WA 98195 USA.
+   Univ Calgary, Dept Psychol, Calgary, AB T2N 1N4, Canada.
+   Univ N Carolina, Coll Hlth & Human Serv, Charlotte, NC 28223 USA.
+   Clark Univ, Dept Psychol, Worcester, MA 01610 USA.
+   W Chester Univ, Dept Math & Appl Stat, W Chester, PA 19380 USA.
+   Brown Univ, Dept Psychiat & Human Behav, Providence, RI 02912 USA.
+   Univ Chicago, Dept Psychiat, Chicago, IL 60637 USA.
+   Univ Washington, Dept Psychiat & Behav Sci, Seattle, WA 98195 USA.
+RP Dimidjian, S (corresponding author), Univ Colorado, Dept Psychol, Boulder, CO 80309 USA.
+EM sona.dimidjian@colorado.edu
+RI Schmaling, Karen B/F-5217-2011
+OI Schmaling, Karen B/0000-0003-2085-134X; Dobson,
+   Keith/0000-0001-9542-0822; Atkins, David/0000-0002-5781-9880; Gollan,
+   Jacqueline/0000-0003-2315-4347
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [MH55502 R01]
+NR 47
+TC 828
+Z9 839
+U1 7
+U2 265
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-006X
+EI 1939-2117
+J9 J CONSULT CLIN PSYCH
+JI J. Consult. Clin. Psychol.
+PD AUG
+PY 2006
+VL 74
+IS 4
+BP 658
+EP 670
+DI 10.1037/0022-006X.74.4.658
+PG 13
+WC Psychology, Clinical
+SC Psychology
+GA 071NM
+UT WOS:000239608900003
+PM 16881773
+DA 2020-08-05
+ER
+
+PT J
+AU Persons, JB
+   Roberts, NA
+   Zalecki, CA
+   Brechwald, WAG
+AF Persons, Jacqueline B.
+   Roberts, Nicole A.
+   Zalecki, Christine A.
+   Brechwald, Whitney A. G.
+TI Naturalistic outcome of case formulation-driven cognitive-behavior
+   therapy for anxious depressed outpatients
+SO BEHAVIOUR RESEARCH AND THERAPY
+LA English
+DT Article; Proceedings Paper
+CT 38th Annual Meeting of the
+   Association-for-the-Advancement-of-Behavior-Therapy
+CY NOV, 2004
+CL New Orleans, LA
+SP Assoc Advancement Behav Therapy
+DE case formulation; empirically-supported therapies (ESTs); effectiveness;
+   comorbidity
+ID ANXIETY; EFFICACY; DISORDER
+AB This article describes a case formulation-driven approach to the treatment of anxious depressed outpatients and presents naturalistic outcome data evaluating its effectiveness. Fifty-eight patients who received case formulation-driven cognitive-behavior therapy (CBT) in a private practice setting were studied. All received individual CBT guided by a case formulation and weekly outcome monitoring; in addition, 40 patients received adjunct therapies, including pharmacotherapy, which were added as indicated by the case formulation and the results of weekly outcome monitoring. Patients treated with case formulation-driven CBT showed statistically and clinically significant changes in anxiety and depression that were generally comparable to those reported in published randomized controlled trials of empirically supported therapies (ESTs) for single mood and anxiety disorders. Findings support the proposal that anxious depressed patients who have multiple comorbidities and require multiple therapies can benefit from empirically supported treatments guided by a case formulation and weekly outcome monitoring. (c) 2005 Elsevier Ltd. All rights reserved.
+C1 Univ Calif, Dept Psychol, San Francisco Bay Area Ctr Cognit Therapy, Oakland, CA 94618 USA.
+   Univ Calif Berkeley, Dept Psychol, Berkeley, CA 94720 USA.
+RP Persons, JB (corresponding author), Univ Calif, Dept Psychol, San Francisco Bay Area Ctr Cognit Therapy, 5435 Coll Ave, Oakland, CA 94618 USA.
+EM jbp@sfbacct.com
+OI Grant, Misty/0000-0003-3641-6174
+NR 50
+TC 56
+Z9 57
+U1 2
+U2 19
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0005-7967
+EI 1873-622X
+J9 BEHAV RES THER
+JI Behav. Res. Ther.
+PD JUL
+PY 2006
+VL 44
+IS 7
+BP 1041
+EP 1051
+DI 10.1016/j.brat.2005.08.005
+PG 11
+WC Psychology, Clinical
+SC Psychology
+GA 062BE
+UT WOS:000238918500010
+PM 16209865
+DA 2020-08-05
+ER
+
+PT J
+AU Westbrook, D
+   Kirk, J
+AF Westbrook, D
+   Kirk, J
+TI The clinical effectiveness of cognitive behaviour therapy: outcome for a
+   large sample of adults treated in routine practice
+SO BEHAVIOUR RESEARCH AND THERAPY
+LA English
+DT Article
+DE cognitive therapy; treatment outcome; effectiveness; benchmarking;
+   evaluation studies
+ID COLLABORATIVE RESEARCH-PROGRAM; MENTAL-HEALTH TREATMENT; ANXIETY
+   DISORDERS; NORMATIVE COMPARISONS; NATIONAL-INSTITUTE; PANIC DISORDER;
+   DEPRESSION; PSYCHOTHERAPY; INVENTORY; ISSUES
+AB There is increasing interest in questions about how far the demonstrated efficacy of psychological therapies in research trials can be translated into clinical effectiveness in routine practice. This paper summarises outcome data from several hundred patients treated with CBT in routine clinical practice in a National Health Service psychology service, and compares their outcomes with some of the published research. Although the data have flaws common in ordinary clinical practice (no untreated controls, missing data, uncontrolled pharmacotherapy, etc.), the analyses suggest that CBT in this context is an effective treatment, albeit with probably not quite such good results as it achieves in research trials. Using clinical significance statistics on standardised measures, about half of the sample reliably improved over a course of therapy, including about a third who recovered to normal range. (c) 2004 Elsevier Ltd. All rights reserved.
+C1 Warneford Hosp, Adult Psychol Serv, Oxford OX3 7JX, England.
+RP Westbrook, D (corresponding author), Warneford Hosp, Adult Psychol Serv, Oxford OX3 7JX, England.
+EM david.westbrook@oxmhc-tr.nhs.uk
+NR 27
+TC 127
+Z9 132
+U1 0
+U2 31
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0005-7967
+J9 BEHAV RES THER
+JI Behav. Res. Ther.
+PD OCT
+PY 2005
+VL 43
+IS 10
+BP 1243
+EP 1261
+DI 10.1016/j.brat.2004.09.006
+PG 19
+WC Psychology, Clinical
+SC Psychology
+GA 971CT
+UT WOS:000232359500001
+PM 16086979
+DA 2020-08-05
+ER
+
+PT J
+AU Wright, JH
+   Wright, AS
+   Albano, AM
+   Basco, MR
+   Goldsmith, LJ
+   Raffield, T
+   Otto, MW
+AF Wright, JH
+   Wright, AS
+   Albano, AM
+   Basco, MR
+   Goldsmith, LJ
+   Raffield, T
+   Otto, MW
+TI Computer-assisted cognitive therapy for depression: Maintaining efficacy
+   while reducing therapist time
+SO AMERICAN JOURNAL OF PSYCHIATRY
+LA English
+DT Article; Proceedings Paper
+CT World Congress of Cognitive Therapy
+CY JUL 17-21, 2001
+CL Vancouver, CANADA
+ID PSYCHOTHERAPY; PROGRAM
+AB Objective: The aim of this investigation was to compare the efficacy of computer-assisted cognitive therapy against standard cognitive therapy and a control group without treatment for outpatients with nonpsychotic major depressive disorder.
+   Method: Medication-free participants (N = 45) with major depressive disorder were randomly assigned to cognitive therapy (N = 15), computer-assisted cognitive therapy (N = 15), or a wait list (N = 15). Both active treatments consisted of nine sessions over 8 weeks. Therapist time was reduced after the first visit for computer-assisted cognitive therapy, with 25-minute sessions rather than 50-minute sessions. Assessments were completed pretreatment, after 4 and 8 weeks of therapy, and 3 and 6 months posttreatment.
+   Results: Computer-assisted cognitive therapy and standard cognitive therapy were superior to the wait list control group for treatment of depression and did not differ from each other on the primary outcome variables. Very large between-group effect sizes were observed. Improvement in depression for both computer-assisted cognitive therapy and standard cognitive therapy was maintained at the 3- and 6-month follow-up evaluations. Computer-assisted cognitive therapy had more robust effects, relative to being wait-listed, than standard cognitive therapy in reducing measures of cognitive distortion and in improving knowledge about cognitive therapy.
+   Conclusions: A multimedia, computer-assisted form of cognitive therapy with reduced therapist contact was as efficacious as standard cognitive therapy. Computer-assisted therapy could decrease costs and improve access to cognitive therapy for depression.
+C1 Univ Louisville, Sch Med, Dept Psychiat & Behav Sci, Norton Psychiat Ctr, Louisville, KY 40232 USA.
+   Univ Wisconsin, Sch Med, Madison, WI USA.
+   NYU, Sch Med, New York, NY USA.
+   Univ Texas Dallas, Dallas, TX 75230 USA.
+   Massachusetts Gen Hosp, Boston, MA 02114 USA.
+   Harvard Univ, Sch Med, Boston, MA USA.
+RP Wright, JH (corresponding author), Univ Louisville, Sch Med, Dept Psychiat & Behav Sci, Norton Psychiat Ctr, POB 35070, Louisville, KY 40232 USA.
+EM jwright@iglou.com
+OI Otto, Michael/0000-0002-8915-7578
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [MH-57470, R01 MH082762]
+NR 31
+TC 168
+Z9 175
+U1 0
+U2 21
+PU AMER PSYCHIATRIC PUBLISHING, INC
+PI WASHINGTON
+PA 800 MAINE AVE SW, SUITE 900, WASHINGTON, DC 20024 USA
+SN 0002-953X
+EI 1535-7228
+J9 AM J PSYCHIAT
+JI Am. J. Psychiat.
+PD JUN
+PY 2005
+VL 162
+IS 6
+BP 1158
+EP 1164
+DI 10.1176/appi.ajp.162.6.1158
+PG 7
+WC Psychiatry
+SC Psychiatry
+GA 931SA
+UT WOS:000229504300018
+PM 15930065
+DA 2020-08-05
+ER
+
+PT J
+AU Hardy, GE
+   Cahill, J
+   Stiles, WB
+   Ispan, C
+   Macaskill, N
+   Barkham, M
+AF Hardy, GE
+   Cahill, J
+   Stiles, WB
+   Ispan, C
+   Macaskill, N
+   Barkham, M
+TI Sudden gains in cognitive therapy for depression: A replication and
+   extension
+SO JOURNAL OF CONSULTING AND CLINICAL PSYCHOLOGY
+LA English
+DT Article
+ID PSYCHOMETRIC PROPERTIES; PERSONALITY-DISORDERS; PSYCHOTHERAPY;
+   INVENTORY; SCALE
+AB Of 76 clients receiving 8-20 sessions of cognitive therapy (CT) in a joint university and a national health service clinic, 31 experienced sudden gains that appeared very similar to those first reported in clinical trials of CT by T. Z. Tang and R. J. DeRubeis (1999) and subsequently replicated in other studies. The sudden gains appeared less stable in the present study's more routine clinical practice settings than they were in the clinical trials. Life events did not appear to account for sudden gains.
+C1 Univ Sheffield, Dept Psychol, Clin Psychol Unit, Sheffield S10 2TN, S Yorkshire, England.
+   Univ Leeds, Psychol Therapies Res Ctr, Leeds, W Yorkshire, England.
+   Miami Univ, Dept Psychol, Oxford, OH 45056 USA.
+RP Hardy, GE (corresponding author), Univ Sheffield, Dept Psychol, Clin Psychol Unit, Sheffield S10 2TN, S Yorkshire, England.
+EM g.hardy@sheffield.ac.uk
+RI Barkham, Michael/A-2547-2010
+OI Barkham, Michael/0000-0003-1687-6376; Stiles,
+   William/0000-0001-7740-0609
+NR 35
+TC 90
+Z9 92
+U1 0
+U2 7
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-006X
+EI 1939-2117
+J9 J CONSULT CLIN PSYCH
+JI J. Consult. Clin. Psychol.
+PD FEB
+PY 2005
+VL 73
+IS 1
+BP 59
+EP 67
+DI 10.1037/0022-006X.73.1.59
+PG 9
+WC Psychology, Clinical
+SC Psychology
+GA 897JP
+UT WOS:000227000400007
+PM 15709832
+DA 2020-08-05
+ER
+
+PT J
+AU Misri, S
+   Reebye, P
+   Corral, M
+   Milis, L
+AF Misri, S
+   Reebye, P
+   Corral, M
+   Milis, L
+TI The use of paroxetine and cognitive-behavioral therapy in postpartum
+   depression and anxiety: A randomized controlled trial
+SO JOURNAL OF CLINICAL PSYCHIATRY
+LA English
+DT Article; Proceedings Paper
+CT 156th Annual Meeting of the American-Psychiatric-Association
+CY MAY 17-22, 2003
+CL SAN FRANCISCO, CA
+SP Amer Psychiat Assoc
+ID POSTNATAL DEPRESSION; INTERPERSONAL PSYCHOTHERAPY; WOMEN; MOOD;
+   DISORDERS; PREGNANCY; SCALE
+AB Background: Approximately 10% to 16% of women experience a major depressive episode after childbirth. A significant proportion of these women also suffer from comorbid anxiety disorders. The purpose of this study was to evaluate whether the addition of cognitive-behavioral therapy (CBT) to standard antidepressant therapy offers additional benefits in the treatment of Postpartum depression with comorbid anxiety disorders.
+   Method: Thirty-five women referred to a tertiary care hospital outpatient program with a DSM-IV diagnosis of postpartum depression with comorbid anxiety disorder were randomly assigned to 1 of 2 treatment groups-paroxetine-only monotherapy group (N = 16) or paroxetine plus 12 sessions of CBT combination therapy group (N = 19)-for a 12-week trial. Progress was monitored by a psychiatrist blinded to treatment group, using the Hamilton Rating Scale for Depression, Hamilton Rating Scale for Anxiety, Yale-Brown Obsessive Compulsive Scale, Clinical Global Impressions scale, and Edinburgh Postnatal Depression Scale. Data were analyzed using 2-tailed statistical tests at an alpha level of .05. The study was conducted from April 1, 2002, to June 30, 2003.
+   Results: Both treatment groups showed a highly significant improvement (p < .01) in mood and anxiety symptoms. Groups did not differ significantly in week of recovery, dose of paroxetine at remission, or measures of depression, anxiety, and obsessive-compulsive symptoms at outcome.
+   Conclusion: Antidepressant monotherapy and combination therapy with antidepressants and CBT were both efficacious in reducing depression and anxiety symptoms. However, in this sample of acutely depressed/anxious postpartum women, there were no additional benefits from combining the 2 treatment modalities. Further research into the efficacy of combination therapy in the treatment of moderate-to-severe depression with comorbid disorders in postpartum women is recommended.
+C1 St Pauls Hosp, Reproduct Mental Hlth Program, Vancouver, BC V6Z 1Y6, Canada.
+   Univ British Columbia, Dept Psychiat, Fac Med, Vancouver, BC V5Z 1M9, Canada.
+   Univ British Columbia, Dept Obstet & Gynecol, Fac Med, Vancouver, BC V5Z 1M9, Canada.
+   BC Womens Hosp & Hlth Ctr, Vancouver, BC V5Z 1M9, Canada.
+RP Misri, S (corresponding author), St Pauls Hosp, Reproduct Mental Hlth Program, 1081 Burrard St, Vancouver, BC V6Z 1Y6, Canada.
+EM smisri@providencehealth.bc.ca
+NR 26
+TC 131
+Z9 136
+U1 0
+U2 32
+PU PHYSICIANS POSTGRADUATE PRESS
+PI MEMPHIS
+PA P O BOX 240008, MEMPHIS, TN 38124 USA
+SN 0160-6689
+J9 J CLIN PSYCHIAT
+JI J. Clin. Psychiatry
+PD SEP
+PY 2004
+VL 65
+IS 9
+BP 1236
+EP 1241
+DI 10.4088/JCP.v65n0913
+PG 6
+WC Psychology, Clinical; Psychiatry
+SC Psychology; Psychiatry
+GA 856ZA
+UT WOS:000224083600013
+PM 15367052
+DA 2020-08-05
+ER
+
+PT J
+AU Watson, JC
+   Gordon, LB
+   Stermac, L
+   Kalogerakos, F
+   Steckley, P
+AF Watson, JC
+   Gordon, LB
+   Stermac, L
+   Kalogerakos, F
+   Steckley, P
+TI Comparing the effectiveness of process-experiential with
+   cognitive-behavioral psychotherapy in the treatment of depression
+SO JOURNAL OF CONSULTING AND CLINICAL PSYCHOLOGY
+LA English
+DT Article
+ID COLLABORATIVE RESEARCH-PROGRAM; MENTAL-HEALTH TREATMENT;
+   NATIONAL-INSTITUTE; CLINICAL-SIGNIFICANCE; COMPARATIVE EFFICACY; OUTCOME
+   RESEARCH; THERAPY; INTERVENTIONS; INVENTORY; PROJECT
+AB This study compared process-experiential and cognitive-behavioral psychotherapy in the treatment of major depression in a researcher allegiance-balanced randomized clinical trial. Sixty-six clients participated in weekly sessions of psychotherapy for 16 weeks. Clients' level of depression, self-esteem, general symptom distress, and dysfunctional attitudes significantly improved in both therapy groups. Clients in both groups showed significantly lower levels of reactive and suppressive coping strategies and higher reflective coping at the end of treatment. Although outcomes were generally equivalent for the 2 treatments, there was a significantly greater decrease in clients' self-reports of their interpersonal problems in process- experiential than cognitive-behavioral therapy.
+C1 Univ Toronto, Ontario Inst Studies Educ, Dept Adult Educ & Counselling Psychol, Toronto, ON M5S 1V6, Canada.
+RP Watson, JC (corresponding author), Univ Toronto, Ontario Inst Studies Educ, Dept Adult Educ & Counselling Psychol, 252 Bloor St W,7th Floor, Toronto, ON M5S 1V6, Canada.
+NR 50
+TC 116
+Z9 118
+U1 0
+U2 12
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-006X
+J9 J CONSULT CLIN PSYCH
+JI J. Consult. Clin. Psychol.
+PD AUG
+PY 2003
+VL 71
+IS 4
+BP 773
+EP 781
+DI 10.1037/0022-006X.71.4.773
+PG 9
+WC Psychology, Clinical
+SC Psychology
+GA 703QM
+UT WOS:000184292500016
+PM 12924682
+DA 2020-08-05
+ER
+
+PT J
+AU Cahill, J
+   Barkham, M
+   Hardy, G
+   Rees, A
+   Shapiro, DA
+   Stiles, WB
+   Macaskill, N
+AF Cahill, J
+   Barkham, M
+   Hardy, G
+   Rees, A
+   Shapiro, DA
+   Stiles, WB
+   Macaskill, N
+TI Outcomes of patients completing and not completing cognitive therapy for
+   depression
+SO BRITISH JOURNAL OF CLINICAL PSYCHOLOGY
+LA English
+DT Article
+ID CLINICALLY REPRESENTATIVE CONDITIONS; TIME-LIMITED PSYCHOTHERAPY;
+   PSYCHOMETRIC PROPERTIES; INTERPERSONAL PROBLEMS; PERSONALITY-DISORDERS;
+   TREATMENT DURATION; INVENTORY; ADULT
+AB Objectives. The aims of this study were to use symptom intensity measures collected at each session (1) to describe the outcomes of clients who received cognitive therapy (CT) for depression in a clinically representative sample, and (2) to compare the outcomes of clients who completed the agreed number of sessions with those who did not.
+   Design and method. Clients (N = 58) contracted to attend between 12 and 20 sessions of CT completed the Beck Depression Inventory (BDI) immediately prior to each therapy session. The BDI and other measures were collected at intake and, for those who completed therapy, at a post-therapy assessment.
+   Results. Completers' BDI scores improved significantly from intake to post-treatment and significantly more from intake to their final session than did those of non-completers. However, when non-completers' final session scores were matched with scores of randomly selected completers at the corresponding session, the difference in improvement was not significant. A significantly higher proportion of clients who completed the agreed number of sessions achieved reliable and clinically significant change (71.4%, 25/35), compared with just 13% (3/23) of clients who did not.
+   Conclusions. (1) CT for depression can be effective in a clinically representative population. (2) Attrition from clinical trials may bias estimates of treatment effectiveness.
+C1 Univ Leeds, Leeds LS2 9JT, W Yorkshire, England.
+   Miami Univ, Oxford, OH 45056 USA.
+RP Cahill, J (corresponding author), Psychol Therapies Res Ctr, 17 Blenheim Terrace, Leeds LS2 9AR, W Yorkshire, England.
+RI Barkham, Michael/A-2547-2010
+OI Stiles, William/0000-0001-7740-0609; Barkham,
+   Michael/0000-0003-1687-6376
+NR 33
+TC 52
+Z9 53
+U1 3
+U2 10
+PU BRITISH PSYCHOLOGICAL SOC
+PI LEICESTER
+PA ST ANDREWS HOUSE, 48 PRINCESS RD EAST, LEICESTER LE1 7DR, LEICS, ENGLAND
+SN 0144-6657
+J9 BRIT J CLIN PSYCHOL
+JI Br. J. Clin. Psychol.
+PD JUN
+PY 2003
+VL 42
+BP 133
+EP 143
+DI 10.1348/014466503321903553
+PN 2
+PG 11
+WC Psychology, Clinical
+SC Psychology
+GA 693JG
+UT WOS:000183713500002
+PM 12828803
+DA 2020-08-05
+ER
+
+PT J
+AU Persons, JB
+   Bostrom, A
+   Bertagnolli, A
+AF Persons, JB
+   Bostrom, A
+   Bertagnolli, A
+TI Results of randomized controlled trials of cognitive therapy for
+   depression generalize to private practice
+SO COGNITIVE THERAPY AND RESEARCH
+LA English
+DT Article
+DE effectiveness study; randomized controlled trials; cognitive therapy for
+   depression
+ID COLLABORATIVE RESEARCH-PROGRAM; MENTAL-HEALTH TREATMENT;
+   CLINICAL-SIGNIFICANCE; NATIONAL-INSTITUTE; PSYCHOTHERAPY
+AB We compared outcomes of 45 depressed patients treated in private practice with cognitive therapy or with cognitive therapy plus pharmacotherapy to outcomes of patients receiving those treatments in two randomized controlled trials. Private practice and research samples differed considerably, with private practice patients having more psychiatric and medical comorbidities and a greater range of initial depression severity. Treatment in private practice and research settings also differed, with private practice treatment conducted in a more flexible manner using an idiographic, formulation-driven approach. As predicted, private practice patients showed statistically significant reductions in depressive symptomatology over the course of treatment, and at posttreatment, Beck Depression Inventory (BDI) scores of patients treated in private practice and research settings were not statistically significantly different. Clinical significance of outcomes was also comparable in the clinical and research samples. Of the variables measuring demographic, illness, and treatment factors, only pretreatment BDI score predicted posttreatment BDI score in he private practice sample.
+C1 San Francisco Bay Area Ctr Cognit Therapy, Oakland, CA 94618 USA.
+   Univ Calif San Francisco, San Francisco, CA 94143 USA.
+   Calif Sch Profess Psychol, Alameda, CA USA.
+RP Persons, JB (corresponding author), San Francisco Bay Area Ctr Cognit Therapy, 5435 Coll Ave, Oakland, CA 94618 USA.
+NR 31
+TC 81
+Z9 81
+U1 1
+U2 4
+PU KLUWER ACADEMIC/PLENUM PUBL
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0147-5916
+J9 COGNITIVE THER RES
+JI Cogn. Ther. Res.
+PD OCT
+PY 1999
+VL 23
+IS 5
+BP 535
+EP 548
+DI 10.1023/A:1018724505659
+PG 14
+WC Psychology, Clinical
+SC Psychology
+GA 256CV
+UT WOS:000083709100006
+DA 2020-08-05
+ER
+
+PT J
+AU Blackburn, IM
+   Moore, RG
+AF Blackburn, IM
+   Moore, RG
+TI Controlled acute and follow-up trial of cognitive therapy and
+   pharmacotherapy in out-patients with recurrent depression
+SO BRITISH JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+ID MENTAL-HEALTH-TREATMENT; COLLABORATIVE RESEARCH-PROGRAM;
+   NATIONAL-INSTITUTE; MAINTENANCE THERAPY; BEHAVIOR-THERAPY; SEVERITY;
+   COMBINATION; DISORDERS; RELAPSE
+AB Background We report a randomised controlled trial, in both the acute and maintenance stage of treatment, in 75 out-patients with recurrent major depression.
+   Method Patients were allocated to three groups: 16 weeks of acute treatment and two years' maintenance treatment in the following way: antidepressants and maintenance antidepressants; cognitive therapy and maintenance cognitive therapy; antidepressants and maintenance cognitive therapy. Both completers' and end-point data were analysed.
+   Results In the acute phase of treatment, all patients improved significantly and there was no significant difference among treatments, or in the pattern of improvement over time. In the maintenance stage of treatment, patients kept improving over time in all three groups and there was no significant difference among treatments. Cognitive therapy was consistently superior to medication.
+   Conclusions The results indicate that maintenance cognitive therapy has a similar prophylactic effect to maintenance medication and is a viable option for maintenance after acute treatment with medication in recurrent depression.
+C1 UNIV CAMBRIDGE,ADDENBROOKES HOSP,DEPT PSYCHIAT,CAMBRIDGE CB2 2QQ,ENGLAND.
+RP Blackburn, IM (corresponding author), ST NICHOLAS HOSP,COLLINGWOOD CLIN,NEWCASTLE COGNIT & BEHAV THERAPIES CTR,NEWCASTLE TYNE NE3 3XT,TYNE & WEAR,ENGLAND.
+RI Greiver, Michelle/N-8764-2015
+OI Greiver, Michelle/0000-0001-8957-0285
+NR 27
+TC 132
+Z9 139
+U1 0
+U2 11
+PU ROYAL COLLEGE OF PSYCHIATRISTS
+PI LONDON
+PA BRITISH JOURNAL OF PSYCHIATRY 17 BELGRAVE SQUARE, LONDON, ENGLAND SW1X
+   8PG
+SN 0007-1250
+J9 BRIT J PSYCHIAT
+JI Br. J. Psychiatry
+PD OCT
+PY 1997
+VL 171
+BP 328
+EP 334
+DI 10.1192/bjp.171.4.328
+PG 7
+WC Psychiatry
+SC Psychiatry
+GA YA830
+UT WOS:A1997YA83000007
+PM 9373420
+DA 2020-08-05
+ER
+
+PT J
+AU Brown, RA
+   Evans, DM
+   Miller, IW
+   Burgess, ES
+   Mueller, TI
+AF Brown, RA
+   Evans, DM
+   Miller, IW
+   Burgess, ES
+   Mueller, TI
+TI Cognitive-behavioral treatment for depression in alcoholism
+SO JOURNAL OF CONSULTING AND CLINICAL PSYCHOLOGY
+LA English
+DT Article
+ID PSYCHIATRIC-DISORDERS; SUBSTANCE ABUSE; DRUG-ABUSE; PSYCHOTHERAPY;
+   RELIABILITY; POPULATION; DIAGNOSIS; SYMPTOMS; RELAPSE
+AB Alcoholics with depressive symptoms score greater than or equal to 10 on the Beck Depression Inventory (A. T. Beck, C. H. Ward, M. Mendelson, J. Mock, & J. Erbaugh, 1961) received 8 individual sessions of cognitive-behavioral treatment for depression (CBT-D, n = 19) or a relaxation training control (RTC; n = 16) plus standard alcohol treatment. CBT-D patients had greater reductions in somatic depressive symptoms and depressed and anxious mood than RTC patients during treatment. Patients receiving CBT-D had a greater percentage of days abstinent but not,greater overall abstinence or fewer drinks per day during the first 3-month follow-up. However, between the 3- and 6-month follow-ups, CBT-D patients had significantly better alcohol use outcomes on total abstinence (47% vs. 13%), percent days abstinent (90.5% vs. 68.3%), and drinks per day (0.46 vs. 5.71). Theoretical and clinical implications of using CBT-D in alcohol treatment are discussed.
+RP Brown, RA (corresponding author), BROWN UNIV,BUTLER HOSP,SCH MED,DEPT PSYCHIAT & HUMAN BEHAV,345 BLACKSTONE BLVD,PROVIDENCE,RI 02906, USA.
+NR 55
+TC 144
+Z9 147
+U1 0
+U2 9
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0022-006X
+J9 J CONSULT CLIN PSYCH
+JI J. Consult. Clin. Psychol.
+PD OCT
+PY 1997
+VL 65
+IS 5
+BP 715
+EP 726
+DI 10.1037/0022-006X.65.5.715
+PG 12
+WC Psychology, Clinical
+SC Psychology
+GA YA397
+UT WOS:A1997YA39700001
+PM 9337490
+DA 2020-08-05
+ER
+
+PT J
+AU EmanuelsZuurveen, L
+   Emmelkamp, PMG
+AF EmanuelsZuurveen, L
+   Emmelkamp, PMG
+TI Spouse-aided therapy with depressed patients
+SO BEHAVIOR MODIFICATION
+LA English
+DT Article
+ID EXPRESSED EMOTION SCALE; MARITAL-THERAPY; COGNITIVE THERAPY; FOLLOW-UP;
+   AGORAPHOBIA; DISORDERS; CONTEXT; LEVEL
+AB Twenty-three non-maritally distressed depressed patients who were married or cohabitating were randomly assigned to either individual behavioral-cognitive therapy or spouse-aided treatment. Both treatment conditions focused on depressed mood, behavioral activity, and dysfunctional cognitions, the difference being that in the spouse-aided treatment the partner was involved in all aspects of treatment whereas in the individual condition the partner was not involved. MANOVAs revealed that treatment led to statistically significant improvement on depressed mood, behavioral activity, and dysfunctional cognitions. Treatment did not affect relationship variables (marital satisfaction, communication, and expressed emotion) for both spouses. Spouse-aided therapy was as effective as individual cognitive-behavior therapy.
+C1 UNIV GRONINGEN, ACAD HOSP, GRONINGEN, NETHERLANDS.
+RI , paulemmelkamp/G-3274-2011
+OI , paulemmelkamp/0000-0001-6066-5512
+NR 46
+TC 31
+Z9 31
+U1 0
+U2 8
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0145-4455
+EI 1552-4167
+J9 BEHAV MODIF
+JI Behav. Modificat.
+PD JAN
+PY 1997
+VL 21
+IS 1
+BP 62
+EP 77
+DI 10.1177/01454455970211003
+PG 16
+WC Psychology, Clinical
+SC Psychology
+GA WC371
+UT WOS:A1997WC37100003
+PM 8995042
+DA 2020-08-05
+ER
+
+PT J
+AU EmanuelsZuurveen, L
+   Emmelkamp, PMG
+AF EmanuelsZuurveen, L
+   Emmelkamp, PMG
+TI Individual behavioural-cognitive therapy v marital therapy for
+   depression in maritally distressed couples
+SO BRITISH JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+ID EXPRESSED EMOTION SCALE; LEVEL
+AB Background. Depressed patients are often characterised by marital distress, but few studies investigate the effects of marital therapy on depressed mood and relationship dysfunction.
+   Method. Twenty-seven depressed patients experiencing marital distress were randomly assigned to either individual behavioural-cognitive therapy or marital therapy. The individual treatment condition focused on depressed mood, behavioural activity and dysfunctional cognitions, whereas in the marital condition the partner was involved in the treatment and the focus was on the communication process in the marital relationship. MANOVAs revealed that treatment led to statistically significant improvements in depressed mood, behavioural activity and dysfunctional cognitions, an increase in relationship satisfaction and improvement of communication in patients and spouses. A significant interaction effect was found. showing that marital therapy had more impact on relationship variables than the individual treatment.
+   Conclusion. Both individual cognitive-behaviour therapy and marital therapy lead to less depressive complaints, and both treatment conditions have a positive effect on the relationship, although the effect on the relationship is significantly stronger in couples who were treated by marital therapy compared with patients who were treated individually.
+C1 ACAD HOSP,GRONINGEN,NETHERLANDS.
+RI , paulemmelkamp/G-3274-2011
+OI , paulemmelkamp/0000-0001-6066-5512
+NR 30
+TC 76
+Z9 76
+U1 0
+U2 13
+PU ROYAL COLLEGE OF PSYCHIATRISTS
+PI LONDON
+PA BRITISH JOURNAL OF PSYCHIATRY 17 BELGRAVE SQUARE, LONDON, ENGLAND SW1X
+   8PG
+SN 0007-1250
+J9 BRIT J PSYCHIAT
+JI Br. J. Psychiatry
+PD AUG
+PY 1996
+VL 169
+IS 2
+BP 181
+EP 188
+DI 10.1192/bjp.169.2.181
+PG 8
+WC Psychiatry
+SC Psychiatry
+GA VB341
+UT WOS:A1996VB34100009
+PM 8871794
+DA 2020-08-05
+ER
+
+PT J
+AU SHAPIRO, DA
+   BARKHAM, M
+   REES, A
+   HARDY, GE
+   REYNOLDS, S
+   STARTUP, M
+AF SHAPIRO, DA
+   BARKHAM, M
+   REES, A
+   HARDY, GE
+   REYNOLDS, S
+   STARTUP, M
+TI EFFECTS OF TREATMENT DURATION AND SEVERITY OF DEPRESSION ON THE
+   EFFECTIVENESS OF COGNITIVE-BEHAVIORAL AND PSYCHODYNAMIC INTERPERSONAL
+   PSYCHOTHERAPY
+SO JOURNAL OF CONSULTING AND CLINICAL PSYCHOLOGY
+LA English
+DT Article; Proceedings Paper
+CT World Congress of Cognitive Therapy
+CY JUN, 1992
+CL TORONTO, CANADA
+ID EXPLORATORY PSYCHOTHERAPY; THERAPY; PROJECT; PRIZES; ISSUES; WON
+AB A total of 117 depressed clients, stratified for severity, completed 8 or 16 sessions of manualized treatment, either cognitive-behavioral psychotherapy (CB) or psychodynamic-interpersonal psychotherapy (PI). Each of 5 clinician-investigators treated clients in all 4 treatment conditions. On most measures, CB and PI were equally effective, irrespective of the severity of depression or the duration of treatment. However, there was evidence of some advantage to CB on the Beck Depression Inventory (Beck, Ward, Mendelson, Mock, & Erbaugh, 1961). There was no evidence that CB's effects were more rapid than those of PI, nor did the effects of each treatment method vary according to the severity of depression. There was no overall advantage to 16-session treatment over 8-session treatment. However, those presenting with relatively severe depression improved substantially more after 16 than after 8 sessions.
+RP SHAPIRO, DA (corresponding author), UNIV SHEFFIELD,DEPT PSYCHOL,SOCIAL & APPL PSYCHOL UNIT,MRC ESRC,SHEFFIELD S10 2TN,S YORKSHIRE,ENGLAND.
+RI Barkham, Michael/A-2547-2010; Reynolds, Shirley/E-2800-2010; Startup,
+   Mike/C-1726-2008
+OI Reynolds, Shirley/0000-0001-9975-2023; Barkham,
+   Michael/0000-0003-1687-6376
+NR 48
+TC 295
+Z9 300
+U1 0
+U2 52
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0022-006X
+J9 J CONSULT CLIN PSYCH
+JI J. Consult. Clin. Psychol.
+PD JUN
+PY 1994
+VL 62
+IS 3
+BP 522
+EP 534
+DI 10.1037/0022-006X.62.3.522
+PG 13
+WC Psychology, Clinical
+SC Psychology
+GA NR923
+UT WOS:A1994NR92300010
+PM 8063978
+DA 2020-08-05
+ER
+
+PT J
+AU GALLAGHERTHOMPSON, D
+   STEFFEN, AM
+AF GALLAGHERTHOMPSON, D
+   STEFFEN, AM
+TI COMPARATIVE EFFECTS OF COGNITIVE-BEHAVIORAL AND BRIEF PSYCHODYNAMIC
+   PSYCHOTHERAPIES FOR DEPRESSED FAMILY CAREGIVERS
+SO JOURNAL OF CONSULTING AND CLINICAL PSYCHOLOGY
+LA English
+DT Article; Proceedings Paper
+CT 1992 Annual Meeting of the Society-for-Psychotherapy-Research
+CY JUN, 1992
+CL BERKELEY, CA
+SP SOC PSYCHOTHERAPY RES
+ID RELIABILITY; ISSUES
+AB Clinically depressed family caregivers (N = 66) of frail. elderly relatives were randomly assigned to 20 sessions of either cognitive-behavioral (CB) or brief psychodynamic (PD) individual psychotherapy. At posttreatment, 71% of the caregivers were no longer clinically depressed according to research diagnostic criteria (RDC), with no differences found between the 2 outpatient treatments. The results suggested therapy specificity: there was an interaction between treatment modality and length of caregiving on symptom-oriented measures. Clients who had been caregivers for a shorter period showed improvement in the PD condition, whereas those who had been caregivers for at least 44 months improved with CB therapy. These findings suggest that patient-specific variables should be considered when choosing treatment for clinically depressed family caregivers.
+C1 STANFORD UNIV,SCH MED,DIV ENDOCRINOL GERONTOL & METAB,STANFORD,CA 94305.
+RP GALLAGHERTHOMPSON, D (corresponding author), VET AFFAIRS MED CTR,GERONTOL RES PROGRAMS,182C MP,3801 MIRANDA AVE,PALO ALTO,CA 94304, USA.
+OI Steffen, Ann/0000-0003-4530-8204
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [R01-MH 40041, R01-MH 37196, TO1-MH19277]
+NR 34
+TC 130
+Z9 132
+U1 0
+U2 7
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0022-006X
+J9 J CONSULT CLIN PSYCH
+JI J. Consult. Clin. Psychol.
+PD JUN
+PY 1994
+VL 62
+IS 3
+BP 543
+EP 549
+DI 10.1037/0022-006X.62.3.543
+PG 7
+WC Psychology, Clinical
+SC Psychology
+GA NR923
+UT WOS:A1994NR92300013
+PM 8063980
+DA 2020-08-05
+ER
+
+PT J
+AU PROPST, LR
+   OSTROM, R
+   WATKINS, P
+   DEAN, T
+   MASHBURN, D
+AF PROPST, LR
+   OSTROM, R
+   WATKINS, P
+   DEAN, T
+   MASHBURN, D
+TI COMPARATIVE EFFICACY OF RELIGIOUS AND NONRELIGIOUS COGNITIVE
+   BEHAVIORAL-THERAPY FOR THE TREATMENT OF CLINICAL DEPRESSION IN RELIGIOUS
+   INDIVIDUALS
+SO JOURNAL OF CONSULTING AND CLINICAL PSYCHOLOGY
+LA English
+DT Article
+ID MENTAL-HEALTH; META-ANALYSIS; SCALE
+AB Two versions of cognitive-behavioral therapy (CBT), one with religious content (RCT) and one with standard protocol (NRCT), were used to treat 19-20 religious patients each.  Fifty-nine religious patients who met the Research Diagnostic Criteria for nonpsychotic, nonbipolar depression were treated in 18-20 1-hr sessions over 3 months.  Religious and nonreligious therapists were used in each CBT group.  Pastoral counseling (PCT) treatment-as-usual and waiting-list control (WLC) conditions each contained 10-11 patients.  RCT and PCT patients reported significantly lower posttreatment depression and adjustment scores than did either the NRCT or the WLC condition.  The CBT difference was due largely to superior performance of the nonreligious therapists (with dissimilar values to the patients) in the RCT over the NRCT condition.  Improvement in the three treatment conditions was equal at 3-month and 2-year follow-ups and greater than posttreatment WLC improvement levels.
+RP PROPST, LR (corresponding author), LEWIS & CLARK COLL,GRAD SCH PROFESS STUDIES,DEPT COUNSELING PSYCHOL,PORTLAND,OR 97219, USA.
+NR 31
+TC 237
+Z9 241
+U1 0
+U2 15
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0022-006X
+J9 J CONSULT CLIN PSYCH
+JI J. Consult. Clin. Psychol.
+PD FEB
+PY 1992
+VL 60
+IS 1
+BP 94
+EP 103
+DI 10.1037/0022-006X.60.1.94
+PG 10
+WC Psychology, Clinical
+SC Psychology
+GA HC244
+UT WOS:A1992HC24400018
+PM 1556292
+DA 2020-08-05
+ER
+
+PT J
+AU JACOBSON, NS
+   FRUZZETTI, AE
+   DOBSON, K
+   SCHMALING, KB
+   SALUSKY, S
+AF JACOBSON, NS
+   FRUZZETTI, AE
+   DOBSON, K
+   SCHMALING, KB
+   SALUSKY, S
+TI MARITAL-THERAPY AS A TREATMENT FOR DEPRESSION
+SO JOURNAL OF CONSULTING AND CLINICAL PSYCHOLOGY
+LA English
+DT Article
+ID DIAGNOSTIC INTERVIEW SCHEDULE; COGNITIVE THERAPY; CLINICAL-SIGNIFICANCE;
+   AFFECTIVE-DISORDERS; PHARMACOTHERAPY; WOMEN; COMBINATION; VARIABILITY;
+   DISTRESS; UNIPOLAR
+C1 UNIV CALGARY,CALGARY T2N 1N4,ALBERTA,CANADA.
+   UNIV COLORADO,HLTH SCI CTR,NATL JEWISH CTR IMMUNOL & RESP MED,DEPT MED,DEPT PSYCHIAT,DENVER,CO 80262.
+RP JACOBSON, NS (corresponding author), UNIV WASHINGTON,DEPT PSYCHOL NI25,SEATTLE,WA 98195, USA.
+RI Schmaling, Karen B/F-5217-2011
+OI Schmaling, Karen B/0000-0003-2085-134X; Dobson,
+   Keith/0000-0001-9542-0822
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [MH33838]
+NR 43
+TC 201
+Z9 201
+U1 0
+U2 15
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0022-006X
+J9 J CONSULT CLIN PSYCH
+JI J. Consult. Clin. Psychol.
+PD AUG
+PY 1991
+VL 59
+IS 4
+BP 547
+EP 557
+DI 10.1037/0022-006X.59.4.547
+PG 11
+WC Psychology, Clinical
+SC Psychology
+GA FY409
+UT WOS:A1991FY40900009
+PM 1918559
+DA 2020-08-05
+ER
+
+PT J
+AU PERSONS, JB
+   BURNS, DD
+   PERLOFF, JM
+AF PERSONS, JB
+   BURNS, DD
+   PERLOFF, JM
+TI PREDICTORS OF DROPOUT AND OUTCOME IN COGNITIVE THERAPY FOR DEPRESSION IN
+   A PRIVATE-PRACTICE SETTING
+SO COGNITIVE THERAPY AND RESEARCH
+LA English
+DT Article
+C1 UNIV CALIF BERKELEY,BERKELEY,CA 94720.
+   UNIV CALIF SAN FRANCISCO,SAN FRANCISCO,CA 94143.
+   UNIV PENN,PHILADELPHIA,PA 19104.
+   UNIV PENN,PRESBYTERIAN MED CTR,PHILADELPHIA,PA 19104.
+NR 42
+TC 163
+Z9 166
+U1 1
+U2 12
+PU PLENUM PUBL CORP
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013
+SN 0147-5916
+J9 COGNITIVE THER RES
+JI Cogn. Ther. Res.
+PD DEC
+PY 1988
+VL 12
+IS 6
+BP 557
+EP 575
+DI 10.1007/BF01205010
+PG 19
+WC Psychology, Clinical
+SC Psychology
+GA R7053
+UT WOS:A1988R705300003
+DA 2020-08-05
+ER
+
+PT J
+AU WIERZBICKI, M
+   BARTLETT, TS
+AF WIERZBICKI, M
+   BARTLETT, TS
+TI THE EFFICACY OF GROUP AND INDIVIDUAL COGNITIVE THERAPY FOR MILD
+   DEPRESSION
+SO COGNITIVE THERAPY AND RESEARCH
+LA English
+DT Article
+RP WIERZBICKI, M (corresponding author), WASHBURN UNIV,DEPT PSYCHOL,TOPEKA,KS 66621, USA.
+NR 9
+TC 33
+Z9 33
+U1 0
+U2 7
+PU PLENUM PUBL CORP
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013
+SN 0147-5916
+J9 COGNITIVE THER RES
+JI Cogn. Ther. Res.
+PD JUN
+PY 1987
+VL 11
+IS 3
+BP 337
+EP 342
+DI 10.1007/BF01186284
+PG 6
+WC Psychology, Clinical
+SC Psychology
+GA J0573
+UT WOS:A1987J057300005
+DA 2020-08-05
+ER
+
+PT J
+AU THOMPSON, LW
+   GALLAGHER, D
+   BRECKENRIDGE, JS
+AF THOMPSON, LW
+   GALLAGHER, D
+   BRECKENRIDGE, JS
+TI COMPARATIVE EFFECTIVENESS OF PSYCHOTHERAPIES FOR DEPRESSED ELDERS
+SO JOURNAL OF CONSULTING AND CLINICAL PSYCHOLOGY
+LA English
+DT Article
+C1 STANFORD UNIV, MED CTR, SCH MED, STANFORD, CA 94305 USA.
+RP THOMPSON, LW (corresponding author), VET ADM MED CTR, 182C MP, GERONTOL RES PROGRAMS, 3801 MIRANDA AVE, PALO ALTO, CA 94304 USA.
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [R01-MH37196]
+NR 29
+TC 291
+Z9 293
+U1 1
+U2 9
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-006X
+EI 1939-2117
+J9 J CONSULT CLIN PSYCH
+JI J. Consult. Clin. Psychol.
+PD JUN
+PY 1987
+VL 55
+IS 3
+BP 385
+EP 390
+DI 10.1037/0022-006X.55.3.385
+PG 6
+WC Psychology, Clinical
+SC Psychology
+GA H5210
+UT WOS:A1987H521000016
+PM 3597953
+DA 2020-08-05
+ER
+
+PT J
+AU MCNAMARA, K
+   HORAN, JJ
+AF MCNAMARA, K
+   HORAN, JJ
+TI EXPERIMENTAL CONSTRUCT-VALIDITY IN THE EVALUATION OF COGNITIVE AND
+   BEHAVIORAL TREATMENTS FOR DEPRESSION
+SO JOURNAL OF COUNSELING PSYCHOLOGY
+LA English
+DT Article
+C1 ARIZONA STATE UNIV,COUNSELING PSYCHOL PROGRAM,TEMPE,AZ 85287.
+RP MCNAMARA, K (corresponding author), COLORADO STATE UNIV,DEPT PSYCHOL,FT COLLINS,CO 80523, USA.
+NR 48
+TC 53
+Z9 54
+U1 0
+U2 16
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0022-0167
+J9 J COUNS PSYCHOL
+JI J. Couns. Psychol.
+PD JAN
+PY 1986
+VL 33
+IS 1
+BP 23
+EP 30
+DI 10.1037/0022-0167.33.1.23
+PG 8
+WC Psychology, Educational; Psychology, Applied
+SC Psychology
+GA A3056
+UT WOS:A1986A305600004
+DA 2020-08-05
+ER
+
+PT J
+AU WILSON, PH
+   GOLDIN, JC
+   CHARBONNEAUPOWIS, M
+AF WILSON, PH
+   GOLDIN, JC
+   CHARBONNEAUPOWIS, M
+TI COMPARATIVE EFFICACY OF BEHAVIORAL AND COGNITIVE TREATMENTS OF
+   DEPRESSION
+SO COGNITIVE THERAPY AND RESEARCH
+LA English
+DT Article
+C1 UNIV NEW S WALES,KENSINGTON,NSW 2033,AUSTRALIA.
+RP WILSON, PH (corresponding author), UNIV SYDNEY,DEPT PSYCHOL,SYDNEY,NSW 2006,AUSTRALIA.
+NR 18
+TC 67
+Z9 67
+U1 0
+U2 4
+PU PLENUM PUBL CORP
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013
+SN 0147-5916
+J9 COGNITIVE THER RES
+JI Cogn. Ther. Res.
+PY 1983
+VL 7
+IS 2
+BP 111
+EP 124
+DI 10.1007/BF01190064
+PG 14
+WC Psychology, Clinical
+SC Psychology
+GA QK706
+UT WOS:A1983QK70600001
+DA 2020-08-05
+ER
+
+PT J
+AU GALLAGHER, DE
+   THOMPSON, LW
+AF GALLAGHER, DE
+   THOMPSON, LW
+TI TREATMENT OF MAJOR DEPRESSIVE DISORDER IN OLDER ADULT OUTPATIENTS WITH
+   BRIEF PSYCHOTHERAPIES
+SO PSYCHOTHERAPY-THEORY RESEARCH AND PRACTICE
+LA English
+DT Article
+RP GALLAGHER, DE (corresponding author), VET ADM MED CTR, CTR GERIATR RES EDUC & CLIN, PALO ALTO, CA 94304 USA.
+NR 35
+TC 155
+Z9 155
+U1 0
+U2 9
+PU PSYCHOTHERAPY-THEOR RES PRACT
+PI RIVER EDGE
+PA 912 KINDERKAMACK RD, RIVER EDGE, NJ 07661 USA
+SN 0033-3204
+J9 PSYCHOTHER-THEOR RES
+PY 1982
+VL 19
+IS 4
+BP 482
+EP 490
+DI 10.1037/h0088461
+PG 9
+WC Psychology, Clinical
+SC Psychology
+GA QF405
+UT WOS:A1982QF40500013
+DA 2020-08-05
+ER
+
+PT J
+AU DUNN, RJ
+AF DUNN, RJ
+TI COGNITIVE MODIFICATION WITH DEPRESSION-PRONE PSYCHIATRIC-PATIENTS
+SO COGNITIVE THERAPY AND RESEARCH
+LA English
+DT Article
+RP DUNN, RJ (corresponding author), UNIV MANITOBA,WINNIPEG R3T 2N2,MANITOBA,CANADA.
+NR 21
+TC 28
+Z9 28
+U1 0
+U2 2
+PU PLENUM PUBL CORP
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013
+SN 0147-5916
+J9 COGNITIVE THER RES
+JI Cogn. Ther. Res.
+PY 1979
+VL 3
+IS 3
+BP 307
+EP 317
+DI 10.1007/BF01185971
+PG 11
+WC Psychology, Clinical
+SC Psychology
+GA HL523
+UT WOS:A1979HL52300009
+DA 2020-08-05
+ER
+
+EF

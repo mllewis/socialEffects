@@ -1,0 +1,936 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Petersen, MB
+   Aaroe, L
+   Jensen, NH
+   Curry, O
+AF Petersen, Michael Bang
+   Aaroe, Lene
+   Jensen, Niels Holm
+   Curry, Oliver
+TI Social Welfare and the Psychology of Food Sharing: Short-Term Hunger
+   Increases Support for Social Welfare
+SO POLITICAL PSYCHOLOGY
+LA English
+DT Article
+DE social welfare; evolutionary psychology; hunger; public opinion; United
+   Kingdom; Denmark
+ID HELP EVOLUTIONARY PSYCHOLOGY; HUMAN LIFE-HISTORY; SELF-CONTROL; 5-FACTOR
+   MODEL; PUBLIC SUPPORT; EGO DEPLETION; BLOOD-GLUCOSE; PERSONALITY;
+   COOPERATION; AGGRESSION
+AB Do politically irrelevant events influence important policy opinions? Previous research on social welfare attitudes has emphasized the role of political factors such as economic self-interest and ideology. Here, we demonstrate that attitudes to social welfare are also influenced by short-term fluctuations in hunger. Using theories in evolutionary psychology, we predict that hungry individuals will be greedier and take more resources from others while also attempting to induce others to share by signaling cooperative intentions and expressing support for sharing, including evolutionarily novel forms of sharing such as social welfare. We test these predictions using self-reported hunger data as well as comparisons of subjects who participated in relevant online studies before and after eating lunch. Across four studies collected in two different welfare regimesthe United Kingdom and Denmarkwe consistently find that hungry individuals act in a greedier manner but describe themselves as more cooperative and express greater support for social welfare.
+C1 [Petersen, Michael Bang; Aaroe, Lene; Jensen, Niels Holm] Aarhus Univ, DK-8000 Aarhus, Denmark.
+   [Curry, Oliver] Univ Oxford, Oxford, England.
+RP Petersen, MB (corresponding author), Aarhus Univ, Dept Polit Sci & Govt, DK-8000 Aarhus, Denmark.
+EM michael@ps.au.dk
+RI Curry, Oliver Scott/M-2883-2016
+OI Curry, Oliver Scott/0000-0002-9870-4633; Aaroe,
+   Lene/0000-0003-4551-3750; Petersen, Michael Bang/0000-0002-6782-5635
+NR 69
+TC 19
+Z9 20
+U1 0
+U2 24
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0162-895X
+EI 1467-9221
+J9 POLIT PSYCHOL
+JI Polit. Psychol.
+PD DEC
+PY 2014
+VL 35
+IS 6
+BP 757
+EP 773
+DI 10.1111/pops.12062
+PG 17
+WC Political Science; Psychology, Social
+SC Government & Law; Psychology
+GA AU4JA
+UT WOS:000345575600003
+DA 2020-08-05
+ER
+
+PT J
+AU Aaroe, L
+   Petersen, MB
+AF Aaroe, Lene
+   Petersen, Michael Bang
+TI Hunger Games: Fluctuations in Blood Glucose Levels Influence Support for
+   Social Welfare
+SO PSYCHOLOGICAL SCIENCE
+LA English
+DT Article
+DE evolutionary psychology; social cognition; hunger; political attitudes;
+   social welfare; dictator game
+ID SELF-CONTROL; EVOLUTION; DEPLETION; WILLPOWER; BEHAVIOR; ENERGY
+AB Social-welfare policies are a modern instantiation of a phenomenon that has pervaded human evolutionary history: resource sharing. Ancestrally, food was a key shared resource in situations of temporary hunger. If evolved human psychology continues to shape how individuals think about current, evolutionarily novel conditions, this invites the prediction that attitudes regarding welfare politics are influenced by short-term fluctuations in hunger. Using blood glucose levels as a physiological indicator of hunger, we tested this prediction in a study in which participants were randomly assigned to conditions in which they consumed soft drinks containing either carbohydrates or an artificial sweetener. Analyses showed that participants with experimentally induced low blood glucose levels expressed stronger support for social welfare. Using an incentivized measure of actual sharing behavior (the dictator game), we further demonstrated that this increased support for social welfare does not translate into genuinely increased sharing motivations. Rather, we suggest that it is cheap talk aimed at increasing the sharing efforts of other individuals.
+C1 [Aaroe, Lene; Petersen, Michael Bang] Aarhus Univ, Dept Polit Sci & Govt, DK-8000 Aarhus C, Denmark.
+RP Aaroe, L (corresponding author), Aarhus Univ, Dept Polit Sci & Govt, Bartholins Alle 7, DK-8000 Aarhus C, Denmark.
+EM leneaaroe@ps.au.dk; michael@ps.au.dk
+OI Aaroe, Lene/0000-0003-4551-3750; Petersen, Michael
+   Bang/0000-0002-6782-5635
+NR 33
+TC 45
+Z9 47
+U1 3
+U2 32
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0956-7976
+EI 1467-9280
+J9 PSYCHOL SCI
+JI Psychol. Sci.
+PD DEC
+PY 2013
+VL 24
+IS 12
+BP 2550
+EP 2556
+DI 10.1177/0956797613495244
+PG 7
+WC Psychology, Multidisciplinary
+SC Psychology
+GA 269KZ
+UT WOS:000328241500023
+PM 24171932
+DA 2020-08-05
+ER
+
+PT J
+AU Bos, MW
+   Dijksterhuis, A
+   van Baaren, R
+AF Bos, Maarten W.
+   Dijksterhuis, Ap
+   van Baaren, Rick
+TI Food for Thought? Trust Your Unconscious When Energy Is Low
+SO JOURNAL OF NEUROSCIENCE PSYCHOLOGY AND ECONOMICS
+LA English
+DT Article
+DE decision making; unconscious thought; conscious thought; glucose
+AB Recent studies showed that a period of unconscious thought can help when making complex decisions. Under some circumstances, unconscious thought improves decisions even more than conscious thought. Executive functioning depends on energy provided by glucose, and we know from previous research that the performance of various conscious processes deteriorates when energy is low. Unconscious processes require less energy and may operate unhampered when energy is low. Therefore, we propose that whereas low blood glucose levels impair conscious thought, this is not the same for unconscious thought. An experiment, where we manipulated blood glucose levels, indicated that indeed, when making decisions, the unconscious can best be trusted when blood glucose levels are low, whereas conscious deliberation yields the best results when blood glucose levels are elevated.
+C1 [Bos, Maarten W.; Dijksterhuis, Ap; van Baaren, Rick] Radboud Univ Nijmegen, Inst Behav Sci, NL-6525 ED Nijmegen, Netherlands.
+   [Bos, Maarten W.] Harvard Univ, Sch Business, Boston, MA 02163 USA.
+RP Bos, MW (corresponding author), Harvard Univ, Sch Business, Baker Lib 467, Boston, MA 02163 USA.
+EM mbos@hbs.edu
+NR 56
+TC 13
+Z9 14
+U1 0
+U2 16
+PU EDUCATIONAL PUBLISHING FOUNDATION-AMERICAN PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST, NE, WASHINGTON, DC 20002-4242 USA
+SN 1937-321X
+EI 2151-318X
+J9 J NEUROSCI PSYCHOL E
+JI J. Neurosci. Psychol. Econ.
+PY 2012
+VL 5
+IS 2
+BP 124
+EP 130
+DI 10.1037/a0027388
+PG 7
+WC Economics; Psychology, Multidisciplinary
+SC Business & Economics; Psychology
+GA V35YI
+UT WOS:000209180600004
+DA 2020-08-05
+ER
+
+PT J
+AU Danziger, S
+   Levav, J
+   Avnaim-Pesso, L
+AF Danziger, Shai
+   Levav, Jonathan
+   Avnaim-Pesso, Liora
+TI Extraneous factors in judicial decisions
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE decisionmaking; legal realism; mental depletion; expert decisionmaking;
+   ego depletion
+ID SELF-CONTROL; EGO DEPLETION; RESOURCES
+AB Are judicial rulings based solely on laws and facts? Legal formalism holds that judges apply legal reasons to the facts of a case in a rational, mechanical, and deliberative manner. In contrast, legal realists argue that the rational application of legal reasons does not sufficiently explain the decisions of judges and that psychological, political, and social factors influence judicial rulings. We test the common caricature of realism that justice is "what the judge ate for breakfast" in sequential parole decisions made by experienced judges. We record the judges' two daily food breaks, which result in segmenting the deliberations of the day into three distinct "decision sessions." We find that the percentage of favorable rulings drops gradually from approximate to 65% to nearly zero within each decision session and returns abruptly to approximate to 65% after a break. Our findings suggest that judicial rulings can be swayed by extraneous variables that should have no bearing on legal decisions.
+C1 [Levav, Jonathan] Columbia Univ, Columbia Business Sch, New York, NY 10027 USA.
+   [Danziger, Shai; Avnaim-Pesso, Liora] Ben Gurion Univ Negev, Dept Management, IL-84105 Beer Sheva, Israel.
+RP Levav, J (corresponding author), Columbia Univ, Columbia Business Sch, New York, NY 10027 USA.
+EM jl2351@columbia.edu
+RI Danziger, Shai/AAE-8799-2019
+NR 24
+TC 380
+Z9 387
+U1 1
+U2 90
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD APR 26
+PY 2011
+VL 108
+IS 17
+BP 6889
+EP 6892
+DI 10.1073/pnas.1018033108
+PG 4
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 754WM
+UT WOS:000289888500042
+PM 21482790
+OA Bronze, Green Published
+HC Y
+HP N
+DA 2020-08-05
+ER
+
+PT J
+AU Hoefling, A
+   Strack, F
+AF Hoefling, Atilla
+   Strack, Fritz
+TI Hunger induced changes in food choice. When beggars cannot be choosers
+   even if they are allowed to choose
+SO APPETITE
+LA English
+DT Article
+DE Food deprivation; Food choice; Food preferences; Taste preferences;
+   Conjoint analysis
+ID GENDER-DIFFERENCES; EATING RESPONSES; TASTE ATTITUDES; DINNER MEALS;
+   HEALTH; DEPRIVATION; CONSUMERS; BEHAVIOR; MOTIVES; HUMANS
+AB The present work was to examine the influence of food deprivation on food choice. For this purpose hungry versus satiated subjects were presented with a series of choices between two snacks in a complete block design of pairwise comparisons. Snacks systematically varied with respect to subjects' idiosyncratic taste preferences (preferred versus un-preferred snack), portion size (large portion versus very small portion), and availability in terms of time (immediately available versus available only after a substantial time delay). Food choices were analyzed with a conjoint analysis which corroborated the assumption that food deprivation decreases the relative importance of taste preference and increases the importance of immediate availability of food. (C) 2010 Elsevier Ltd. All rights reserved.
+C1 [Hoefling, Atilla; Strack, Fritz] Univ Wurzburg, Dept Psychol, D-97070 Wurzburg, Germany.
+RP Hoefling, A (corresponding author), Univ Wurzburg, Dept Psychol, Rontgenring 10, D-97070 Wurzburg, Germany.
+EM hoefling@psychologie.uni-wuerzburg.de
+NR 39
+TC 20
+Z9 20
+U1 0
+U2 18
+PU ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN 0195-6663
+J9 APPETITE
+JI Appetite
+PD JUN
+PY 2010
+VL 54
+IS 3
+BP 603
+EP 606
+DI 10.1016/j.appet.2010.02.016
+PG 4
+WC Behavioral Sciences; Nutrition & Dietetics
+SC Behavioral Sciences; Nutrition & Dietetics
+GA 620AD
+UT WOS:000279470500028
+PM 20206216
+DA 2020-08-05
+ER
+
+PT J
+AU Wang, XT
+   Dvorak, RD
+AF Wang, X. T.
+   Dvorak, Robert D.
+TI Sweet Future: Fluctuating Blood Glucose Levels Affect Future Discounting
+SO PSYCHOLOGICAL SCIENCE
+LA English
+DT Article
+DE intertemporal choice; future (delay) discounting; blood glucose
+ID SELF-CONTROL; WILLPOWER; DEPLETION; ENERGY; CHOICE; RISK; SENSITIVITY;
+   PHYSIOLOGY; REWARDS; RATES
+AB This study explored metabolic mechanisms of future (delay) discounting, a choice phenomenon where people value present goods over future goods. Using fluctuating blood glucose as an index of body-energy budget, optimal discounting should regulate choice among rewards as a function of temporal caloric requirement. We identified this novel link between blood glucose levels measured in the lab and future-discounting rates of participants, who made choices between a "smaller and sooner" reward and a "larger but later" option, with possible actual monetary rewards. A group of participants who drank a soft drink that contained sugar showed a reduced rate of future discounting afterward, when we controlled for sex, age, body mass index, and the taste of the drink. In contrast, a group of participants who drank a soft drink that contained artificial sweetener showed an increased rate of future discounting. Blood glucose levels not only varied as a result of caloric intake but also regulated the rate of future discounting, according to participants' dynamic body-energy budget.
+C1 [Wang, X. T.] Univ S Dakota, Dept Psychol, Vermillion, SD 57069 USA.
+RP Wang, XT (corresponding author), Univ S Dakota, Dept Psychol, 414 E Clark St, Vermillion, SD 57069 USA.
+EM xtwang@usd.edu
+OI Dvorak, Robert/0000-0002-0613-1277
+NR 29
+TC 115
+Z9 124
+U1 2
+U2 43
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0956-7976
+EI 1467-9280
+J9 PSYCHOL SCI
+JI Psychol. Sci.
+PD FEB
+PY 2010
+VL 21
+IS 2
+BP 183
+EP 188
+DI 10.1177/0956797609358096
+PG 6
+WC Psychology, Multidisciplinary
+SC Psychology
+GA 562PE
+UT WOS:000275064000006
+PM 20424042
+DA 2020-08-05
+ER
+
+PT J
+AU Nederkoorn, C
+   Guerrieri, R
+   Havermans, RC
+   Roefs, A
+   Jansen, A
+AF Nederkoorn, C.
+   Guerrieri, R.
+   Havermans, R. C.
+   Roefs, A.
+   Jansen, A.
+TI The interactive effect of hunger and impulsivity on food intake and
+   purchase in a virtual supermarket
+SO INTERNATIONAL JOURNAL OF OBESITY
+LA English
+DT Article
+DE response inhibition; impulsivity; hunger; eating disorders; consumption
+ID ATTENTION-DEFICIT/HYPERACTIVITY DISORDER; DIETARY RESTRAINT; HEALTHY
+   WOMEN; PHYSICAL-ACTIVITY; BODY-WEIGHT; OVERWEIGHT; CHILDREN; OBESITY;
+   FAT; DISINHIBITION
+AB Objective: It has been shown repeatedly that impulsivity, obesity and food intake are related; obese people are more impulsive than lean people and impulsive people eat more than less impulsive people. The relation between impulsivity and food intake might be state dependent; hunger motivates food seeking behaviour and food consumption, especially of high caloric food. Difficulties to overrule automatic behavioural tendencies might make impulsive people more susceptible to the effects of hunger on food selection. Therefore, they are expected to increase their intake more than low impulsive people when feeling hungry.
+   Study 1: Fifty-seven female participants were randomly assigned to a hunger or sated condition. Response inhibition (a measure of impulsivity) and food intake were measured. Results show that impulsive participants ate significantly more, but only when feeling hungry.
+   Study 2: Ninety-four undergraduate students participated. Hunger, response inhibition and the purchase of food in a virtual supermarket were measured. The same interaction was found: impulsive participants bought most calories, especially from snack food, but only when feeling hungry.
+   Conclusion: Hunger and impulsivity interact in their influence on consumption. These data suggest that reducing hunger during calorie restricting diets is important for successful weight loss, particularly for the impulsive dieters. International Journal of Obesity (2009) 33, 905-912; doi: 10.1038/ijo.2009.98; published online 23 June 2009
+C1 [Nederkoorn, C.; Guerrieri, R.; Havermans, R. C.; Roefs, A.; Jansen, A.] Maastricht Univ, Fac Psychol & Neurosci, Dept Clin Psychol Sci, NL-6200 MD Maastricht, Netherlands.
+RP Nederkoorn, C (corresponding author), Maastricht Univ, Fac Psychol & Neurosci, Dept Clin Psychol Sci, POB 616, NL-6200 MD Maastricht, Netherlands.
+EM c.nederkoorn@maastrichtuniversity.nl
+RI Havermans, Remco/G-3531-2013
+OI Jansen, Anita/0000-0001-5101-8778; Nederkoorn,
+   Chantal/0000-0002-5522-3944; Roefs, Anne/0000-0002-9935-1075; Havermans,
+   Remco/0000-0001-5832-8357
+NR 41
+TC 110
+Z9 110
+U1 0
+U2 38
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0307-0565
+J9 INT J OBESITY
+JI Int. J. Obes.
+PD AUG
+PY 2009
+VL 33
+IS 8
+BP 905
+EP 912
+DI 10.1038/ijo.2009.98
+PG 8
+WC Endocrinology & Metabolism; Nutrition & Dietetics
+SC Endocrinology & Metabolism; Nutrition & Dietetics
+GA 481HU
+UT WOS:000268799200013
+PM 19546869
+OA Bronze
+DA 2020-08-05
+ER
+
+PT J
+AU Dvorak, RD
+   Simons, JS
+AF Dvorak, Robert D.
+   Simons, Jeffrey S.
+TI Moderation of Resource Depletion in the Self-Control Strength Model:
+   Differing Effects of Two Modes of Self-Control
+SO PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+LA English
+DT Article
+DE strength model; two-mode models; blood glucose
+ID ADOLESCENT SUBSTANCE USE; COMMUNITY SAMPLE; EGO DEPLETION; CONVERGENCE;
+   TEMPERAMENT; PERSONALITY; PSYCHOLOGY; MIDDLE
+AB The current study examined the effects of good and poor control and changes in blood glucose following self-control depletion on task persistence. Good self-control attenuated the effect of depletion on task persistence. Poor control exerted a main effect; however, there were no significant interactions between poor control and self-control depletion. In addition, the association between depletion and task persistence was partially mediated by decreases in blood glucose. Task persistence in the experimental, but not control, condition was correlated with several risk behaviors. These correlations provide support for the external validity of the laboratory experiment. The differential effects of good and poor control support a two-mode model of self-control. The interaction between the depletion manipulation and good self-control suggests that associations between good self-control and behavior may be due, in part, to good self-control reducing the effects of self-control demands on behavior.
+C1 [Dvorak, Robert D.] Univ S Dakota, Dept Psychol, Vermillion, SD 57069 USA.
+RP Dvorak, RD (corresponding author), Univ S Dakota, Dept Psychol, 414 E Clark St, Vermillion, SD 57069 USA.
+EM rob.dvorak@usd.edu
+RI simons, jeffrey/F-1955-2010
+OI Dvorak, Robert/0000-0002-0613-1277
+NR 60
+TC 67
+Z9 74
+U1 0
+U2 28
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0146-1672
+EI 1552-7433
+J9 PERS SOC PSYCHOL B
+JI Pers. Soc. Psychol. Bull.
+PD MAY
+PY 2009
+VL 35
+IS 5
+BP 572
+EP 583
+DI 10.1177/0146167208330855
+PG 12
+WC Psychology, Social
+SC Psychology
+GA 437VJ
+UT WOS:000265514700004
+PM 19193603
+DA 2020-08-05
+ER
+
+PT J
+AU DeWall, CN
+   Baumeister, RF
+   Gailliot, MT
+   Maner, JK
+AF DeWall, C. Nathan
+   Baumeister, Roy F.
+   Gailliot, Matthew T.
+   Maner, Jon K.
+TI Depletion Makes the Heart Grow Less Helpful: Helping as a Function of
+   Self-Regulatory Energy and Genetic Relatedness
+SO PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+LA English
+DT Article
+DE self-regulation; self-control; glucose; helping; prosocial behavior
+ID EGO DEPLETION; ALTRUISM; BEHAVIOR; PERSPECTIVE; WILLPOWER; EMPATHY;
+   MOOD; MOTIVATIONS; PHYSIOLOGY; RESOURCES
+AB Often people are faced with conflict between prosocial motivations for helping and selfish impulses that favor not helping. Three studies tested the hypothesis that self-regulation is useful for managing such motivational conflicts. In each study, depleted self-regulatory energy reduced willingness to help others. Participants who broke a habit, relative to participants who followed a habit, later reported reduced willingness to help in hypothetical scenarios (e. g., donating food or money; Studies 1 and 3). Controlling attention while watching a video, relative to watching it normally, reduced volunteering efforts to help a victim of a recent tragedy but drinking a glucose drink undid this effect (Study 2). Depleted energy reduced helping toward strangers but it did not reduce helping toward family members (Study 3). Helping requires self-regulatory energy to manage conflict between selfish and prosocial motivations-a metabolically expensive process-and thus depleted energy reduces helping and increased energy (glucose) increases helping.
+C1 [DeWall, C. Nathan] Univ Kentucky, Dept Psychol, Lexington, KY 40506 USA.
+   [Baumeister, Roy F.; Maner, Jon K.] Florida State Univ, Tallahassee, FL 32306 USA.
+   [Gailliot, Matthew T.] Univ Amsterdam, NL-1012 WX Amsterdam, Netherlands.
+RP DeWall, CN (corresponding author), Univ Kentucky, Dept Psychol, Lexington, KY 40506 USA.
+EM nathan.dewall@uky.edu
+RI Baumeister, Roy F/R-7232-2016
+OI Baumeister, Roy F/0000-0003-1413-3296
+NR 47
+TC 192
+Z9 204
+U1 5
+U2 87
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0146-1672
+EI 1552-7433
+J9 PERS SOC PSYCHOL B
+JI Pers. Soc. Psychol. Bull.
+PD DEC
+PY 2008
+VL 34
+IS 12
+BP 1653
+EP 1662
+DI 10.1177/0146167208323981
+PG 10
+WC Psychology, Social
+SC Psychology
+GA 378SD
+UT WOS:000261343300006
+PM 19050337
+DA 2020-08-05
+ER
+
+PT J
+AU Nasser, JA
+   Evans, SM
+   Geliebter, A
+   Pi-Sunyer, FX
+   Foltin, RW
+AF Nasser, Jennifer A.
+   Evans, Suzette M.
+   Geliebter, Allan
+   Pi-Sunyer, F. Xavier
+   Foltin, Richard W.
+TI Use of an operant task to estimate food reinforcement in adult humans
+   with and without BED
+SO OBESITY
+LA English
+DT Article
+ID BINGE-EATING DISORDER; TEST MEAL INTAKE; SELF-CONTROL; OBESE; WOMEN;
+   WEIGHT; DEPRIVATION; EATERS; MODEL; IMPULSIVITY
+AB Objective: The purpose of this study was to demonstrate the utility of food-reinforced operant task performance in modeling binge-eating disorder (BED). We hypothesized that food reinforcement after a caloric preload would be related to BED status, but not hunger.
+   Methods and Procedures: We investigated the association between reports of hunger, binge tendency, and food reinforcement in a sample of 18 women (12 non-BED, 7 lean, 5 obese, and 6 obese BED). Participants completed two sessions of operant task performance after consuming 600 ml of flavored water or 600 ml of a 1 kcal/ml liquid meal.
+   Results: Under the water condition, food reinforcement did not differ between the non-BED and BED groups, and was positively correlated with hunger ratings across all participants (r = 0.55, P = 0.023). Under the liquid meal condition, food reinforcement was significantly decreased compared with the water condition in the non-BED group (t = -2.6, P = 0.026). There was also a significant difference between the non-BED and BED groups in the fed condition (41 +/- 40, 117 +/- 60, F = 10.3, P = 0.005, non-BED vs. BED, respectively, mean s.d.). The correlation between food reinforcement and hunger remained significant only in the non-BED group (r = 0.69, P = 0.011).
+   Discussion: Our results support the hypothesis that food reinforcement measured after a caloric preload is related to BED status but not hunger in those subjects with BED. The data also suggest that operant task performance can be useful in modeling BED criteria such as "eating when not physically hungry.".
+C1 [Nasser, Jennifer A.] Columbia Univ, St Lukes Roosevelt Hosp Ctr, New York Obes Res Ctr, Dept Psychiat, New York, NY 10027 USA.
+RP Nasser, JA (corresponding author), Columbia Univ, St Lukes Roosevelt Hosp Ctr, New York Obes Res Ctr, Dept Psychiat, New York, NY 10027 USA.
+EM jnasser@att.net
+RI Nasser, Jennifer/F-9050-2012
+FU NIDDK NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Diabetes &
+   Digestive & Kidney Diseases (NIDDK) [R01 DK074046-01A1S1, R01
+   DK074046-02, P30 DK 26687, R01 DK074046-02S2, R01 DK074046-03, R01
+   DK074046-02S1, P30 DK026687, R01 DK074046-05, P30 DK026687-28, R01
+   DK074046-04, R01 DK074046]
+NR 42
+TC 23
+Z9 23
+U1 0
+U2 3
+PU NATURE PUBLISHING GROUP
+PI NEW YORK
+PA 75 VARICK STREET, 9TH FLOOR, NEW YORK, NY 10013-1917 USA
+SN 1930-7381
+J9 OBESITY
+JI Obesity
+PD AUG
+PY 2008
+VL 16
+IS 8
+BP 1816
+EP 1820
+DI 10.1038/oby.2008.281
+PG 5
+WC Endocrinology & Metabolism; Nutrition & Dietetics
+SC Endocrinology & Metabolism; Nutrition & Dietetics
+GA 335OM
+UT WOS:000258299900013
+PM 18535551
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Masicampo, EJ
+   Baumeister, RF
+AF Masicampo, E. J.
+   Baumeister, Roy F.
+TI Toward a physiology of dual-process reasoning and judgment - Lemonade,
+   willpower, and expensive rule-based analysis
+SO PSYCHOLOGICAL SCIENCE
+LA English
+DT Article
+ID SELF-CONTROL; BOUNDED RATIONALITY; LIMITED RESOURCE; 2 SYSTEMS; CHOICE;
+   DEPLETION; GLUCOSE
+AB This experiment used the attraction effect to test the hypothesis that ingestion of sugar can reduce reliance on intuitive, heuristic-based decision making. In the attraction effect, a difficult choice between two options is swayed by the presence of a seemingly irrelevant "decoy" option. We replicated this effect and the finding that the effect increases when people have depleted their mental resources performing a previous self-control task. Our hypothesis was based on the assumption that effortful processes require and consume relatively large amounts of glucose (brain fuel), and that this use of glucose is why people use heuristic strategies after exerting self-control. Before performing any tasks, some participants drank lemonade sweetened with sugar, which restores blood glucose, whereas others drank lemonade containing a sugar substitute. Only lemonade with sugar reduced the attraction effect. These results show one way in which the body (blood glucose) interacts with the mind (self-control and reliance on heuristics).
+C1 [Masicampo, E. J.; Baumeister, Roy F.] Florida State Univ, Dept Psychol, Tallahassee, FL 32306 USA.
+RP Masicampo, EJ (corresponding author), Florida State Univ, Dept Psychol, Tallahassee, FL 32306 USA.
+EM masicampo@psy.fsu.edu
+RI Baumeister, Roy F/R-7232-2016
+OI Baumeister, Roy F/0000-0003-1413-3296; Masicampo,
+   E.J./0000-0002-8097-1290
+NR 19
+TC 171
+Z9 179
+U1 2
+U2 57
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0956-7976
+J9 PSYCHOL SCI
+JI Psychol. Sci.
+PD MAR
+PY 2008
+VL 19
+IS 3
+BP 255
+EP 260
+DI 10.1111/j.1467-9280.2008.02077.x
+PG 6
+WC Psychology, Multidisciplinary
+SC Psychology
+GA 270HM
+UT WOS:000253711900010
+PM 18315798
+DA 2020-08-05
+ER
+
+PT J
+AU Li, XP
+AF Li, Xiuping
+TI The effects of appetitive stimuli on out-of-domain consumption
+   impatience
+SO JOURNAL OF CONSUMER RESEARCH
+LA English
+DT Article
+ID CONSUMER DECISION-MAKING; SELF-CONTROL; BEHAVIOR; TIME; PREFERENCES;
+   TEMPTATION; REWARDS
+AB Earlier work in consumer research has documented the effect of appetitive stimuli (e.g., chocolate cookies) on a related consumption domain (e.g., eating). We argue that appetitive stimuli can lead to a change in temporal orientation and affect subsequent consumption impatience across domains. In a series of experiments, we find that consumers exposed to appetitive stimuli are more present oriented, more likely to choose smaller-sooner rewards or vice options, and more likely to make unplanned purchase decisions.
+C1 Natl Univ Singapore, Singapore 117592, Singapore.
+RP Li, XP (corresponding author), Natl Univ Singapore, Singapore 117592, Singapore.
+EM bizlx@nus.edu.sg
+RI LI, XP/B-3662-2016
+NR 34
+TC 50
+Z9 51
+U1 2
+U2 36
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0093-5301
+EI 1537-5277
+J9 J CONSUM RES
+JI J. Consum. Res.
+PD FEB
+PY 2008
+VL 34
+IS 5
+BP 649
+EP 656
+DI 10.1086/521900
+PG 8
+WC Business
+SC Business & Economics
+GA 249QP
+UT WOS:000252244300006
+DA 2020-08-05
+ER
+
+PT J
+AU Geeraert, N
+   Yzerbyt, VY
+AF Geeraert, Nicolas
+   Yzerbyt, Vincent Y.
+TI How fatiguing is dispositional suppression? Disentangling the effects of
+   procedural rebound and ego-depletion
+SO EUROPEAN JOURNAL OF SOCIAL PSYCHOLOGY
+LA English
+DT Article
+ID LINGUISTIC INTERGROUP BIAS; SELF-CONTROL; CAUSAL ATTRIBUTION; LIMITED
+   RESOURCES; OVERATTRIBUTION; INFERENCE; CULTURE; BACK
+AB Recent work has shown that correcting a dispositional inference may lead social observers to overemphasize the role of dispositional factors in subsequent judgments. This effect has been explained as a procedural rebound following a phase of dispositional suppression. We conducted two experiments to test an alternative explanation in terms of ego-depletion. In Experiment 1, we compared the effects of ego-depletion and dispositional rebound by relying on the attitude attribution paradigm and the cookie paradigm. In Experiment 2, we turned to a difficult math task in order to induce fatigue. We were able to replicate the dispositional rebound and the ego-depletion effects but none of the experiments supported an ego-depletion explanation of post-suppression dispositional rebound. Copyright (c) 2066 John Wiley & Sons, Ltd.
+C1 Univ Essex, Dept Psychol, Colchester CO4 3SQ, Essex, England.
+   Catholic Univ Louvain, B-3000 Louvain, Belgium.
+RP Geeraert, N (corresponding author), Univ Essex, Dept Psychol, Wivenhoe Pk, Colchester CO4 3SQ, Essex, England.
+EM geeraert@essex.ac.uk
+OI Yzerbyt, Vincent/0000-0003-1185-4733
+NR 37
+TC 11
+Z9 14
+U1 0
+U2 7
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0046-2772
+EI 1099-0992
+J9 EUR J SOC PSYCHOL
+JI Eur. J. Soc. Psychol.
+PD MAR-APR
+PY 2007
+VL 37
+IS 2
+BP 216
+EP 230
+DI 10.1002/ejsp.349
+PG 15
+WC Psychology, Social
+SC Psychology
+GA 145ZF
+UT WOS:000244903600002
+DA 2020-08-05
+ER
+
+PT J
+AU Briers, B
+   Pandelaere, M
+   Dewitte, S
+   Warlop, L
+AF Briers, Barbara
+   Pandelaere, Mario
+   Dewitte, Siegfried
+   Warlop, Luk
+TI Hungry for money - The desire for caloric resources increases the desire
+   for financial resources and vice versa
+SO PSYCHOLOGICAL SCIENCE
+LA English
+DT Article
+ID NEURAL RESPONSES; PREFERENCES; OBESITY; FOOD
+AB This report attempts to provide an evolutionary explanation for humans' motivation to strive for money in present-day societies. We propose that people's desire for money is a modern derivate of their desire for food. In three studies, we show the reciprocal association between the incentive value of food and of money. In Study 1, hungry participants were less likely than satiated participants to donate to charity. In Study 2, participants in a room with an olfactory food cite, known. to increase the desire to eat, offered less money in a give-some game coni pared with participants in a room free of scent. In Study 3, participants' desire for money affected the amount of M&M's(R) they ate in a subsequent taste test, but only among participants who were not restricting their food intake in order to manage their weight.
+C1 HEC Sch Management Paris, F-78351 Jouy En Josas, France.
+   Katholieke Univ Leuven, Sch Mass Commun Res, Louvain, Belgium.
+   Katholieke Univ Leuven, Dept Mkt & Org, Louvain, Belgium.
+RP Briers, B (corresponding author), HEC Sch Management Paris, 1 Rue Liberat, F-78351 Jouy En Josas, France.
+EM briers@hec.fr
+RI Dewitte, Siegfried/S-8017-2017
+OI Dewitte, Siegfried/0000-0001-6010-4782; Pandelaere,
+   Mario/0000-0001-9293-289X
+NR 24
+TC 106
+Z9 107
+U1 0
+U2 41
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0956-7976
+EI 1467-9280
+J9 PSYCHOL SCI
+JI Psychol. Sci.
+PD NOV
+PY 2006
+VL 17
+IS 11
+BP 939
+EP 943
+DI 10.1111/j.1467-9280.2006.01808.x
+PG 5
+WC Psychology, Multidisciplinary
+SC Psychology
+GA 118JW
+UT WOS:000242939600004
+PM 17176423
+DA 2020-08-05
+ER
+
+PT J
+AU Brendl, CM
+   Markman, AB
+   Messner, C
+AF Brendl, CM
+   Markman, AB
+   Messner, C
+TI The devaluation effect: Activating a need devalues unrelated objects
+SO JOURNAL OF CONSUMER RESEARCH
+LA English
+DT Article
+ID SELECTIVE ATTENTION; BEHAVIOR; MEMORY; HUNGER; RETRIEVAL; MODEL;
+   INFORMATION; DISTORTION; SALIENCE; RECALL
+AB It is commonly assumed that an object capable of satisfying a need will be perceived as subjectively more valuable as the need for it intensifies. For example, the more active the need to eat, the more valuable food will become. This outcome could be called a valuation effect. In this article, we suggest a second basic influence of needs on evaluations: that activating a focal need (e.g., to eat) makes objects unrelated to that need (e.g., shampoo) less valuable, an outcome we refer to as the devaluation effect. Two existing studies support the existence of a devaluation effect using manipulations of the need to eat and to smoke and measuring attractiveness of consumer products and willingness to purchase raffle tickets. Furthermore, the evidence suggests that consumers are not aware of the devaluation effect and its influence on their preferences.
+C1 INSEAD, Mkt, F-77305 Fontainebleau, France.
+   Univ Texas, Austin, TX 78712 USA.
+   Univ Basel, Inst Psychol, CH-4056 Basel, Switzerland.
+RP Brendl, CM (corresponding author), INSEAD, Mkt, Blvd Constance, F-77305 Fontainebleau, France.
+RI Markman, Arthur B/A-7657-2009; Messner, Claude/O-6463-2015
+OI Messner, Claude/0000-0002-7120-0216
+NR 50
+TC 134
+Z9 136
+U1 1
+U2 40
+PU UNIV CHICAGO PRESS
+PI CHICAGO
+PA 1427 E 60TH ST, CHICAGO, IL 60637-2954 USA
+SN 0093-5301
+J9 J CONSUM RES
+JI J. Consum. Res.
+PD MAR
+PY 2003
+VL 29
+IS 4
+BP 463
+EP 473
+DI 10.1086/346243
+PG 11
+WC Business
+SC Business & Economics
+GA 662WN
+UT WOS:000181972200002
+DA 2020-08-05
+ER
+
+PT J
+AU Kirk, JM
+   Logue, AW
+AF Kirk, JM
+   Logue, AW
+TI Effects of deprivation level on humans' self-control for food
+   reinforcers
+SO APPETITE
+LA English
+DT Article; Proceedings Paper
+CT 66th Annual Meeting of the Eastern-Psychological-Association
+CY MAR-APR -, 1995
+CL BOSTON, MA
+SP E Psychol Assoc
+ID ADULT HUMANS; EATING REGULATION; IMPULSIVENESS; CONTINGENCIES;
+   SENSITIVITY; DELAY
+AB Deprivation level was manipulated in fourteen food- and water-deprived adult human females to examine its effects on self-control for food (choice of larger, more delayed access to apple juice over smaller, less delayed access to apple juice). Each subject was exposed to two treatments: (1) consumption of a 500 g tomato soup preload just prior to self-control testing and (2) no soup preload. When subjects had consumed soup, they reported significantly less hunger and showed significantly more self-control as compared to when not having consumed soup. Additionally, when subjects had consumed soup, self-control decreased as a function of session time. Subjects who reported that they were currently dieting drank significantly less juice when they had previously consumed soup than when they had not previously consumed soup. Together, the results indicate that when subjects are more deprived they may be less able to wait for food reinforcers (i.e., show less self-control). Such behavior may be adaptive in situations in which energy is needed to survive periods of food scarcity. (C) 1997 Academic Press Limited.
+C1 SUNY STONY BROOK,DEPT PSYCHOL,STONY BROOK,NY 11794.
+NR 27
+TC 37
+Z9 37
+U1 0
+U2 5
+PU ACADEMIC PRESS LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON, ENGLAND NW1 7DX
+SN 0195-6663
+J9 APPETITE
+JI Appetite
+PD JUN
+PY 1997
+VL 28
+IS 3
+BP 215
+EP 226
+DI 10.1006/appe.1996.0071
+PG 12
+WC Behavioral Sciences; Nutrition & Dietetics
+SC Behavioral Sciences; Nutrition & Dietetics
+GA XG039
+UT WOS:A1997XG03900003
+PM 9218095
+DA 2020-08-05
+ER
+
+PT J
+AU Saelens, BE
+   Epstein, LH
+AF Saelens, BE
+   Epstein, LH
+TI Reinforcing value of food in obese and non-obese women
+SO APPETITE
+LA English
+DT Article
+ID CONDITIONED MEAL INITIATION; ECONOMIC-ANALYSIS; DIETARY RESTRAINT;
+   NUCLEUS-ACCUMBENS; YOUNG-CHILDREN; BABOONS; CHOICE; DOPAMINE;
+   SENSITIZATION; INDIVIDUALS
+AB Food is a powerful reinforcer, and individual differences in the reinforcing efficacy of food may provide a mechanism to explain the excess intake and positive energy balance responsible for obesity. The present study tested the hypothesis that eating palatable food would be more reinforcing than engaging in sedentary activities (e.g. playing computer games) for obese in comparison to non-obese non-dietary restrained female college students. Subjects could choose to eat food or engage in sedentary activities based on their responding in a computer-generated concurrent schedules task. The reinforcement schedule associated with earning access to sedentary activities was held at variable ratio 2 (VR2) while the food reinforcement schedule was set at VR2 in the first trial of the choice task and doubled across the four subsequent trials from VR4 to VR32. Choice and consumption results indicated that eating was significantly more reinforcing than engaging in sedentary activities for obese subjects than non-obese subjects. Hedonics for the activities and foods were not correlated with total food reinforcers earned and did not differ between the groups. These results confirm the hypothesis that eating food is more reinforcing than selected alternative activities to a greater extent for obese than for non-obese young women. (C) 1996 Academic Press Limited
+C1 SUNY BUFFALO,DEPT PSYCHOL,BEHAV MED RES LAB,BUFFALO,NY 14260.
+FU NICHD NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH Eunice Kennedy Shriver National
+   Institute of Child Health & Human Development (NICHD) [HD 20829, HD
+   25997]
+NR 44
+TC 203
+Z9 205
+U1 0
+U2 32
+PU ACADEMIC PRESS LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON, ENGLAND NW1 7DX
+SN 0195-6663
+J9 APPETITE
+JI Appetite
+PD AUG
+PY 1996
+VL 27
+IS 1
+BP 41
+EP 50
+DI 10.1006/appe.1996.0032
+PG 10
+WC Behavioral Sciences; Nutrition & Dietetics
+SC Behavioral Sciences; Nutrition & Dietetics
+GA VF885
+UT WOS:A1996VF88500004
+PM 8879418
+DA 2020-08-05
+ER
+
+PT J
+AU STEINBERG, SA
+   YALCH, RF
+AF STEINBERG, SA
+   YALCH, RF
+TI WHEN EATING BEGETS BUYING - EFFECTS OF FOOD SAMPLES ON OBESE AND
+   NON-OBESE SHOPPERS
+SO JOURNAL OF CONSUMER RESEARCH
+LA English
+DT Article
+RP STEINBERG, SA (corresponding author), UNIV WASHINGTON,SCH BUSINESS ADM,SEATTLE,WA 98195, USA.
+NR 16
+TC 18
+Z9 18
+U1 0
+U2 6
+PU UNIV CHICAGO PRESS
+PI CHICAGO
+PA 5720 S WOODLAWN AVE, CHICAGO, IL 60637
+SN 0093-5301
+J9 J CONSUM RES
+JI J. Consum. Res.
+PY 1978
+VL 4
+IS 4
+BP 243
+EP 246
+DI 10.1086/208702
+PG 4
+WC Business
+SC Business & Economics
+GA EX909
+UT WOS:A1978EX90900003
+DA 2020-08-05
+ER
+
+PT J
+AU TOM, G
+   RUCKER, M
+AF TOM, G
+   RUCKER, M
+TI FAT, FULL, AND HAPPY - EFFECTS OF FOOD-DEPRIVATION, EXTERNAL CUES, AND
+   OBESITY ON PREFERENCE RATINGS, CONSUMPTION, AND BUYING INTENTIONS
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+C1 UNIV CALIF,COLL AGR,DAVIS,CA 95616.
+NR 13
+TC 24
+Z9 24
+U1 0
+U2 2
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0022-3514
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PY 1975
+VL 32
+IS 5
+BP 761
+EP 766
+DI 10.1037/0022-3514.32.5.761
+PG 6
+WC Psychology, Social
+SC Psychology
+GA AW345
+UT WOS:A1975AW34500001
+PM 1185512
+DA 2020-08-05
+ER
+
+PT J
+AU NISBETT, RE
+   KANOUSE, DE
+AF NISBETT, RE
+   KANOUSE, DE
+TI OBESITY, FOOD DEPRIVATION, AND SUPERMARKET SHOPPING BEHAVIOR
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+NR 10
+TC 86
+Z9 87
+U1 0
+U2 7
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0022-3514
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PY 1969
+VL 12
+IS 4
+BP 289
+EP &
+DI 10.1037/h0027799
+PG 0
+WC Psychology, Social
+SC Psychology
+GA D9560
+UT WOS:A1969D956000003
+PM 5821855
+DA 2020-08-05
+ER
+
+EF

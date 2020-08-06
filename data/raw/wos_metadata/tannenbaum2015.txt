@@ -1,0 +1,3482 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Dijkstra, A
+   Bos, C
+AF Dijkstra, Arie
+   Bos, Colin
+TI The Effects of Repeated Exposure to Graphic Fear Appeals on Cigarette
+   Packages: A Field Experiment
+SO PSYCHOLOGY OF ADDICTIVE BEHAVIORS
+LA English
+DT Article
+DE smoking; fear appeals; graphic warnings; textual warnings; repeated
+   exposure
+ID PUBLIC-HEALTH CAMPAIGNS; WARNING LABELS; SMOKING-CESSATION;
+   DISENGAGEMENT BELIEFS; BEHAVIOR-CHANGE; SMOKERS; IMPACT; MESSAGES;
+   METAANALYSIS; ADOLESCENTS
+AB Experimental studies on the effects of graphic fear appeals on cigarette packages typically expose smokers in a single session to a fear appeal, although in practice the exposure is always repeated. The present study applied an improved study design with repeated exposure to fear appeals on cigarette packages. In this field-experiment, 118 smokers were assigned to 1 of 2 conditions with either graphic fear appeals or textual warnings on their cigarette packages. During 3 weeks, fear and disgust were assessed 6 times. The intention to quit smoking after 3 weeks and quitting activity during the 3 weeks were the dependent measures. The effects of 3 pretest individual difference moderators were tested: disengagement beliefs, number of cigarettes smoked a day, and readiness to quit. Three weeks of exposure to the graphic fear appeals led to a stronger intention to quit, but only when smokers scored low on disengagement beliefs, or were heavier smokers. In addition, smokers low in disengagement more often reported to have cut down on smoking in the graphic condition. There were no indications of habituation of fear and disgust over the 3 weeks. The effects of graphic fear appeals depended on smokers' characteristics: The moderators may explain the mixed findings in the literature. The lack of habituation may be caused by the renewal of the graphics every few days. The used field-experimental design with natural repeated exposure to graphics is promising.
+C1 [Dijkstra, Arie] Univ Groningen, Dept Social Psychol, NL-9712 TS Groningen, Netherlands.
+   [Bos, Colin] Wageningen Univ, Mkt & Consumer Behav Grp, NL-6700 AP Wageningen, Netherlands.
+RP Dijkstra, A (corresponding author), Univ Groningen, Social Psychol, Grote Kruisstr 2-1, NL-9712 TS Groningen, Netherlands.
+EM arie.dijkstra@rug.nl
+NR 49
+TC 11
+Z9 11
+U1 3
+U2 29
+PU EDUCATIONAL PUBLISHING FOUNDATION-AMERICAN PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST, NE, WASHINGTON, DC 20002-4242 USA
+SN 0893-164X
+EI 1939-1501
+J9 PSYCHOL ADDICT BEHAV
+JI Psychol. Addict. Behav.
+PD MAR
+PY 2015
+VL 29
+IS 1
+BP 82
+EP 90
+DI 10.1037/adb0000049
+PG 9
+WC Substance Abuse; Psychology, Multidisciplinary
+SC Substance Abuse; Psychology
+GA CF1PD
+UT WOS:000352318200010
+PM 25621418
+DA 2020-08-05
+ER
+
+PT J
+AU Feenstra, H
+   Ruiter, RAC
+   Kok, G
+AF Feenstra, Hans
+   Ruiter, Robert A. C.
+   Kok, Gerjo
+TI Evaluating traffic informers: Testing the behavioral and
+   social-cognitive effects of an adolescent bicycle safety education
+   program
+SO ACCIDENT ANALYSIS AND PREVENTION
+LA English
+DT Article
+DE Adolescent; Cycling; Risk communication; Intervention; Road safety
+   education; Risk behavior
+ID DRIVING BEHAVIOR; RISK PERCEPTION; FEAR APPEALS; NEUROSCIENTIFIC
+   EVIDENCE; DECISION-MAKING; HEALTH BEHAVIOR; YOUNG DRIVERS; METAANALYSIS;
+   INTENTIONS; INTERVENTIONS
+AB In The Netherlands, 12-24 years old are over-represented in the total number of traffic fatalities and injuries. In this study, the traffic informer program - designed to promote safe traffic behavior in the pre-driver population - was experimentally evaluated, with a specific focus on bicycle use. Students were subjected to graphic videos of traffic accidents and listened to a first-person narrative provided by a traffic accident victim. The influence of the program on concepts derived from the theory of planned behavior and protection motivation theory (attitudes, norms, self-efficacy, risk-perception, intention and behavior) was assessed. Students from various schools (N = 1593; M age = 15 years, SD = .84) participated in a quasi-experimental study, either in an experimental or a control group, completing self-report questionnaires one week prior to the program implementation and approximately one month after the program implementation. Mixed regression analyses showed significant positive and negative time x intervention interaction effects on attitude toward traffic violations, relative attitude toward traffic safety, and risk comparison, but not on intention and behavior. More research is needed to find effective behavioral change techniques (other than increasing risk awareness) for promoting safe traffic behavior in adolescents. Research is also needed to address how these can be translated into effective interventions and educational programs. (C) 2014 The Authors. Published by Elsevier Ltd.
+C1 [Feenstra, Hans; Ruiter, Robert A. C.; Kok, Gerjo] Maastricht Univ, Fac Psychol & Neurosci, NL-6200 MD Maastricht, Netherlands.
+RP Kok, G (corresponding author), Maastricht Univ, POB 616, NL-6200 MD Maastricht, Netherlands.
+EM g.kok@maastrichtuniversity.nl
+NR 73
+TC 7
+Z9 7
+U1 2
+U2 34
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0001-4575
+EI 1879-2057
+J9 ACCIDENT ANAL PREV
+JI Accid. Anal. Prev.
+PD DEC
+PY 2014
+VL 73
+BP 288
+EP 295
+DI 10.1016/j.aap.2014.09.024
+PG 8
+WC Ergonomics; Public, Environmental & Occupational Health; Social
+   Sciences, Interdisciplinary; Transportation
+SC Engineering; Public, Environmental & Occupational Health; Social
+   Sciences - Other Topics; Transportation
+GA AW7OO
+UT WOS:000346453600034
+PM 25261912
+OA Other Gold
+DA 2020-08-05
+ER
+
+PT J
+AU Duke, JC
+   Nonnemaker, JM
+   Davis, KC
+   Watson, KA
+   Farrelly, MC
+AF Duke, Jennifer C.
+   Nonnemaker, James M.
+   Davis, Kevin C.
+   Watson, Kimberly A.
+   Farrelly, Matthew C.
+TI The Impact of Cessation Media Messages on Cessation-Related Outcomes:
+   Results From a National Experiment of Smokers
+SO AMERICAN JOURNAL OF HEALTH PROMOTION
+LA English
+DT Article
+DE Smoking Cessation; Mass Media; Health Communication; Tobacco Control;
+   Prevention Research. Manuscript format: research; Research purpose:
+   intervention testing/program evaluation; Study design: randomized trial;
+   Outcome measure: cognitive; behavioral; Setting: national; Health focus:
+   smoking control; Strategy: skill building/behavior change; Target
+   population age: adults; Target population circumstances: smokers
+ID PROMOTE SMOKING-CESSATION; MASS-MEDIA; FEAR APPEALS; ANTISMOKING ADS;
+   CAMPAIGNS; DISPARITIES; MODEL; RACE/ETHNICITY; ATTRITION; ADULTS
+AB Purpose. Examine effects of exposure to two types of cessation advertisements on changes in cessation-related outcomes.
+   Design. Experimental data from a nationally representative, longitudinal sample of smokers, collected in three waves over 4 weeks.
+   Setting. National.
+   Subjects. Three thousand and two adult U.S. smokers aged 18+ completed baseline and follow-up interviews at 2 and 4 weeks., from December 2010 to February 2011.
+   Intervention. Six randomly assigned conditions consisting of repeated exposure to cessation advertisements: why-to-quit advertisements featuring emotional, personal testimonies (1: WTQ-T) or graphic images (2: WTQ-G); how-to-quit advertisements (3: HTQ), a combination of both (4: WTQ-T + HTQ; 5: WTQ-G+ HTQ), and no-ad condition (6: control).
+   Measures. Cessation-related beliefs, attitudes, intentions, and quitting behavior.
+   Analysis. Multivariable ordinary least squares and logistic regressions testing whether exposure to antitobacco television advertisements were associated with changes in tobacco-related outcomes.
+   Results. Exposure to WTQ-T or WTQ-G advertisements, both alone and combined with HTQ advertisements, elicited positive change in beliefs, attitudes, and intentions as compared to controls. Smokers in three of four WTQ conditions were substantially more likely to have quit smoking at 4 weeks than controls (odds ratios range from 5.9 to 10.1, p < .05 or better). No effects were found for the HTQ-only condition.
+   Conclusion. Exposure to WTQ advertisements markedly increases the odds that a smoker will quit in the study period, suggesting positive movement toward successful, long-term cessation. HTQ advertisements did not enhance advertising effectiveness and may not be suitable as a primary message strategy.
+C1 [Duke, Jennifer C.; Nonnemaker, James M.; Davis, Kevin C.; Watson, Kimberly A.; Farrelly, Matthew C.] RTI Int, Res Triangle Pk, NC 27709 USA.
+RP Duke, JC (corresponding author), RTI Int, 3040 Cornwallis Rd,POB 12194, Res Triangle Pk, NC 27709 USA.
+EM jduke@rti.org
+NR 54
+TC 14
+Z9 14
+U1 1
+U2 23
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0890-1171
+EI 2168-6602
+J9 AM J HEALTH PROMOT
+JI Am. J. Health Promot.
+PD MAY-APR
+PY 2014
+VL 28
+IS 4
+BP 242
+EP 250
+DI 10.4278/ajhp.120920-QUAN-452
+PG 9
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA AR8XU
+UT WOS:000343855500006
+PM 23875987
+DA 2020-08-05
+ER
+
+PT J
+AU Cooper, DP
+   Goldenberg, JL
+   Arndt, J
+AF Cooper, Douglas P.
+   Goldenberg, Jamie L.
+   Arndt, Jamie
+TI Perceived efficacy, conscious fear of death and intentions to tan: Not
+   all fear appeals are created equal
+SO BRITISH JOURNAL OF HEALTH PSYCHOLOGY
+LA English
+DT Article
+ID PROTECTION-MOTIVATION THEORY; TERROR MANAGEMENT THEORY; PARALLEL PROCESS
+   MODEL; MORTALITY SALIENCE; HEALTH-RISK; SELF-EXAM; BEHAVIOR;
+   METAANALYSIS; MESSAGE; COMPONENTS
+AB Objectives. According to the terror management health model, conscious thoughts of death motivate productive health behaviours when the targeted behaviour is perceived as an effective route for mitigating the threat and removing death-related thought from focal awareness. The present study thus examined whether messages manipulating the efficacy of a health behaviour moderate health outcomes when participants are presented with a fear appeal that makes death thought conscious.
+   Design. A3 (fear appeal: cancer vs. appearance vs. neutral) x 2 (delay vs. no delay) x 2 (effective vs. non-effective) between-subjects ANOVA was conducted.
+   Methods. Beach patrons were randomly assigned to a cancer, appearance, or neutral-threat fear appeal followed by a delay or no delay. Subsequently, they read messages highlighting the effectiveness or ineffectiveness of sun protection behaviours and reported their intentions to engage in those behaviours.
+   Results. When fear appeals primed conscious thoughts of death, framing sun protection as ineffective decreased sun protection intentions relative to framing sun protection as effective. In contrast, fear appeals that did not consciously prime death, or appeals followed by a delay that allowed thoughts of death to fade from consciousness, did not interact with efficacy messages.
+   Conclusions. The findings revealed that messages impacting sun protection efficacy moderated sun protection intentions only when death was conscious. The findings have implications for understanding the conditions that render certain fear appeals, and accompanying messages of efficacy, more influential than others.
+C1 [Cooper, Douglas P.] Johnson C Smith Univ, Charlotte, NC 28216 USA.
+   [Goldenberg, Jamie L.] Univ S Florida, Tampa, FL USA.
+   [Arndt, Jamie] Univ Missouri, Columbia, MO USA.
+RP Cooper, DP (corresponding author), Johnson C Smith Univ, Dept Social & Behav Sci, 100 Beatties Ford Rd, Charlotte, NC 28216 USA.
+EM dpcooper@jcsu.edu
+FU NCI NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Cancer Institute (NCI)
+   [R01CA09658]
+NR 40
+TC 15
+Z9 15
+U1 1
+U2 23
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1359-107X
+EI 2044-8287
+J9 BRIT J HEALTH PSYCH
+JI Br. J. Health Psychol.
+PD FEB
+PY 2014
+VL 19
+IS 1
+BP 1
+EP 15
+DI 10.1111/bjhp.12019
+PG 15
+WC Psychology, Clinical
+SC Psychology
+GA AJ2SY
+UT WOS:000337514200001
+PM 23331760
+DA 2020-08-05
+ER
+
+PT J
+AU Lwin, MO
+   Malik, S
+AF Lwin, May O.
+   Malik, Shelly
+TI Can Exergames Impart Health Messages? Game Play, Framing, and Drivers of
+   Physical Activity Among Children
+SO JOURNAL OF HEALTH COMMUNICATION
+LA English
+DT Article
+ID PROTECTION MOTIVATION THEORY; PLANNED BEHAVIOR; EXERCISE INTENTIONS;
+   ENERGY-EXPENDITURE; SELF-EFFICACY; VIDEO GAMES; GROUP NORMS; MASS-MEDIA;
+   ADOLESCENTS; PARTICIPATION
+AB This study examines the effectiveness of incorporating exergaming into physical education lessons as a platform for imparting health education messages and influencing children's beliefs about and attitudes toward physical activity. The authors launched a 6-week intervention program using Nintendo Wii games coupled with protection motivation theory-based health messaging among 5th-grade school children in Singapore. Results indicated that when children who were exposed to threat-framed messages played Wii exergames during physical education lessons, they reported more positive physical activity attitude, self-efficacy, and perceived behavioral control than did those who underwent regular physical education lessons and were exposed to the same message. In addition, among children playing Wii, the threat and coping frames had similar effects on the degree of message influence on physical activity attitudes and beliefs. The implications for schools, parents, and health policy are discussed.
+C1 [Lwin, May O.; Malik, Shelly] Nanyang Technol Univ, Wee Kim Wee Sch Commun & Informat, Singapore 637718, Singapore.
+RP Lwin, MO (corresponding author), Nanyang Technol Univ, Wee Kim Wee Sch Commun & Informat, 31 Nanyang Link, Singapore 637718, Singapore.
+EM tmaylwin@ntu.edu.sg
+RI Lwin, May/A-9900-2014
+OI Lwin, May/0000-0003-1832-8242
+NR 70
+TC 13
+Z9 15
+U1 0
+U2 33
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 520 CHESTNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 1081-0730
+EI 1087-0415
+J9 J HEALTH COMMUN
+JI J. Health Commun.
+PD FEB 1
+PY 2014
+VL 19
+IS 2
+BP 136
+EP 151
+DI 10.1080/10810730.2013.798372
+PG 16
+WC Communication; Information Science & Library Science
+SC Communication; Information Science & Library Science
+GA AB0ZQ
+UT WOS:000331521400002
+PM 24191779
+DA 2020-08-05
+ER
+
+PT J
+AU Morris, KL
+   Cooper, DP
+   Goldenberg, JL
+   Arndt, J
+   Gibbons, FX
+AF Morris, Kasey Lynn
+   Cooper, Douglas P.
+   Goldenberg, Jamie L.
+   Arndt, Jamie
+   Gibbons, Frederick X.
+TI Improving the efficacy of appearance-based sun exposure interventions
+   with the terror management health model
+SO PSYCHOLOGY & HEALTH
+LA English
+DT Article
+DE tanning; UV imaging; mortality salience; self-esteem
+ID MORTALITY SALIENCE; SELF-EFFICACY; FEAR APPEALS; PROTECTION; DEATH;
+   INTENTIONS; CANCER; INFORMATION; BEHAVIORS; MOTIVES
+AB The terror management health model (TMHM) suggests that when thoughts of death are accessible people become increasingly motivated to bolster their self-esteem relative to their health, because doing so offers psychological protection against mortality concerns. Two studies examined sun protection intentions as a function of mortality reminders and an appearance-based intervention. In Study 1, participants given a sun protection message that primed mortality and shown a UV-filtered photo of their face reported greater intentions to use sun protection on their face, and took more sunscreen samples than participants shown a regular photo of their face. In Study 2, reminders of mortality increased participants' intentions to use facial sun protection when the UV photo was specifically framed as revealing appearance consequences of tanning, compared to when the photo was framed as revealing health consequences or when no photo was shown. These findings extend the TMHM, and provide preliminary evidence that appearance-based tanning interventions have a greater influence on sun protection intentions under conditions that prime thoughts of death. We discuss implications of the findings, and highlight the need for additional research examining the applicability to long-term tanning behaviour.
+C1 [Morris, Kasey Lynn; Goldenberg, Jamie L.] Univ S Florida, Dept Psychol, Tampa, FL 33620 USA.
+   [Cooper, Douglas P.] Johnson C Smith Univ, Dept Psychol, Charlotte, NC USA.
+   [Arndt, Jamie] Univ Missouri, Dept Psychol, Columbia, MO USA.
+   [Gibbons, Frederick X.] Dartmouth Coll, Dept Psychol, Hanover, NH 03755 USA.
+RP Morris, KL (corresponding author), Univ S Florida, Dept Psychol, Tampa, FL 33620 USA.
+EM kaseymorris@mail.usf.edu
+FU NCI NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Cancer Institute (NCI) [R01
+   CA096581, T32 CA009658, R01CA09658]
+NR 51
+TC 9
+Z9 9
+U1 0
+U2 14
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0887-0446
+EI 1476-8321
+J9 PSYCHOL HEALTH
+JI Psychol. Health
+PY 2014
+VL 29
+IS 11
+BP 1245
+EP 1264
+DI 10.1080/08870446.2014.922184
+PG 20
+WC Public, Environmental & Occupational Health; Psychology,
+   Multidisciplinary
+SC Public, Environmental & Occupational Health; Psychology
+GA AP1OW
+UT WOS:000341841400002
+PM 24811049
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Yoon, HJ
+   Tinkham, SF
+AF Yoon, Hye Jin
+   Tinkham, Spencer F.
+TI Humorous Threat Persuasion in Advertising: The Effects of Humor, Threat
+   Intensity, and Issue Involvement
+SO JOURNAL OF ADVERTISING
+LA English
+DT Article
+ID FEAR APPEALS; NEGATIVITY; RESPONSES; STRESS; RISK; HYPOTHESIS;
+   ATTITUDES; AROUSAL; IMPACT; MODEL
+AB Using humor to communicate threatening information in advertising can often be observed in practice, but scholars have seldom investigated its effects. Drawing from dual processing models, the current study proposed that response to humor in threat persuasion would depend on the individual's level of issue involvement. This proposition was tested in two experiments. In Study 1, a significant humor and issue involvement interaction effect emerged for threat persuasion ads; low-involvement individuals rated the humor ad more positively than the nonhumor ad, and the opposite was true for high-involvement individuals. With threat intensities varied in Study 2, the results indicated that the effectiveness of various threat intensity and humor combinations depended on the individual's issue involvement. Implications for both theory and practice are discussed.
+C1 [Yoon, Hye Jin] So Methodist Univ, Meadows Sch Arts, Temerlin Advertising Inst, Dallas, TX 75275 USA.
+   [Tinkham, Spencer F.] Univ Georgia, Grady Coll Journalism & Mass Commun, Athens, GA 30602 USA.
+RP Yoon, HJ (corresponding author), So Methodist Univ, Meadows Sch Arts, Temerlin Advertising Inst, Dallas, TX 75275 USA.
+EM hjyoon@smu.edu
+NR 66
+TC 30
+Z9 30
+U1 1
+U2 99
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0091-3367
+EI 1557-7805
+J9 J ADVERTISING
+JI J. Advert.
+PY 2013
+VL 42
+IS 1
+BP 30
+EP 41
+DI 10.1080/00913367.2012.749082
+PG 12
+WC Business; Communication
+SC Business & Economics; Communication
+GA 133ZN
+UT WOS:000318179500003
+DA 2020-08-05
+ER
+
+PT J
+AU Umeh, K
+AF Umeh, Kanayo
+TI Does a Credible Source Also Need a Fearful Audience?
+SO JOURNAL OF APPLIED SOCIAL PSYCHOLOGY
+LA English
+DT Article
+ID BREAST SELF-EXAMINATION; SOURCE CREDIBILITY; AROUSING COMMUNICATIONS;
+   MERE EXPOSURE; PERSUASION; CANCER; APPEALS; MULTIPLE; ATTITUDE; MESSAGE
+AB Does a credible source also need a fearful audience? Current evidence is ambiguous. This study assessed the persuasiveness of a message from a high/low credible source, with strong/weak fear content. Over 270 undergraduates provided attitudinal information before and after receiving a warning about breast cancer, incorporating the experimental manipulations. Attitudes improved after message exposure, irrespective of the fear appeal and source credibility. However, the strong fear appeal amplified message acceptance. There was no evidence of an interaction between source credibility and fear. However, aroused fear and perceived credibility reduced resistance. Neither fear nor source credibility affected persuasion after several months. Instead pre-message resistance played a critical role. These findings revisit old debates about the importance of peripheral cues in persuasion.
+C1 Liverpool John Moores Univ, Sch Nat Sci & Psychol, Liverpool L3 3AF, Merseyside, England.
+RP Umeh, K (corresponding author), Liverpool John Moores Univ, Sch Nat Sci & Psychol, Liverpool L3 3AF, Merseyside, England.
+EM f.k.umeh@ljmu.ac.uk
+NR 58
+TC 5
+Z9 5
+U1 3
+U2 15
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0021-9029
+J9 J APPL SOC PSYCHOL
+JI J. Appl. Soc. Psychol.
+PD JUL
+PY 2012
+VL 42
+IS 7
+BP 1716
+EP 1744
+DI 10.1111/j.1559-1816.2012.00916.x
+PG 29
+WC Psychology, Social
+SC Psychology
+GA 968PN
+UT WOS:000305996100008
+DA 2020-08-05
+ER
+
+PT J
+AU Morales, AC
+   Wu, EC
+   Fitzsimons, GJ
+AF Morales, Andrea C.
+   Wu, Eugenia C.
+   Fitzsimons, Gavan J.
+TI How Disgust Enhances the Effectiveness of Fear Appeals
+SO JOURNAL OF MARKETING RESEARCH
+LA English
+DT Article
+DE disgust; fear; persuasion; advertising; compliance
+ID RISK; AIDS; PROBABILITY; EMOTIONS; EFFICACY; MEDIATOR
+AB The current research explores the role of disgust in enhancing compliance with fear appeals. Despite its frequent use in advertising and prevalence in consumer settings, little is known about the specific role that disgust plays in persuasion. This article explores the unique characteristics of disgust and examines its distinctive effect on persuasion. The results across a series of four studies demonstrate that adding disgust to a fear appeal appreciably enhances message persuasion and compliance beyond that of appeals that elicit only fear. Importantly, the results trace the persuasive effects of disgust to its strong and immediate avoidance reaction.
+C1 [Morales, Andrea C.] Arizona State Univ, WP Carey Sch Business, Tempe, AZ 85287 USA.
+   [Wu, Eugenia C.] Cornell Univ, Samuel Curtis Johnson Grad Sch Management, Ithaca, NY 14853 USA.
+   [Fitzsimons, Gavan J.] Duke Univ, Fuqua Sch Business, Durham, NC 27706 USA.
+RP Morales, AC (corresponding author), Arizona State Univ, WP Carey Sch Business, Tempe, AZ 85287 USA.
+EM acmorales@asu.edu; ecw72@cornell.edu; gavan@duke.edu
+NR 52
+TC 66
+Z9 68
+U1 0
+U2 71
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0022-2437
+EI 1547-7193
+J9 J MARKETING RES
+JI J. Mark. Res.
+PD JUN
+PY 2012
+VL 49
+IS 3
+BP 383
+EP 393
+DI 10.1509/jmr.07.0364
+PG 11
+WC Business
+SC Business & Economics
+GA 954VC
+UT WOS:000304974500008
+DA 2020-08-05
+ER
+
+PT J
+AU Shen, LJ
+AF Shen, Lijiang
+TI The Effectiveness of Empathy- Versus Fear-Arousing Antismoking PSAs
+SO HEALTH COMMUNICATION
+LA English
+DT Article
+ID PSYCHOLOGICAL REACTANCE; SENSATION VALUE; YOUTH SMOKING; APPEALS; RISK;
+   ADVERTISEMENTS; COMMUNICATION; CAMPAIGNS; KNOWLEDGE; RESPONSES
+AB Building on a previous study (Shen, 2010), this paper investigates the effectiveness of fear-versus empathy-arousing antismoking PSAs and examines the roles of message-induced fear and state empathy in persuasion. Twelve professionally produced antismoking PSAs were used as stimuli messages in a 3 (message type: empathy, fear vs. control) x 4 (messages) mixed design study. The 260 participants were randomly assigned to each message type and watched four PSAs presented in a random sequence. Results from multilevel modeling analyses showed that empathy-arousing messages are potentially more effective than fear-arousing ones. Both fear and state empathy were found to have a positive direct effect on persuasion. However, fear also had a negative indirect impact on persuasion by activating psychological reactance, while state empathy also had a positive indirect effect by inhibiting psychological reactance. Implications for persuasion, health communication campaigns, and future research were discussed.
+C1 Univ Georgia, Dept Speech Commun, Athens, GA 30602 USA.
+RP Shen, LJ (corresponding author), Univ Georgia, Dept Speech Commun, 110 Terrell Hall, Athens, GA 30602 USA.
+EM lshen@uga.edu
+OI SHEN, LIJIANG/0000-0003-4870-4878
+FU ODCDC CDC HHS [1P01CD000242-01]
+NR 67
+TC 29
+Z9 29
+U1 2
+U2 62
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1041-0236
+EI 1532-7027
+J9 HEALTH COMMUN
+JI Health Commun.
+PY 2011
+VL 26
+IS 5
+BP 404
+EP 415
+DI 10.1080/10410236.2011.552480
+PG 12
+WC Communication; Health Policy & Services
+SC Communication; Health Care Sciences & Services
+GA 882MH
+UT WOS:000299567300002
+PM 21409669
+DA 2020-08-05
+ER
+
+PT J
+AU Lewis, IM
+   Watson, B
+   White, KM
+AF Lewis, I. M.
+   Watson, B.
+   White, K. M.
+TI Response efficacy: The key to minimizing rejection and maximizing
+   acceptance of emotion-based anti-speeding messages
+SO ACCIDENT ANALYSIS AND PREVENTION
+LA English
+DT Article
+DE Road safety advertising; Emotional appeals; Anti-speeding messages;
+   Response efficacy; Message acceptance; Message rejection
+ID FEAR APPEALS; MEDIATORS; MODEL
+AB This study sought to improve understanding of the persuasive process of emotion-based appeals not only in relation to negative, fear-based appeals but also for appeals based upon positive emotions. In particular, the study investigated whether response efficacy, as a cognitive construct, mediated outcome measures of message effectiveness in terms of both acceptance and rejection of negative and positive emotion-based messages. Licensed drivers (N = 406) participated via the completion of an on-line survey. Within the survey, participants received either a negative (fear-based) appeal or one of the two possible positive appeals (pride or humor-based). Overall, the study's findings confirmed the importance of emotional and cognitive components of persuasive health messages and identified response efficacy as a key cognitive construct influencing the effectiveness of not only fear-based messages but also positive emotion-based messages. Interestingly, however, the results suggested that response efficacy's influence on message effectiveness may differ for positive and negative emotion-based appeals such that significant indirect (and mediational) effects were found with both acceptance and rejection of the positive appeals yet only with rejection of the fear-based appeal. As such, the study's findings provide an important extension to extant literature and may inform future advertising message design. (C) 2009 Elsevier Ltd. All rights reserved.
+C1 [Lewis, I. M.; Watson, B.] QUT, CARRS Q, Kelvin Grove, Qld 4059, Australia.
+   [White, K. M.] QUT, Sch Psychol & Counselling, Kelvin Grove, Qld 4059, Australia.
+RP Lewis, IM (corresponding author), QUT, CARRS Q, Kelvin Grove Campus, Kelvin Grove, Qld 4059, Australia.
+EM i.lewis@qut.edu.au
+OI Watson, Barry/0000-0001-5383-2300; White, Katherine/0000-0002-0345-4724
+NR 39
+TC 60
+Z9 61
+U1 3
+U2 36
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0001-4575
+EI 1879-2057
+J9 ACCIDENT ANAL PREV
+JI Accid. Anal. Prev.
+PD MAR
+PY 2010
+VL 42
+IS 2
+BP 459
+EP 467
+DI 10.1016/j.aap.2009.09.008
+PG 9
+WC Ergonomics; Public, Environmental & Occupational Health; Social
+   Sciences, Interdisciplinary; Transportation
+SC Engineering; Public, Environmental & Occupational Health; Social
+   Sciences - Other Topics; Transportation
+GA 568GO
+UT WOS:000275510600015
+PM 20159067
+OA Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Smerecnik, CMR
+   Ruiter, RAC
+AF Smerecnik, Chris M. R.
+   Ruiter, Robert A. C.
+TI Fear appeals in HIV prevention: The role of anticipated regret
+SO PSYCHOLOGY HEALTH & MEDICINE
+LA English
+DT Article
+DE fear appeal; anticipated regret; HIV prevention; condom use
+ID PROTECTION MOTIVATION THEORY; PLANNED BEHAVIOR; CONDOM USE; MESSAGES;
+   INFORMATION; PSYCHOLOGY; THREAT; MODEL
+AB The present study examined the role of a number of cognitive beliefs (i.e. attitude, subjective norm, anticipated regret, and self-efficacy) in explaining the effects of fear appeal information on behavioral motivation. A randomized experiment with a 2 (threat: low versus high) x 2 (coping: low versus high) between-subjects design was used in the study. Undergraduates were exposed to one of four scenario messages that presented high or low threat information about HIV/AIDS combined with high or low coping information with regard to condom use in HIV prevention. Explorative analyses revealed that only anticipated regret qualified as a mediator of the effect of the fear appeal message on intention. High coping information was observed to increase anticipated regret, which increased the intention to use condoms. Anticipated regret mediated the coping-intention relationship. This finding furthers our understanding of the working mechanisms of fear appeals in HIV prevention.
+C1 [Smerecnik, Chris M. R.] Maastricht Univ, Sch Publ Hlth & Primary Care CAPHRI, Dept Hlth Promot, Maastricht, Netherlands.
+   [Ruiter, Robert A. C.] Maastricht Univ, Dept Work & Social Psychol, Maastricht, Netherlands.
+RP Smerecnik, CMR (corresponding author), Maastricht Univ, Sch Publ Hlth & Primary Care CAPHRI, Dept Hlth Promot, Maastricht, Netherlands.
+EM c.smerecnik@gvo.unimaas.nl
+NR 30
+TC 31
+Z9 30
+U1 1
+U2 17
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1354-8506
+J9 PSYCHOL HEALTH MED
+JI Psychol. Health Med.
+PY 2010
+VL 15
+IS 5
+BP 550
+EP 559
+DI 10.1080/13548506.2010.498888
+PG 10
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 648XX
+UT WOS:000281729800006
+PM 20835965
+DA 2020-08-05
+ER
+
+PT J
+AU Kim, P
+   Sorcar, P
+   Um, S
+   Chung, H
+   Lee, YS
+AF Kim, Paul
+   Sorcar, Piya
+   Um, Sujung
+   Chung, Heedoo
+   Lee, Young Sung
+TI Effects of episodic variations in web-based avian influenza education:
+   influence of fear and humor on perception, comprehension, retention and
+   behavior
+SO HEALTH EDUCATION RESEARCH
+LA English
+DT Article
+ID PHYSICAL-ACTIVITY; A H5N1; HEALTH; INTERVENTION; APPEALS; ILLUSTRATIONS;
+   COMMUNICATION; INTENTIONS; STRATEGIES; OUTCOMES
+AB In order to provide empirical evidence on the role of a web-based avian influenza (AI) education program for mass communication and also ultimately help young children learn and develop healthy behaviors against AI and all types of influenza, an education program with two episodic variations (i.e. fear and humor) has been developed and examined with 183 fifth-grade elementary students. A quasi-experimental design was employed to find potential differential effects on the context-specific risk perception, AI knowledge acquisition, retention and behavior. The study results reveal that the fear appealed AI web-based education program was much more effective than the humor-based program in improving risk perception and educating the students about healthy behaviors (i.e. against influenza infection). However, a significant behavior change or improvement of health practices was not apparent on the post-tests (i.e. 1 month after the treatment) in either episode of the program.
+C1 [Kim, Paul; Sorcar, Piya] Stanford Univ, Sch Educ, Stanford, CA 94305 USA.
+   [Um, Sujung] Columbia Univ, Teachers Coll, New York, NY 10027 USA.
+   [Chung, Heedoo] Seoul Natl Univ, Med Informat Ctr, Seoul, South Korea.
+   [Lee, Young Sung] Chungbuk Natl Univ, Med Res Informat Ctr, Chonju, Chungbuk Prov, South Korea.
+RP Kim, P (corresponding author), Stanford Univ, Sch Educ, 520 Galvez Mall 3084, Stanford, CA 94305 USA.
+EM phkim@stanford.edu
+NR 66
+TC 11
+Z9 11
+U1 0
+U2 13
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0268-1153
+EI 1465-3648
+J9 HEALTH EDUC RES
+JI Health Educ. Res.
+PD JUN
+PY 2009
+VL 24
+IS 3
+BP 369
+EP 380
+DI 10.1093/her/cyn031
+PG 12
+WC Education & Educational Research; Public, Environmental & Occupational
+   Health
+SC Education & Educational Research; Public, Environmental & Occupational
+   Health
+GA 446IN
+UT WOS:000266115400002
+PM 18524758
+OA Bronze
+DA 2020-08-05
+ER
+
+PT J
+AU Muthusamy, N
+   Levine, TR
+   Weber, R
+AF Muthusamy, Nithya
+   Levine, Timothy R.
+   Weber, Rene
+TI Scaring the Already Scared: Some Problems With HIV/AIDS Fear Appeals in
+   Namibia
+SO JOURNAL OF COMMUNICATION
+LA English
+DT Article
+ID THEORETICALLY BASED EVALUATION; PARALLEL PROCESS MODEL; PROTECTIVE
+   BEHAVIORS; AIDS PSAS; CAMPAIGNS
+AB Fear appeals are often used in public health campaigns in Africa to prevent further spread of HIV/AIDS. Based on the extended parallel processing model framework (K. Witte, 1991), this research assessed the impact of such messages in a high-fear situation. A 2 (high threat, low threat) x 2 (high efficacy, no efficacy) experiment with a no-message offset control and efficacy-only conditions tested several predictions. Participants demonstrated high preexisting fear about HIV/AIDS. As a likely consequence, statistical equivalence tests indicated that messages' threat levels had little impact on perceptions of fear or on outcome measures such as attitudes, intentions, or behaviors. It is concluded that the use of fear appeals to persuade audience with high levels of preexisting fear is ill-advised and ineffective.
+C1 [Levine, Timothy R.] Michigan State Univ, Dept Commun, E Lansing, MI 48824 USA.
+   [Weber, Rene] Univ Calif Santa Barbara, Dept Commun, Santa Barbara, CA 93106 USA.
+RP Levine, TR (corresponding author), Michigan State Univ, Dept Commun, E Lansing, MI 48824 USA.
+EM levinet@msu.edu
+OI Weber, Rene/0000-0002-8247-7341
+NR 41
+TC 32
+Z9 32
+U1 2
+U2 20
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0021-9916
+EI 1460-2466
+J9 J COMMUN
+JI J. Commun.
+PD JUN
+PY 2009
+VL 59
+IS 2
+BP 317
+EP 344
+DI 10.1111/j.1460-2466.2009.01418.x
+PG 28
+WC Communication
+SC Communication
+GA 473PY
+UT WOS:000268221200014
+DA 2020-08-05
+ER
+
+PT J
+AU Ordonana, JR
+   Gonzalez-Javier, F
+   Espin-Lopez, L
+   Gomez-Amor, J
+AF Ordonana, Juan R.
+   Gonzalez-Javier, Francisca
+   Espin-Lopez, Laura
+   Gomez-Amor, Jesus
+TI Self-Report and Psychophysiological Responses to Fear Appeals
+SO HUMAN COMMUNICATION RESEARCH
+LA English
+DT Article
+ID PROTECTION MOTIVATION THEORY; PUBLIC-HEALTH CAMPAIGNS; LIMITED CAPACITY
+   MODEL; PARALLEL PROCESS MODEL; METAANALYSIS; INFORMATION; ATTITUDE;
+   EMOTION; MESSAGE; ANXIETY
+AB This study was designed to assess the relationship between self-report and psychophysiological responses to fear appeals and behavioral changes elicited by these. Ninety-two subjects watched one of four messages that varied in level of threat (high vs. low) and efficacy (high vs. low). Concomitantly, psychophysiological measures (heart rate and skin conductance) were registered. Perceived threat and efficacy varied according to the characteristics of the message. High-threat messages elicited significantly different levels of autonomic arousal than low-threat messages. Following of behavioral recommendation was higher among subjects who were exposed to the high threat / high efficacy stimulus, those who reported high perceived threat, and for those who showed an autonomic response pattern related to the facilitation of attentional processes.
+C1 [Ordonana, Juan R.; Gonzalez-Javier, Francisca; Espin-Lopez, Laura; Gomez-Amor, Jesus] Univ Murcia, Dept Human Anat & Psychobiol, Espinardo 30100, Spain.
+RP Ordonana, JR (corresponding author), Univ Murcia, Dept Human Anat & Psychobiol, Espinardo 30100, Spain.
+EM ordonana@um.es
+RI Ordonana, Juan R./M-1196-2014; Espin, Laura/F-8214-2016
+OI Ordonana, Juan R./0000-0001-7779-6017; Espin, Laura/0000-0002-5560-8625
+NR 44
+TC 22
+Z9 22
+U1 2
+U2 22
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0360-3989
+EI 1468-2958
+J9 HUM COMMUN RES
+JI Hum. Commun. Res.
+PD APR
+PY 2009
+VL 35
+IS 2
+BP 195
+EP 220
+DI 10.1111/j.1468-2958.2009.01344.x
+PG 26
+WC Communication
+SC Communication
+GA 421FO
+UT WOS:000264345000002
+DA 2020-08-05
+ER
+
+PT J
+AU Will, KE
+   Sabo, CS
+   Porter, BE
+AF Will, Kelli England
+   Sabo, Cynthia Shier
+   Porter, Bryan E.
+TI Evaluation of the Boost'em in the Back Seat Program: Using fear and
+   efficacy to increase booster seat use
+SO ACCIDENT ANALYSIS AND PREVENTION
+LA English
+DT Article
+DE Transportation safety; Child restraint; Fear appeal; Risk communication;
+   Injury prevention; Child passenger safety
+ID CHILDREN; APPEALS; SAFETY; MESSAGES; INJURY; AGE
+AB Objectives: Recent research supports the use of high-threat messages when they are targeted appropriately and designed to promote high efficacy as well as fear. This research examined the effectiveness of using a novel threat-appeal approach to encourage parents to place their children in booster seats and rear seats of vehicles. Method: A 6-min video-intervention was created and evaluated at after-school/daycare centers via an interrupted time series design with similar control sites for comparison. Caregivers (N = 226) completed knowledge and practice surveys and fear and efficacy estimations related to childhood motor vehicle hazards. Researchers observed booster-seat and rear-seat use in study site parking lots. Results: Compared to baseline and control assessments, the treatment groups' child passenger safety knowledge, risk-reduction attitudes, behavioral intentions, sense of fear related to the hazard,and sense of efficacy related to the recommended behaviors increased significantly. Further, observed overall restraint use and booster-seat use increased significantly following the intervention. Conclusions: Applying high-threat messages to child passenger safety interventions is promising and has the potential to be adapted to other health risk areas. (c) 2008 Elsevier Ltd. All rights reserved.
+C1 [Will, Kelli England] Eastern Virginia Med Sch, Dept Pediat, Norfolk, VA 23510 USA.
+   [Sabo, Cynthia Shier] Virginia Commonwealth Univ, Dept Biostat, Richmond, VA 23298 USA.
+   [Porter, Bryan E.] Old Dominion Univ, Dept Psychol, Norfolk, VA 23529 USA.
+RP Will, KE (corresponding author), Eastern Virginia Med Sch, Dept Pediat, Williams Hall,855 W Brambleton Ave, Norfolk, VA 23510 USA.
+EM willke@evms.edu
+FU NCIPC CDC HHS [1 R49 CE 000240-01]
+NR 41
+TC 21
+Z9 21
+U1 0
+U2 9
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0001-4575
+EI 1879-2057
+J9 ACCIDENT ANAL PREV
+JI Accid. Anal. Prev.
+PD JAN
+PY 2009
+VL 41
+IS 1
+BP 57
+EP 65
+DI 10.1016/j.aap.2008.09.007
+PG 9
+WC Ergonomics; Public, Environmental & Occupational Health; Social
+   Sciences, Interdisciplinary; Transportation
+SC Engineering; Public, Environmental & Occupational Health; Social
+   Sciences - Other Topics; Transportation
+GA 400MS
+UT WOS:000262872900008
+PM 19114138
+DA 2020-08-05
+ER
+
+PT J
+AU Wong, NCH
+   Cappella, J
+AF Wong, Norman C. H.
+   Cappella, Joseph N.
+TI Antismoking Threat and Efficacy Appeals: Effects on Smoking Cessation
+   Intentions for Smokers with Low and High Readiness to Quit
+SO JOURNAL OF APPLIED COMMUNICATION RESEARCH
+LA English
+DT Article
+DE Fear Appeals; Extended Parallel Process Mode; Antismoking Campaigns
+ID PUBLIC-HEALTH CAMPAIGNS; FEAR APPEALS; SELF-EFFICACY; NICOTINE
+   DEPENDENCE; INTEGRATIVE MODEL; MEDIA CAMPAIGN; MOTIVATION; YOUTH;
+   METAANALYSIS; BEHAVIORS
+AB This study examined the effects of sequencing different types of antismoking threat and efficacy appeals on smoking cessation intentions for smokers with low and high levels of readiness to quit. An experiment was done to test predictions based on Witte's (1992) Extended Parallel Process Model and research by Cho and Salmon (2006). A national probability sample of 555 adult smokers was recruited to take part in this study. Results found a positive two-way interaction effect between message threat and perceived level of message efficacy on intentions to seek help for quitting. A three-way interaction effect was found between message threat, perceived level of message efficacy, and readiness to quit on quitting intentions. Both threat and efficacy were important for smokers with low readiness to quit, whereas efficacy was most important among smokers with high readiness to quit. Implications of the results for antismoking campaigns are discussed along with limitations and future directions.
+C1 [Wong, Norman C. H.] Univ Oklahoma, Dept Commun, Norman, OK 73019 USA.
+   [Cappella, Joseph N.] Univ Penn, Annenberg Sch Commun, Philadelphia, PA 19104 USA.
+RP Wong, NCH (corresponding author), Univ Oklahoma, Dept Commun, 610 Elm Ave, Norman, OK 73019 USA.
+EM nwong@ou.edu
+FU NCI NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Cancer Institute (NCI) [P50
+   CA095856, P50 CA095856-01A1]
+NR 46
+TC 68
+Z9 68
+U1 1
+U2 22
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 0090-9882
+J9 J APPL COMMUN RES
+JI J. Appl. Commun. Res.
+PY 2009
+VL 37
+IS 1
+BP 1
+EP 20
+AR PII 908401994
+DI 10.1080/00909880802593928
+PG 20
+WC Communication
+SC Communication
+GA 402JL
+UT WOS:000263009900001
+PM 20046966
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Lewis, I
+   Watson, B
+   White, KM
+AF Lewis, I.
+   Watson, B.
+   White, K. M.
+TI An examination of message-relevant affect in road safety messages:
+   Should road safety advertisements aim to make us feel good or bad?
+SO TRANSPORTATION RESEARCH PART F-TRAFFIC PSYCHOLOGY AND BEHAVIOUR
+LA English
+DT Article
+DE Road safety advertising; Message-relevant affect; Emotional appeals;
+   Positive emotion; Response efficacy; Persuasion
+ID FEAR APPEALS; COGNITIVE RESPONSES; GENDER-DIFFERENCES; PERCEIVED-IMPACT;
+   INVOLVEMENT; PERSUASION; COMMUNICATION; HUMOR; MOOD
+AB Drawing upon the multiple roles of affect posited by Elaboration Likelihood Model, the current paper examines the effectiveness of message-relevant affect. Specifically, humourous and fear-evoking anti-drink driving messages are examined in terms of perceptions of relative influence on self and others (i.e., the third-person effect) and their performance on a range of persuasion outcomes. The influence of involvement, response efficacy, and gender on persuasion outcomes is also examined. Participants (N = 201) viewed two advertisements and completed two questionnaires: the first, assessed pre-exposure attitudes and behaviour and immediate-post exposure attitudes and intentions; the second, 2-4 weeks later, assessed attitudes and behaviour. The results revealed, as predicted, interactions of the key variables and evidence of the greater persuasiveness of negative appeals immediately after exposure whilst greater improvement of positive appeals over time. The findings highlight the importance of continuing the exploration of positive appeals as a persuasive alternative to negative appeals. (c) 2008 Elsevier Ltd. All rights reserved.
+C1 [Lewis, I.; Watson, B.] Queensland Univ Technol, CARRS Q, Brisbane, Qld 4034, Australia.
+   [White, K. M.] Queensland Univ Technol, Sch Psychol & Counselling, Brisbane, Qld 4034, Australia.
+RP Lewis, I (corresponding author), Queensland Univ Technol, CARRS Q, Brisbane, Qld 4034, Australia.
+EM i.lewis@qut.edu.au
+OI White, Katherine/0000-0002-0345-4724; Watson, Barry/0000-0001-5383-2300
+NR 59
+TC 59
+Z9 61
+U1 2
+U2 73
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1369-8478
+EI 1873-5517
+J9 TRANSPORT RES F-TRAF
+JI Transp. Res. Pt. F-Traffic Psychol. Behav.
+PD NOV
+PY 2008
+VL 11
+IS 6
+BP 403
+EP 417
+DI 10.1016/j.trf.2008.03.003
+PG 15
+WC Psychology, Applied; Transportation
+SC Psychology; Transportation
+GA 373AZ
+UT WOS:000260944700002
+OA Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Welbourne, JL
+   Hartley, TA
+   Ott, SD
+   Robertson, S
+AF Welbourne, Jennifer L.
+   Hartley, Tara A.
+   Ott, Sybil D.
+   Robertson, Sherrilyn
+TI Effects of Risk-Focused and Recommendation-Focused Mental Imagery on
+   Occupational Risk Communication
+SO HEALTH COMMUNICATION
+LA English
+DT Article
+ID SELF-RELEVANT SCENARIOS; FEAR APPEALS; PROTECTION MOTIVATION;
+   SIMULATION; BEHAVIOR; METAANALYSIS; IMAGINATION; INTENTIONS; LIKELIHOOD;
+   MEDIATION
+AB This study examined the impact of mental imagery instructions in a National Institute for Occupational Safety and Health (NIOSH) safety document conveying risk and safety information to farmers. A sample of 314 farmers recruited from a large Southeastern state fair was randomly assigned to conditions in a 2 x 2 design. Participants received a NIOSH safety document about skid steer loader safety in which 2 types of mental imagery instructions were manipulated: (a) risk-focused (imagery vs. control) and (b) recommendation-focused (imagery vs. control). Results indicate that risk-focused imagery influenced perceptions of susceptibility to workplace accidents, whereas recommendation-focused imagery influenced attitudes toward engaging in safety behaviors, intentions to share safety information with others, and perceptions of the safety message. Further analyses indicated that ease of imagery partially mediated the relationship between the imagery manipulations and these outcomes. Other potential mechanisms for these effects are discussed.
+C1 [Welbourne, Jennifer L.] Univ Texas Pan Amer, Dept Psychol, Edinburg, TX 78541 USA.
+   [Robertson, Sherrilyn] So Illinois Univ, Dept Psychol, Carbondale, IL 62901 USA.
+RP Welbourne, JL (corresponding author), Univ Texas Pan Amer, Dept Psychol, 1201 W Univ Dr, Edinburg, TX 78541 USA.
+EM welbournJL@utpa.edu
+NR 58
+TC 7
+Z9 7
+U1 0
+U2 10
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1041-0236
+EI 1532-7027
+J9 HEALTH COMMUN
+JI Health Commun.
+PD SEP-OCT
+PY 2008
+VL 23
+IS 5
+BP 473
+EP 482
+DI 10.1080/10410230802342168
+PG 10
+WC Communication; Health Policy & Services
+SC Communication; Health Care Sciences & Services
+GA 365DM
+UT WOS:000260386100007
+PM 18850394
+DA 2020-08-05
+ER
+
+PT J
+AU Schmitt, CL
+   Blass, T
+AF Schmitt, Carol L.
+   Blass, Thomas
+TI Fear appeals revisited: Testing a unique anti-smoking film
+SO CURRENT PSYCHOLOGY
+LA English
+DT Article
+DE adolescents; fear appeals; persuasive communication; smoking; tobacco;
+   prevention
+ID MEDIA CAMPAIGNS; SMOKING; TOBACCO; APPRAISAL; ATTITUDES; EMOTION;
+   AROUSAL; RECALL; HEALTH; YOUTH
+AB Past research has found that fear-arousing persuasive messages can significantly affect attitudes, intentions, and behaviors. In this study, participants in high and low threat conditions viewed appropriately edited versions of a unique fear appeal video used in the American Lung Association's anti-smoking campaign, while control condition participants viewed no film. Threat condition participants expressed stronger anti-smoking behavioral intentions than did control condition participants. These results represent the first effectiveness test of this widely used film.
+C1 [Schmitt, Carol L.] RTI Int, Washington, DC USA.
+   [Blass, Thomas] Univ Maryland Baltimore Cty, Dept Psychol, Baltimore, MD 21205 USA.
+RP Blass, T (corresponding author), Univ Maryland Baltimore Cty, Dept Psychol, 1000 Hilltop Circle, Baltimore, MD 21205 USA.
+EM blass@umbc.edu
+NR 29
+TC 5
+Z9 5
+U1 2
+U2 21
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1046-1310
+J9 CURR PSYCHOL
+JI Curr. Psychol.
+PD JUN
+PY 2008
+VL 27
+IS 2
+BP 145
+EP 151
+DI 10.1007/s12144-008-9029-7
+PG 7
+WC Psychology, Multidisciplinary
+SC Psychology
+GA 299FZ
+UT WOS:000255742800006
+DA 2020-08-05
+ER
+
+PT J
+AU Goldenbeld, C
+   Twisk, D
+   Houwing, S
+AF Goldenbeld, Charles
+   Twisk, Divera
+   Houwing, Sjoerd
+TI Effects of persuasive communication and group discussions on
+   acceptability of anti-speeding policies for male and female drivers
+SO TRANSPORTATION RESEARCH PART F-TRAFFIC PSYCHOLOGY AND BEHAVIOUR
+LA English
+DT Article
+DE persuasive communication; acceptability; speed limit; attitude; fear
+   appeal
+AB In an experiment on acceptability of anti-speeding interventions, male and female car drivers were randomly assigned to four information conditions: (C1) combination of neutrally toned written communication and fear appeal anti-speeding tv-spot, (C2) written communication only, (C3) fear appeal anti-speeding tv-spot only, (C4) neither written communication nor fear appeal tv-spot. It was tested whether a first time exposure to these stimuli would produce changes in the acceptability of a reduction in the speed limit of rural access roads from 80 to 60 km/h, and whether after exposure, acceptability Would shift resulting from group discussions about the measure. Results showed that fear appeal had counterproductive effects on male but not on female drivers on three indicators of acceptability. For both genders, group discussion shifted attitude ratings in a negative direction. For females, this effect could partially be reduced by neutrally toned knowledge based information. (c) 2007 Elsevier Ltd. All rights reserved.
+C1 [Goldenbeld, Charles; Twisk, Divera; Houwing, Sjoerd] Inst Rd Safety Res SWOV, NL-2262 AR Leidschendam, Netherlands.
+RP Goldenbeld, C (corresponding author), Inst Rd Safety Res SWOV, Duindoorn 32, NL-2262 AR Leidschendam, Netherlands.
+EM charles.goldenbeld@swov.nl; divera.twisk@swov.nl; sjoerd.houwing@swov.nl
+RI Twisk, Divera/AAU-8233-2020
+OI Twisk, Divera/0000-0001-9352-9672
+NR 22
+TC 31
+Z9 32
+U1 0
+U2 8
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1369-8478
+EI 1873-5517
+J9 TRANSPORT RES F-TRAF
+JI Transp. Res. Pt. F-Traffic Psychol. Behav.
+PD MAY
+PY 2008
+VL 11
+IS 3
+BP 207
+EP 220
+DI 10.1016/j.trf.2007.11.001
+PG 14
+WC Psychology, Applied; Transportation
+SC Psychology; Transportation
+GA 301XA
+UT WOS:000255928400005
+DA 2020-08-05
+ER
+
+PT J
+AU Stark, E
+   Kim, A
+   Miller, C
+   Borgida, E
+AF Stark, Emily
+   Kim, Anita
+   Miller, Chris
+   Borgida, Eugene
+TI Effects of including a graphic warning label in advertisements for
+   reduced-exposure products: Implications for persuasion and policy
+SO JOURNAL OF APPLIED SOCIAL PSYCHOLOGY
+LA English
+DT Article
+ID SMOKERS; IMPACT
+AB Considerable interest has focused on making warning labels on tobacco-product packaging more effective in communicating risk to current and potential smokers. However, none of this work to date has involved the communication of risk information about reduced-exposure products, or how a graphic warning label may function in advertisements. Reduced-exposure products pose an interesting public health challenge in light of the fact that many advertisements for such products convey safety claims that may undermine the likelihood that potential consumers will process warnings about the products. The present study examines the influence of graphic warning labels on ratings of advertisements for 3 different types of tobacco products. Results showed that including a graphic picture lowered the appeal ratings for the product.
+C1 [Stark, Emily] Mankato State Univ, Mankato, MN 56001 USA.
+RP Stark, E (corresponding author), Mankato State Univ, 23 Armstrong Hall, Mankato, MN 56001 USA.
+EM stark@mnsu.edu
+OI Stark, Emily/0000-0002-3796-1986
+NR 13
+TC 10
+Z9 10
+U1 0
+U2 7
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0021-9029
+EI 1559-1816
+J9 J APPL SOC PSYCHOL
+JI J. Appl. Soc. Psychol.
+PD FEB
+PY 2008
+VL 38
+IS 2
+BP 281
+EP 293
+DI 10.1111/j.1559-1816.2007.00305.x
+PG 13
+WC Psychology, Social
+SC Psychology
+GA 253CM
+UT WOS:000252496300001
+DA 2020-08-05
+ER
+
+PT J
+AU de Hoog, N
+   Stroebe, W
+   de Wit, JBF
+AF de Hoog, Natascha
+   Stroebe, Wolfgang
+   de Wit, John B. F.
+TI The processing of fear-arousing communications: How biased processing
+   leads to persuasion
+SO SOCIAL INFLUENCE
+LA English
+DT Article
+DE Fear appeals; Vulnerability; Defense motivation; Biased processing
+AB Two experiments were conducted to examine the processing of fear-arousing communications, and tested predictions derived from the stage model of processing of fear-arousing communications. The studies focused on the impact of manipulations of vulnerability to and severity of a health risk on the processing of both the fear appeal and the subsequent action recommendation, and assessed how message processing relates to attitudes, intentions, and behavior. Results confirmed predictions that vulnerability to a severe health risk induces defense motivation, which is reflected in a negative processing bias in threat appraisal and a positive processing bias in coping appraisal, which in combination promotes persuasion. The theoretical and practical implications of these findings are discussed.
+C1 [de Hoog, Natascha] Univ Jena, Int Grad Coll, D-07743 Jena, Germany.
+   [Stroebe, Wolfgang; de Wit, John B. F.] Univ Utrecht, NL-3508 TC Utrecht, Netherlands.
+RP de Hoog, N (corresponding author), Univ Jena, Int Grad Coll, Wildstr 1, D-07743 Jena, Germany.
+EM Natascha.de.Hoog@uni-jena.de
+RI de Wit, John/J-7985-2012
+OI de Wit, John/0000-0002-5895-7935
+NR 31
+TC 20
+Z9 20
+U1 1
+U2 31
+PU PSYCHOLOGY PRESS
+PI HOVE
+PA 27 CHURCH RD, HOVE BN3 2FA, EAST SUSSEX, ENGLAND
+SN 1553-4510
+J9 SOC INFLUENCE
+JI Soc. Influ.
+PY 2008
+VL 3
+IS 2
+BP 84
+EP 113
+DI 10.1080/15534510802185836
+PG 30
+WC Psychology, Social
+SC Psychology
+GA V14LM
+UT WOS:000207735900002
+DA 2020-08-05
+ER
+
+PT J
+AU Janssens, W
+   De Pelsmacker, P
+AF Janssens, Wim
+   De Pelsmacker, Patrick
+TI FEAR APPEAL IN TRAFFIC SAFETY ADVERTISING: THE MODERATING ROLE OF MEDIUM
+   CONTEXT, TRAIT ANXIETY, AND DIFFERENCES BETWEEN DRIVERS AND NON-DRIVERS
+SO PSYCHOLOGICA BELGICA
+LA English
+DT Article
+AB The impact was investigated of the intensity of a fear appeal, the valence of the medium context, and the individuals' trait anxiety and personal relevance on the responses of 197 individuals to anti-speeding advertisements. A high level of fear attracts more attention. A negative valence context leads to a more positive anti-speeding attitude. The most important moderating effect of trait anxiety is that the attitude is more positive when low-anxiety individuals are exposed to high fear appeals in a context with negative valence than in a positive context. These results were largely replicated for drivers, but not for nondrivers for whom there was only an attention-getting effect of high fear appeal. Theoretical and practical implications for anti-speeding campaigning are discussed.
+C1 [Janssens, Wim] Univ Antwerp, Dept Mkt, B-2000 Antwerp, Belgium.
+   [De Pelsmacker, Patrick] Univ Ghent, Ghent, Belgium.
+RP Janssens, W (corresponding author), Univ Antwerp, Dept Mkt, Prinsstr 13 Z302, B-2000 Antwerp, Belgium.
+EM wim.janssens@ua.ac.be
+NR 46
+TC 4
+Z9 5
+U1 0
+U2 24
+PU BELGIAN PSYCHOL SOC
+PI LOUVAIN
+PA TIENSESTRAAT 102, 3000 LOUVAIN, BELGIUM
+SN 0033-2879
+J9 PSYCHOL BELG
+JI Psychol. Belg.
+PY 2007
+VL 47
+IS 3
+BP 173
+EP 193
+DI 10.5334/pb-47-3-173
+PG 21
+WC Psychology, Multidisciplinary
+SC Psychology
+GA V22RZ
+UT WOS:000208293600002
+OA DOAJ Gold, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Jones, SC
+   Owen, N
+AF Jones, Sandra
+   Owen, Neville
+TI Using fear appeals to promote cancer screening-are we scaring the wrong
+   people?
+SO INTERNATIONAL JOURNAL OF NONPROFIT AND VOLUNTARY SECTOR MARKETING
+LA English
+DT Article
+AB There is debate regarding the use of fear appeals (emphasizing severe threats to health) in social marketing, to encourage preventive behaviours, such as screening for breast cancer. While it has been found that fear appeals may result in attitude and behaviour change there is also the risk of inciting inappropriate levels of fear, motivating the wrong audience or instigating maladaptive behaviour in the target group such as denial or defensive avoidance. This study examined the impact of an experimental threat manipulation for mammography screening on a group of women in regional Australia. The study found that varying the level of threat had no impact on stated intentions of the women to undergo mammographic screening. However, it also found that high-threat messages resulted in stronger negative emotional reactions and greater perceived susceptibility among younger women who are not the target group for screening in Australia. The results of this study emphasize the importance of limiting the use of high levels of threat in social marketing campaigns, and ensuring that campaigns are appropriately designed to specifically impact upon and motivate the target group. Copyright (C) 2006 John Wiley & Sons, Ltd.
+C1 [Jones, Sandra] Univ Wollongong, Ctr Hlth Behav & Commun Res, Wollongong, NSW 2522, Australia.
+   [Owen, Neville] Univ Queensland, Sch Populat Hlth, Canc Prevent Res Ctr, Brisbane, Qld, Australia.
+RP Jones, SC (corresponding author), Univ Wollongong, Ctr Hlth Behav & Commun Res, Wollongong, NSW 2522, Australia.
+EM sandraj@uow.edu.au
+RI Jones, Sandra/D-3854-2011
+OI Jones, Sandra/0000-0002-0258-3348
+NR 25
+TC 22
+Z9 22
+U1 0
+U2 0
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1465-4520
+EI 1479-103X
+J9 INT J NONPROFIT VOLU
+JI Int. J. Nonprofit Volunt. Sect. Mark.
+PD MAY
+PY 2006
+VL 11
+IS 2
+SI SI
+BP 93
+EP 103
+DI 10.1002/nvsm.48
+PG 11
+WC Business
+SC Business & Economics
+GA V79KW
+UT WOS:000212114900002
+DA 2020-08-05
+ER
+
+PT J
+AU Cho, H
+AF Cho, Hyunyi
+TI Fear appeals for individuals in different stages of change: Intended and
+   unintended effects and implications on public health campaigns
+SO HEALTH COMMUNICATION
+LA English
+DT Article
+ID INTEGRATIVE MODEL; DECISION-MAKING; BEHAVIORS; EXERCISE; SMOKING; THREAT
+AB This study represents an initial attempt to examine the intended and unintended effects of fear appeals among individuals in different stages of change. Toward this end, a pilot study investigated the effects of fear appeals promoting skin cancer preventive behavior among college students. After being exposed to fear appeals, individuals who were in the precontemplation stage indicated a greater likelihood of thinking defensively and fatalistically regarding the facts on health risk than those who had intended to engage in or who had previously engaged in preventive behavior. Concurrently, after being exposed to fear appeals, those who were in the precontemplation stage reported less favorable attitudes toward message recommendations, weaker intentions to engage in recommended behavior, and less performance of preventive behavior than those who had contemplated or had previously engaged in preventive behavior. Implications of these results on future public health campaigns are discussed.
+C1 Purdue Univ, Dept Commun, W Lafayette, IN 47907 USA.
+   Michigan State Univ, Coll Commun Arts & Sci, E Lansing, MI 48824 USA.
+RP Cho, H (corresponding author), Purdue Univ, Dept Commun, 100 N Univ St, W Lafayette, IN 47907 USA.
+EM hcho@purdue.edu
+NR 31
+TC 56
+Z9 56
+U1 2
+U2 35
+PU LAWRENCE ERLBAUM ASSOC INC
+PI MAHWAH
+PA 10 INDUSTRIAL AVE, MAHWAH, NJ 07430-2262 USA
+SN 1041-0236
+J9 HEALTH COMMUN
+JI Health Commun.
+PY 2006
+VL 20
+IS 1
+BP 91
+EP 99
+DI 10.1207/s15327027hc2001_9
+PG 9
+WC Communication; Health Policy & Services
+SC Communication; Health Care Sciences & Services
+GA 067EL
+UT WOS:000239284400009
+PM 16813492
+DA 2020-08-05
+ER
+
+PT J
+AU McMath, BF
+   Prentice-Dunn, S
+AF McMath, BF
+   Prentice-Dunn, S
+TI Protection motivation theory and skin cancer risk: The role of
+   individual differences in responses to persuasive appeals
+SO JOURNAL OF APPLIED SOCIAL PSYCHOLOGY
+LA English
+DT Article
+ID UNREALISTIC OPTIMISM; HEALTH LOCUS; NEED; COGNITION; SUSCEPTIBILITY;
+   BEHAVIOR; BELIEFS; IMPACT; PREVENTION; RELEVANT
+AB Undergraduates who sunbathed were assessed on personality variables and then randomly assigned to read one of 4 essays (with photos) that manipulated threat and coping appraisal information about sunbathing, skit) damage, and skin cancer symptoms and prevention. High threat-appraisal information was by far the most powerful predictor of intentions to take precautionary measures against skin cancer. Coping appraisal information was associated with reduced perceptions of hopelessness concerning skin cancer risk. Individual-difference variables (i.e., appearance concern, need for cognition, health locus of control) predicted maladaptive coping modes and, to a lesser extent, adaptive behavioral intentions. Results suggest that tailoring persuasive appeals to individuals may modestly improve preventive efforts, and that invoking perceived threat effectively motivates most people.
+C1 Univ Alabama, Dept Psychol, Tuscaloosa, AL 35487 USA.
+RP Prentice-Dunn, S (corresponding author), Univ Alabama, Dept Psychol, Box 870348, Tuscaloosa, AL 35487 USA.
+EM sprentic@bama.ua.edu
+NR 56
+TC 50
+Z9 50
+U1 2
+U2 23
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0021-9029
+EI 1559-1816
+J9 J APPL SOC PSYCHOL
+JI J. Appl. Soc. Psychol.
+PD MAR
+PY 2005
+VL 35
+IS 3
+BP 621
+EP 643
+DI 10.1111/j.1559-1816.2005.tb02138.x
+PG 23
+WC Psychology, Social
+SC Psychology
+GA 941WY
+UT WOS:000230246100009
+DA 2020-08-05
+ER
+
+PT J
+AU Umeh, K
+   Stanley, SJ
+AF Umeh, K
+   Stanley, SJ
+TI Effects of communicator credibility and fear on adaptive and maladaptive
+   coping reactions to the HIV threat
+SO JOURNAL OF APPLIED BIOBEHAVIORAL RESEARCH
+LA English
+DT Article
+ID PROTECTION-MOTIVATION THEORY; PHYSICAL ATTRACTIVENESS; HEALTH BEHAVIOR;
+   EXPERTNESS; APPEALS
+AB Late diagnosis is currently the principal cause of continued mortality among HIV-infected people. Consequently, medical experts (i.e., GPs) are now required to play a more active role in promoting HIV prevention. Social psychological studies suggest that communicator credibility (CC) affects persuasion. However, there is a paucity of research focusing on HIV/AIDS. We tested propositions that a credible (i.e., "expert") communicator is more persuasive than a noncredible source, and that this effect is moderated by fear. Drive-reduction models (Hovland, Janis, & Kelley, 1953) provided the theoretic framework. One hundred undergraduates were exposed to a communication about HIV/AIDS. CC and fear arousal were manipulated with adaptive coping (intentions to use condoms) and maladaptive coping (rationalizations, denial) treated as outcome variables. Multivariate analysis of variance revealed neither a main effect of CC nor an interaction with fear. However, fear arousal seemed to negate persuasion by increasing maladaptive coping. The partial etasquared (eta(2)) value indicated a weak-to-modest effect size. Overall, these findings echo drive-reduction models but raise new questions about relevance of source expertise in health persuasion.
+C1 Liverpool John Moores Univ, Sch Psychol, Liverpool L3 2ET, Merseyside, England.
+   Nottingham Trent Univ, Dept Social Sci, Nottingham, England.
+RP Umeh, K (corresponding author), Liverpool John Moores Univ, Sch Psychol, Henry Cotton Campus,15-21 Webster St, Liverpool L3 2ET, Merseyside, England.
+EM f.k.umeh@livjm.ac.uk
+NR 37
+TC 5
+Z9 5
+U1 1
+U2 12
+PU BELLWETHER PUBLISHING LTD
+PI COLUMBIA
+PA 8640 GUILFORD RD, STE 200, COLUMBIA, MD 21046 USA
+SN 1071-2089
+J9 J APPL BIOBEHAV RES
+JI J. Appl. Biobehav. Res.
+PY 2005
+VL 10
+IS 3
+BP 183
+EP 198
+DI 10.1111/j.1751-9861.2005.tb00011.x
+PG 16
+WC Psychology, Clinical
+SC Psychology
+GA 998KT
+UT WOS:000234318100004
+DA 2020-08-05
+ER
+
+PT J
+AU Shehryar, O
+   Hunt, DM
+AF Shehryar, O
+   Hunt, DM
+TI A terror management perspective on the persuasiveness of fear appeals
+SO JOURNAL OF CONSUMER PSYCHOLOGY
+LA English
+DT Article
+ID PROTECTION-MOTIVATION THEORY; DEATH-RELATED THOUGHTS; PARALLEL PROCESS
+   MODEL; MORTALITY SALIENCE; ATTITUDE-CHANGE; SELF-ESTEEM; ANTISMOKING
+   ADVERTISEMENTS; CONSUMER-BEHAVIOR; DRINKING PATTERNS; HEALTH
+AB We use terror management theory (TMT) to show that the nature of the threatening consequences included in fear-appeal communications influences the responses to the messages promoted in such communications. On the basis of differences between death-related consequences and non-death-related consequences, they provide an explanation for maladaptive responses to fear appeals. Results from 2 experiments indicate that participants who were highly committed to a worldview of drinking alcohol rejected socially acceptable attitudes toward drinking and driving when the message containing such attitudes was accompanied by a fear appeal that contained death as a consequence, but not when fear appeals contained the fear of arrest or serious injury. Participants perceived their level of experienced fear to be the same across the experimental conditions. The results have implications for considering the qualitative nature of the threatening consequence in fear-appeal research and for using TMT to understand maladaptive responses to fear-appeal communications.
+C1 Montana State Univ, Coll Business, Bozeman, MT 59717 USA.
+   Univ Wyoming, Laramie, WY 82071 USA.
+RP Shehryar, O (corresponding author), Montana State Univ, Coll Business, 449 Reid Hall, Bozeman, MT 59717 USA.
+EM omar@montana.edu
+NR 47
+TC 47
+Z9 47
+U1 5
+U2 37
+PU JOHN WILEY & SONS LTD
+PI CHICHESTER
+PA THE ATRIUM, SOUTHERN GATE, CHICHESTER PO19 8SQ, W SUSSEX, ENGLAND
+SN 1057-7408
+EI 1532-7663
+J9 J CONSUM PSYCHOL
+JI J. Consum. Psychol.
+PY 2005
+VL 15
+IS 4
+BP 275
+EP 287
+DI 10.1207/s15327663jcp1504_2
+PG 13
+WC Business; Psychology, Applied
+SC Business & Economics; Psychology
+GA 977QK
+UT WOS:000232818100002
+DA 2020-08-05
+ER
+
+PT J
+AU de Hoog, N
+   Stroebe, W
+   de Wit, JBF
+AF de Hoog, N
+   Stroebe, W
+   de Wit, JBF
+TI The impact of fear appeals on processing and acceptance of action
+   recommendations
+SO PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+LA English
+DT Article
+DE fear appeals; vulnerability; defense motivation; information processing
+ID ATTITUDE-CHANGE; PROTECTION MOTIVATION; SELF-AFFIRMATION; HEALTH
+   MESSAGES; INFORMATION; INFERENCE; EFFICACY; BEHAVIOR; MODEL
+AB A stage model of processing of fear-arousing communications was tested in an experiment that examined the impact of vulnerability to a severe health risk, the quality of the arguments supporting a protective action recommendation, and the source to which the recommendation was attributed, on processing and acceptance of the recommendation. Argument quality influenced attitudes toward the recommendation (but not intention to act), and this effect was mediated by negative thoughts about the recommendation. Vulnerability influenced intention to act (but not attitudes), and this effect was mediated by perceived threat and positive thoughts about the recommendation. The pattern of findings suggests that although vulnerability to a severe health risk induces biased processing of the recommendation, biased processing is restricted to intentions and does not compromise the evaluation of the recommendation. The theoretical and practical implications of these findings are discussed.
+C1 Univ Utrecht, Dept Social & Org Psychol, NL-3508 TC Utrecht, Netherlands.
+RP de Hoog, N (corresponding author), Univ Utrecht, Dept Social & Org Psychol, POB 80-140, NL-3508 TC Utrecht, Netherlands.
+EM N.deHoog@fss.uu.nl
+NR 33
+TC 75
+Z9 76
+U1 0
+U2 45
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0146-1672
+J9 PERS SOC PSYCHOL B
+JI Pers. Soc. Psychol. Bull.
+PD JAN
+PY 2005
+VL 31
+IS 1
+BP 24
+EP 33
+DI 10.1177/0146167204271321
+PG 10
+WC Psychology, Social
+SC Psychology
+GA 878VS
+UT WOS:000225675900002
+PM 15574659
+OA DOAJ Gold
+DA 2020-08-05
+ER
+
+PT J
+AU Roskos-Ewoldsen, DR
+   Yu, HJ
+   Rhodes, N
+AF Roskos-Ewoldsen, DR
+   Yu, HJ
+   Rhodes, N
+TI Fear appeal messages affect accessibility of attitudes toward the threat
+   and adaptive behaviors
+SO COMMUNICATION MONOGRAPHS
+LA English
+DT Article
+DE fear appeals; attitude accessibility; attitude-behaviour relationship;
+   defense processing
+ID PROTECTION-MOTIVATION THEORY; PARALLEL PROCESS MODEL; PERSUASION;
+   THOUGHT; METAANALYSIS; OBJECTS
+AB Fear appeals have long been used in persuasive messages to motivate people to perform adaptive behaviors. This research explored the influence of a fear appeal message concerning breast cancer on attitude accessibility. Messages advocating the efficacy of breast self-examinations increased the accessibility of attitudes toward the adaptive behavior. Further, the accessibility of participants' attitudes toward the adaptive behavior predicted behavioral intentions to perform breast self-examinations. Attitudes toward the threat became less accessible after exposure to a high fear-arousing message, however. Analyses suggest that defensive reactions to the fear-inducing message mediate the influence of the message on the accessibility of the attitudes toward breast cancer. Implications of these findings for models of fear appeals are discussed.
+C1 Univ Alabama, Inst Commun Res, Tuscaloosa, AL 35487 USA.
+   Chinese Culture Univ, Taipei, Taiwan.
+RP Roskos-Ewoldsen, DR (corresponding author), Univ Alabama, Inst Commun Res, Box 870172, Tuscaloosa, AL 35487 USA.
+EM droskos@ccom.ua.edu
+RI Ewoldsen, David/P-6067-2014; Rhodes, Nancy/A-4950-2018; Rhodes,
+   Nancy/C-2268-2013
+OI Ewoldsen, David/0000-0003-1603-8276; Rhodes, Nancy/0000-0002-2539-9682;
+   Rhodes, Nancy/0000-0002-2539-9682
+NR 60
+TC 65
+Z9 65
+U1 0
+U2 18
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0363-7751
+EI 1479-5787
+J9 COMMUN MONOGR
+JI Commun. Monogr.
+PD MAR
+PY 2004
+VL 71
+IS 1
+BP 49
+EP 69
+DI 10.1080/0363452042000228559
+PG 21
+WC Communication
+SC Communication
+GA 836EO
+UT WOS:000222538600003
+DA 2020-08-05
+ER
+
+PT J
+AU Dahl, DW
+   Frankenberger, KD
+   Manchanda, RV
+AF Dahl, DW
+   Frankenberger, KD
+   Manchanda, RV
+TI Does it pay to shock? - Reactions to shocking and nonshocking
+   advertising content among university students
+SO JOURNAL OF ADVERTISING RESEARCH
+LA English
+DT Article
+ID INFORMATION; SURPRISE; MEMORY
+AB Although the use of shocking content in advertising appeals has been widely adopted, the effectiveness of such communication strategies has not been empirically investigated. In two laboratory studies, conducted in the context of HIV/AIDS prevention, we examine the effectiveness of shock advertising in comparison to the commonly used appeals of fear and information. Our findings suggest that shocking content in an advertisement significantly increases attention, benefits memory, and positively influences behavior among a group of university students.
+C1 Univ British Columbia, Sauder Sch Business, Vancouver, BC V5Z 1M9, Canada.
+   Univ Oregon, Div Business & Econ, Monmouth, OR 97403 USA.
+   Univ Manitoba, I H Asper Sch Business, Winnipeg, MB, Canada.
+RP Dahl, DW (corresponding author), Univ British Columbia, Sauder Sch Business, Vancouver, BC V5Z 1M9, Canada.
+NR 60
+TC 113
+Z9 113
+U1 0
+U2 50
+PU ADVERTISING RES FOUNDATION
+PI NEW YORK
+PA 641 LEXINGTON AVE, NEW YORK, NY 10022 USA
+SN 0021-8499
+J9 J ADVERTISING RES
+JI J. Advert. Res.
+PD SEP
+PY 2003
+VL 43
+IS 3
+BP 268
+EP 280
+DI 10.1017/S0021849903030332
+PG 13
+WC Business; Communication
+SC Business & Economics; Communication
+GA 733JH
+UT WOS:000185996300003
+DA 2020-08-05
+ER
+
+PT J
+AU Ruiter, RAC
+   Verplanken, B
+   Kok, G
+   Werrij, MQ
+AF Ruiter, RAC
+   Verplanken, B
+   Kok, G
+   Werrij, MQ
+TI The role of coping appraisal in reactions to fear appeals: Do we need
+   threat information?
+SO JOURNAL OF HEALTH PSYCHOLOGY
+LA English
+DT Article
+DE coping beliefs; fear appeals; persuasion; threat information
+ID PROTECTION-MOTIVATION THEORY; BEHAVIORS; METAANALYSIS; PERSPECTIVE;
+   COMPONENTS; PREDICTION; ATTITUDES
+AB Fear appeal theory postulates a multiplicative relationship between threat information and coping appraisal on fear control (e.g. avoid thinking about breast cancer to reduce feelings of fear) and danger control (e.g. motivation to perform monthly breast self-examination to detect breast cancer). That is, the effects of threat information on measures of both coping modes are moderated by beliefs about one's ability to cope with the presented threat. However, in the present study no support for an interaction between threat information and coping appraisal was found on both coping modes. Instead threat information seems to contribute positively to fear control and not to danger control, whereas coping appraisal contributed positively to danger control and negatively to fear control. The results thus suggest that we might do without threatening information in persuading people to adopt health-promoting behaviours.
+C1 Maastricht Univ, Dept Expt Psychol, NL-6200 MD Maastricht, Netherlands.
+   Univ Tromso, Dept Psychol, N-9001 Tromso, Norway.
+   Maastricht Univ, Fac Psychol, NL-6200 MD Maastricht, Netherlands.
+RP Ruiter, RAC (corresponding author), Maastricht Univ, Dept Expt Psychol, POB 616, NL-6200 MD Maastricht, Netherlands.
+RI Kok, Gerjo/F-4445-2012; Van Mulken, Margot/J-3567-2012
+OI Verplanken, Bas/0000-0001-7217-0293
+NR 32
+TC 48
+Z9 48
+U1 5
+U2 19
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 6 BONHILL STREET, LONDON EC2A 4PU, ENGLAND
+SN 1359-1053
+J9 J HEALTH PSYCHOL
+JI J. Health Psychol.
+PD JUL
+PY 2003
+VL 8
+IS 4
+BP 465
+EP 474
+DI 10.1177/13591053030084006
+PG 10
+WC Psychology, Clinical
+SC Psychology
+GA 713AD
+UT WOS:000184831000006
+PM 19127713
+DA 2020-08-05
+ER
+
+PT J
+AU Das, EHHJ
+   de Wit, JBF
+   Stroebe, W
+AF Das, EHHJ
+   de Wit, JBF
+   Stroebe, W
+TI Fear appeals motivate acceptance of action recommendations: Evidence for
+   a positive bias in the processing of persuasive messages
+SO PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+LA English
+DT Article
+DE fear appeal; vulnerability; severity; behavior change; persuasion;
+   biased processing
+ID EFFICACY; INFERENCE
+AB Three experiments are reported that tested the hypothesis that the use of fear appeals in health persuasion may lead to positively biased systematic processing of a subsequent action recommendation aimed at reducing the health threat and, consequently, to more persuasion, regardless of the quality of the arguments in the recommendation. The levels of participants vulnerability to as well as the severity of a health risk were varied independently, followed by a manipulation of the quality of the arguments in the subsequent action recommendation. The dependent variables included measures of persuasion (attitude, intention, and action), negative affect, and cognitive responses. The results show that participants who felt vulnerable to the health threat were more persuaded, experienced more negative emotions, and had more favorable cognitive responses. Both negative emotions concerning one's vulnerability and positive thoughts concerning the recommendation mediated the effects of vulnerability on persuasion.
+C1 Free Univ Amsterdam, Dept Commun DBL 859, NL-1081 HV Amsterdam, Netherlands.
+   Univ Utrecht, NL-3508 TC Utrecht, Netherlands.
+RP Das, EHHJ (corresponding author), Free Univ Amsterdam, Dept Commun DBL 859, De Boelelaan 1081C, NL-1081 HV Amsterdam, Netherlands.
+EM ehhj.das@scw.vu.nl
+OI Das, Enny/0000-0002-0367-6757
+NR 32
+TC 80
+Z9 81
+U1 0
+U2 43
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0146-1672
+EI 1552-7433
+J9 PERS SOC PSYCHOL B
+JI Pers. Soc. Psychol. Bull.
+PD MAY
+PY 2003
+VL 29
+IS 5
+BP 650
+EP 664
+DI 10.1177/0146167203029005009
+PG 15
+WC Psychology, Social
+SC Psychology
+GA 669FT
+UT WOS:000182341800009
+PM 15272997
+OA Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU LaTour, MS
+   Tanner, JF
+AF LaTour, MS
+   Tanner, JF
+TI Radon: Appealing to our fears
+SO PSYCHOLOGY & MARKETING
+LA English
+DT Article
+ID PROTECTION MOTIVATION MODEL; AROUSAL; AIDS
+AB This study examines the psychological response-to the threat of radon gas. This study contributes new information to the theoretical literature pertaining to fear appeals in general and the. threat to children from radon gas in particular. The presence or absence of children living in the home resulted in opposite effects of alternative levels of threat. Those with children, in the home were more motivated to call for information simply as the result of adding a vivid "x-ray sizzle effect" to an otherwise identical video stimulus' When the effect is not in the ad, people without children in the house were more motivated to call. Theoretical insights as to why this occurred are offered. The results also suggest arousal, attitude toward the ad, propensity toward avoidance of maladaptive behaviors, and perceived future likelihood of. radon exposure also impact intent to call for more information on the radon threat. (C) 2003 Wiley Periodicals, Inc.
+C1 Auburn Univ, Auburn, AL 36849 USA.
+   Baylor Univ, Waco, TX 76798 USA.
+RP LaTour, MS (corresponding author), Auburn Univ, Auburn, AL 36849 USA.
+NR 22
+TC 36
+Z9 36
+U1 0
+U2 7
+PU JOHN WILEY & SONS INC
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN, NJ 07030 USA
+SN 0742-6046
+J9 PSYCHOL MARKET
+JI Psychol. Mark.
+PD MAY
+PY 2003
+VL 20
+IS 5
+BP 377
+EP 394
+DI 10.1002/mar.10078
+PG 18
+WC Business; Psychology, Applied
+SC Business & Economics; Psychology
+GA 669CD
+UT WOS:000182333600001
+DA 2020-08-05
+ER
+
+PT J
+AU Meijnders, AL
+   Midden, CJH
+   Wilke, HAM
+AF Meijnders, AL
+   Midden, CJH
+   Wilke, HAM
+TI Role of negative emotion in communication about CO(2) risks
+SO RISK ANALYSIS
+LA English
+DT Article
+DE risk communication; negative emotion; information processing; attitudes
+ID GLOBAL CLIMATE-CHANGE; PROTECTION MOTIVATION THEORY; ATTITUDE-CHANGE;
+   FEAR APPEALS; PEOPLE KNOW; INFORMATION; PERSUASION
+AB This article describes how the effectiveness of risk communication is determined by the interaction between emotional and informative elements. An experiment is described that examined the role of negative emotion in communication about CO, risks. This experiment was based on the elaboration likelihood model and the related heuristic systematic model of attitude formation. The results indicated that inducing fear of CO, risks leads to systematic processing of information about energy conservation as a risk-reducing strategy. In turn, this results in more favorable attitudes toward energy conservation if strong arguments are provided. Individual differences in concern seem to have similar effects.
+C1 Eindhoven Univ Technol, Fac Technol Management, Dept Human Technol Interact, NL-5600 MB Eindhoven, Netherlands.
+   Leiden Univ, Fac Social Sci, Dept Social & Org Psychol, Leiden, Netherlands.
+RP Meijnders, AL (corresponding author), Eindhoven Univ Technol, Fac Technol Management, Dept Human Technol Interact, POB 513, NL-5600 MB Eindhoven, Netherlands.
+NR 34
+TC 72
+Z9 72
+U1 3
+U2 34
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0272-4332
+J9 RISK ANAL
+JI Risk Anal.
+PD OCT
+PY 2001
+VL 21
+IS 5
+BP 955
+EP 966
+DI 10.1111/0272-4332.215164
+PG 12
+WC Public, Environmental & Occupational Health; Mathematics,
+   Interdisciplinary Applications; Social Sciences, Mathematical Methods
+SC Public, Environmental & Occupational Health; Mathematics; Mathematical
+   Methods In Social Sciences
+GA 502TH
+UT WOS:000172758500013
+PM 11798129
+DA 2020-08-05
+ER
+
+PT J
+AU Meijnders, AL
+   Midden, CJH
+   Wilke, HAM
+AF Meijnders, AL
+   Midden, CJH
+   Wilke, HAM
+TI Communications about environmental risks and risk-reducing behavior: The
+   impact of fear on information processing
+SO JOURNAL OF APPLIED SOCIAL PSYCHOLOGY
+LA English
+DT Article
+ID PROTECTION-MOTIVATION THEORY; ATTITUDE-CHANGE; NEGATIVE EMOTION;
+   APPEALS; THREAT
+AB The present experiment examined the impact of fear on attitudes and the mediating role of information processing. Fear and argument strength were manipulated according to a 3 x 2 (Fear: Control vs. Moderate Fear vs. High Fear x Arguments: Weak vs. Strong) between subjects design. Fear was aroused with regard to the risks associated with global warming, and the information to be processed was a persuasive message about energy-conserving light bulbs. The results indicate that both moderate and high levels of fear had an impact on attitudes. Moderate fear resulted in more positive attitudes toward energy-saving bulbs, but only when strong arguments in favor of these bulbs were provided, High fear had a positive effect on attitudes, regardless of argument strength. It is concluded that fear may influence attitudes both in a direct and an indirect way, mediated by information processing. Whether the direct or the indirect effect dominates appears to depend on fear intensity.
+C1 Eindhoven Univ Technol, Dept Human Technol Interact, Fac Technol Management, NL-5600 MB Eindhoven, Netherlands.
+   Leiden Univ, Dept Social & Org Psychol, Leiden, Netherlands.
+RP Meijnders, AL (corresponding author), Eindhoven Univ Technol, Dept Human Technol Interact, Fac Technol Management, POB 513, NL-5600 MB Eindhoven, Netherlands.
+NR 43
+TC 27
+Z9 27
+U1 0
+U2 28
+PU V H WINSTON & SON INC
+PI PALM BEACH
+PA 360 SOUTH OCEAN BLVD, PH-B, PALM BEACH, FL 33480 USA
+SN 0021-9029
+J9 J APPL SOC PSYCHOL
+JI J. Appl. Soc. Psychol.
+PD APR
+PY 2001
+VL 31
+IS 4
+BP 754
+EP 777
+DI 10.1111/j.1559-1816.2001.tb01412.x
+PG 24
+WC Psychology, Social
+SC Psychology
+GA 451JK
+UT WOS:000169798800006
+DA 2020-08-05
+ER
+
+PT J
+AU Smalec, JL
+   Klingle, RS
+AF Smalec, JL
+   Klingle, RS
+TI Bulimia interventions via interpersonal influence: The role of threat
+   and efficacy in persuading bulimics to seek help
+SO JOURNAL OF BEHAVIORAL MEDICINE
+LA English
+DT Article
+DE bulimia; bulimia interventions; interpersonal influence; threat;
+   efficacy
+ID PROTECTION-MOTIVATION THEORY; HEALTH BELIEF MODEL; SELF-EFFICACY;
+   UNREALISTIC OPTIMISM; EATING DISORDERS; ATTITUDE-CHANGE; FEAR APPEALS;
+   NERVOSA; SATISFACTION; PREVALENCE
+AB The causes and medical consequences of bulimia are well established in the literature, yet prevalence rates for bulimia continue to be quite high. Eating disorder books and popular magazines have offered a variety of ways in which individuals can communicatively influence bulimics to seek the help they need to treat their disorder. Unfortunately, many of the recommended influence strategies have been atheoretically derived and sorely lack empirical data affirming their effectiveness. The present study investigates and empirically tests the effectiveness of interpersonal intervention messages aimed at getting bulimic individuals to seek medical help. Several theoretical perspectives, as they relate to messages of threat and efficacy, were used to predict the effects of bulimics' threat and efficacy perceptions on message acceptance and message rejection. A main and positive effect for efficacy was found on message acceptance. A threat by efficacy interaction on message acceptance was partially supported for both cognitive and behavioral message acceptance. The threat by efficacy interaction was not significant for message rejection. Overall, this study confirmed the notion that high levels of both threat and efficacy are necessary to convince bulimic individuals to seek help. These findings can be used to aid concerned individuals in their quest to intervene and to get bulimics to seek out the necessary medical assistance and support.
+C1 Univ Hawaii Manoa, Honolulu, HI 96822 USA.
+RP Klingle, RS (corresponding author), Dept Speech, George Hall 320,2560 Campus Rd, Honolulu, HI 96822 USA.
+NR 55
+TC 28
+Z9 28
+U1 0
+U2 4
+PU KLUWER ACADEMIC/PLENUM PUBL
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0160-7715
+J9 J BEHAV MED
+JI J. Behav. Med.
+PD FEB
+PY 2000
+VL 23
+IS 1
+BP 37
+EP 57
+DI 10.1023/A:1005468220077
+PG 21
+WC Psychology, Clinical
+SC Psychology
+GA 296HQ
+UT WOS:000086019300003
+PM 10749010
+DA 2020-08-05
+ER
+
+PT J
+AU Keller, PA
+AF Keller, PA
+TI Converting the unconverted: The effect of inclination and opportunity to
+   discount health-related fear appeals
+SO JOURNAL OF APPLIED PSYCHOLOGY
+LA English
+DT Article
+ID ATTITUDE-CHANGE; BEHAVIOR; EFFICACY
+AB Two experiments indicated that the conventional wisdom for designing fear appeals, higher fear arousal, and a consequences-recommendations ordering, was more persuasive for adherents, or those who were already following the advocated recommendations. Instead, lowering the level of fear arousal and reversing the order of the consequences and recommendations were more effective for persuading the unconverted. The unconverted were more persuaded by the latter message format because it reduced the level of message discounting. Specifically, unconverted participants who received either a low fear appeal or recommendations preceding consequences perceived themselves to be more susceptible, perceived the consequences as more severe, regarded the recommendations as more efficacious, believed they were more able to follow the recommendations, and were less likely to refute the message claims.
+C1 Stanford Univ, Grad Sch Business, Stanford, CA 94305 USA.
+   Duke Univ, Fuqua Sch Business, Durham, NC 27706 USA.
+RP Keller, PA (corresponding author), Dartmouth Coll, Amos Tuck Sch Business Adm, 100 Tuck Sch, Hanover, NH 03755 USA.
+EM Punam.A.Keller@Dartmouth.edu
+NR 37
+TC 62
+Z9 62
+U1 1
+U2 15
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0021-9010
+EI 1939-1854
+J9 J APPL PSYCHOL
+JI J. Appl. Psychol.
+PD JUN
+PY 1999
+VL 84
+IS 3
+BP 403
+EP 415
+DI 10.1037/0021-9010.84.3.403
+PG 13
+WC Psychology, Applied; Management
+SC Psychology; Business & Economics
+GA 205BN
+UT WOS:000080801600008
+PM 10380420
+DA 2020-08-05
+ER
+
+PT J
+AU Witte, K
+   Berkowitz, JM
+   Cameron, KA
+   McKeon, JK
+AF Witte, K
+   Berkowitz, JM
+   Cameron, KA
+   McKeon, JK
+TI Preventing the spread of genital warts: Using fear appeals to promote
+   self-protective behaviors
+SO HEALTH EDUCATION & BEHAVIOR
+LA English
+DT Article
+ID PARALLEL PROCESS MODEL; ATTITUDE-CHANGE; EFFICACY
+AB A fear appeal campaign to decrease the spread of genital warts was conducted and evaluated. Theoretically guided by the Extended Parallel Process Model, this field study illustrated why fear appeal campaigns often appear to fail in public health arenas. Five hypotheses, which predicted when and under what conditions fear appeal campaigns would fail or succeed, were tested and supported. The results demonstrated that fear appeals can be powerful persuasive devices if they induce strong perceptions of threat and fear (which motivate action) and if they induce strong perceptions of efficacy with regard to a recommended response (which channels the action in a health protective direction). Recommendations to researchers and public health practitioners are offered.
+C1 Michigan State Univ, Dept Commun, E Lansing, MI 48824 USA.
+   Univ Georgia, Dept Speech Commun, Athens, GA 30602 USA.
+RP Witte, K (corresponding author), Michigan State Univ, Dept Commun, E Lansing, MI 48824 USA.
+EM wittek@pilot.msu.edu
+OI Cameron, Kenzie/0000-0002-3535-6459
+NR 30
+TC 92
+Z9 93
+U1 1
+U2 27
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 1090-1981
+J9 HEALTH EDUC BEHAV
+JI Health Educ. Behav.
+PD OCT
+PY 1998
+VL 25
+IS 5
+BP 571
+EP 585
+DI 10.1177/109019819802500505
+PG 15
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 119VK
+UT WOS:000075918700004
+PM 9768378
+DA 2020-08-05
+ER
+
+PT J
+AU Schoenbachler, DD
+   Whittler, TE
+AF Schoenbachler, DD
+   Whittler, TE
+TI Adolescent processing of social and physical threat communications
+SO JOURNAL OF ADVERTISING
+LA English
+DT Article
+ID SENSATION-SEEKING SCALES; ATTITUDE-CHANGE; FEAR APPEALS
+AB Using the predictions of the ordered protection motivation model (OPM), the authors examined 371 adolescents' reactions to physical and social threat appeals in drug prevention public service announcements. Sensation seeking was also included in the experiment and analysis. rn support of the notion that the social implications of a response to a threat message influence the message's effectiveness, social threat communications were more persuasive than physical threat communications. Sensation seeking emerged as an important variable moderating response to threat communications, supporting the argument that responses may be due to factors other than the communication itself. In contrast to the argument that fear arousal is a prerequisite for effective response to threat messages, the authors found fear arousal unnecessary for persuasion to occur. The implications of the findings for the effectiveness of public service announcements are discussed.
+C1 UNIV KENTUCKY,LEXINGTON,KY 40506.
+RP Schoenbachler, DD (corresponding author), NO ILLINOIS UNIV,DE KALB,IL 60115, USA.
+NR 58
+TC 69
+Z9 69
+U1 1
+U2 18
+PU CTC PRESS/JOA
+PI CLEMSON
+PA PO BOX 1826, CLEMSON, SC 29633-1826
+SN 0091-3367
+J9 J ADVERTISING
+JI J. Advert.
+PD WIN
+PY 1996
+VL 25
+IS 4
+BP 37
+EP 54
+DI 10.1080/00913367.1996.10673511
+PG 18
+WC Business; Communication
+SC Business & Economics; Communication
+GA WJ435
+UT WOS:A1996WJ43500004
+DA 2020-08-05
+ER
+
+PT J
+AU Sturges, JW
+   Rogers, RW
+AF Sturges, JW
+   Rogers, RW
+TI Preventive health psychology from a developmental perspective: An
+   extension of protection motivation theory
+SO HEALTH PSYCHOLOGY
+LA English
+DT Article
+DE protection motivation theory; children; adolescents; tobacco; prevention
+ID ATTITUDE-CHANGE; FEAR APPEALS; EFFICACY; THREATS
+AB Theories of health psychology developed to explain adults' rational decision making were applied to 10-year-old children (n = 112), who had not reached the stage of formal operational thought; 15-year-olds (n = 67); and 20-year-olds (n = 93), extending the protection motivation theory developed by R. W. Rogers (1983). Among the adolescents and young adults, the threat appeals worked only if people believed they could cope effectively with the danger; if they believed they could not cope, higher levels of the threat resulted in decreased intentions to refrain from tobacco use. Although children elaborated and integrated the information about threat severity, personal vulnerability, and response efficacy, the fragility and malleability of the children's beliefs in self-efficacy demonstrated the importance of adding a developmental perspective to theories of preventive health psychology.
+C1 UNIV ALABAMA, DEPT PSYCHOL, TUSCALOOSA, AL 35487 USA.
+NR 45
+TC 48
+Z9 47
+U1 2
+U2 24
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0278-6133
+EI 1930-7810
+J9 HEALTH PSYCHOL
+JI Health Psychol.
+PD MAY
+PY 1996
+VL 15
+IS 3
+BP 158
+EP 166
+DI 10.1037/0278-6133.15.3.158
+PG 9
+WC Psychology, Clinical; Psychology
+SC Psychology
+GA UL301
+UT WOS:A1996UL30100002
+PM 8698029
+DA 2020-08-05
+ER
+
+PT J
+AU Keller, PA
+   Block, LG
+AF Keller, PA
+   Block, LG
+TI Increasing the persuasiveness of fear appeals: The effect of arousal and
+   elaboration
+SO JOURNAL OF CONSUMER RESEARCH
+LA English
+DT Article
+ID SELF-REFERENCE; INFORMATION; IMAGERY
+AB We investigate the conditions under which messages that prompt low and high levels of fear are likely to be effective. Our premise is that when a low level of fear is ineffective, it is because there is insufficient elaboration of the harmful consequences of engaging in the destructive behavior. By contrast, when appeals arousing high levels of fear are ineffective, it is because too much elaboration on the harmful consequences interferes with processing of the recommended change in behavior. We find support for these expectations in the context of a communication advocating that people stop smoking. The elaboration-enhancing interventions used, self-reference and imagery processing, increased the persuasiveness of a low-fear appeal by prompting elaboration on the harmful consequences of smoking, whereas the use of two elaboration-suppressing interventions, reference to others and objective processing, increased the persuasiveness of a high-fear appeal by decreasing the extent to which consumers deny harmful consequences.
+C1 NYU,STERN SCH BUSINESS,NEW YORK,NY 10012.
+RP Keller, PA (corresponding author), UNIV N CAROLINA,KENAN FLAGLER BUSINESS SCH,CHAPEL HILL,NC 27514, USA.
+NR 26
+TC 152
+Z9 153
+U1 0
+U2 57
+PU UNIV CHICAGO PRESS
+PI CHICAGO
+PA 5720 S WOODLAWN AVE, CHICAGO, IL 60637
+SN 0093-5301
+J9 J CONSUM RES
+JI J. Consum. Res.
+PD MAR
+PY 1996
+VL 22
+IS 4
+BP 448
+EP 459
+DI 10.1086/209461
+PG 12
+WC Business
+SC Business & Economics
+GA UJ396
+UT WOS:A1996UJ39600007
+DA 2020-08-05
+ER
+
+PT J
+AU BROUWERS, MC
+   SORRENTINO, RM
+AF BROUWERS, MC
+   SORRENTINO, RM
+TI UNCERTAINTY ORIENTATION AND PROTECTION MOTIVATION THEORY - THE ROLE OF
+   INDIVIDUAL-DIFFERENCES IN HEALTH COMPLIANCE
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+ID ATTITUDE-CHANGE; FEAR APPEALS; BEHAVIOR; INFORMATION; PERSUASION;
+   COMPONENTS; EFFICACY; MOTIVES; THREAT
+AB The experiment was designed to determine the influence of uncertainty orientation (R. M. Sorrentino, J. C. Short, 1986) on compliance with a diagnostic health behavior. Ss (N = 155) read 1 version of an education essay on a disease and diagnostic response. Threat and efficacy information were manipulated. Consistent with protection motivation theory (R. W. Rogers, 1983), uncertainty-oriented Ss sought more health-related information as threat and efficacy increased. Certainty-oriented Ss, however, sought more health-related information as threat or efficacy, but not both, increased. Individual differences were also found on adaptive measures and ineffective alternative responses.
+C1 UNIV WESTERN ONTARIO,DEPT PSYCHOL,LONDON N6A 5C2,ONTARIO,CANADA.
+NR 55
+TC 73
+Z9 74
+U1 1
+U2 19
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0022-3514
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD JUL
+PY 1993
+VL 65
+IS 1
+BP 102
+EP 112
+DI 10.1037/0022-3514.65.1.102
+PG 11
+WC Psychology, Social
+SC Psychology
+GA LM064
+UT WOS:A1993LM06400008
+DA 2020-08-05
+ER
+
+PT J
+AU LIBERMAN, A
+   CHAIKEN, S
+AF LIBERMAN, A
+   CHAIKEN, S
+TI DEFENSIVE PROCESSING OF PERSONALLY RELEVANT HEALTH MESSAGES
+SO PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+LA English
+DT Article
+ID COGNITIVE RESPONSES; PERIPHERAL ROUTES; INVOLVEMENT; PERSUASION;
+   INFORMATION; SELF; INTEGRATION; INFERENCE
+AB Subjects for whom a health threat was relevant or irrelevant were recruited and matched on prior beliefs in the health threat. Following exposure to either a low- or a high-threat message, high-relevance subjects were less likely to believe in the threat. Consistent with earlier work, no evidence was found to suggest that defensive inattention to the messages mediated subjects' final beliefs. Instead, processing measures suggested that high-relevance subjects processed threatening parts of both messages in a biased fashion. The relationship between biased judgment and biased processing is discussed, as are the difficulties in documenting the latter
+C1 NYU,DEPT PSYCHOL,NEW YORK,NY 10003.
+NR 36
+TC 333
+Z9 333
+U1 4
+U2 51
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320
+SN 0146-1672
+J9 PERS SOC PSYCHOL B
+JI Pers. Soc. Psychol. Bull.
+PD DEC
+PY 1992
+VL 18
+IS 6
+BP 669
+EP 679
+DI 10.1177/0146167292186002
+PG 11
+WC Psychology, Social
+SC Psychology
+GA JZ945
+UT WOS:A1992JZ94500002
+DA 2020-08-05
+ER
+
+PT J
+AU TANNER, JF
+   HUNT, JB
+   EPPRIGHT, DR
+AF TANNER, JF
+   HUNT, JB
+   EPPRIGHT, DR
+TI THE PROTECTION MOTIVATION MODEL - A NORMATIVE MODEL OF FEAR APPEALS
+SO JOURNAL OF MARKETING
+LA English
+DT Article
+ID ATTITUDE-CHANGE; AROUSING COMMUNICATIONS; EMOTION; COMPONENTS; EFFICACY
+C1 UNIV N CAROLINA,CAMERON SCH BUSINESS,CHAPEL HILL,NC 27514.
+   UNIV W FLORIDA,SCH BUSINESS,PENSACOLA,FL 32514.
+RP TANNER, JF (corresponding author), BAYLOR UNIV,HANKAMER SCH BUSINESS,WACO,TX 76798, USA.
+NR 39
+TC 226
+Z9 229
+U1 3
+U2 36
+PU AMER MARKETING ASSN
+PI CHICAGO
+PA 250 SOUTH WACKER DRIVE SUITE 200, CHICAGO, IL 60606-5819
+SN 0022-2429
+J9 J MARKETING
+JI J. Mark.
+PD JUL
+PY 1991
+VL 55
+IS 3
+BP 36
+EP 45
+DI 10.2307/1252146
+PG 10
+WC Business
+SC Business & Economics
+GA FW768
+UT WOS:A1991FW76800004
+DA 2020-08-05
+ER
+
+PT J
+AU KLOHN, LS
+   ROGERS, RW
+AF KLOHN, LS
+   ROGERS, RW
+TI DIMENSIONS OF THE SEVERITY OF A HEALTH THREAT - THE PERSUASIVE EFFECTS
+   OF VISIBILITY, TIME OF ONSET, AND RATE OF ONSET ON YOUNG WOMENS
+   INTENTIONS TO PREVENT OSTEOPOROSIS
+SO HEALTH PSYCHOLOGY
+LA English
+DT Article
+DE HEALTH THREAT; PREVENTION; PERSUASION
+ID PROTECTION-MOTIVATION THEORY; BEHAVIOR; EXERCISE; COMPONENTS; CALCIUM
+C1 UNIV ALABAMA,DEPT PSYCHOL,BOX 870348,348 GORDON PALMER,TUSCALOOSA,AL 35487.
+NR 30
+TC 43
+Z9 44
+U1 1
+U2 6
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0278-6133
+J9 HEALTH PSYCHOL
+JI Health Psychol.
+PY 1991
+VL 10
+IS 5
+BP 323
+EP 329
+DI 10.1037/0278-6133.10.5.323
+PG 7
+WC Psychology, Clinical; Psychology
+SC Psychology
+GA GE747
+UT WOS:A1991GE74700004
+PM 1935867
+DA 2020-08-05
+ER
+
+PT J
+AU STRUCKMANJOHNSON, CJ
+   GILLILAND, RC
+   STRUCKMANJOHNSON, DL
+   NORTH, TC
+AF STRUCKMANJOHNSON, CJ
+   GILLILAND, RC
+   STRUCKMANJOHNSON, DL
+   NORTH, TC
+TI THE EFFECTS OF FEAR OF AIDS AND GENDER ON RESPONSES TO FEAR-AROUSING
+   CONDOM ADVERTISEMENTS
+SO JOURNAL OF APPLIED SOCIAL PSYCHOLOGY
+LA English
+DT Article
+RP STRUCKMANJOHNSON, CJ (corresponding author), UNIV S DAKOTA,DEPT PSYCHOL,414 E CLARK,VERMILLION,SD 57069, USA.
+NR 25
+TC 18
+Z9 18
+U1 0
+U2 3
+PU V H WINSTON & SON INC
+PI PALM BEACH
+PA 360 SOUTH OCEAN BLVD, PH-B, PALM BEACH, FL 33480
+SN 0021-9029
+J9 J APPL SOC PSYCHOL
+JI J. Appl. Soc. Psychol.
+PD OCT
+PY 1990
+VL 20
+IS 17
+BP 1396
+EP 1410
+DI 10.1111/j.1559-1816.1990.tb01480.x
+PN 1
+PG 15
+WC Psychology, Social
+SC Psychology
+GA EE962
+UT WOS:A1990EE96200002
+DA 2020-08-05
+ER
+
+PT J
+AU SELF, CA
+   ROGERS, RW
+AF SELF, CA
+   ROGERS, RW
+TI COPING WITH THREATS TO HEALTH - EFFECTS OF PERSUASIVE APPEALS ON
+   DEPRESSED, NORMAL, AND ANTISOCIAL PERSONALITIES
+SO JOURNAL OF BEHAVIORAL MEDICINE
+LA English
+DT Article
+RP SELF, CA (corresponding author), UNIV ALABAMA,TUSCALOOSA,AL 35486, USA.
+NR 25
+TC 30
+Z9 30
+U1 0
+U2 4
+PU PLENUM PUBL CORP
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013
+SN 0160-7715
+J9 J BEHAV MED
+JI J. Behav. Med.
+PD AUG
+PY 1990
+VL 13
+IS 4
+BP 343
+EP 357
+DI 10.1007/BF00844883
+PG 15
+WC Psychology, Clinical
+SC Psychology
+GA DZ522
+UT WOS:A1990DZ52200002
+PM 2246782
+DA 2020-08-05
+ER
+
+PT J
+AU WEINSTEIN, ND
+   SANDMAN, PM
+   ROBERTS, NE
+AF WEINSTEIN, ND
+   SANDMAN, PM
+   ROBERTS, NE
+TI DETERMINANTS OF SELF-PROTECTIVE BEHAVIOR - HOME RADON TESTING
+SO JOURNAL OF APPLIED SOCIAL PSYCHOLOGY
+LA English
+DT Article
+RP WEINSTEIN, ND (corresponding author), RUTGERS STATE UNIV,COOK COLL,DEPT HUMAN ECOL,POB 231,NEW BRUNSWICK,NJ 08903, USA.
+NR 26
+TC 52
+Z9 53
+U1 0
+U2 3
+PU V H WINSTON & SON INC
+PI PALM BEACH
+PA 360 SOUTH OCEAN BLVD, PH-B, PALM BEACH, FL 33480
+SN 0021-9029
+J9 J APPL SOC PSYCHOL
+JI J. Appl. Soc. Psychol.
+PD JUN
+PY 1990
+VL 20
+IS 10
+BP 783
+EP 801
+DI 10.1111/j.1559-1816.1990.tb00379.x
+PN 1
+PG 19
+WC Psychology, Social
+SC Psychology
+GA DF910
+UT WOS:A1990DF91000001
+DA 2020-08-05
+ER
+
+PT J
+AU WURTELE, SK
+AF WURTELE, SK
+TI INCREASING WOMENS CALCIUM INTAKE - THE ROLE OF HEALTH BELIEFS,
+   INTENTIONS, AND HEALTH VALUE
+SO JOURNAL OF APPLIED SOCIAL PSYCHOLOGY
+LA English
+DT Article
+RP WURTELE, SK (corresponding author), WASHINGTON STATE UNIV,DEPT PSYCHOL,PULLMAN,WA 99164, USA.
+NR 30
+TC 40
+Z9 40
+U1 0
+U2 3
+PU V H WINSTON & SON INC
+PI PALM BEACH
+PA 360 SOUTH OCEAN BLVD, PH-B, PALM BEACH, FL 33480
+SN 0021-9029
+J9 J APPL SOC PSYCHOL
+JI J. Appl. Soc. Psychol.
+PD JUN
+PY 1988
+VL 18
+IS 8
+BP 627
+EP 639
+DI 10.1111/j.1559-1816.1988.tb00041.x
+PN 2
+PG 13
+WC Psychology, Social
+SC Psychology
+GA P3256
+UT WOS:A1988P325600001
+DA 2020-08-05
+ER
+
+PT J
+AU RIPPETOE, PA
+   ROGERS, RW
+AF RIPPETOE, PA
+   ROGERS, RW
+TI EFFECTS OF COMPONENTS OF PROTECTION-MOTIVATION THEORY ON ADAPTIVE AND
+   MALADAPTIVE COPING WITH A HEALTH THREAT
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+RP RIPPETOE, PA (corresponding author), UNIV ALABAMA,SCH MED,DEPT PSYCHIAT,BIRMINGHAM,AL 35294, USA.
+NR 21
+TC 400
+Z9 402
+U1 3
+U2 83
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0022-3514
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD MAR
+PY 1987
+VL 52
+IS 3
+BP 596
+EP 604
+DI 10.1037/0022-3514.52.3.596
+PG 9
+WC Psychology, Social
+SC Psychology
+GA G3328
+UT WOS:A1987G332800014
+PM 3572727
+DA 2020-08-05
+ER
+
+PT J
+AU WURTELE, SK
+   MADDUX, JE
+AF WURTELE, SK
+   MADDUX, JE
+TI RELATIVE CONTRIBUTIONS OF PROTECTION MOTIVATION THEORY COMPONENTS IN
+   PREDICTING EXERCISE INTENTIONS AND BEHAVIOR
+SO HEALTH PSYCHOLOGY
+LA English
+DT Article
+C1 GEORGE MASON UNIV, FAIRFAX, VA 22030 USA.
+RP WURTELE, SK (corresponding author), WASHINGTON STATE UNIV, DEPT PSYCHOL, PULLMAN, WA 99164 USA.
+NR 40
+TC 115
+Z9 115
+U1 1
+U2 24
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0278-6133
+EI 1930-7810
+J9 HEALTH PSYCHOL
+JI Health Psychol.
+PY 1987
+VL 6
+IS 5
+BP 453
+EP 466
+DI 10.1037/0278-6133.6.5.453
+PG 14
+WC Psychology, Clinical; Psychology
+SC Psychology
+GA K3495
+UT WOS:A1987K349500007
+PM 3678171
+DA 2020-08-05
+ER
+
+PT J
+AU BECK, KH
+AF BECK, KH
+TI THE EFFECTS OF RISK PROBABILITY, OUTCOME SEVERITY, EFFICACY OF
+   PROTECTION AND ACCESS TO PROTECTION ON DECISION-MAKING - A FURTHER TEST
+   OF PROTECTION MOTIVATION THEORY
+SO SOCIAL BEHAVIOR AND PERSONALITY
+LA English
+DT Article
+RP BECK, KH (corresponding author), UNIV MARYLAND,COLL PHYS EDUC RECREAT & HLTH,CTR SAFETY EDUC,ROOM 0105,COLLEGE PK,MD 20742, USA.
+NR 23
+TC 25
+Z9 25
+U1 1
+U2 7
+PU SOC PERSONALITY RES INC
+PI PALMERSTON NORTH
+PA P O BOX 1539, PALMERSTON NORTH 5330, NEW ZEALAND
+SN 0301-2212
+J9 SOC BEHAV PERSONAL
+JI Soc. Behav. Pers.
+PY 1984
+VL 12
+IS 2
+BP 121
+EP 125
+DI 10.2224/sbp.1984.12.2.121
+PG 5
+WC Psychology, Social
+SC Psychology
+GA ALC30
+UT WOS:A1984ALC3000003
+DA 2020-08-05
+ER
+
+PT J
+AU STAINBACK, RD
+   ROGERS, RW
+AF STAINBACK, RD
+   ROGERS, RW
+TI IDENTIFYING EFFECTIVE COMPONENTS OF ALCOHOL-ABUSE PREVENTION PROGRAMS -
+   EFFECTS OF FEAR APPEALS, MESSAGE STYLE, AND SOURCE EXPERTISE
+SO INTERNATIONAL JOURNAL OF THE ADDICTIONS
+LA English
+DT Article
+C1 UNIV ALABAMA,DEPT PSYCHOL,UNIVERSITY,AL 35486.
+FU NIAAA NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute on Alcohol Abuse
+   & Alcoholism (NIAAA) [5T01 AA 00002]
+NR 28
+TC 34
+Z9 35
+U1 0
+U2 10
+PU MARCEL DEKKER INC
+PI NEW YORK
+PA 270 MADISON AVE, NEW YORK, NY 10016
+SN 0020-773X
+J9 INT J ADDICT
+JI Int. J. Addict.
+PY 1983
+VL 18
+IS 3
+BP 393
+EP 405
+DI 10.3109/10826088309039356
+PG 13
+WC Substance Abuse; Psychiatry
+SC Substance Abuse; Psychiatry
+GA QW804
+UT WOS:A1983QW80400010
+PM 6874160
+DA 2020-08-05
+ER
+
+PT J
+AU FUKADA, H
+AF FUKADA, H
+TI FOREWARNING EFFECTS IN FEAR-AROUSING COMMUNICATIONS
+SO JAPANESE JOURNAL OF PSYCHOLOGY
+LA Japanese
+DT Article
+RP FUKADA, H (corresponding author), SHIMANE UNIV,FAC EDUC,DEPT EARLY CHILDHOOD EDUC,MATSUE,SHIMANE 690,JAPAN.
+NR 19
+TC 2
+Z9 2
+U1 0
+U2 1
+PU JAPAN PSYCHOL ASSOC
+PI TOKYO
+PA 2-40-14-902 HONGO BUNKYO-KU, TOKYO 113, JAPAN
+SN 0021-5236
+J9 JPN J PSYCHOL
+JI Jpn. J. Psychol.
+PY 1983
+VL 54
+IS 5
+BP 286
+EP 292
+DI 10.4992/jjpsy.54.286
+PG 7
+WC Psychology, Multidisciplinary
+SC Psychology
+GA RW243
+UT WOS:A1983RW24300002
+OA Bronze
+DA 2020-08-05
+ER
+
+PT J
+AU KLEINOT, MC
+   ROGERS, RW
+AF KLEINOT, MC
+   ROGERS, RW
+TI IDENTIFYING EFFECTIVE COMPONENTS OF ALCOHOL MISUSE PREVENTION PROGRAMS
+SO JOURNAL OF STUDIES ON ALCOHOL
+LA English
+DT Article
+C1 UNIV ALABAMA,DEPT PSYCHOL,UNIVERSITY,AL 35486.
+FU NIAAA NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute on Alcohol Abuse
+   & Alcoholism (NIAAA) [5T01 AA 00002]
+NR 17
+TC 49
+Z9 49
+U1 0
+U2 6
+PU ALCOHOL RES DOCUMENTATION INC CENT ALCOHOL STUD RUTGERS UNIV
+PI PISCATAWAY
+PA PO BOX 969, PISCATAWAY, NJ 08855-0969
+SN 0096-882X
+J9 J STUD ALCOHOL
+JI J. Stud. Alcohol
+PY 1982
+VL 43
+IS 7
+BP 802
+EP 811
+DI 10.15288/jsa.1982.43.802
+PG 10
+WC Substance Abuse; Psychology
+SC Substance Abuse; Psychology
+GA PV561
+UT WOS:A1982PV56100010
+PM 7166943
+DA 2020-08-05
+ER
+
+PT J
+AU BURNETT, JJ
+AF BURNETT, JJ
+TI INTERNAL-EXTERNAL LOCUS OF CONTROL AS A MODERATOR OF FEAR APPEALS
+SO JOURNAL OF APPLIED PSYCHOLOGY
+LA English
+DT Note
+RP BURNETT, JJ (corresponding author), TEXAS TECH UNIV,COLL BUSINESS ADM,LUBBOCK,TX 79409, USA.
+NR 12
+TC 11
+Z9 11
+U1 0
+U2 6
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0021-9010
+J9 J APPL PSYCHOL
+JI J. Appl. Psychol.
+PY 1981
+VL 66
+IS 3
+BP 390
+EP 393
+DI 10.1037/0021-9010.66.3.390
+PG 4
+WC Psychology, Applied; Management
+SC Psychology; Business & Economics
+GA LX720
+UT WOS:A1981LX72000018
+DA 2020-08-05
+ER
+
+PT J
+AU SHELTON, ML
+   ROGERS, RW
+AF SHELTON, ML
+   ROGERS, RW
+TI FEAR-AROUSING AND EMPATHY-AROUSING APPEALS TO HELP - THE PATHOS OF
+   PERSUASION
+SO JOURNAL OF APPLIED SOCIAL PSYCHOLOGY
+LA English
+DT Article
+C1 UNIV ALABAMA,DEPT PSYCHOL,UNIVERSITY,AL 35486.
+NR 20
+TC 85
+Z9 85
+U1 1
+U2 29
+PU V H WINSTON & SON INC
+PI PALM BEACH
+PA 360 SOUTH OCEAN BLVD, PH-B, PALM BEACH, FL 33480
+SN 0021-9029
+J9 J APPL SOC PSYCHOL
+JI J. Appl. Soc. Psychol.
+PY 1981
+VL 11
+IS 4
+BP 366
+EP 378
+DI 10.1111/j.1559-1816.1981.tb00829.x
+PG 13
+WC Psychology, Social
+SC Psychology
+GA NR686
+UT WOS:A1981NR68600005
+DA 2020-08-05
+ER
+
+PT J
+AU HILL, D
+   GARDNER, G
+AF HILL, D
+   GARDNER, G
+TI REPRESSION-SENSITIZATION AND YIELDING TO THREATENING HEALTH
+   COMMUNICATIONS
+SO AUSTRALIAN JOURNAL OF PSYCHOLOGY
+LA English
+DT Article
+C1 UNIV MELBOURNE,DEPT PSYCHOL,PARKVILLE,VIC 3052,AUSTRALIA.
+   ANTICANC COUNCIL VICTORIA,MELBOURNE,AUSTRALIA.
+NR 22
+TC 13
+Z9 13
+U1 0
+U2 3
+PU AUSTRALIAN PSYCHOLOGICAL SOC
+PI CARLTON
+PA 1 GRATTAN STREET, CARLTON VICTORIA 3053, AUSTRALIA
+SN 0004-9530
+J9 AUST J PSYCHOL
+JI Aust. J. Psychol.
+PY 1980
+VL 32
+IS 3
+BP 183
+EP 193
+DI 10.1080/00049538008254688
+PG 11
+WC Psychology, Multidisciplinary
+SC Psychology
+GA LM553
+UT WOS:A1980LM55300002
+DA 2020-08-05
+ER
+
+PT J
+AU DEMBROSKI, TM
+   LASATER, TM
+   RAMIREZ, A
+AF DEMBROSKI, TM
+   LASATER, TM
+   RAMIREZ, A
+TI COMMUNICATOR SIMILARITY, FEAR AROUSING COMMUNICATIONS, AND COMPLIANCE
+   WITH HEALTH-CARE RECOMMENDATIONS
+SO JOURNAL OF APPLIED SOCIAL PSYCHOLOGY
+LA English
+DT Article
+C1 UNIV COLORADO, BOULDER, CO 80302 USA.
+   UNIV ALABAMA, BIRMINGHAM, AL 35233 USA.
+RP DEMBROSKI, TM (corresponding author), ECKERD COLL, DEPT PSYCHOL, ST PETERSBURG, FL 33733 USA.
+NR 29
+TC 21
+Z9 21
+U1 0
+U2 2
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0021-9029
+EI 1559-1816
+J9 J APPL SOC PSYCHOL
+JI J. Appl. Soc. Psychol.
+PY 1978
+VL 8
+IS 3
+BP 254
+EP 269
+DI 10.1111/j.1559-1816.1978.tb00781.x
+PG 16
+WC Psychology, Social
+SC Psychology
+GA FT747
+UT WOS:A1978FT74700005
+DA 2020-08-05
+ER
+
+PT J
+AU BECK, KH
+   DAVIS, CM
+AF BECK, KH
+   DAVIS, CM
+TI EFFECTS OF FEAR-AROUSING COMMUNICATIONS AND TOPIC IMPORTANCE ON
+   ATTITUDE-CHANGE
+SO JOURNAL OF SOCIAL PSYCHOLOGY
+LA English
+DT Article
+RP BECK, KH (corresponding author), SYRACUSE UNIV,DEPT PSYCHOL,SYRACUSE,NY 13210, USA.
+NR 30
+TC 11
+Z9 11
+U1 0
+U2 8
+PU HELDREF PUBLICATIONS
+PI WASHINGTON
+PA 1319 EIGHTEENTH ST NW, WASHINGTON, DC 20036-1802
+SN 0022-4545
+J9 J SOC PSYCHOL
+JI J. Soc. Psychol.
+PY 1978
+VL 104
+IS 1
+BP 81
+EP 95
+DI 10.1080/00224545.1978.9924040
+PG 15
+WC Psychology, Social
+SC Psychology
+GA EX298
+UT WOS:A1978EX29800010
+PM 633865
+DA 2020-08-05
+ER
+
+PT J
+AU SKILBECK, C
+   TULIPS, J
+   LEY, P
+AF SKILBECK, C
+   TULIPS, J
+   LEY, P
+TI EFFECTS OF FEAR AROUSAL, FEAR POSITION, FEAR EXPOSURE, AND SIDEDNESS ON
+   COMPLIANCE WITH DIETARY INSTRUCTIONS
+SO EUROPEAN JOURNAL OF SOCIAL PSYCHOLOGY
+LA English
+DT Article
+C1 UNIV LIVERPOOL,LIVERPOOL L69 3BX,LANCASHIRE,ENGLAND.
+   UNIV GLASGOW,GLASGOW G12 8QQ,SCOTLAND.
+NR 38
+TC 18
+Z9 18
+U1 0
+U2 1
+PU JOHN WILEY & SONS LTD
+PI W SUSSEX
+PA BAFFINS LANE CHICHESTER, W SUSSEX, ENGLAND PO19 1UD
+SN 0046-2772
+J9 EUR J SOC PSYCHOL
+JI Eur. J. Soc. Psychol.
+PY 1977
+VL 7
+IS 2
+BP 221
+EP 239
+DI 10.1002/ejsp.2420070208
+PG 19
+WC Psychology, Social
+SC Psychology
+GA DT356
+UT WOS:A1977DT35600006
+DA 2020-08-05
+ER
+
+PT J
+AU RAMIREZ, A
+   LASATER, TM
+AF RAMIREZ, A
+   LASATER, TM
+TI ETHNICITY OF COMMUNICATOR, SELF-ESTEEM, AND REACTIONS TO FEAR-AROUSING
+   COMMUNICATIONS
+SO JOURNAL OF SOCIAL PSYCHOLOGY
+LA English
+DT Article
+C1 UNIV COLORADO,DEPT PSYCHOL,BOULDER,CO 80309.
+   UNIV ALABAMA,BIRMINGHAM,AL 35233.
+NR 14
+TC 17
+Z9 17
+U1 0
+U2 1
+PU HELDREF PUBLICATIONS
+PI WASHINGTON
+PA 1319 EIGHTEENTH ST NW, WASHINGTON, DC 20036-1802
+SN 0022-4545
+J9 J SOC PSYCHOL
+JI J. Soc. Psychol.
+PY 1977
+VL 102
+IS 1
+BP 79
+EP 91
+DI 10.1080/00224545.1977.9713243
+PG 13
+WC Psychology, Social
+SC Psychology
+GA DK644
+UT WOS:A1977DK64400011
+PM 881810
+DA 2020-08-05
+ER
+
+PT J
+AU GRIFFETH, RW
+   ROGERS, RW
+AF GRIFFETH, RW
+   ROGERS, RW
+TI EFFECTS OF FEAR-AROUSING COMPONENTS OF DRIVER EDUCATION ON STUDENTS
+   SAFETY ATTITUDES AND SIMULATOR PERFORMANCE
+SO JOURNAL OF EDUCATIONAL PSYCHOLOGY
+LA English
+DT Article
+C1 UNIV S CAROLINA,COLUMBIA,SC 29208.
+NR 10
+TC 26
+Z9 26
+U1 0
+U2 8
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0022-0663
+J9 J EDUC PSYCHOL
+JI J. Educ. Psychol.
+PY 1976
+VL 68
+IS 4
+BP 501
+EP 506
+DI 10.1037/0022-0663.68.4.501
+PG 6
+WC Psychology, Educational
+SC Psychology
+GA CB517
+UT WOS:A1976CB51700014
+DA 2020-08-05
+ER
+
+PT J
+AU ROGERS, RW
+   MEWBORN, CR
+AF ROGERS, RW
+   MEWBORN, CR
+TI FEAR APPEALS AND ATTITUDE-CHANGE - EFFECTS OF A THREATS NOXIOUSNESS,
+   PROBABILITY OF OCCURRENCE, AND EFFICACY OF COPING RESPONSES
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+C1 UNIV S CAROLINA,COLUMBIA,SC.
+NR 23
+TC 243
+Z9 244
+U1 1
+U2 25
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0022-3514
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PY 1976
+VL 34
+IS 1
+BP 54
+EP 61
+DI 10.1037/0022-3514.34.1.54
+PG 8
+WC Psychology, Social
+SC Psychology
+GA BY019
+UT WOS:A1976BY01900007
+PM 989058
+DA 2020-08-05
+ER
+
+PT J
+AU RAMIREZ, A
+   LASATER, TL
+AF RAMIREZ, A
+   LASATER, TL
+TI ATTITUDINAL AND BEHAVIORAL REACTIONS TO FEAR-AROUSING COMMUNICATIONS
+SO PSYCHOLOGICAL REPORTS
+LA English
+DT Article
+C1 UNIV ALABAMA,BIRMINGHAM,AL 35233.
+   UNIV COLORADO,DEPT PSYCHOL,BOULDER,CO 80302.
+NR 9
+TC 6
+Z9 6
+U1 0
+U2 1
+PU PSYCHOLOGICAL REPORTS
+PI MISSOULA
+PA P O BOX 9229, MISSOULA, MT 59807
+SN 0033-2941
+J9 PSYCHOL REP
+JI Psychol. Rep.
+PY 1976
+VL 38
+IS 3
+BP 811
+EP 818
+DI 10.2466/pr0.1976.38.3.811
+PG 8
+WC Psychology, Multidisciplinary
+SC Psychology
+GA BU424
+UT WOS:A1976BU42400027
+PM 1273187
+DA 2020-08-05
+ER
+
+PT J
+AU HASS, JW
+   BAGLEY, GS
+   ROGERS, RW
+AF HASS, JW
+   BAGLEY, GS
+   ROGERS, RW
+TI COPING WITH ENERGY-CRISIS - EFFECTS OF FEAR APPEALS UPON ATTITUDES
+   TOWARD ENERGY CONSUMPTION
+SO JOURNAL OF APPLIED PSYCHOLOGY
+LA English
+DT Note
+C1 UNIV S CAROLINA, COLL BUSINESS ADM, COLUMBIA, SC 29208 USA.
+   UNIV S CAROLINA, DEPT PSYCHOL, COLUMBIA, SC 29208 USA.
+NR 13
+TC 55
+Z9 55
+U1 0
+U2 10
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0021-9010
+EI 1939-1854
+J9 J APPL PSYCHOL
+JI J. Appl. Psychol.
+PY 1975
+VL 60
+IS 6
+BP 754
+EP 756
+DI 10.1037/0021-9010.60.6.754
+PG 3
+WC Psychology, Applied; Management
+SC Psychology; Business & Economics
+GA AX866
+UT WOS:A1975AX86600014
+DA 2020-08-05
+ER
+
+PT J
+AU HENDRICK, C
+   GIESEN, M
+   BORDEN, R
+AF HENDRICK, C
+   GIESEN, M
+   BORDEN, R
+TI FALSE PHYSIOLOGICAL FEEDBACK AND PERSUASION - EFFECT OF FEAR AROUSAL VS
+   FEAR REDUCTION ON ATTITUDE-CHANGE
+SO JOURNAL OF PERSONALITY
+LA English
+DT Article
+C1 MISSISSIPPI STATE UNIV,STATE COLL,MS.
+   PURDUE UNIV,W LAFEYETTE,IN.
+NR 17
+TC 16
+Z9 16
+U1 0
+U2 8
+PU BLACKWELL PUBLISHERS
+PI MALDEN
+PA 350 MAIN STREET, STE 6, MALDEN, MA 02148
+SN 0022-3506
+J9 J PERS
+JI J. Pers.
+PY 1975
+VL 43
+IS 2
+BP 196
+EP 214
+DI 10.1111/j.1467-6494.1975.tb00702.x
+PG 19
+WC Psychology, Social
+SC Psychology
+GA AL165
+UT WOS:A1975AL16500002
+PM 1195088
+DA 2020-08-05
+ER
+
+PT J
+AU ROGERS, RW
+   DECKNER, CW
+AF ROGERS, RW
+   DECKNER, CW
+TI EFFECTS OF FEAR APPEALS AND PHYSIOLOGICAL AROUSAL UPON EMOTION,
+   ATTITUDES, AND CIGARETTE-SMOKING
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+C1 VANDERBILT UNIV,DEPT BIOMED ENGN,NASHVILLE,TN.
+   UNIV S CAROLINA,DEPT PSYCHOL,COLUMBIA,SC 29208.
+NR 31
+TC 66
+Z9 67
+U1 0
+U2 21
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0022-3514
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PY 1975
+VL 32
+IS 2
+BP 222
+EP 230
+DI 10.1037/0022-3514.32.2.222
+PG 9
+WC Psychology, Social
+SC Psychology
+GA AM322
+UT WOS:A1975AM32200005
+PM 1107512
+DA 2020-08-05
+ER
+
+PT J
+AU EVANS, RI
+   ROZELLE, RM
+   LASATER, TM
+   DEMBROSKI, TM
+   ALLEN, BP
+AF EVANS, RI
+   ROZELLE, RM
+   LASATER, TM
+   DEMBROSKI, TM
+   ALLEN, BP
+TI FEAR AROUSAL, PERSUASION, AND ACTUAL VERSUS IMPLIED BEHAVIORAL CHANGE -
+   NEW PERSPECTIVE UTILIZING A REAL-LIFE DENTAL HYGIENE PROGRAM
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+NR 14
+TC 86
+Z9 86
+U1 0
+U2 7
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+EI 1939-1315
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PY 1970
+VL 16
+IS 2
+BP 220
+EP +
+DI 10.1037/h0029834
+PG 1
+WC Psychology, Social
+SC Psychology
+GA H6531
+UT WOS:A1970H653100006
+PM 5479128
+DA 2020-08-05
+ER
+
+PT J
+AU HOROWITZ, IA
+AF HOROWITZ, IA
+TI EFFECTS OF VOLUNTEERING FEAR AROUSAL AND NUMBER OF COMMUNICATIONS ON
+   ATTITUDE CHANGE
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+NR 19
+TC 20
+Z9 20
+U1 0
+U2 1
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0022-3514
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PY 1969
+VL 11
+IS 1
+BP 34
+EP &
+DI 10.1037/h0027024
+PG 0
+WC Psychology, Social
+SC Psychology
+GA C8022
+UT WOS:A1969C802200005
+PM 5779640
+DA 2020-08-05
+ER
+
+PT J
+AU EVANS, RI
+   ROZELLE, RM
+   LASATER, TM
+   DEMBROSKI, TM
+   ALLEN, BP
+AF EVANS, RI
+   ROZELLE, RM
+   LASATER, TM
+   DEMBROSKI, TM
+   ALLEN, BP
+TI NEW MEASURE OF EFFECTS OF PERSUASIVE COMMUNICATIONS - A CHEMICAL
+   INDICATOR OF TOOTHBRUSHING BEHAVIOR
+SO PSYCHOLOGICAL REPORTS
+LA English
+DT Article
+NR 18
+TC 20
+Z9 20
+U1 0
+U2 0
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0033-2941
+EI 1558-691X
+J9 PSYCHOL REP
+JI Psychol. Rep.
+PY 1968
+VL 23
+IS 3P1
+BP 731
+EP +
+DI 10.2466/pr0.1968.23.3.731
+PG 1
+WC Psychology, Multidisciplinary
+SC Psychology
+GA C4435
+UT WOS:A1968C443500011
+PM 5717449
+DA 2020-08-05
+ER
+
+PT J
+AU LEVENTHAL, H
+   WATTS, JC
+   PAGANO, F
+AF LEVENTHAL, H
+   WATTS, JC
+   PAGANO, F
+TI EFFECTS OF FEAR AND INSTRUCTIONS ON HOW TO COPE WITH DANGER
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+NR 10
+TC 123
+Z9 123
+U1 0
+U2 15
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+EI 1939-1315
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PY 1967
+VL 6
+IS 3
+BP 313
+EP +
+DI 10.1037/h0021222
+PG 1
+WC Psychology, Social
+SC Psychology
+GA 96824
+UT WOS:A19679682400007
+PM 6075213
+DA 2020-08-05
+ER
+
+PT J
+AU LEVENTHA.H
+   WATTS, JC
+AF LEVENTHA.H
+   WATTS, JC
+TI SOURCES OF RESISTANCE TO FEAR-AROUSING COMMUNICATIONS ON SMOKING AND
+   LUNG CANCER
+SO JOURNAL OF PERSONALITY
+LA English
+DT Article
+NR 35
+TC 76
+Z9 76
+U1 0
+U2 5
+PU BLACKWELL PUBLISHERS
+PI MALDEN
+PA 350 MAIN STREET, STE 6, MALDEN, MA 02148
+SN 0022-3506
+J9 J PERS
+JI J. Pers.
+PY 1966
+VL 34
+IS 2
+BP 155
+EP &
+DI 10.1111/j.1467-6494.1966.tb01706.x
+PG 0
+WC Psychology, Social
+SC Psychology
+GA 79171
+UT WOS:A19667917100001
+PM 5939211
+DA 2020-08-05
+ER
+
+PT J
+AU CHU, GC
+AF CHU, GC
+TI FEAR AROUSAL EFFICACY AND IMMINENCY
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+NR 10
+TC 55
+Z9 55
+U1 0
+U2 2
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0022-3514
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PY 1966
+VL 4
+IS 5
+BP 517
+EP &
+DI 10.1037/h0021189
+PG 0
+WC Psychology, Social
+SC Psychology
+GA 85372
+UT WOS:A19668537200006
+PM 5972083
+DA 2020-08-05
+ER
+
+PT J
+AU DABBS, JM
+   LEVENTHAL, H
+AF DABBS, JM
+   LEVENTHAL, H
+TI EFFECTS OF VARYING RECOMMENDATIONS IN A FEAR-AROUSING COMMUNICATION
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+NR 20
+TC 91
+Z9 92
+U1 0
+U2 7
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+EI 1939-1315
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PY 1966
+VL 4
+IS 5
+BP 525
+EP +
+DI 10.1037/h0021190
+PG 1
+WC Psychology, Social
+SC Psychology
+GA 85372
+UT WOS:A19668537200007
+PM 5972084
+DA 2020-08-05
+ER
+
+PT J
+AU LEVENTHAL, H
+   SINGER, R
+   JONES, S
+AF LEVENTHAL, H
+   SINGER, R
+   JONES, S
+TI EFFECTS OF FEAR AND SPECIFICITY OF RECOMMENDATION UPON ATTITUDES AND
+   BEHAVIOR
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+NR 20
+TC 322
+Z9 323
+U1 0
+U2 16
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0022-3514
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PY 1965
+VL 2
+IS 1
+BP 20
+EP 29
+DI 10.1037/h0022089
+PG 10
+WC Psychology, Social
+SC Psychology
+GA CBG28
+UT WOS:A1965CBG2800003
+PM 14313839
+DA 2020-08-05
+ER
+
+PT J
+AU POWELL, FA
+AF POWELL, FA
+TI THE EFFECT OF ANXIETY-AROUSING MESSAGES WHEN RELATED TO PERSONAL,
+   FAMILIAL, AND IMPERSONAL REFERENTS
+SO SPEECH MONOGRAPHS
+LA English
+DT Article
+NR 11
+TC 20
+Z9 20
+U1 0
+U2 0
+PU SPEECH COMMUNICATION ASSN
+PI ANNANDALE
+PA 5105 BACKLICK RD, ANNANDALE, VA 22003
+J9 SPEECH MONOGR
+PY 1965
+VL 32
+IS 2
+BP 102
+EP 106
+DI 10.1080/03637756509375437
+PG 5
+WC Linguistics
+SC Linguistics
+GA CCR54
+UT WOS:A1965CCR5400003
+DA 2020-08-05
+ER
+
+PT J
+AU LEVENTHAL, H
+   NILES, P
+   SLADE, J
+AF LEVENTHAL, H
+   NILES, P
+   SLADE, J
+TI A FIELD EXPERIMENT ON FEAR AROUSAL WITH DATA ON THE VALIDITY OF
+   QUESTIONNAIRE MEASURES
+SO JOURNAL OF PERSONALITY
+LA English
+DT Article
+NR 18
+TC 63
+Z9 62
+U1 0
+U2 3
+PU BLACKWELL PUBLISHERS
+PI MALDEN
+PA 350 MAIN STREET, STE 6, MALDEN, MA 02148
+SN 0022-3506
+J9 J PERS
+JI J. Pers.
+PY 1964
+VL 32
+IS 3
+BP 459
+EP 479
+DI 10.1111/j.1467-6494.1964.tb01352.x
+PG 21
+WC Psychology, Social
+SC Psychology
+GA CKC24
+UT WOS:A1964CKC2400009
+PM 14212234
+DA 2020-08-05
+ER
+
+PT J
+AU FRANDSEN, KD
+AF FRANDSEN, KD
+TI EFFECTS OF THREAT APPEALS AND MEDIA OF TRANSMISSION
+SO SPEECH MONOGRAPHS
+LA English
+DT Article
+NR 10
+TC 24
+Z9 24
+U1 0
+U2 1
+PU SPEECH COMMUNICATION ASSN
+PI ANNANDALE
+PA 5105 BACKLICK RD, ANNANDALE, VA 22003
+J9 SPEECH MONOGR
+PY 1963
+VL 30
+IS 2
+BP 101
+EP 104
+DI 10.1080/03637756309375365
+PG 4
+WC Linguistics
+SC Linguistics
+GA CCN64
+UT WOS:A1963CCN6400005
+DA 2020-08-05
+ER
+
+PT J
+AU JANIS, IL
+   FESHBACH, S
+AF JANIS, IL
+   FESHBACH, S
+TI PERSONALITY DIFFERENCES ASSOCIATED WITH RESPONSIVENESS TO FEAR-AROUSING
+   COMMUNICATIONS
+SO JOURNAL OF PERSONALITY
+LA English
+DT Article
+NR 5
+TC 74
+Z9 74
+U1 0
+U2 7
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0022-3506
+EI 1467-6494
+J9 J PERS
+JI J. Pers.
+PY 1954
+VL 23
+IS 2
+BP 154
+EP 166
+DI 10.1111/j.1467-6494.1954.tb01145.x
+PG 13
+WC Psychology, Social
+SC Psychology
+GA YA858
+UT WOS:A1954YA85800002
+PM 13222224
+DA 2020-08-05
+ER
+
+EF

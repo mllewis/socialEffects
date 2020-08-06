@@ -1,0 +1,608 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Scola, C
+   Holvoet, C
+   Arciszewski, T
+   Picard, D
+AF Scola, Celine
+   Holvoet, Claire
+   Arciszewski, Thomas
+   Picard, Delphine
+TI Further Evidence for Infants' Preference for Prosocial Over Antisocial
+   Behaviors
+SO INFANCY
+LA English
+DT Article
+ID INNATE
+AB This study extends the findings that young infants prefer prosocial to antisocial others (Hamlin & Wynn, Cognitive Development 2011, 26, 30; Hamlin, Wynn, & Bloom, Nature 2007, 450, 557) to older infants (12-24 and 24-36months) with a novel display. We presented infants with short cartoons in which a character (the Protoganist) engaged in a ball play with two others, one acting prosocially (the Giver), and the other antisocially (the Keeper). Afterward, infants were presented with the Giver and the Keeper characters and encouraged to reach for the one of their choices. We found that infants exhibited robust choice for the Giver. In addition, infants' preference for the Giver persisted despite changes in facial features (dark skin, scrambled face). These findings provide further evidence for infant's preference for prosociality.
+C1 [Scola, Celine; Holvoet, Claire; Arciszewski, Thomas; Picard, Delphine] Aix Marseille Univ, F-13621 Aix En Provence, France.
+RP Scola, C (corresponding author), Aix Marseille Univ, PSYCLE EA3273, Maison Rech,29 Ave Schuman, F-13621 Aix En Provence, France.
+EM celine.scola@univ-amu.fr
+OI Arciszewski, Thomas/0000-0002-7524-8911; Picard,
+   Delphine/0000-0002-4578-7260
+FU Vitrolles's town council
+FX We thank Vitrolles's town council for it support, the staff of the
+   nurseries for their very nice welcome, and the parents and infants for
+   their kind participation. Thanks to Nina Taurel for her help in data
+   collection.
+NR 11
+TC 34
+Z9 34
+U1 1
+U2 12
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1525-0008
+EI 1532-7078
+J9 INFANCY
+JI Infancy
+PD NOV-DEC
+PY 2015
+VL 20
+IS 6
+BP 684
+EP 692
+DI 10.1111/infa.12095
+PG 9
+WC Psychology, Developmental
+SC Psychology
+GA CT3DE
+UT WOS:000362686200006
+DA 2020-08-05
+ER
+
+PT J
+AU Cowell, JM
+   Decety, J
+AF Cowell, Jason M.
+   Decety, Jean
+TI Precursors to morality in development as a complex interplay between
+   neural, socioenvironmental, and behavioral facets
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE early sociomoral evaluation; developmental social neuroscience; moral
+   cognition; EEG/ERP; parental value transmission
+ID PROSOCIAL BEHAVIOR; JUSTICE SENSITIVITY; NEGATIVITY BIAS;
+   EARLY-CHILDHOOD; INFANTS; BRAIN; TEMPERAMENT; PERSPECTIVE; ASYMMETRY;
+   EMERGENCE
+AB The nature and underpinnings of infants' seemingly complex, third-party, social evaluations remain highly contentious. Theoretical perspectives oscillate between rich and lean interpretations of the same expressed preferences. Although some argue that infants and toddlers possess a "moral sense" based on core knowledge of the social world, others suggest that social evaluations are hierarchical in nature and the product of an integration of rudimentary general processes such as attention allocation and approach and avoidance. Moreover, these biologically prepared minds interact in social environments that include significant variation, which are likely to impact early social evaluations and behavior. The present study examined the neural underpinnings of and precursors to moral sensitivity in infants and toddlers (n = 73, ages 12-24 mo) through a series of interwoven measures, combining multiple levels of analysis including electrophysiological, eye-tracking, behavioral, and socio-environmental. Continuous EEG and time-locked event-related potentials (ERPs) and gaze fixation were recorded while children watched characters engaging in prosocial and antisocial actions in two different tasks. All children demonstrated a neural differentiation in both spectral EEG power density modulations and time-locked ERPs when perceiving prosocial or antisocial agents. Time-locked neural differences predicted children's preference for prosocial characters and were influenced by parental values regarding justice and fairness. Overall, this investigation casts light on the fundamental nature of moral cognition, including its underpinnings in general processes such as attention and approach-withdrawal, providing plausible mechanisms of early change and a foundation for forward movement in the field of developmental social neuroscience.
+C1 [Cowell, Jason M.; Decety, Jean] Univ Chicago, Dept Psychol, Child Neurosuite, Chicago, IL 60637 USA.
+RP Decety, J (corresponding author), Univ Chicago, Dept Psychol, Child Neurosuite, Chicago, IL 60637 USA.
+EM decety@uchicago.edu
+FU John Templeton Foundation (Science of Philanthropy Initiative)
+FX We are grateful to Kat Bovbjerg, Ariel Cheng, Martha Fahlgren, Megan
+   High, Alexa Karczmar, Angela Liu, and Eliana Polimeni, who assisted us
+   at the Child Neurosuite in recruitment and data collection. We also
+   thank the many families and children who participated in this project.
+   This research was supported by a grant from the John Templeton
+   Foundation (Science of Philanthropy Initiative).
+NR 56
+TC 52
+Z9 52
+U1 1
+U2 49
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD OCT 13
+PY 2015
+VL 112
+IS 41
+BP 12657
+EP 12662
+DI 10.1073/pnas.1508832112
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA CT9IQ
+UT WOS:000363130900037
+PM 26324885
+OA Bronze, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Hamlin, JK
+AF Hamlin, J. K.
+TI Context-dependent social evaluation in 4.5-month-old human infants: the
+   role of domain-general versus domain-specific processes in the
+   development of social evaluation
+SO FRONTIERS IN PSYCHOLOGY
+LA English
+DT Article
+DE social evaluation; infancy; cooperation; domain-general processes;
+   domain specificity; context-dependence
+ID PREVERBAL INFANTS; COMPETITIVE ALTRUISM; EVOLUTION; MEMORY; COOPERATION;
+   SELECTION; LUCKY
+AB The ability to distinguish friends from foes allows humans to engage in mutually beneficial cooperative acts while avoiding the costs associated with cooperating with the wrong individuals. One way to do so effectively is to observe how unknown individuals behave toward third parties, and to selectively cooperate with those who help others while avoiding those who harm others. Recent research suggests that a preference for prosocial over antisocial individuals emerges by the time that infants are 3 months of age, and by 8 months, but not before, infants evaluate others' actions in context: they prefer those who harm, rather than help, individuals who have previously harmed others. Currently there are at least two reasons for younger infants' failure to show context-dependent social evaluations. First, this failure may reflect fundamental change in infants' social evaluation system over the first year of life, in which infants first prefer helpers in any situation and only later evaluate prosocial and antisocial actors in context. On the other hand, it is possible that this developmental change actually reflects domain-general limitations of younger infants, such as limited memory and processing capacities. To distinguish between these possibilities, 4.5-month-olds in the current studies were habituated, rather than familiarized as in previous work, to one individual helping and another harming a third party, greatly increasing infants' exposure to the characters' actions. Following habituation, 4.5-montholds displayed context-dependent social preferences, selectively reaching for helpers of prosocial and hinderers of antisocial others. Such results suggest that younger infants' failure to display global social evaluation in previous work reflected domain-general rather than domain-specific limitations.
+C1 Univ British Columbia, Dept Psychol, Vancouver, BC V6T 1Z4, Canada.
+RP Hamlin, JK (corresponding author), Univ British Columbia, Dept Psychol, 2136 W Mall, Vancouver, BC V6T 1Z4, Canada.
+EM kiley.hamlin@psych.ubc.ca
+NR 58
+TC 26
+Z9 26
+U1 0
+U2 2
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1664-1078
+J9 FRONT PSYCHOL
+JI Front. Psychol.
+PD JUN 18
+PY 2014
+VL 5
+AR 6141
+DI 10.3389/fpsyg.2014.00614
+PG 10
+WC Psychology, Multidisciplinary
+SC Psychology
+GA AK8LF
+UT WOS:000338678400001
+PM 24994991
+OA DOAJ Gold, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Burns, MP
+   Sommerville, JA
+AF Burns, Monica P.
+   Sommerville, Jessica A.
+TI "I pick you": the impact of fairness and race on infants' selection of
+   social partners
+SO FRONTIERS IN PSYCHOLOGY
+LA English
+DT Article
+DE fairness; race; social partners; social selections; resource
+   distribution
+ID CHILDREN; PEOPLE; CATEGORIZATION; PREFERENCES; INGROUP; MEMBERS; FACES
+AB By 15 months of age infants are sensitive to violations of fairness norms as assessed via their enhanced visual attention to unfair versus fair outcomes in violation-of-expectation paradigms. The current study investigated whether 15-month-old infants select social partners on the basis of prior fair versus unfair behavior, and whether infants integrate social selections on the basis of fairness with the race of the distributors and recipients involved in the exchange. Experiment 1 demonstrated that after witnessing one adult distribute toys to two recipients fairly (2:2 distribution), and another adult distribute toys to two recipients unfairly (1:3 distribution), Caucasian infants selected fair over unfair distributors when both distributors were Caucasian; however, this preference was not present when the fair actor was Asian and the unfair actor was Caucasian. In Experiment 2, when fairness, the race of the distributor, and the race of the recipients were fully crossed, Caucasian infants' social selections varied as a function of the race of the recipient advantaged by the unfair distributor. Specifically, infants were more likely to select the fair distributor when the unfair recipient advantaged the Asian (versus the Caucasian) recipient. These findings provide evidence that infants select social partners on the basis of prior fair behavior and that infants also take into account the race of distributors and recipients when making their social selections.
+C1 [Burns, Monica P.; Sommerville, Jessica A.] Univ Washington, Dept Psychol, Seattle, WA 98195 USA.
+   [Sommerville, Jessica A.] Univ Washington, Dept Psychol, Ctr Child & Family Well Being, Seattle, WA 98195 USA.
+RP Sommerville, JA (corresponding author), Univ Washington, Dept Psychol, Ctr Child & Family Well Being, Campus Box 351525, Seattle, WA 98195 USA.
+EM sommej@uw.edu
+NR 38
+TC 46
+Z9 46
+U1 1
+U2 11
+PU FRONTIERS RESEARCH FOUNDATION
+PI LAUSANNE
+PA PO BOX 110, LAUSANNE, 1015, SWITZERLAND
+SN 1664-1078
+J9 FRONT PSYCHOL
+JI Front. Psychol.
+PD FEB 12
+PY 2014
+VL 5
+AR 93
+DI 10.3389/fpsyg.2014.00093
+PG 10
+WC Psychology, Multidisciplinary
+SC Psychology
+GA AA7LS
+UT WOS:000331279500001
+PM 24575069
+OA DOAJ Gold, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Dahl, A
+   Schuck, RK
+   Campos, JJ
+AF Dahl, Audun
+   Schuck, Rachel K.
+   Campos, Joseph J.
+TI Do Young Toddlers Act on Their Social Preferences?
+SO DEVELOPMENTAL PSYCHOLOGY
+LA English
+DT Article
+DE preferential helping; social evaluation; prosocial behavior
+ID INDIRECT RECIPROCITY; PROSOCIAL BEHAVIOR; INFANTS; ALTRUISM; CHILDREN;
+   COOPERATION; CHIMPANZEES
+AB From preschool age to adulthood, most humans prefer to help someone who has treated others well over helping someone who has treated others badly. Researchers have recently made opposing predictions about whether such observation-based preferential helping is present when children begin to help in the second year of life. In the present study, 84 toddlers (16-27 months) observed 1 experimenter (antisocial) take a ball from, and 1 experimenter (prosocial) return a ball to, a neutral experimenter. In subsequent tests, children could help either the antisocial or the prosocial experimenter. Only the oldest children showed a significant preference for helping the prosocial agent first. Most children in all age groups were willing to help both experimenters when given multiple opportunities to help. Across age groups, children who looked longer at the continuation of the antisocial interaction were more likely to help the prosocial agent. These findings suggest that social evaluations do affect toddlers' helping behavior but that interactions between human agents may be difficult to evaluate for very young children.
+C1 [Dahl, Audun; Schuck, Rachel K.; Campos, Joseph J.] Univ Calif Berkeley, Inst Human Dev, Berkeley, CA 94720 USA.
+RP Dahl, A (corresponding author), Univ Calif Berkeley, Inst Human Dev, 1121 Tolman Hall,MC 1690, Berkeley, CA 94720 USA.
+EM dahl@berkeley.edu
+NR 26
+TC 46
+Z9 46
+U1 5
+U2 22
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0012-1649
+J9 DEV PSYCHOL
+JI Dev. Psychol.
+PD OCT
+PY 2013
+VL 49
+IS 10
+BP 1964
+EP 1970
+DI 10.1037/a0031460
+PG 7
+WC Psychology, Developmental
+SC Psychology
+GA 226OX
+UT WOS:000325046800014
+PM 23316770
+DA 2020-08-05
+ER
+
+PT J
+AU Hamlin, JK
+AF Hamlin, J. Kiley
+TI Failed attempts to help and harm: Intention versus outcome in preverbal
+   infants' social evaluations
+SO COGNITION
+LA English
+DT Article
+DE Infancy; Intentionality; Moral cognition
+ID CHILDRENS USE; MORAL JUDGMENT; FALSE-BELIEF; MIND; ATTRIBUTION;
+   COGNITION; RESPONSIBILITY; MOTIVES; DAMAGE; GOALS
+AB Mature moral judgments include an analysis of both the outcomes of others' actions as well as the mental states that drive them. While adults easily incorporate both intention and outcome into their moral evaluations, scores of developmental studies suggest that it may be uniquely difficult for young children to privilege intention in their judgments of right and wrong (e.g., Piaget, 1932/1965), leading to the conclusion that the 'moral mind' of the young child is fundamentally different from that of older children and adults. The current studies utilize a puppet-choice methodology shown to provoke reliable social preferences throughout the first year after birth (e.g., Hamlin, Wynn, & Bloom, 2007), and provide evidence that 8-month-old infants incorporate, and even privilege, intentions in their social evaluations. In contrast, 5-month-olds appear only able to distinguish characters who intend the outcomes they cause. Such results suggest that one requirement for mature moral judgments, the ability to distinguish between intentions and outcomes in morally relevant events, is present by 8 months of age. (C) 2013 Elsevier B.V. All rights reserved.
+C1 [Hamlin, J. Kiley] Univ British Columbia, Vancouver, BC V6T 1Z4, Canada.
+RP Hamlin, JK (corresponding author), Univ British Columbia, Dept Psychol, 2136 W Mall, Vancouver, BC V6T 1Z4, Canada.
+EM kiley.hamlin@psych.ubc.ca
+NR 139
+TC 87
+Z9 87
+U1 3
+U2 92
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0010-0277
+EI 1873-7838
+J9 COGNITION
+JI Cognition
+PD SEP
+PY 2013
+VL 128
+IS 3
+BP 451
+EP 474
+DI 10.1016/j.cognition.2013.04.004
+PG 24
+WC Psychology, Experimental
+SC Psychology
+GA 196UP
+UT WOS:000322803200016
+PM 23811094
+DA 2020-08-05
+ER
+
+PT J
+AU Kanakogi, Y
+   Okumura, Y
+   Inoue, Y
+   Kitazaki, M
+   Itakura, S
+AF Kanakogi, Yasuhiro
+   Okumura, Yuko
+   Inoue, Yasuyuki
+   Kitazaki, Michiteru
+   Itakura, Shoji
+TI Rudimentary Sympathy in Preverbal Infants: Preference for Others in
+   Distress
+SO PLOS ONE
+LA English
+DT Article
+ID PROSOCIAL BEHAVIOR; SOCIAL-DOMINANCE; TODDLERS; ATTRIBUTION; CAUSALITY;
+   CHILDREN; AGENTS
+AB Despite its essential role in human coexistence, the developmental origins and progression of sympathy in infancy are not yet fully understood. We show that preverbal 10-month-olds manifest sympathetic responses, evinced in their preference for attacked others according to their evaluations of the respective roles of victim, aggressor, and neutral party. In Experiment 1, infants viewing an aggressive social interaction between a victim and an aggressor exhibited preference for the victim. In Experiment 2, when comparing the victim and the aggressor to a neutral object, infants preferred the victim and avoided the aggressor. These findings indicate that 10-month-olds not only evaluate the roles of victims and aggressors in interactions but also show rudimentary sympathy toward others in distress based on that evaluation. This simple preference may function as a foundation for full-fledged sympathetic behavior later on.
+C1 [Kanakogi, Yasuhiro; Okumura, Yuko; Itakura, Shoji] Kyoto Univ, Dept Psychol, Grad Sch Letters, Sakyo Ku, Kyoto, Japan.
+   [Inoue, Yasuyuki; Kitazaki, Michiteru] Toyohashi Univ Technol, Dept Comp Sci & Engn, Toyohashi, Aichi, Japan.
+RP Kanakogi, Y (corresponding author), Kyoto Univ, Dept Psychol, Grad Sch Letters, Sakyo Ku, Yoshidahonmachi, Kyoto, Japan.
+EM yakanakogi@gmail.com
+RI Kitazaki, Mitchiteru/AAI-6554-2020
+OI Kitazaki, Mitchiteru/0000-0003-0966-4842
+FU Japan Society for the Promotion of ScienceMinistry of Education,
+   Culture, Sports, Science and Technology, Japan (MEXT)Japan Society for
+   the Promotion of Science; JSPSMinistry of Education, Culture, Sports,
+   Science and Technology, Japan (MEXT)Japan Society for the Promotion of
+   Science [21220005, 20220002, 20220004]; MEXTMinistry of Education,
+   Culture, Sports, Science and Technology, Japan (MEXT) [21118005]; Nissan
+   Science Foundation
+FX This work was supported by a grant to Yasuhiro Kanakogi from the Japan
+   Society for the Promotion of Science Research Fellowships for Young
+   Scientists and grants to Shoji Itakura from JSPS (21220005, 20220002 and
+   20220004), MEXT (21118005) and the Nissan Science Foundation. The
+   funders had no role in study design, data collection and analysis,
+   decision to publish, or preparation of the manuscript.
+NR 32
+TC 34
+Z9 34
+U1 0
+U2 12
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUN 12
+PY 2013
+VL 8
+IS 6
+AR e65292
+DI 10.1371/journal.pone.0065292
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 163FW
+UT WOS:000320322400017
+PM 23776467
+OA DOAJ Gold, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Hamlin, JK
+   Ullman, T
+   Tenenbaum, J
+   Goodman, N
+   Baker, C
+AF Hamlin, J. Kiley
+   Ullman, Tomer
+   Tenenbaum, Josh
+   Goodman, Noah
+   Baker, Chris
+TI The mentalistic basis of core social cognition: experiments in preverbal
+   infants and a computational model
+SO DEVELOPMENTAL SCIENCE
+LA English
+DT Article
+ID GOAL-DIRECTED ACTIONS; CHILDRENS MORAL JUDGMENTS; FALSE BELIEF;
+   ATTRIBUTION; INTENTION; PERCEPTION; OBJECTS; INFER
+AB Evaluating individuals based on their pro- and anti-social behaviors is fundamental to successful human interaction. Recent research suggests that even preverbal infants engage in social evaluation; however, it remains an open question whether infants' judgments are driven uniquely by an analysis of the mental states that motivate others' helpful and unhelpful actions, or whether non-mentalistic inferences are at play. Here we present evidence from 10-month-olds, motivated and supported by a Bayesian computational model, for mentalistic social evaluation in the first year of life.A video abstract of this article can be viewed at http://youtu.be/rD_Ry5oqCYE
+C1 [Hamlin, J. Kiley] Univ British Columbia, Dept Psychol, Vancouver, BC V6T 1Z4, Canada.
+   [Ullman, Tomer; Tenenbaum, Josh; Baker, Chris] MIT, Dept Brain & Cognit Sci, Cambridge, MA 02139 USA.
+   [Goodman, Noah] Stanford Univ, Dept Psychol, Stanford, CA 94305 USA.
+RP Hamlin, JK (corresponding author), Univ British Columbia, Dept Psychol, 2136 West Mall, Vancouver, BC V6T 1Z4, Canada.
+EM Kiley.hamlin@psych.ubc.ca
+OI /0000-0003-1722-2382
+FU NIGMS NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of General
+   Medical Sciences (NIGMS) [T32 GM007484]
+NR 50
+TC 71
+Z9 71
+U1 1
+U2 27
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1363-755X
+J9 DEVELOPMENTAL SCI
+JI Dev. Sci.
+PD MAR
+PY 2013
+VL 16
+IS 2
+BP 209
+EP 226
+DI 10.1111/desc.12017
+PG 18
+WC Psychology, Developmental; Psychology, Experimental
+SC Psychology
+GA 096DQ
+UT WOS:000315384700006
+PM 23432831
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Scarf, D
+   Imuta, K
+   Colombo, M
+   Hayne, H
+AF Scarf, Damian
+   Imuta, Kana
+   Colombo, Michael
+   Hayne, Harlene
+TI Social Evaluation or Simple Association? Simple Associations May Explain
+   Moral Reasoning in Infants
+SO PLOS ONE
+LA English
+DT Article
+ID COGNITION; NATIVISM
+AB Are we born amoral or do we come into this world with a rudimentary moral compass? Hamlin and colleagues argue that at least one component of our moral system, the ability to evaluate other individuals as good or bad, is present from an early age. In their study, 6- and 10-month-old infants watched two social interactions - in one, infants observed the helper assist the climber achieve the goal of ascending a hill, while in the other, infants observed the hinderer prevent the climber from ascending the hill. When given a choice, the vast majority of infants picked the helper over the hinderer, suggesting that infants evaluated the helper as good and the hinderer as bad. Hamlin and colleagues concluded that the ability to evaluate individuals based on social interaction is innate. Here, we provide evidence that their findings reflect simple associations rather than social evaluations.
+C1 [Scarf, Damian; Imuta, Kana; Colombo, Michael; Hayne, Harlene] Univ Otago, Dept Psychol, Dunedin, New Zealand.
+RP Scarf, D (corresponding author), Univ Otago, Dept Psychol, Dunedin, New Zealand.
+EM damianscarf@gmail.com
+RI Imuta, Kana/A-4533-2018
+OI Imuta, Kana/0000-0002-6513-6254; Scarf, Damian/0000-0002-9486-8059;
+   Colombo, Michael/0000-0002-2574-4888
+NR 21
+TC 63
+Z9 64
+U1 0
+U2 28
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD AUG 8
+PY 2012
+VL 7
+IS 8
+AR e42698
+DI 10.1371/journal.pone.0042698
+PG 4
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 986GX
+UT WOS:000307331100057
+PM 22905161
+OA DOAJ Gold, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Hamlin, JK
+   Wynn, K
+   Bloom, P
+   Mahajan, N
+AF Hamlin, J. Kiley
+   Wynn, Karen
+   Bloom, Paul
+   Mahajan, Neha
+TI How infants and toddlers react to antisocial others
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+LA English
+DT Article
+DE cooperation; infancy
+ID HUMAN INTENTIONAL ACTION; ALTRUISTIC PUNISHMENT; INDIRECT RECIPROCITY;
+   COOPERATION; EVOLUTION; INSTITUTIONS; CHIMPANZEES; HUMANS; PEOPLE
+AB Although adults generally prefer helpful behaviors and those who perform them, there are situations (in particular, when the target of an action is disliked) in which overt antisocial acts are seen as appropriate, and those who perform them are viewed positively. The current studies explore the developmental origins of this capacity for selective social evaluation. We find that although 5-mo-old infants uniformly prefer individuals who act positively toward others regardless of the status of the target, 8-mo-old infants selectively prefer characters who act positively toward prosocial individuals and characters who act negatively toward antisocial individuals. Additionally, young toddlers direct positive behaviors toward prosocial others and negative behaviors toward antisocial others. These findings constitute evidence that the nuanced social judgments and actions readily observable in human adults have their foundations in early developing cognitive mechanisms.
+C1 [Hamlin, J. Kiley] Univ British Columbia, Dept Psychol, Vancouver, BC V6T 1Z4, Canada.
+   [Wynn, Karen; Bloom, Paul; Mahajan, Neha] Yale Univ, Dept Psychol, New Haven, CT 06511 USA.
+RP Hamlin, JK (corresponding author), Univ British Columbia, Dept Psychol, 2136 W Mall, Vancouver, BC V6T 1Z4, Canada.
+EM kiley.hamlin@psych.ubc.ca
+RI Wynn, Karen/C-8067-2013
+OI Wynn, Karen/0000-0001-8908-6258
+FU National Institutes of HealthUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USA [MH 081877]
+FX We thank the Infant Cognition Center at Yale and the families who
+   participated. This research was supported by a National Institutes of
+   Health Grant MH 081877 (to K. W. and P. B.).
+NR 44
+TC 191
+Z9 192
+U1 1
+U2 74
+PU NATL ACAD SCIENCES
+PI WASHINGTON
+PA 2101 CONSTITUTION AVE NW, WASHINGTON, DC 20418 USA
+SN 0027-8424
+J9 P NATL ACAD SCI USA
+JI Proc. Natl. Acad. Sci. U. S. A.
+PD DEC 13
+PY 2011
+VL 108
+IS 50
+BP 19931
+EP 19936
+DI 10.1073/pnas.1110306108
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 861QR
+UT WOS:000298034800026
+PM 22123953
+OA Bronze, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Hamlin, JK
+   Wynn, K
+AF Hamlin, J. Kiley
+   Wynn, Karen
+TI Young infants prefer prosocial to antisocial others
+SO COGNITIVE DEVELOPMENT
+LA English
+DT Article
+DE Social cognition; Social evaluation; Infancy
+ID GOAL-DIRECTED ACTIONS; ATTRIBUTION; 12-MONTH-OLDS; COOPERATION;
+   PERCEPTION; AGENT
+AB The current study replicates and extends the finding (Hamlin, Wynn & Bloom, 2007) that infants prefer individuals who act prosocially toward unrelated third parties over those who act antisocially. Using different stimuli from those used by Hamlin et al. (2007), somewhat younger subjects, and 2 additional social scenarios, we replicated the findings that (a) infants prefer those who behave prosocially versus antisocially, and (b) these preferences are based on the social nature of the actions. The generality of infants' responses across multiple examples of prosocial and antisocial actions supports the claim that social evaluation is fundamental to perceiving the world. (C) 2010 Elsevier Inc. All rights reserved.
+C1 [Hamlin, J. Kiley] Univ British Columbia, Dept Psychol, Vancouver, BC V6T 1Z4, Canada.
+   [Wynn, Karen] Yale Univ, New Haven, CT 06520 USA.
+RP Hamlin, JK (corresponding author), Univ British Columbia, Dept Psychol, 2136 West Mall, Vancouver, BC V6T 1Z4, Canada.
+EM Kiley.hamlin@psych.ubc.ca
+RI Wynn, Karen/C-8067-2013; Kumru, Asiye/H-4048-2014
+OI Wynn, Karen/0000-0001-8908-6258
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [R01 MH081877-01A2, R01 MH081877]
+NR 26
+TC 195
+Z9 195
+U1 1
+U2 53
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0885-2014
+J9 COGNITIVE DEV
+JI Cogn. Dev.
+PD JAN-MAR
+PY 2011
+VL 26
+IS 1
+BP 30
+EP 39
+DI 10.1016/j.cogdev.2010.09.001
+PG 10
+WC Psychology, Developmental; Psychology, Experimental
+SC Psychology
+GA 735HJ
+UT WOS:000288404500003
+PM 21499550
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Hamlin, JK
+   Wynn, K
+   Bloom, P
+AF Hamlin, J. Kiley
+   Wynn, Karen
+   Bloom, Paul
+TI Social evaluation by preverbal infants
+SO NATURE
+LA English
+DT Article
+ID FACES; INFERENCES
+AB The capacity to evaluate other people is essential for navigating the social world. Humans must be able to assess the actions and intentions of the people around them, and make accurate decisions about who is friend and who is foe, who is an appropriate social partner and who is not. Indeed, all social animals benefit from the capacity to identify individual conspecifics that may help them, and to distinguish these individuals from others that may harm them. Human adults evaluate people rapidly and automatically on the basis of both behaviour and physical features(1-6), but the ontogenetic origins and development of this capacity are not well understood. Here we show that 6- and 10-month-old infants take into account an individual's actions towards others in evaluating that individual as appealing or aversive: infants prefer an individual who helps another to one who hinders another, prefer a helping individual to a neutral individual, and prefer a neutral individual to a hindering individual. These findings constitute evidence that preverbal infants assess individuals on the basis of their behaviour towards others. This capacity may serve as the foundation for moral thought and action, and its early developmental emergence supports the view that social evaluation is a biological adaptation.
+C1 Yale Univ, Dept Psychol, New Haven, CT 06520 USA.
+RP Hamlin, JK (corresponding author), Yale Univ, Dept Psychol, New Haven, CT 06520 USA.
+EM kiley.hamlin@yale.edu; karen.wynn@yale.edu
+RI Wynn, Karen/C-8067-2013
+OI Wynn, Karen/0000-0001-8908-6258
+NR 24
+TC 629
+Z9 642
+U1 7
+U2 193
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+J9 NATURE
+JI Nature
+PD NOV 22
+PY 2007
+VL 450
+IS 7169
+BP 557
+EP U13
+DI 10.1038/nature06288
+PG 4
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 234JW
+UT WOS:000251158500049
+PM 18033298
+DA 2020-08-05
+ER
+
+EF

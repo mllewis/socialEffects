@@ -1,0 +1,531 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Allcott, H
+AF Allcott, Hunt
+TI Social norms and energy conservation
+SO JOURNAL OF PUBLIC ECONOMICS
+LA English
+DT Article; Proceedings Paper
+CT Conference on the Role of Firms in Tax Systems
+CY APR 17-18, 2009
+CL Univ Michigan, Ann Arbor, MI
+SP Stephen M. Ross Sch Business, Off Tax Policy Res
+HO Univ Michigan
+DE Social norms; Energy demand; Randomized field experiments
+ID BEHAVIOR; DEMAND; GOODS
+AB This paper evaluates a series of programs run by a company called OPOWER to send Home Energy Report letters to residential utility customers comparing their electricity use to that of their neighbors. Using data from randomized natural field experiments at 600,000 treatment and control households across the United States, I estimate that the average program reduces energy consumption by 2.0%. The program provides additional evidence that non-price interventions can substantially and cost effectively change consumer behavior: the effect is equivalent to that of a short-run electricity price increase of 11 to 20%, and the cost effectiveness compares favorably to that of traditional energy conservation programs. Perhaps because the treatment included descriptive social norms, effects are heterogeneous: households in the highest decile of pre-treatment consumption decrease usage by 6.3%, while consumption by the lowest decile decreases by only 0.3%. A regression discontinuity design shows that different categories of "injunctive norms" played an insignificant role in encouraging relatively low users not to increase usage. (C) 2011 Elsevier B.V. All rights reserved.
+C1 [Allcott, Hunt] MIT, Cambridge, MA 02139 USA.
+   [Allcott, Hunt] NYU, New York, NY 10003 USA.
+RP Allcott, H (corresponding author), MIT, Cambridge, MA 02139 USA.
+EM allcott@mit.edu
+RI Jiang, Adam/G-7505-2011
+NR 63
+TC 733
+Z9 741
+U1 18
+U2 194
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0047-2727
+J9 J PUBLIC ECON
+JI J. Public Econ.
+PD OCT
+PY 2011
+VL 95
+IS 9-10
+SI SI
+BP 1082
+EP 1095
+DI 10.1016/j.jpubeco.2011.03.003
+PG 14
+WC Economics
+SC Business & Economics
+GA 815FR
+UT WOS:000294512000006
+HC Y
+HP N
+DA 2020-08-05
+ER
+
+PT J
+AU Kurz, T
+   Donaghue, N
+   Walker, I
+AF Kurz, T
+   Donaghue, N
+   Walker, I
+TI Utilizing a social-ecological framework to promote water and energy
+   conservation: A field experiment
+SO JOURNAL OF APPLIED SOCIAL PSYCHOLOGY
+LA English
+DT Article; Proceedings Paper
+CT Biannual Meeting of the
+   Society-for-the-Psychological-Study-of-Social-Issues
+CY JUN, 2002
+CL TORONTO, CANADA
+SP Soc Psychol Study Social Issues
+ID BEHAVIOR; CONSUMPTION; FEEDBACK; INFORMATION; PSYCHOLOGY
+AB The present study utilized a social-ecological framework to design an intervention to reduce residential water and energy use in a local community. An experimental design was used to study the influence of information leaflets, attunement labels, and socially comparative feedback on the actual levels of energy and water consumption in 166 households over a 6-month period. The results suggest that the labels, designed to attune residents to the environmental-impact affordances of various appliances around their homes, led to a 23% reduction in water consumption. Neither information leaflets nor socially comparative feedback produced significant reductions in water use, compared to controls. No significant reductions in energy consumption were observed for any of the intervention conditions. The results are discussed in terms of their theoretical implications and their application to public policy promoting environmentally sustainable behavior.
+C1 Murdoch Univ, Sch Psychol, Perth, WA, Australia.
+RP Kurz, T (corresponding author), Newcastle Univ, Div Psychol, Henry Wellcome Bldg, Newcastle Upon Tyne NE2 4HH, Tyne & Wear, England.
+EM tim.kurz@ncl.ac.uk
+RI Walker, Iain/G-5457-2010
+OI Walker, Iain/0000-0002-1020-5873; Kurz, Tim/0000-0002-2037-0995
+NR 33
+TC 68
+Z9 68
+U1 1
+U2 21
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0021-9029
+J9 J APPL SOC PSYCHOL
+JI J. Appl. Soc. Psychol.
+PD JUN
+PY 2005
+VL 35
+IS 6
+BP 1281
+EP 1300
+DI 10.1111/j.1559-1816.2005.tb02171.x
+PG 20
+WC Psychology, Social
+SC Psychology
+GA 980KS
+UT WOS:000233018000010
+DA 2020-08-05
+ER
+
+PT J
+AU Brandon, G
+   Lewis, A
+AF Brandon, G
+   Lewis, A
+TI Reducing household energy consumption: A qualitative and quantitative
+   field study
+SO JOURNAL OF ENVIRONMENTAL PSYCHOLOGY
+LA English
+DT Article
+ID BEHAVIOR; FEEDBACK
+AB One hundred and twenty households in Bath, U.K. had their energy consumption monitored over a 9-month period and compared (weather-corrected) to the previous year's consumption. Participants (with the exception of the control group) received feedback in various forms, i.e. consumption compared to previous consumption or to similar others; energy saving tips in leaflets or on a computer; or feedback relating to financial or environmental costs. Respondents were interviewed after the start of the study to establish their income, socio-demographic status, environmental attitudes and the extent to which they already engaged in conserving activities. Participants also took part in focus groups after the final meter readings were taken. Overall the results indicated that income and demographic features predicted historic energy consumption but not changes in consumption during the field study, where environmental attitudes and feedback were influential. Of all the feedback groups, the installation of computers helped reduce consumption most markedly. Furthermore, people with positive environmental attitudes, but who had not previously been engaged in many conservation actions, were more likely to change their consumption subsequent to the feedback period. Recommendations are made both for energy conservation policy and future research. (C) 1999 Academic Press.
+C1 Univ Bath, Fac Humanities & Social Sci, Dept Psychol, Ctr Econ Psychol, Bath BAZ 7AY, Avon, England.
+RP Lewis, A (corresponding author), Univ Bath, Fac Humanities & Social Sci, Dept Psychol, Ctr Econ Psychol, Bath BAZ 7AY, Avon, England.
+NR 30
+TC 252
+Z9 256
+U1 2
+U2 49
+PU ACADEMIC PRESS LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN 0272-4944
+J9 J ENVIRON PSYCHOL
+JI J. Environ. Psychol.
+PD MAR
+PY 1999
+VL 19
+IS 1
+BP 75
+EP 85
+DI 10.1006/jevp.1998.0105
+PG 11
+WC Environmental Studies; Psychology, Multidisciplinary
+SC Environmental Sciences & Ecology; Psychology
+GA 177KU
+UT WOS:000079209800004
+DA 2020-08-05
+ER
+
+PT J
+AU VANHOUWELINGEN, JH
+   VANRAAIJ, WF
+AF VANHOUWELINGEN, JH
+   VANRAAIJ, WF
+TI THE EFFECT OF GOAL-SETTING AND DAILY ELECTRONIC FEEDBACK ON IN-HOME
+   ENERGY USE
+SO JOURNAL OF CONSUMER RESEARCH
+LA English
+DT Article
+C1 ERASMUS UNIV,DEPT ECON,3000 DR ROTTERDAM,NETHERLANDS.
+NR 35
+TC 129
+Z9 130
+U1 0
+U2 13
+PU UNIV CHICAGO PRESS
+PI CHICAGO
+PA 5720 S WOODLAWN AVE, CHICAGO, IL 60637
+SN 0093-5301
+J9 J CONSUM RES
+JI J. Consum. Res.
+PD JUN
+PY 1989
+VL 16
+IS 1
+BP 98
+EP 105
+DI 10.1086/209197
+PG 8
+WC Business
+SC Business & Economics
+GA U6270
+UT WOS:A1989U627000007
+DA 2020-08-05
+ER
+
+PT J
+AU SEXTON, RJ
+   SEXTON, TA
+AF SEXTON, RJ
+   SEXTON, TA
+TI THEORETICAL AND METHODOLOGICAL PERSPECTIVES ON CONSUMER RESPONSE TO
+   ELECTRICITY INFORMATION
+SO JOURNAL OF CONSUMER AFFAIRS
+LA English
+DT Article
+C1 CALIF STATE UNIV SACRAMENTO,DEPT ECON,SACRAMENTO,CA 95819.
+RP SEXTON, RJ (corresponding author), UNIV CALIF DAVIS,DEPT AGR ECON,DAVIS,CA 95616, USA.
+NR 14
+TC 5
+Z9 5
+U1 0
+U2 1
+PU UNIV WISCONSIN PRESS
+PI MADISON
+PA JOURNAL DIVISION, 114 N MURRAY ST, MADISON, WI 53715
+SN 0022-0078
+J9 J CONSUM AFF
+JI J. Consum. Aff.
+PD WIN
+PY 1987
+VL 21
+IS 2
+BP 238
+EP 257
+DI 10.1111/j.1745-6606.1987.tb00201.x
+PG 20
+WC Business; Economics
+SC Business & Economics
+GA L4050
+UT WOS:A1987L405000006
+DA 2020-08-05
+ER
+
+PT J
+AU HUTTON, RB
+   MAUSER, GA
+   FILIATRAULT, P
+   AHTOLA, OT
+AF HUTTON, RB
+   MAUSER, GA
+   FILIATRAULT, P
+   AHTOLA, OT
+TI EFFECTS OF COST-RELATED FEEDBACK ON CONSUMER KNOWLEDGE AND CONSUMPTION
+   BEHAVIOR - A FIELD EXPERIMENTAL APPROACH
+SO JOURNAL OF CONSUMER RESEARCH
+LA English
+DT Article
+C1 SIMON FRASER UNIV,MKT,BURNABY V5A 1S6,BC,CANADA.
+   UNIV QUEBEC,MKT,MONTREAL H3C 3P8,QUEBEC,CANADA.
+RP HUTTON, RB (corresponding author), UNIV DENVER,MKT,DENVER,CO 80208, USA.
+NR 25
+TC 43
+Z9 43
+U1 0
+U2 8
+PU UNIV CHICAGO PRESS
+PI CHICAGO
+PA 5720 S WOODLAWN AVE, CHICAGO, IL 60637
+SN 0093-5301
+J9 J CONSUM RES
+JI J. Consum. Res.
+PD DEC
+PY 1986
+VL 13
+IS 3
+BP 327
+EP 336
+DI 10.1086/209072
+PG 10
+WC Business
+SC Business & Economics
+GA F1713
+UT WOS:A1986F171300003
+DA 2020-08-05
+ER
+
+PT J
+AU WINETT, RA
+   HATCHER, JW
+   FORT, TR
+   LECKLITER, IN
+   LOVE, SQ
+   RILEY, AW
+   FISHBACK, JF
+AF WINETT, RA
+   HATCHER, JW
+   FORT, TR
+   LECKLITER, IN
+   LOVE, SQ
+   RILEY, AW
+   FISHBACK, JF
+TI THE EFFECTS OF VIDEOTAPE MODELING AND DAILY FEEDBACK ON RESIDENTIAL
+   ELECTRICITY CONSERVATION, HOME TEMPERATURE AND HUMIDITY, PERCEIVED
+   COMFORT, AND CLOTHING WORN - WINTER AND SUMMER
+SO JOURNAL OF APPLIED BEHAVIOR ANALYSIS
+LA English
+DT Article
+RP WINETT, RA (corresponding author), VIRGINIA POLYTECH INST & STATE UNIV,DEPT PSYCHOL,BLACKSBURG,VA 24061, USA.
+NR 43
+TC 54
+Z9 55
+U1 0
+U2 10
+PU JOURNAL APPL BEHAV ANAL
+PI LAWRENCE
+PA DEPT HUMAN DEVELOPMENT, UNIV KANSAS, LAWRENCE, KS 66045
+SN 0021-8855
+J9 J APPL BEHAV ANAL
+JI J. Appl. Behav. Anal.
+PY 1982
+VL 15
+IS 3
+BP 381
+EP 402
+DI 10.1901/jaba.1982.15-381
+PG 22
+WC Psychology, Clinical
+SC Psychology
+GA PF554
+UT WOS:A1982PF55400005
+PM 16795658
+OA Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU KASULIS, JJ
+   HUETTNER, DA
+   DIKEMAN, NJ
+AF KASULIS, JJ
+   HUETTNER, DA
+   DIKEMAN, NJ
+TI THE FEASIBILITY OF CHANGING ELECTRICITY CONSUMPTION PATTERNS
+SO JOURNAL OF CONSUMER RESEARCH
+LA English
+DT Article
+C1 UNIV OKLAHOMA,DIV ECON,PROGRAM ENERGY,NORMAN,OK 73019.
+   UNIV OKLAHOMA,CTR ECON & MANAGEMENT RES,NORMAN,OK 73019.
+RP KASULIS, JJ (corresponding author), UNIV OKLAHOMA,DIV MKT,MBA PROGRAM,NORMAN,OK 73019, USA.
+NR 30
+TC 24
+Z9 24
+U1 0
+U2 5
+PU UNIV CHICAGO PRESS
+PI CHICAGO
+PA 5720 S WOODLAWN AVE, CHICAGO, IL 60637
+SN 0093-5301
+J9 J CONSUM RES
+JI J. Consum. Res.
+PY 1981
+VL 8
+IS 3
+BP 279
+EP 290
+DI 10.1086/208866
+PG 12
+WC Business
+SC Business & Economics
+GA MW821
+UT WOS:A1981MW82100007
+DA 2020-08-05
+ER
+
+PT J
+AU BITTLE, RG
+   VALESANO, RM
+   THALER, GM
+AF BITTLE, RG
+   VALESANO, RM
+   THALER, GM
+TI EFFECTS OF DAILY FEEDBACK ON RESIDENTIAL ELECTRICITY USAGE AS A FUNCTION
+   OF USAGE LEVEL AND TYPE OF FEEDBACK INFORMATION
+SO JOURNAL OF ENVIRONMENTAL SYSTEMS
+LA English
+DT Article
+RP BITTLE, RG (corresponding author), ANNA MENTAL HLTH & DEV CTR,DEPT TREATMENT DEV,1000 N MAIN ST,ANNA,IL 62906, USA.
+NR 11
+TC 27
+Z9 27
+U1 0
+U2 1
+PU BAYWOOD PUBL CO INC
+PI AMITYVILLE
+PA 26 AUSTIN AVE, AMITYVILLE, NY 11701
+SN 0047-2433
+J9 J ENVIRON SYST
+PY 1979
+VL 9
+IS 3
+BP 275
+EP 287
+DI 10.2190/91AA-P97G-JF92-T7EJ
+PG 13
+WC Engineering, Environmental; Environmental Sciences; Environmental
+   Studies
+SC Engineering; Environmental Sciences & Ecology
+GA JF773
+UT WOS:A1979JF77300005
+DA 2020-08-05
+ER
+
+PT J
+AU BECKER, LJ
+   SELIGMAN, C
+AF BECKER, LJ
+   SELIGMAN, C
+TI REDUCING AIR-CONDITIONING WASTE BY SIGNALING IT IS COOL OUTSIDE
+SO PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+LA English
+DT Article
+RP BECKER, LJ (corresponding author), PRINCETON UNIV,DEPT PSYCHOL,PRINCETON,NJ 08540, USA.
+NR 4
+TC 24
+Z9 24
+U1 1
+U2 2
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320
+SN 0146-1672
+J9 PERS SOC PSYCHOL B
+JI Pers. Soc. Psychol. Bull.
+PY 1978
+VL 4
+IS 3
+BP 412
+EP 415
+DI 10.1177/014616727800400310
+PG 4
+WC Psychology, Social
+SC Psychology
+GA FQ223
+UT WOS:A1978FQ22300148
+DA 2020-08-05
+ER
+
+PT J
+AU SELIGMAN, C
+   DARLEY, JM
+AF SELIGMAN, C
+   DARLEY, JM
+TI FEEDBACK AS A MEANS OF DECREASING RESIDENTIAL ENERGY-CONSUMPTION
+SO JOURNAL OF APPLIED PSYCHOLOGY
+LA English
+DT Article
+C1 PRINCETON UNIV, DEPT PSYCHOL, PRINCETON, NJ 08540 USA.
+NR 13
+TC 128
+Z9 128
+U1 2
+U2 17
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0021-9010
+EI 1939-1854
+J9 J APPL PSYCHOL
+JI J. Appl. Psychol.
+PY 1977
+VL 62
+IS 4
+BP 363
+EP 368
+DI 10.1037/0021-9010.62.4.363
+PG 6
+WC Psychology, Applied; Management
+SC Psychology; Business & Economics
+GA DR428
+UT WOS:A1977DR42800001
+DA 2020-08-05
+ER
+
+PT J
+AU SEAVER, WB
+   PATTERSON, AH
+AF SEAVER, WB
+   PATTERSON, AH
+TI DECREASING FUEL-OIL CONSUMPTION THROUGH FEEDBACK AND SOCIAL COMMENDATION
+SO JOURNAL OF APPLIED BEHAVIOR ANALYSIS
+LA English
+DT Article
+C1 PENN STATE UNIV,DEPT PSYCHOL,UNIVERSITY PK,PA 16802.
+   PENN STATE UNIV,UNIVERSITY PK,PA 16802.
+NR 14
+TC 78
+Z9 78
+U1 0
+U2 7
+PU JOURNAL APPL BEHAV ANAL
+PI LAWRENCE
+PA DEPT HUMAN DEVELOPMENT, UNIV KANSAS, LAWRENCE, KS 66045
+SN 0021-8855
+J9 J APPL BEHAV ANAL
+JI J. Appl. Behav. Anal.
+PY 1976
+VL 9
+IS 2
+BP 147
+EP 152
+DI 10.1901/jaba.1976.9-147
+PG 6
+WC Psychology, Clinical
+SC Psychology
+GA BU081
+UT WOS:A1976BU08100009
+PM 16795518
+OA Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU PALLAK, MS
+   CUMMINGS, W
+AF PALLAK, MS
+   CUMMINGS, W
+TI COMMITMENT AND VOLUNTARY ENERGY-CONSERVATION
+SO PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+LA English
+DT Article
+C1 UNIV IOWA,DEPT PSYCHOL,IOWA CITY,IA 52242.
+   UNIV IOWA,IOWA CITY,IA.
+NR 8
+TC 91
+Z9 91
+U1 2
+U2 11
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320
+SN 0146-1672
+J9 PERS SOC PSYCHOL B
+JI Pers. Soc. Psychol. Bull.
+PY 1976
+VL 2
+IS 1
+BP 27
+EP 30
+DI 10.1177/014616727600200105
+PG 4
+WC Psychology, Social
+SC Psychology
+GA BP393
+UT WOS:A1976BP39300004
+DA 2020-08-05
+ER
+
+EF
