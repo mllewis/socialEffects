@@ -1,0 +1,1464 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Berrios, R
+   Totterdell, P
+   Kellett, S
+AF Berrios, Raul
+   Totterdell, Peter
+   Kellett, Stephen
+TI Investigating goal conflict as a source of mixed emotions
+SO COGNITION & EMOTION
+LA English
+DT Article
+DE Mixed feelings; Mixed emotions; Goal conflict; Emotional complexity
+AB This research investigated whether (1) the experience of mixed emotions is a consequence of activating conflicting goals and (2) mixed emotions are distinct from emotional conflict. A preliminary experiment (Study 1, N = 35) showed that an elicited goal conflict predicted more mixed emotions than a condition where the same goals were not in conflict. The second experiment was based on naturally occurring goal activation (Study 2, N = 57). This illustrated that mixed emotions were experienced more following conflicting goals compared with a facilitating goals condition-on both a direct self-report measure of mixed emotions and a minimum index measure. The results also showed that mixed emotions were different to emotional conflict. Overall, goal conflict was found to be a source of mixed emotions, and it is feasible that such states have a role in resolving personal dilemmas.
+C1 [Berrios, Raul; Totterdell, Peter; Kellett, Stephen] Univ Sheffield, Dept Psychol, Sheffield S10 2TN, S Yorkshire, England.
+RP Berrios, R (corresponding author), Univ Sheffield, Dept Psychol, Sheffield S10 2TN, S Yorkshire, England.
+EM raul.berrios@sheffield.ac.uk
+RI ; Berrios, Raul/G-5167-2019
+OI Totterdell, Peter/0000-0002-5335-2611; Berrios, Raul/0000-0003-1826-7822
+NR 22
+TC 22
+Z9 21
+U1 3
+U2 30
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0269-9931
+EI 1464-0600
+J9 COGNITION EMOTION
+JI Cogn. Emot.
+PD MAY 19
+PY 2015
+VL 29
+IS 4
+BP 755
+EP 763
+DI 10.1080/02699931.2014.939948
+PG 9
+WC Psychology, Experimental
+SC Psychology
+GA CE3YK
+UT WOS:000351765800016
+PM 25040183
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Larsen, JT
+   Green, JD
+AF Larsen, Jeff T.
+   Green, Jennifer D.
+TI Evidence for mixed feelings of happiness and sadness from brief moments
+   in time
+SO COGNITION & EMOTION
+LA English
+DT Article
+ID DISPLEASURE; RESPONSES; PLEASURE; MUSIC
+C1 [Larsen, Jeff T.] Univ Tennessee, Dept Psychol, Knoxville, TN 37996 USA.
+   [Green, Jennifer D.] Texas Tech Univ, Dept Advertising, Lubbock, TX 79409 USA.
+RP Larsen, JT (corresponding author), Univ Tennessee, Dept Psychol, Austin Peay Bldg, Knoxville, TN 37996 USA.
+EM jeff.larsen@utk.edu
+NR 26
+TC 17
+Z9 17
+U1 0
+U2 18
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0269-9931
+EI 1464-0600
+J9 COGNITION EMOTION
+JI Cogn. Emot.
+PD DEC 1
+PY 2013
+VL 27
+IS 8
+BP 1469
+EP 1477
+DI 10.1080/02699931.2013.790782
+PG 9
+WC Psychology, Experimental
+SC Psychology
+GA 265DD
+UT WOS:000327929000011
+PM 23668305
+DA 2020-08-05
+ER
+
+PT J
+AU Bee, CC
+   Madrigal, R
+AF Bee, Colleen C.
+   Madrigal, Robert
+TI Consumer uncertainty: The influence of anticipatory emotions on
+   ambivalence, attitudes, and intentions
+SO JOURNAL OF CONSUMER BEHAVIOUR
+LA English
+DT Article
+ID CONSUMPTION EMOTIONS; MODEL; BASES
+AB Specific emotions and their combinations have important implications for consumer experiences and decisions. Therefore, emotional response is examined from a future temporal perspective in order to investigate the effect of anticipatory emotions on consumer ambivalence, attitudes, and intentions. In the first study, anticipatory emotions, compared with outcome-based emotions, are found to be central in prospective consumption situations, and this combination of emotions is most likely to occur when consumers are presented with conflicting information. Furthermore, anticipatory mixed emotions (i.e., anticipatory ambivalence), in contrast to outcome-based mixed emotions, were the greatest contributor to consumer discomfort and uncertainty regarding future consumption. The second study builds on the first by considering the effect of anticipatory ambivalence on attitudes and intentions in the context of a prospective purchase situation. Ambivalence was found to mediate the effect of evaluative information on intentions, as well as moderate the relationship between attitudes and intentions. Thus, the uncertainty associated with anticipatory emotions negatively affects intentions, as well as the relationship between attitudes and intentions. The theoretical and practical implications are discussed. Copyright (c) 2013 John Wiley & Sons, Ltd.
+C1 [Bee, Colleen C.] Oregon State Univ, Coll Business, Corvallis, OR 97331 USA.
+   [Madrigal, Robert] 1208 Univ Oregon, Lundquist Coll Business, Univ Oregon, Eugene, OR 97403 USA.
+RP Bee, CC (corresponding author), Oregon State Univ, Coll Business, 200 Bexell Hall, Corvallis, OR 97331 USA.
+EM colleen.bee@bus.oregonstate.edu
+NR 38
+TC 9
+Z9 9
+U1 1
+U2 44
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1472-0817
+EI 1479-1838
+J9 J CONSUM BEHAV
+JI J. Consum. Behav.
+PD SEP
+PY 2013
+VL 12
+IS 5
+BP 370
+EP 381
+DI 10.1002/cb.1435
+PG 12
+WC Business
+SC Business & Economics
+GA 227IE
+UT WOS:000325105100004
+DA 2020-08-05
+ER
+
+PT J
+AU Kreibig, SD
+   Samson, AC
+   Gross, JJ
+AF Kreibig, Sylvia D.
+   Samson, Andrea C.
+   Gross, James J.
+TI The psychophysiology of mixed emotional states
+SO PSYCHOPHYSIOLOGY
+LA English
+DT Article
+DE Mixed emotional states; Amusement; Disgust; Autonomic response patterns;
+   Cardiovascular; Electrodermal; Respiratory; Electromyography
+ID RESPIRATORY SINUS ARRHYTHMIA; AUTONOMIC RESPONSE PATTERNS; DISGUST
+   SENSITIVITY; FILM STIMULI; ELECTROMYOGRAPHIC ACTIVITY; POSITIVE
+   EMOTIONS; CARDIAC RESPONSES; SEX-DIFFERENCES; STARTLE REFLEX; PHYSIOLOGY
+AB How to conceptualize mixed emotional states is a central issue in the field of affective science. Nondifferentiation, additive, and emergence accounts of mixed emotions make divergent predictions regarding physiological responses in mixed emotions. To test these predictions, 43 women watched film clips that elicited amusement, disgust, or mixed emotions while feeling self-report, facial electromyography, cardiovascular, electrodermal, and respiratory measures were assessed. Simultaneous self-reports of amusement and disgust confirmed elicitation of a mixed emotional state. Physiologically, mixed emotions differed from pure amusement and pure disgust both in intensity and pattern. This suggests a distinct physiological response of the mixed emotional state, as predicted by the emergence account of mixed emotions. Implications for emotion theory and research are discussed.
+C1 [Kreibig, Sylvia D.; Samson, Andrea C.; Gross, James J.] Stanford Univ, Dept Psychol, Stanford, CA 94305 USA.
+RP Kreibig, SD (corresponding author), Stanford Univ, Dept Psychol, 450 Serra Mall,Bldg 420, Stanford, CA 94305 USA.
+EM sylvia.kreibig@stanford.edu
+RI Gross, James/AAM-4104-2020; Samson, Andrea/K-3928-2017
+OI Samson, Andrea/0000-0001-6807-3132
+FU Swiss National Science FoundationSwiss National Science Foundation
+   (SNSF) [PBGEP1-125914, PA00P1_139593, PBFRP1-127896, PA00P1_136380]
+FX We thank research assistants Brittney Reyes and Katie Kao for help with
+   the data collection and research assistant John Peng for help with
+   manuscript formatting. This research was supported by the Swiss National
+   Science Foundation (PBGEP1-125914, PA00P1_139593, PBFRP1-127896,
+   PA00P1_136380).
+NR 82
+TC 28
+Z9 28
+U1 0
+U2 68
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0048-5772
+EI 1469-8986
+J9 PSYCHOPHYSIOLOGY
+JI Psychophysiology
+PD AUG
+PY 2013
+VL 50
+IS 8
+BP 799
+EP 811
+DI 10.1111/psyp.12064
+PG 13
+WC Psychology, Biological; Neurosciences; Physiology; Psychology;
+   Psychology, Experimental
+SC Psychology; Neurosciences & Neurology; Physiology
+GA 279EL
+UT WOS:000328943100015
+PM 23730872
+OA Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Rees, L
+   Rothman, NB
+   Lehavy, R
+   Sanchez-Burks, J
+AF Rees, Laura
+   Rothman, Naomi B.
+   Lehavy, Reuven
+   Sanchez-Burks, Jeffrey
+TI The ambivalent mind can be a wise mind: Emotional ambivalence increases
+   judgment accuracy
+SO JOURNAL OF EXPERIMENTAL SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE Emotional ambivalence; Judgment accuracy; Affect
+ID MOOD; ADVICE; PEOPLE; CREATIVITY; STRATEGIES; WISDOM; ANGER; FEEL; SAD
+AB This article provides evidence that emotional ambivalence, the simultaneous experience of positive and negative emotions, improves judgment accuracy. Two experiments demonstrate that individuals experiencing emotional ambivalence are more accurate in weather temperature forecasts (Experiment 1) and estimation tasks (Experiment 2) than are those experiencing happiness or sadness. Experiment 3a provides suggestive evidence that emotional ambivalence increases individuals' receptivity to alternative perspectives. Experiment 3b provides evidence for the full model: ambivalence increases estimation accuracy by increasing receptivity to alternative perspectives. The experience of ambivalence may be an important tool for encouraging greater receptivity to and consideration of alternative perspectives, and thus greater accuracy in judgments. (c) 2013 Elsevier Inc. All rights reserved.
+C1 [Rees, Laura; Lehavy, Reuven; Sanchez-Burks, Jeffrey] Univ Michigan, Ross Sch Business, Ann Arbor, MI 48109 USA.
+   [Rothman, Naomi B.] Lehigh Univ, Bethlehem, PA 18015 USA.
+RP Rees, L (corresponding author), Univ Michigan, Ross Sch Business, 701 Tappan St, Ann Arbor, MI 48109 USA.
+EM lrees@umich.edu; nbr211@lehigh.edu; rlehavy@umich.edu;
+   jsanchezburks@umich.edu
+NR 50
+TC 44
+Z9 47
+U1 0
+U2 48
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0022-1031
+EI 1096-0465
+J9 J EXP SOC PSYCHOL
+JI J. Exp. Soc. Psychol.
+PD MAY
+PY 2013
+VL 49
+IS 3
+BP 360
+EP 367
+DI 10.1016/j.jesp.2012.12.017
+PG 8
+WC Psychology, Social
+SC Psychology
+GA 128UC
+UT WOS:000317794200008
+DA 2020-08-05
+ER
+
+PT J
+AU Veilleux, JC
+   Conrad, M
+   Kassel, JD
+AF Veilleux, Jennifer C.
+   Conrad, Megan
+   Kassel, Jon D.
+TI Cue-induced cigarette craving and mixed emotions: A role for positive
+   affect in the craving process
+SO ADDICTIVE BEHAVIORS
+LA English
+DT Article
+DE Smoking; Affect; Mixed emotions; Craving; Cue-reactivity
+ID NICOTINE DEPENDENCE; NEGATIVE AFFECT; HEAVY SMOKERS; SMOKING URGE;
+   REACTIVITY; IMAGERY; IMPACT; RESPONSES; LIGHT; MOOD
+AB Craving is an important component of nicotine addiction, and extant research has demonstrated a clear link between cue-induced craving and negative affect, with mixed results in the positive affect domain. The current study was designed to test the idea that cue-reactive craving might be associated with a mixed emotional process, or the simultaneous experience of positive and negative affect Participants were 86 non-deprived regular smokers and tobacco chippers who provided simultaneous ratings of positive and negative affect during cue exposure to pleasant, unpleasant, neutral and cigarette cues. Results indicated that self-reported craving was elevated in response to cigarette cues compared to other valenced cue types and craving was higher to pleasant cues than either neutral or unpleasant cues. Mixed emotional responses were higher to cigarette cues than other cue types. In addition, mixed emotional responses to cigarette cues predicted craving even after controlling for smoker type, difficulties regulating negative emotion, baseline craving level and mixed emotional responses to neutral cues. As the first study to investigate mixed emotions and cigarette craving, our results highlight the importance of examining the relationship between cue-reactive craving and emotional response using models of emotion that allow for measurement of nuanced emotional experience. In addition, our findings suggest that positive affect processes may indeed play a role in craving among non-deprived smokers. (C) 2012 Elsevier Ltd. All rights reserved.
+C1 [Veilleux, Jennifer C.] Univ Arkansas, Fayetteville, AR 72701 USA.
+   [Veilleux, Jennifer C.; Conrad, Megan; Kassel, Jon D.] Univ Illinois, Chicago, IL USA.
+RP Veilleux, JC (corresponding author), Univ Arkansas, Dept Psychol Sci, 216 Mem Hall, Fayetteville, AR 72701 USA.
+EM jcveille@uark.edu
+FU American Psychological Association Dissertation Award; Society for the
+   Science of Clinical Psychology Dissertation Award; University of
+   Illinois at Chicago Provost award
+FX This work was supported by an American Psychological Association
+   Dissertation Award, a Society for the Science of Clinical Psychology
+   Dissertation Award, and a University of Illinois at Chicago Provost
+   award for graduate research given to the first author. The providers of
+   these sources had no role in the study design, collection, analysis or
+   interpretation of the data, writing the manuscript, or the decision to
+   submit the paper for publication.
+NR 72
+TC 15
+Z9 15
+U1 2
+U2 32
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0306-4603
+J9 ADDICT BEHAV
+JI Addict. Behav.
+PD APR
+PY 2013
+VL 38
+IS 4
+BP 1881
+EP 1889
+DI 10.1016/j.addbeh.2012.12.006
+PG 9
+WC Psychology, Clinical; Substance Abuse
+SC Psychology; Substance Abuse
+GA 111OE
+UT WOS:000316529800001
+PM 23380484
+DA 2020-08-05
+ER
+
+PT J
+AU Henderson, SE
+   Norris, CJ
+AF Henderson, Sarah E.
+   Norris, Catherine J.
+TI Counterfactual thinking and reward processing: An fMRI study of
+   responses to gamble outcomes
+SO NEUROIMAGE
+LA English
+DT Article
+DE Counterfactual thinking; Reward; Uncertainty; Gambling; fMRI; Emotion
+ID EMOTIONAL-REACTIONS; CORTEX; REGRET
+AB The process of comparing obtained outcomes to alternative possible outcomes, known as counterfactual thinking, is inescapable in daily life; however, the neurocognitive mechanisms underlying counterfactual thinking and how they influence emotional responses to better and worse outcomes is not well understood. We conducted an event-related functional magnetic resonance imaging (fMRI) gambling study in which participants were informed of two equally possible outcomes of a card gamble before they selected a card. Participants reported experiencing mixed emotions (i.e., both positive and negative affect) for disappointing wins (winning the lesser of two amounts) and relieving losses (losing the lesser of two amounts). Neuroimaging results supported the hypothesis that these mixed emotions were associated with activation of a fronto-parietal network, which subsequently influenced processing in reward and punishment regions (dorsal and ventral striatum, right anterior insula). The fronto-parietal network was sensitive to outcomes that resulted in mixed emotions, whereas reward and punishment regions were sensitive to comparisons between obtained and unobtained outcomes. These findings provide insight into the neurocognitive mechanisms underlying the mixed emotional experiences that result from counterfactual comparisons, and inform our understanding of how the brain is optimized to use the wealth of environmental information to inform current and future behavior. (C) 2012 Elsevier Inc. All rights reserved.
+C1 [Henderson, Sarah E.] Dartmouth Coll, Dept Psychol & Brain Sci, Hanover, NH 03755 USA.
+RP Henderson, SE (corresponding author), Dartmouth Coll, Dept Psychol & Brain Sci, 6207 Moore Hall, Hanover, NH 03755 USA.
+EM sarah.e.henderson@dartmouth.edu
+NR 30
+TC 9
+Z9 9
+U1 2
+U2 26
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1053-8119
+EI 1095-9572
+J9 NEUROIMAGE
+JI Neuroimage
+PD JAN 1
+PY 2013
+VL 64
+BP 582
+EP 589
+DI 10.1016/j.neuroimage.2012.08.078
+PG 8
+WC Neurosciences; Neuroimaging; Radiology, Nuclear Medicine & Medical
+   Imaging
+SC Neurosciences & Neurology; Radiology, Nuclear Medicine & Medical Imaging
+GA 056PU
+UT WOS:000312504200056
+PM 22974555
+DA 2020-08-05
+ER
+
+PT J
+AU Ladinig, O
+   Schellenberg, EG
+AF Ladinig, Olivia
+   Schellenberg, E. Glenn
+TI Liking Unfamiliar Music: Effects of Felt Emotion and Individual
+   Differences
+SO PSYCHOLOGY OF AESTHETICS CREATIVITY AND THE ARTS
+LA English
+DT Article
+DE liking music; music and personality; music and emotion; music
+   preferences
+ID HIGHER-ORDER FACTORS; SENSATION SEEKING; MIXED FEELINGS; PERSONALITY;
+   PREFERENCES; EXPOSURE; DISPLEASURE; RESPONSES; PLEASURE; AROUSAL
+AB We examined liking for excerpts of unfamiliar music taken from a wide variety of genres. The excerpts varied in tempo (fast or slow) and mode (major or minor). Listeners provided liking ratings for each excerpt as well as ratings of their emotional responses (intensity, happiness, and sadness). We also measured personality and history of music lessons. In general, listeners tended to like music associated with stronger feelings and happy feelings, and to dislike music that evoked sad feelings. Mixed happy and sad feelings were evoked by music with inconsistent cues to happiness and sadness. Listeners who scored high on Agreeableness had more intense emotional responses to music in general, whereas stronger sad feelings were evoked among those who scored high on Agreeableness or Neuroticism. Listeners who liked music that made them feel sad tended to score high on Openness-to-Experience or low on Extraversion, whereas liking for music that evoked mixed feelings was associated positively with music training. The results confirm that liking for music varies as a function of the emotions it evokes and individual differences in personality and music training.
+C1 [Schellenberg, E. Glenn] Univ Toronto Mississauga, Dept Psychol, Mississauga, ON L5L 1C6, Canada.
+   [Ladinig, Olivia] Ohio State Univ, Cognit & Systemat Musicol Lab, Columbus, OH 43210 USA.
+RP Schellenberg, EG (corresponding author), Univ Toronto Mississauga, Dept Psychol, Mississauga, ON L5L 1C6, Canada.
+EM g.schellenberg@utoronto.ca
+NR 64
+TC 54
+Z9 56
+U1 0
+U2 47
+PU EDUCATIONAL PUBLISHING FOUNDATION-AMERICAN PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST, NE, WASHINGTON, DC 20002-4242 USA
+SN 1931-3896
+EI 1931-390X
+J9 PSYCHOL AESTHET CREA
+JI Psychol. Aesthet. Creat. Arts.
+PD MAY
+PY 2012
+VL 6
+IS 2
+BP 146
+EP 154
+DI 10.1037/a0024671
+PG 9
+WC Humanities, Multidisciplinary; Psychology, Experimental
+SC Arts & Humanities - Other Topics; Psychology
+GA 944XD
+UT WOS:000304236200006
+DA 2020-08-05
+ER
+
+PT J
+AU Larsen, JT
+   Stastny, BJ
+AF Larsen, Jeff T.
+   Stastny, Bradley J.
+TI It's A Bittersweet Symphony: Simultaneously Mixed Emotional Responses to
+   Music With Conflicting Cues
+SO EMOTION
+LA English
+DT Article
+DE mixed emotions; music; happiness; sadness; bittersweet
+ID NOSTALGIA
+AB Some evidence indicates that emotional reactions to music can be organized along a bipolar valence dimension ranging from pleasant states (e.g., happiness) to unpleasant states (e.g., sadness), but songs can contain some cues that elicit happiness (e.g., fast tempos) and others that elicit sadness (e.g., minor modes). Some models of emotion contend that valence is a basic building block of emotional experience, which implies that songs with conflicting cues cannot make people feel happy and sad at the same time. Other models contend that positivity and negativity are separable in experience, which implies that music with conflicting cues might elicit simultaneously mixed emotions of happiness and sadness. Hunter, Schellenberg, and Schimmack (2008) tested these possibilities by having subjects report their happiness and sadness after listening to music with conflicting cues (e.g., fast songs in minor modes) and consistent cues (e.g., fast songs in major modes). Results indicated that music with conflicting cues elicited mixed emotions, but it remains unclear whether subjects simultaneously felt happy and sad or merely vacillated between happiness and sadness. To examine these possibilities, we had subjects press one button whenever they felt happy and another button whenever they felt sad as they listened to songs with conflicting and consistent cues. Results revealed that subjects spent more time simultaneously pressing both buttons during songs with conflicting, as opposed to consistent, cues. These findings indicate that songs with conflicting cues can simultaneously elicit happiness and sadness and that positivity and negativity are separable in experience.
+C1 [Larsen, Jeff T.; Stastny, Bradley J.] Texas Tech Univ, Dept Psychol, Lubbock, TX 79409 USA.
+RP Larsen, JT (corresponding author), Texas Tech Univ, Dept Psychol, Lubbock, TX 79409 USA.
+EM jeff.larsen@ttu.edu
+NR 30
+TC 26
+Z9 26
+U1 0
+U2 23
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+J9 EMOTION
+JI Emotion
+PD DEC
+PY 2011
+VL 11
+IS 6
+BP 1469
+EP 1473
+DI 10.1037/a0024081
+PG 5
+WC Psychology, Experimental
+SC Psychology
+GA 860BO
+UT WOS:000297921200024
+PM 21707144
+DA 2020-08-05
+ER
+
+PT J
+AU Hong, JW
+   Lee, AY
+AF Hong, Jiewen
+   Lee, Angela Y.
+TI Feeling Mixed but Not Torn: The Moderating Role of Construal Level in
+   Mixed Emotions Appeals
+SO JOURNAL OF CONSUMER RESEARCH
+LA English
+DT Article
+ID UNDERSTANDING UNFAMILIAR WORDS; TEMPORAL DISTANCE; SELF; CONSEQUENCES;
+   THINKING; PLEASURES; PAINS; OLDER
+AB This research examines how construal level (i.e., how abstractly or concretely people represent information in memory) affects consumers' responses to mixed emotions appeals. The results of five studies show that, consistent with prior research, participants experienced discomfort when they encountered mixed emotions appeals and developed less favorable attitudes toward the ad relative to pure positive emotional appeals, but this was the case only for those who construed information at a concrete, low level. Participants who construed information at an abstract, high level did not experience much discomfort; hence, they found mixed emotions and pure positive emotional appeals equally persuasive. We further demonstrate that the chronic construal level associated with people's age and cultural background underlies the moderating effects of age and culture on consumers' attitudes toward mixed emotions appeals documented in prior research.
+C1 [Hong, Jiewen] Hong Kong Univ Sci & Technol, Sch Business & Management, Kowloon, Hong Kong, Peoples R China.
+   [Lee, Angela Y.] Northwestern Univ, Kellogg Sch Management, Evanston, IL 60208 USA.
+RP Hong, JW (corresponding author), Hong Kong Univ Sci & Technol, Sch Business & Management, Kowloon, Hong Kong, Peoples R China.
+EM mkjiewen@ust.hk; aylee@kellogg.northwestern.edu
+NR 46
+TC 67
+Z9 69
+U1 5
+U2 78
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0093-5301
+EI 1537-5277
+J9 J CONSUM RES
+JI J. Consum. Res.
+PD OCT
+PY 2010
+VL 37
+IS 3
+BP 456
+EP 472
+DI 10.1086/653492
+PG 17
+WC Business
+SC Business & Economics
+GA 646ZB
+UT WOS:000281583600008
+DA 2020-08-05
+ER
+
+PT J
+AU McGraw, AP
+   Warren, C
+AF McGraw, A. Peter
+   Warren, Caleb
+TI Benign Violations: Making Immoral Behavior Funny
+SO PSYCHOLOGICAL SCIENCE
+LA English
+DT Article
+DE humor; moral violations; moral judgment; emotion; mixed emotions;
+   disgust; laughter
+ID HUMOR; LAUGHTER; DISGUST; PSYCHOLOGY; EVOLUTION; FEELINGS; EMOTIONS;
+   MORALITY
+AB Humor is an important, ubiquitous phenomenon; however, seemingly disparate conditions seem to facilitate humor. We integrate these conditions by suggesting that laughter and amusement result from violations that are simultaneously seen as benign. We investigated three conditions that make a violation benign and thus humorous: (a) the presence of an alternative norm suggesting that the situation is acceptable, (b) weak commitment to the violated norm, and (c) psychological distance from the violation. We tested the benign-violation hypothesis in the domain of moral psychology, where there is a strong documented association between moral violations and negative emotions, particularly disgust. Five experimental studies show that benign moral violations tend to elicit laughter and amusement in addition to disgust. Furthermore, seeing a violation as both wrong and not wrong mediates behavioral displays of humor. Our account is consistent with evolutionary accounts of laughter, explains humor across many domains, and suggests that humor can accompany negative emotion.
+C1 [McGraw, A. Peter; Warren, Caleb] Univ Colorado, Leeds Sch Business, Boulder, CO 80309 USA.
+RP McGraw, AP (corresponding author), Univ Colorado, Leeds Sch Business, UCB 419, Boulder, CO 80309 USA.
+EM peter.mcgraw@colorado.edu
+RI McGraw, A. Peter/D-2927-2014
+NR 40
+TC 138
+Z9 140
+U1 1
+U2 51
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0956-7976
+J9 PSYCHOL SCI
+JI Psychol. Sci.
+PD AUG
+PY 2010
+VL 21
+IS 8
+BP 1141
+EP 1149
+DI 10.1177/0956797610376073
+PG 9
+WC Psychology, Multidisciplinary
+SC Psychology
+GA 696PP
+UT WOS:000285454200015
+PM 20587696
+DA 2020-08-05
+ER
+
+PT J
+AU Barrett, FS
+   Grimm, KJ
+   Robins, RW
+   Wildschut, T
+   Sedikides, C
+   Janata, P
+AF Barrett, Frederick S.
+   Grimm, Kevin J.
+   Robins, Richard W.
+   Wildschut, Tim
+   Sedikides, Constantine
+   Janata, Petr
+TI Music-Evoked Nostalgia: Affect, Memory, and Personality
+SO EMOTION
+LA English
+DT Article
+DE popular music; Big Five Inventory; Affective Neurosciences Personality
+   Scale; autobiographical memory; mixed emotions
+ID EMOTIONAL-REACTIONS; HAPPY; PSYCHOLOGY; EXPERIENCE; RESPONSES
+AB Participants listened to randomly selected excerpts of popular music and rated how nostalgic each song made them feel. Nostalgia was stronger to the extent that a song was autobiographically salient, arousing, familiar, and elicited a greater number of positive, negative, and mixed emotions. These effects were moderated by individual differences (nostalgia proneness, mood state, dimensions of the Affective Neurosciences Personality Scale, and factors of the Big Five Inventory). Nostalgia proneness predicted stronger nostalgic experiences, even after controlling for other individual difference measures. Nostalgia proneness was predicted by the Sadness dimension of the Affective Neurosciences Personality Scale and Neuroticism of the Big Five Inventory. Nostalgia was associated with both joy and sadness, whereas nonnostalgic and nonautobiographical experiences were associated with irritation.
+C1 [Barrett, Frederick S.; Janata, Petr] Univ Calif Davis, Ctr Mind & Brain, Davis, CA 95618 USA.
+   [Barrett, Frederick S.; Grimm, Kevin J.; Robins, Richard W.; Janata, Petr] Univ Calif Davis, Dept Psychol, Davis, CA 95618 USA.
+   [Wildschut, Tim; Sedikides, Constantine] Univ Southampton, Sch Psychol, Southampton SO9 5NH, Hants, England.
+RP Janata, P (corresponding author), Univ Calif Davis, Ctr Mind & Brain, 267 Cousteau Pl, Davis, CA 95618 USA.
+EM pjanata@ucdavis.edu
+RI Janata, Petr/K-8840-2013; Barrett, Frederick/V-3730-2019; Barrett,
+   Frederick/B-1673-2014
+OI Janata, Petr/0000-0001-6868-6051; Barrett,
+   Frederick/0000-0001-7443-3237; Barrett, Frederick/0000-0001-7443-3237;
+   Sedikides, Contantine/0000-0003-4036-889X; Wildschut,
+   Tim/0000-0002-6499-5487
+NR 44
+TC 160
+Z9 162
+U1 2
+U2 141
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+EI 1931-1516
+J9 EMOTION
+JI Emotion
+PD JUN
+PY 2010
+VL 10
+IS 3
+BP 390
+EP 403
+DI 10.1037/a0019006
+PG 14
+WC Psychology, Experimental
+SC Psychology
+GA 605WI
+UT WOS:000278378200008
+PM 20515227
+DA 2020-08-05
+ER
+
+PT J
+AU Zhang, X
+   Ersner-Hershfield, H
+   Fung, HH
+AF Zhang, Xin
+   Ersner-Hershfield, Hal
+   Fung, Helene H.
+TI Age Differences in Poignancy: Cognitive Reappraisal as a Moderator
+SO PSYCHOLOGY AND AGING
+LA English
+DT Article
+DE poignancy; mixed emotions; age difference; emotion regulation; cognitive
+   reappraisal
+ID LIFE-SPAN DEVELOPMENT; EMOTION REGULATION; SOCIOEMOTIONAL SELECTIVITY;
+   INDIVIDUAL-DIFFERENCES; SOCIAL PREFERENCES; OLD-AGE; EXPERIENCE; TIME;
+   EXPRESSION; FEELINGS
+AB Poignancy is defined as a mixed emotional experience that arises when one faces meaningful endings. According to socioemotional selectivity theory (Carstensen, 2006), when people are aware of the finitude of time, they tend to experience more poignancy. In Study 1, we found that Chinese younger, but not older, participants experienced more poignancy under time limitations. In Study 2, we found that an emotion regulation strategy namely, cognitive reappraisal moderated the relationship between limited time and poignancy, such that the increases in poignancy under time limitations were found only among older Chinese participants with lower levels of cognitive reappraisal but not among those with higher levels of cognitive reappraisal. These findings contribute to the existing literature on poignancy by showing that not every older adult exhibits poignancy in the face of an ending: The poignancy phenomenon may occur among only older adults who are less likely to use an emotion regulation strategy, such as cognitive reappraisal, to reinterpret the anticipated ending.
+C1 [Zhang, Xin; Fung, Helene H.] Chinese Univ Hong Kong, Dept Psychol, Shatin, Hong Kong, Peoples R China.
+   [Ersner-Hershfield, Hal] Stanford Univ, Dept Psychol, Stanford, CA 94305 USA.
+RP Zhang, X (corresponding author), Chinese Univ Hong Kong, Dept Psychol, Room 321 Sino Bldg, Shatin, Hong Kong, Peoples R China.
+EM xzhang@psy.cuhk.edu.hk
+RI Hershfield, Hal/J-2919-2016
+OI Hershfield, Hal/0000-0002-1507-7022
+NR 52
+TC 12
+Z9 13
+U1 0
+U2 9
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0882-7974
+J9 PSYCHOL AGING
+JI Psychol. Aging
+PD JUN
+PY 2010
+VL 25
+IS 2
+BP 310
+EP 320
+DI 10.1037/a0019078
+PG 11
+WC Gerontology; Psychology, Developmental
+SC Geriatrics & Gerontology; Psychology
+GA 610AY
+UT WOS:000278702500006
+PM 20545416
+DA 2020-08-05
+ER
+
+PT J
+AU Hunter, PG
+   Schellenberg, EG
+   Schimmack, U
+AF Hunter, Patrick G.
+   Schellenberg, E. Glenn
+   Schimmack, Ulrich
+TI Feelings and Perceptions of Happiness and Sadness Induced by Music:
+   Similarities, Differences, and Mixed Emotions
+SO PSYCHOLOGY OF AESTHETICS CREATIVITY AND THE ARTS
+LA English
+DT Article
+DE music and emotion; music perception; emotion perception; emotional
+   responding; mixed emotions
+ID AFFECTIVE RESPONSES; MOOD; TEMPO; HAPPY; SAD; MODE; EXPRESSION;
+   EXPERIENCE; FELT; AMBIVALENCE
+AB The authors examined similarities and differences between (1) listeners' perceptions of emotions conveyed by 30-s pieces of music and (2) their emotional responses to the same pieces. Using identical scales, listeners rated how happy and how sad the music made them feel, and the happiness and the sadness expressed by the music. The music was manipulated to vary in tempo (fast or slow) and mode (major or minor). Feeling and perception ratings were highly correlated but perception ratings were higher than feeling ratings, particularly for music with consistent cues to happiness (fast-major) or sadness (slow-minor), and for sad-sounding music in general. Associations between the music manipulations and listeners' feelings were mediated by their perceptions of the emotions conveyed by the music. Happiness ratings were elevated for fast-tempo and major-key stimuli, sadness ratings were elevated for slow-tempo and minor-key stimuli, and mixed emotional responses (higher happiness and sadness ratings) were elevated for music with mixed cues to happiness and sadness (fast-minor or slow-major). Listeners also exhibited ambivalence toward sad-sounding music.
+C1 [Hunter, Patrick G.; Schellenberg, E. Glenn; Schimmack, Ulrich] Univ Toronto, Dept Psychol, Mississauga, ON L5L 1C6, Canada.
+RP Schellenberg, EG (corresponding author), Univ Toronto, Dept Psychol, Mississauga, ON L5L 1C6, Canada.
+EM g.schellenberg@utoronto.ca
+NR 74
+TC 105
+Z9 109
+U1 1
+U2 69
+PU EDUCATIONAL PUBLISHING FOUNDATION-AMERICAN PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST, NE, WASHINGTON, DC 20002-4242 USA
+SN 1931-3896
+EI 1931-390X
+J9 PSYCHOL AESTHET CREA
+JI Psychol. Aesthet. Creat. Arts.
+PD FEB
+PY 2010
+VL 4
+IS 1
+BP 47
+EP 56
+DI 10.1037/a0016873
+PG 10
+WC Humanities, Multidisciplinary; Psychology, Experimental
+SC Arts & Humanities - Other Topics; Psychology
+GA 593LW
+UT WOS:000277457500007
+DA 2020-08-05
+ER
+
+PT J
+AU Spencer-Rodgers, J
+   Peng, KP
+   Wang, L
+AF Spencer-Rodgers, Julie
+   Peng, Kaiping
+   Wang, Lei
+TI Dialecticism and the Co-occurrence of Positive and Negative Emotions
+   Across Cultures
+SO JOURNAL OF CROSS-CULTURAL PSYCHOLOGY
+LA English
+DT Article
+DE culture; emotion; affect; mixed emotions; East Asians
+ID SELF-CONCEPT; CONTRADICTION; PLEASANT
+AB Emotional complexity (the co-occurrence of positive and negative affect) is more prevalent in East Asian than North American cultures. Although researchers have attributed this robust finding to dialectical thinking (tolerance of contradiction), this hypothesis has not been experimentally tested. In this study, dialectical thinking about salient life events was manipulated among mainland Chinese and Euro-American participants, and increased dialectical thinking led to greater emotional complexity. Moreover, Chinese exhibited greater dialectical thinking and emotional complexity than did Euro-Americans, and cultural differences in emotional complexity were mediated by a direct measure of dialecticism (Dialectical Self Scale).
+C1 [Spencer-Rodgers, Julie] Univ Calif Santa Barbara, Dept Psychol, Santa Barbara, CA 93106 USA.
+   [Peng, Kaiping] Univ Calif Berkeley, Berkeley, CA 94720 USA.
+   [Peng, Kaiping] Tsinghua Univ, Beijing, Peoples R China.
+   [Wang, Lei] Peking Univ, Beijing 100871, Peoples R China.
+RP Spencer-Rodgers, J (corresponding author), Univ Calif Santa Barbara, Dept Psychol, Santa Barbara, CA 93106 USA.
+EM Rodgers@psych.ucsb.edu
+RI Wang, Lei/D-2501-2016
+OI Wang, Lei/0000-0002-6156-9028
+NR 20
+TC 61
+Z9 64
+U1 3
+U2 43
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0022-0221
+J9 J CROSS CULT PSYCHOL
+JI J. Cross-Cult. Psychol.
+PD JAN
+PY 2010
+VL 41
+IS 1
+BP 109
+EP 115
+DI 10.1177/0022022109349508
+PG 7
+WC Psychology, Social
+SC Psychology
+GA 533EI
+UT WOS:000272805900009
+DA 2020-08-05
+ER
+
+PT J
+AU Ersner-Hershfield, H
+   Carvel, DS
+   Isaacowitz, DM
+AF Ersner-Hershfield, Hal
+   Carvel, David S.
+   Isaacowitz, Derek M.
+TI Feeling happy and sad, but only seeing the positive: Poignancy and the
+   positivity effect in attention
+SO MOTIVATION AND EMOTION
+LA English
+DT Article
+DE Mixed emotions; Information processing; Socioemotional selectivity
+   theory; Poignancy
+ID VISUAL-ATTENTION; SOCIOEMOTIONAL SELECTIVITY; EMOTIONAL EXPERIENCE;
+   NEGATIVE IMAGES; OLDER-ADULTS; LIFE-SPAN; AMBIVALENCE; MEMORY; GAZE;
+   TIME
+AB Poignancy is a mixed emotional experience that occurs in the face of meaningful endings (Ersner-Hershfield et al. J Pers Soc Psychol 94(1):158-167, 2008). Despite documentation of the phenomenological component of poignancy, no study to date has examined the relationship between such a state and information processing. We therefore examined the link between poignancy and attentional patterns using an eyetracking paradigm. To induce poignancy, experimental condition participants imagined being in a personally chosen meaningful location for a final time; control participants also imagined being in a meaningful location but with no ending. After, both groups were shown emotional images. Experimental condition participants looked more at positive images relative to negative images, whereas participants in the control condition did not display such a preference. Findings suggest that despite being a mixed emotional experience, poignancy may produce a subsequent positivity effect in information processing.
+C1 [Ersner-Hershfield, Hal] Stanford Univ, Stanford, CA 94305 USA.
+   [Carvel, David S.; Isaacowitz, Derek M.] Brandeis Univ, Waltham, MA USA.
+RP Ersner-Hershfield, H (corresponding author), Northwestern Univ, Kellogg Sch Management, Dept Management & Org, 2001 Sheridan Rd, Evanston, IL 60208 USA.
+EM h-ersnerhershfield@kellogg.northwestern.edu; dcarvel@gmail.com;
+   dmi@brandeis.edu
+RI Hershfield, Hal/J-2919-2016
+OI Hershfield, Hal/0000-0002-1507-7022
+NR 31
+TC 11
+Z9 12
+U1 1
+U2 21
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0146-7239
+EI 1573-6644
+J9 MOTIV EMOTION
+JI Motiv. Emot.
+PD DEC
+PY 2009
+VL 33
+IS 4
+BP 333
+EP 342
+DI 10.1007/s11031-009-9140-6
+PG 10
+WC Psychology, Experimental; Psychology, Social
+SC Psychology
+GA 521XU
+UT WOS:000271960700001
+DA 2020-08-05
+ER
+
+PT J
+AU Larsen, JT
+   Norris, CJ
+   McGraw, AP
+   Hawkley, LC
+   Cacioppo, JT
+AF Larsen, Jeff T.
+   Norris, Catherine J.
+   McGraw, A. Peter
+   Hawkley, Louise C.
+   Cacioppo, John T.
+TI The evaluative space grid: A single-item measure of positivity and
+   negativity
+SO COGNITION & EMOTION
+LA English
+DT Article
+ID MIXED FEELINGS; ELECTROMYOGRAPHIC ACTIVITY; EMOTIONAL-REACTIONS;
+   PLEASURE; DISPLEASURE; VALIDATION; PICTURES; ATTITUDE
+AB The authors introduce the evaluative space grid (ESG), a two-dimensional grid that provides a single-item measure of positivity and negativity. In Study 1, ESG ratings of gamble outcomes were highly correlated with those obtained from conventional, less-efficient, unipolar measures, thus providing evidence for the grid's convergent validity. In Study 2, participants rated their moment-by-moment evaluative reactions to gamble outcomes with the grid every 100 ms; results replicated earlier findings that some outcomes elicit only positivity or negativity whereas others simultaneously elicit positivity and negativity. In Studies 3 and 4, the difference between the grid's positive and negative ratings of several types of stimuli and bipolar valence ratings were highly correlated, thus demonstrating the grid's generalisability and predictive validity. Study 4 also showed that ESG ratings predicted facial electromyographic activity, particularly in tasks involving strongly affective stimuli. Taken together, results indicate that the grid provides efficient, valid indices of positivity and negativity.
+C1 [Larsen, Jeff T.] Texas Tech Univ, Dept Psychol, Lubbock, TX 79409 USA.
+   [Norris, Catherine J.] Dartmouth Coll, Hanover, NH 03755 USA.
+   [McGraw, A. Peter] Univ Colorado, Boulder, CO 80309 USA.
+   [Hawkley, Louise C.; Cacioppo, John T.] Univ Chicago, Chicago, IL 60637 USA.
+RP Larsen, JT (corresponding author), Texas Tech Univ, Dept Psychol, Lubbock, TX 79409 USA.
+EM jeff.larsen@ttu.edu
+RI McGraw, A. Peter/D-2927-2014
+NR 37
+TC 99
+Z9 100
+U1 1
+U2 26
+PU PSYCHOLOGY PRESS
+PI HOVE
+PA 27 CHURCH RD, HOVE BN3 2FA, EAST SUSSEX, ENGLAND
+SN 0269-9931
+J9 COGNITION EMOTION
+JI Cogn. Emot.
+PY 2009
+VL 23
+IS 3
+BP 453
+EP 480
+AR PII 793517733
+DI 10.1080/02699930801994054
+PG 28
+WC Psychology, Experimental
+SC Psychology
+GA 421FU
+UT WOS:000264345600003
+DA 2020-08-05
+ER
+
+PT J
+AU Oceja, L
+   Carrera, P
+AF Oceja, Luis
+   Carrera, Pilar
+TI Beyond a Single Pattern of Mixed Emotional Experience Sequential,
+   Prevalence, Inverse, and Simultaneous
+SO EUROPEAN JOURNAL OF PSYCHOLOGICAL ASSESSMENT
+LA English
+DT Article
+DE mixed emotions; emotional patterns; emotional ambivalence
+ID BIPOLARITY; DISPLEASURE; PLEASURE; CULTURE
+AB The Analogical Emotional Scale (AES) permits respondents to represent the changes that occur in the course of two different emotions over the time in which they are experienced (Carrera & Oceja, 2007). We tested whether the use of the AES allows us to go beyond the distinction between sequential and simultaneous emotional experiences. Specifically, the AES permits us to detect and discriminate at least four different patterns of mixed emotional experience: sequential, prevalence, inverse, and highly simultaneous. We carried out four studies in which different stimuli were used for inducing emotion: personal memories, verbal accounts, videos, and photographs. The results supported our expectation that these four patterns are associated with different levels of emotional ambivalence and tension along a continuum from lesser to greater: sequential, prevalence, inverse, and highly simultaneous.
+C1 [Oceja, Luis; Carrera, Pilar] Univ Autonoma Madrid, Dept Psicol Social, E-28049 Madrid, Spain.
+RP Oceja, L (corresponding author), Univ Autonoma Madrid, Dept Psicol Social, C Ivan Pavlov 6, E-28049 Madrid, Spain.
+EM luis.oceja@uam.es; pilar.carrera@uam.es
+RI Levillain, Pilar Carrera/G-3470-2011; Oceja, Luis/B-5599-2011
+OI Levillain, Pilar Carrera/0000-0002-3940-9028; Oceja,
+   Luis/0000-0001-5330-3687
+NR 28
+TC 23
+Z9 23
+U1 2
+U2 15
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA MERKELSTR 3, D-37085 GOTTINGEN, GERMANY
+SN 1015-5759
+EI 2151-2426
+J9 EUR J PSYCHOL ASSESS
+JI Eur. J. Psychol. Assess.
+PY 2009
+VL 25
+IS 1
+BP 58
+EP 67
+DI 10.1027/1015-5759.25.1.58
+PG 10
+WC Psychology, Applied
+SC Psychology
+GA 405SZ
+UT WOS:000263245800008
+DA 2020-08-05
+ER
+
+PT J
+AU Aaker, J
+   Drolet, A
+   Griffin, D
+AF Aaker, Jennifer
+   Drolet, Aimee
+   Griffin, Dale
+TI Recalling mixed emotions
+SO JOURNAL OF CONSUMER RESEARCH
+LA English
+DT Article
+ID EXPERIENCE; AMBIVALENCE; MEDIATION; NEGLECT; MEMORY; HAPPY
+AB In two longitudinal experiments, conducted both in the field and lab, we investigated the recollection of mixed emotions. Results demonstrated that the intensity of mixed emotions is generally underestimated at the time of recall - an effect that increases over time and does not occur to the same degree with unipolar emotions. Of note, the decline in memory of mixed emotions is distinct from the pattern found for memory of negative emotions, implying that the recall bias is diagnostic of the complexity of mixed emotions rather than of any association with negative affect. Finally, the memory decay effect was driven by the felt conflict aroused by the experience of mixed emotions.
+C1 [Aaker, Jennifer] Stanford Univ, Grad Sch Business, Stanford, CA 94395 USA.
+   [Drolet, Aimee] Univ Calif Los Angeles, Anderson Sch, Los Angeles, CA 90095 USA.
+   [Griffin, Dale] Univ British Columbia, Sauder Sch Business, Vancouver, BC V6T 1Z2, Canada.
+RP Aaker, J (corresponding author), Stanford Univ, Grad Sch Business, 518 Mem Way, Stanford, CA 94395 USA.
+EM aaker@gsb.stanford.edu; adrolet@anderson.ucla.edu;
+   dale.griffin@sauder.ubc.ca
+NR 48
+TC 80
+Z9 81
+U1 2
+U2 49
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0093-5301
+EI 1537-5277
+J9 J CONSUM RES
+JI J. Consum. Res.
+PD AUG
+PY 2008
+VL 35
+IS 2
+BP 268
+EP 278
+DI 10.1086/588570
+PG 11
+WC Business
+SC Business & Economics
+GA 324NI
+UT WOS:000257524900007
+DA 2020-08-05
+ER
+
+PT J
+AU Hunter, PG
+   Schellenberg, EG
+   Schimmack, U
+AF Hunter, Patrick G.
+   Schellenberg, E. Glenn
+   Schimmack, Ulrich
+TI Mixed affective responses to music with conflicting cues
+SO COGNITION & EMOTION
+LA English
+DT Article
+ID EMOTIONAL RESPONSES; TEMPO; MODE; PLEASURE; AROUSAL; DISPLEASURE;
+   EXPERIENCE; PERCEPTION; INTENSITY; FEELINGS
+AB We examined whether listening to music induces simultaneously happy and sad affective responding. The stimuli were instrumental excerpts from musical recordings that included a broad range of genres. The excerpts varied in tempo (fast or slow) and mode (major or minor), such that they had consistent happy (fast/major), consistent sad (slow/minor), or inconsistent (fast/minor or slow/major) affective cues. Listeners rated how each excerpt made them feel using separate scales for happiness and sadness. When tempo and mode cues conflicted, "mixed" happy and sad feelings were evoked. Mixed ratings on control measures (pleasantness and unpleasantness) did not show the same pattern.
+C1 [Hunter, Patrick G.; Schellenberg, E. Glenn; Schimmack, Ulrich] Univ Toronto, Dept Psychol, Mississauga, ON L5L 1C6, Canada.
+RP Schellenberg, EG (corresponding author), Univ Toronto, Dept Psychol, Mississauga, ON L5L 1C6, Canada.
+EM schellenberg@utoronto.ca
+NR 61
+TC 93
+Z9 96
+U1 0
+U2 16
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0269-9931
+EI 1464-0600
+J9 COGNITION EMOTION
+JI Cogn. Emot.
+PY 2008
+VL 22
+IS 2
+BP 327
+EP 352
+DI 10.1080/02699930701438145
+PG 26
+WC Psychology, Experimental
+SC Psychology
+GA 250RD
+UT WOS:000252316900007
+DA 2020-08-05
+ER
+
+PT J
+AU Ersner-Hershfield, H
+   Mikels, JA
+   Sullivan, SJ
+   Carstensen, LL
+AF Ersner-Hershfield, Hal
+   Mikels, Joseph A.
+   Sullivan, Sarah J.
+   Carstensen, Laura L.
+TI Poignancy: Mixed emotional experience in the face of meaningful endings
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE mixed emotions; poignancy; endings; aging; socioemotional selectivity
+   theory
+ID EXPRESSION; LIFE; AGE; AMBIVALENCE; PHYSIOLOGY; ATTITUDES; FEELINGS;
+   YOUNGER; OLDER; TIME
+AB The experience of mixed emotions increases with age. Socioemotional selectivity theory suggests that mixed emotions are associated with shifting time horizons. Theoretically, perceived constraints on future time increase appreciation for life, which, in turn, elicits positive emotions such as happiness. Yet, the very same temporal constraints heighten awareness that these positive experiences come to an end, thus yielding mixed emotional states. In 2 studies, the authors examined the link between the awareness of anticipated endings and mixed emotional experience. In Study 1, participants repeatedly imagined being in a meaningful location. Participants in the experimental condition imagined being in the meaningful location for the final time. Only participants who imagined "last times" at meaningful locations experienced more mixed emotions. In Study 2, college seniors reported their emotions on graduation day. Mixed emotions were higher when participants were reminded of the ending that they were experiencing. Findings suggest that poignancy is an emotional experience associated with meaningful endings.
+C1 [Ersner-Hershfield, Hal; Mikels, Joseph A.; Sullivan, Sarah J.; Carstensen, Laura L.] Stanford Univ, Dept Psychol, Stanford, CA 94305 USA.
+RP Ersner-Hershfield, H (corresponding author), Stanford Univ, Dept Psychol, 450 Serra Mall, Stanford, CA 94305 USA.
+EM haleh@psych.stanford.edu
+RI Hershfield, Hal/J-2919-2016
+OI Hershfield, Hal/0000-0002-1507-7022
+FU NIA NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute on Aging (NIA)
+   [R37 AG008816, R37 AG008816-17]; PHS HHSUnited States Public Health
+   Service [R01-8816]
+NR 43
+TC 116
+Z9 120
+U1 1
+U2 31
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+EI 1939-1315
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD JAN
+PY 2008
+VL 94
+IS 1
+BP 158
+EP 167
+DI 10.1037/0022-3514.94.1.158
+PG 10
+WC Psychology, Social
+SC Psychology
+GA 243VX
+UT WOS:000251826500012
+PM 18179325
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Andrade, EB
+   Cohen, JB
+AF Andrade, Eduardo B.
+   Cohen, Joel B.
+TI On the consumption of negative feelings
+SO JOURNAL OF CONSUMER RESEARCH
+LA English
+DT Article
+ID OPPONENT-PROCESS THEORY; MOTIVATION; PLEASURE; PARACHUTISTS; EMOTION;
+   AROUSAL; TASK
+AB How can the hedonistic assumption (i.e., people's willingness to pursue pleasure and avoid pain) be reconciled with people choosing to expose themselves to experiences known to elicit negative feelings? We assess how ( 1) the intensity of the negative feelings, ( 2) positive feelings in the aftermath, and ( 3) the coactivation of positive and negative feelings contribute to our understanding of such behavior. In a series of four studies, consumers with either approach or avoidance tendencies ( toward horror movies) were asked to report their positive and/or negative feelings either after ( experiment 1) or while ( experiments 2, 3A, and 3B) they were exposed to a horror movie. We demonstrate how a model incorporating coactivation principles and enriched with a protective frame moderator ( via detachment) can provide a more parsimonious and viable description of the affective reactions that result from counterhedonic behavior.
+C1 Univ Calif Berkeley, Hass Sch Business, Berkeley, CA 94720 USA.
+   Univ Florida, Gainesville, FL 32611 USA.
+RP Andrade, EB (corresponding author), Univ Calif Berkeley, Hass Sch Business, Berkeley, CA 94720 USA.
+EM eandrade@haas.berkeley.edu; joel.cohen@cba.ufl.edu
+RI Andrade, Eduardo/C-1279-2008; Andrade, Eduardo/H-7745-2013
+OI Andrade, Eduardo/0000-0002-2930-8151
+NR 41
+TC 136
+Z9 137
+U1 3
+U2 48
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0093-5301
+EI 1537-5277
+J9 J CONSUM RES
+JI J. Consum. Res.
+PD OCT
+PY 2007
+VL 34
+IS 3
+BP 283
+EP 300
+DI 10.1086/519498
+PG 18
+WC Business
+SC Business & Economics
+GA 208LC
+UT WOS:000249319800002
+DA 2020-08-05
+ER
+
+PT J
+AU Hemenover, SH
+   Schimmack, U
+AF Hemenover, Scott H.
+   Schimmack, Ulrich
+TI That's disgusting!..., but very amusing: Mixed feelings of amusement and
+   disgust
+SO COGNITION & EMOTION
+LA English
+DT Article
+ID INDIVIDUAL-DIFFERENCES; COGNITIVE-PROCESSES; EXPERIENCE
+AB This study examines mixed feelings of amusement and disgust. Participants (N = 102) reported their affect before and after watching a film clip depicting disgusting humour. While watching the clip participants were instructed to take the perspective of either an uninvolved observer or of the clip's protagonist. As expected this clip produced mixed feelings of amusement and disgust, and perspective moderated changes in affect and mixed feelings. Disgust increased equally in both conditions and amusement increased only in the observer condition. As a result mixed feelings of amusement and disgust were more intense in the observer condition. As the first study to demonstrate moderation of mixed feelings, this work adds to the extant literature on mixed feelings and has implications for emotion research.
+C1 Western Illinois Univ, Dept Psychol, Macomb, IL 61455 USA.
+   Univ Toronto, Mississauga, ON L5L 1C6, Canada.
+RP Hemenover, SH (corresponding author), Western Illinois Univ, Dept Psychol, 1 Univ Circle,Waggoner Hall 100, Macomb, IL 61455 USA.
+EM SH-Hemenover@wiu.edu
+NR 24
+TC 68
+Z9 68
+U1 0
+U2 14
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0269-9931
+EI 1464-0600
+J9 COGNITION EMOTION
+JI Cogn. Emot.
+PD AUG
+PY 2007
+VL 21
+IS 5
+BP 1102
+EP 1113
+DI 10.1080/02699930601057037
+PG 12
+WC Psychology, Experimental
+SC Psychology
+GA 205PR
+UT WOS:000249127600011
+DA 2020-08-05
+ER
+
+PT J
+AU Carrera, P
+   Oceja, L
+AF Carrera, Pilar
+   Oceja, Luis
+TI Drawing mixed emotions: Sequential or simultaneous experiences?
+SO COGNITION & EMOTION
+LA English
+DT Article
+ID NEGATIVE AFFECT; BIPOLARITY; DISPLEASURE; INTENSITY; PLEASURE; FEELINGS;
+   RATINGS; SPACE; MODEL
+AB With a view to measuring subjective experience of mixed emotions, we designed an Analogical Emotional Scale (AES). This scale permits the analysis of how, at the subjective level, the emotions evolve from the beginning to the end of the experience, allowing discrimination between simultaneous mixed emotional experiences (i. e., two emotions taking place at the same time) and sequential mixed emotional experiences (i. e., two emotions switching rapidly back and forth). In Study 1 we asked participants to recall a naturally occurring situation, in Study 2 we induced simple vs. mixed emotions in a controlled situation, and in Study 3 we manipulated the structure of emotional stimuli, sequential versus simultaneous. The results showed that the combined use of rating scales and the AES permits us to obtain a more accurate estimation of the actual presence of simultaneous mixed emotional experiences.
+C1 Univ Autonoma Madrid, Madrid, Spain.
+RP Carrera, P (corresponding author), Dept Psicol Social, C Ivan Pavlov 6,Canto Blanco, Madrid 28049, Spain.
+EM pilar.carrera@uam.es; luis.oceja@uam.es
+RI Oceja, Luis/B-5599-2011; Levillain, Pilar Carrera/G-3470-2011
+OI Oceja, Luis/0000-0001-5330-3687; Levillain, Pilar
+   Carrera/0000-0002-3940-9028
+NR 28
+TC 52
+Z9 54
+U1 0
+U2 17
+PU PSYCHOLOGY PRESS
+PI HOVE
+PA 27 CHURCH RD, HOVE BN3 2FA, EAST SUSSEX, ENGLAND
+SN 0269-9931
+J9 COGNITION EMOTION
+JI Cogn. Emot.
+PD FEB
+PY 2007
+VL 21
+IS 2
+BP 422
+EP 441
+DI 10.1080/02699930600557904
+PG 20
+WC Psychology, Experimental
+SC Psychology
+GA 141GZ
+UT WOS:000244568100010
+DA 2020-08-05
+ER
+
+PT J
+AU Schimmack, U
+   Colcombe, S
+AF Schimmack, Ulrich
+   Colcombe, Stanley
+TI Eliciting mixed feelings with the paired-picture paradigm: A tribute to
+   Kellogg (1915)
+SO COGNITION & EMOTION
+LA English
+DT Article
+ID DISPLEASURE; AMBIVALENCE; PLEASURE; RATINGS; MOOD
+AB Can people experience mixed feelings; that is, concurrent experiences of pleasure and displeasure? Kellogg (1915) examined this question with alternating presentations of pleasant and unpleasant pictures. Although some participants reported mixed feelings, Kellogg's data were inconclusive. The present study used the paired-picture paradigm to examine this question more systematically. In addition, the nature of the positive and negative pictures was manipulated. Results show that positive pictures inhibit displeasure and negative pictures inhibit pleasure. Nevertheless, conflicting pairs elicit mixed feelings at low to moderate intensities. Furthermore, the strength of the inhibition effect and the intensity of mixed feelings varied with the nature of the positive and negative pictures. The results show that the paired-picture paradigm is a useful paradigm to study the relation between pleasure and displeasure experimentally.
+C1 Univ Toronto, Erindale Coll, Dept Psychol, Mississauga, ON L5L 1C6, Canada.
+   Univ Illinois, Urbana, IL 61801 USA.
+RP Schimmack, U (corresponding author), Univ Toronto, Erindale Coll, Dept Psychol, 3359 Mississauga Rd N, Mississauga, ON L5L 1C6, Canada.
+EM uli.schimmack@utoronto.ca
+OI Colcombe, Stan/0000-0001-5051-2491
+NR 15
+TC 20
+Z9 21
+U1 0
+U2 1
+PU PSYCHOLOGY PRESS
+PI HOVE
+PA 27 CHURCH RD, HOVE BN3 2FA, EAST SUSSEX, ENGLAND
+SN 0269-9931
+J9 COGNITION EMOTION
+JI Cogn. Emot.
+PY 2007
+VL 21
+IS 7
+BP 1546
+EP 1553
+DI 10.1080/02699930601057011
+PG 8
+WC Psychology, Experimental
+SC Psychology
+GA 233IE
+UT WOS:000251083800011
+DA 2020-08-05
+ER
+
+PT J
+AU Fong, CT
+AF Fong, Christina Ting
+TI The effects of emotional ambivalence on creativity
+SO ACADEMY OF MANAGEMENT JOURNAL
+LA English
+DT Article
+ID MOOD; EXPERIENCES; PSYCHOLOGY; JUDGMENTS; PEOPLE; WORK; BAD
+AB Emotional ambivalence, or the simultaneous experience of positive and negative emotions, is an underexplored emotional state in organizations. The results from two laboratory experiments demonstrate that individuals experiencing emotional ambivalence are better at recognizing unusual relationships between concepts, therefore showing an ability believed to be important to organizational creativity. Informational theories of emotion suggest that individuals interpret emotional ambivalence, which is perceived to be an unusual emotional experience, as signaling they are in an unusual environment, which in turn increases sensitivity to unusual associations. These results yield important implications regarding how to influence creative performance at work.
+C1 Univ Washington, Sch Business, Dept Management & Org, Seattle, WA 98195 USA.
+RP Fong, CT (corresponding author), Univ Washington, Sch Business, Dept Management & Org, Seattle, WA 98195 USA.
+EM ctfong@uwashington.edu
+NR 46
+TC 184
+Z9 188
+U1 5
+U2 121
+PU ACAD MANAGEMENT
+PI BRIARCLIFF MANOR
+PA PACE UNIV, PO BOX 3020, 235 ELM RD, BRIARCLIFF MANOR, NY 10510-8020 USA
+SN 0001-4273
+EI 1948-0989
+J9 ACAD MANAGE J
+JI Acad. Manage. J.
+PD OCT
+PY 2006
+VL 49
+IS 5
+BP 1016
+EP 1030
+DI 10.5465/AMJ.2006.22798182
+PG 15
+WC Business; Management
+SC Business & Economics
+GA 107BG
+UT WOS:000242145100011
+DA 2020-08-05
+ER
+
+PT J
+AU Schimmack, U
+AF Schimmack, U
+TI Response latencies of pleasure and displeasure ratings: Further evidence
+   for mixed feelings
+SO COGNITION & EMOTION
+LA English
+DT Article
+ID EVALUATIVE SPACE; EVERYDAY LIFE; MOOD; AMBIVALENCE; ATTITUDES; LANGUAGE;
+   EMOTION
+AB All studies that examined the co-occurrence of pleasure and displeasure revealed at least some reports of mixed feelings (i.e., reports of concurrent pleasure and displeasure). Some researchers attribute these reports to measurement error, whereas others regard them as valid. This article examined response latencies of affect ratings to test the validity of reported mixed feelings, First, I demonstrate that respondents need more time to indicate the presence of an affect than the absence of an affect on unipolar response formats. Then, I demonstrate that mixed feelings are reported even when response latencies show a unipolar pattern for displeasure ratings, while the results for pleasure ratings were more mixed, but additional evidence suggests that they also are valid reflections of pleasure. In addition, I demonstrate that pleasure and displeasure ratings are independent of item-order and item-spacing. These results provide further support for the validity of reported mixed feelings and two-dimensional representations of pleasure and displeasure.
+C1 Univ Toronto, Dept Psychol, Mississauga, ON L5L 1C6, Canada.
+RP Schimmack, U (corresponding author), Univ Toronto, Dept Psychol, 3359 Mississauga Rd N, Mississauga, ON L5L 1C6, Canada.
+EM uli.schimmack@utoronto.ca
+NR 26
+TC 41
+Z9 47
+U1 1
+U2 7
+PU PSYCHOLOGY PRESS
+PI HOVE
+PA 27 CHURCH RD, HOVE BN3 2FA, EAST SUSSEX, ENGLAND
+SN 0269-9931
+J9 COGNITION EMOTION
+JI Cogn. Emot.
+PD AUG
+PY 2005
+VL 19
+IS 5
+BP 671
+EP 691
+DI 10.1080/02699930541000020
+PG 21
+WC Psychology, Experimental
+SC Psychology
+GA 956AQ
+UT WOS:000231271700003
+DA 2020-08-05
+ER
+
+PT J
+AU Larsen, JT
+   McGraw, AP
+   Mellers, BA
+   Cacioppo, JT
+AF Larsen, JT
+   McGraw, AP
+   Mellers, BA
+   Cacioppo, JT
+TI The agony of victory and thrill of defeat - Mixed emotional reactions to
+   disappointing wins and relieving losses
+SO PSYCHOLOGICAL SCIENCE
+LA English
+DT Article
+ID NEGATIVE AFFECT; FEELINGS
+AB Because of counterfactual comparisons, good outcomes that could have been better (i.e., disappointing wins) and bad outcomes that could have been worse (i.e., relieving losses) elicit relatively middling ratings on bipolar emotion scales. We conducted two experiments with gambles to examine whether such outcomes elicit neutral emotions, sequentially mixed emotions of positive and negative affect, or simultaneously mixed emotions. In Experiment 1, static unipolar measures of positive and negative affect revealed that disappointing wins and relieving losses elicit mixed emotions, rather than relatively neutral emotions. In Experiment 2, participants provided continuous unipolar measures of positive and negative affect by pressing one button whenever they felt good and another button whenever they felt bad. Results revealed that disappointing wins and relieving losses elicit positive and negative affect simultaneously, rather than in alternation.
+C1 Texas Tech Univ, Dept Psychol, Lubbock, TX 79409 USA.
+   Princeton Univ, Princeton, NJ 08544 USA.
+   Univ Calif Berkeley, Berkeley, CA 94720 USA.
+   Univ Chicago, Chicago, IL 60637 USA.
+RP Larsen, JT (corresponding author), Texas Tech Univ, Dept Psychol, Lubbock, TX 79409 USA.
+EM jeff.larsen@ttu.edu
+RI McGraw, A. Peter/D-2927-2014
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [P50 MH52384-01A1]
+NR 19
+TC 152
+Z9 157
+U1 1
+U2 26
+PU BLACKWELL PUBLISHERS
+PI MALDEN
+PA 350 MAIN STREET, STE 6, MALDEN, MA 02148 USA
+SN 0956-7976
+J9 PSYCHOL SCI
+JI Psychol. Sci.
+PD MAY
+PY 2004
+VL 15
+IS 5
+BP 325
+EP 330
+DI 10.1111/j.0956-7976.2004.00677.x
+PG 6
+WC Psychology, Multidisciplinary
+SC Psychology
+GA 813YG
+UT WOS:000220941800006
+PM 15102142
+DA 2020-08-05
+ER
+
+PT J
+AU Williams, P
+   Aaker, JL
+AF Williams, P
+   Aaker, JL
+TI Can mixed emotions peacefully coexist?
+SO JOURNAL OF CONSUMER RESEARCH
+LA English
+DT Article
+ID DIALECTICAL THINKING; DECISION-MAKING; CULTURE; BIPOLARITY; FEELINGS;
+   THOUGHT; TIME; AGE
+AB This research sheds insight on the psychological impact of mixed emotions on attitudes. In three experiments, we show that persuasion appeals that highlight conflicting emotions (e.g., both happiness and sadness) lead to less favorable attitudes for individuals with a lower propensity to accept duality (e.g., Anglo Americans, younger adults) relative to those with a higher propensity (e.g., Asian Americans, older adults). The effect appears to be due to increased levels of felt discomfort that arise for those with a lower, but not higher, propensity to accept duality when exposed to mixed emotional appeals. Theoretical implications regarding boundary conditions of emotional dissonance and distinctions between emotional and cognitive dissonance are discussed.
+C1 Univ Penn, Wharton Sch Business, Philadelphia, PA 19104 USA.
+   Stanford Univ, Grad Sch Business, Stanford, CA 94305 USA.
+RP Williams, P (corresponding author), Univ Penn, Wharton Sch Business, 3620 Locust Walk,1400 Steinberg Hall Dietrich Hal, Philadelphia, PA 19104 USA.
+NR 50
+TC 226
+Z9 229
+U1 2
+U2 72
+PU UNIV CHICAGO PRESS
+PI CHICAGO
+PA 1427 E 60TH ST, CHICAGO, IL 60637-2954 USA
+SN 0093-5301
+J9 J CONSUM RES
+JI J. Consum. Res.
+PD MAR
+PY 2002
+VL 28
+IS 4
+BP 636
+EP 649
+DI 10.1086/338206
+PG 14
+WC Business
+SC Business & Economics
+GA 530RX
+UT WOS:000174373700008
+DA 2020-08-05
+ER
+
+PT J
+AU Fong, CT
+   Tiedens, LZ
+AF Fong, CT
+   Tiedens, LZ
+TI Dueling experiences and dual ambivalences: Emotional and motivational
+   ambivalence of women in high status positions
+SO MOTIVATION AND EMOTION
+LA English
+DT Article
+DE ambivalence; affect; status; gender
+ID NEGATIVE AFFECT; MEASUREMENT ERROR; EVALUATIVE SPACE; GENDER;
+   BIPOLARITY; ATTITUDES; MOTIVES; MODEL; ORGANIZATIONS; METAANALYSIS
+AB A laboratory study demonstrates that women in high status positions experience emotional ambivalence (simultaneous experience of positive and negative affect) and motivational ambivalence (simultaneous desires to build relationships and display power). These effects were found with 2 different measures of ambivalence, I derived from the attitudinal ambivalence literature and the other from the structure of affect literature. These findings have implications about the experience of women in the workplace, as well as the current debates concerning structure of affect.
+C1 Stanford Univ, Stanford Grad Sch Business, Stanford, CA 94305 USA.
+RP Tiedens, LZ (corresponding author), Stanford Univ, Stanford Grad Sch Business, Stanford, CA 94305 USA.
+NR 58
+TC 45
+Z9 45
+U1 0
+U2 26
+PU KLUWER ACADEMIC/PLENUM PUBL
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0146-7239
+J9 MOTIV EMOTION
+JI Motiv. Emot.
+PD MAR
+PY 2002
+VL 26
+IS 1
+BP 105
+EP 121
+DI 10.1023/A:1015198209285
+PG 17
+WC Psychology, Experimental; Psychology, Social
+SC Psychology
+GA 551PG
+UT WOS:000175569600006
+DA 2020-08-05
+ER
+
+PT J
+AU Larsen, JT
+   McGraw, AP
+   Cacioppo, JT
+AF Larsen, JT
+   McGraw, AP
+   Cacioppo, JT
+TI Can people feel happy and sad at the same time?
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article; Proceedings Paper
+CT Annual Meeting of the Society-for-Personality-and-Social-Psychology
+CY FEB, 2000
+CL NASHVILLE, TENNESSEE
+SP Soc Personal & Social Psychol
+ID NEGATIVE AFFECT; MEASUREMENT ERROR; CIRCUMPLEX MODEL; BIPOLARITY;
+   EMOTION; SUSCEPTIBILITY; AMBIVALENCE; ATTITUDES; BRAIN; MOOD
+AB The authors investigated whether people can feel happy and sad at the same time. J. A. Russell and J, M, Carroll's (1999) circumplex model holds that happiness and sadness are polar opposites and, thus, mutually exclusive. In contrast, the evaluative space model (J. T. Cacioppo & G. G. Berntson, 1994) proposes that positive and negative affect are separable and that mixed feelings of happiness and sadness can co-occur. The authors both replicated and extended past research by showing that whereas most participants surveyed in typical situations felt either happy or sad, many participants surveyed immediately after watching the film Life Is Beautiful, moving out of their dormitories, or graduating from college felt both happy and sad. Results suggest that although affective experience may typically be bipolar, the underlying processes, and occasionally the resulting experience of emotion, are better characterized as bivariate.
+C1 Ohio State Univ, Columbus, OH 43210 USA.
+   Univ Chicago, Chicago, IL 60637 USA.
+RP Larsen, JT (corresponding author), Princeton Univ, Woodrow Wilson Sch, Princeton, NJ 08544 USA.
+RI McGraw, A. Peter/D-2927-2014
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [F31 MH12189]
+NR 45
+TC 539
+Z9 550
+U1 3
+U2 101
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD OCT
+PY 2001
+VL 81
+IS 4
+BP 684
+EP 696
+DI 10.1037//0022-3514.81.4.684
+PG 13
+WC Psychology, Social
+SC Psychology
+GA 482LJ
+UT WOS:000171577400010
+PM 11642354
+DA 2020-08-05
+ER
+
+EF

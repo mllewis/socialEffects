@@ -1,0 +1,3574 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Cannon, EN
+   Yoo, KH
+   Vanderwert, RE
+   Ferrari, PF
+   Woodward, AL
+   Fox, NA
+AF Cannon, Erin N.
+   Yoo, Kathryn H.
+   Vanderwert, Ross E.
+   Ferrari, Pier F.
+   Woodward, Amanda L.
+   Fox, Nathan A.
+TI Action Experience, More than Observation, Influences Mu Rhythm
+   Desynchronization
+SO PLOS ONE
+LA English
+DT Article
+ID HIGH-RESOLUTION EEG; PRIMARY MOTOR CORTEX; MIRROR NEURON SYSTEM;
+   PREMOTOR CORTEX; ALPHA-RHYTHMS; TOOL-USE; PERCEPTION; INFANTS;
+   OSCILLATIONS; ACTIVATION
+AB Since the discovery of mirror neurons in premotor and parietal areas of the macaque monkey, the idea that action and perception may share the same neural code has been of central interest in social, developmental, and cognitive neurosciences. A fundamental question concerns how a putative human mirror neuron system may be tuned to the motor experiences of the individual. The current study tested the hypothesis that prior motor experience modulated the sensorimotor mu and beta rhythms. Specifically, we hypothesized that these sensorimotor rhythms would be more desynchronized after active motor experience compared to passive observation experience. To test our hypothesis, we collected EEG from adult participants during the observation of a relatively novel action: an experimenter used a claw-like tool to pick up a toy. Prior to EEG collection, we trained one group of adults to perform this action with the tool (performers). A second group comprised trained video coders, who only had experience observing the action (observers). Both the performers and the observers had no prior motor and visual experience with the action. A third group of novices was also tested. Performers exhibited the greatest mu rhythm desynchronization in the 8-13 Hz band, particularly in the right hemisphere compared to observers and novices. This study is the first to contrast active tool-use experience and observation experience in the mu rhythm and to show modulation with relatively shorter amounts of experience than prior mirror neuron expertise studies. These findings are discussed with respect to its broader implication as a neural signature for a mechanism of early social learning.
+C1 [Cannon, Erin N.; Yoo, Kathryn H.; Fox, Nathan A.] Univ Maryland, Dept Human Dev & Quantitat Methodol, College Pk, MD 20742 USA.
+   [Vanderwert, Ross E.] Childrens Hosp Boston, Div Dev Med, Cognit Neurosci Lab, Boston, MA USA.
+   [Ferrari, Pier F.] Univ Parma, Dipartimento Neurosci, I-43100 Parma, Italy.
+   [Woodward, Amanda L.] Univ Chicago, Dept Psychol, Chicago, IL 60637 USA.
+RP Cannon, EN (corresponding author), Univ Maryland, Dept Human Dev & Quantitat Methodol, College Pk, MD 20742 USA.
+EM ecannon@umd.edu
+RI Ferrari, Pier Francesco/G-5547-2017
+OI Vanderwert, Ross/0000-0002-2280-8401; Woodward,
+   Amanda/0000-0002-9383-9969
+FU National Institutes of HealthUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USA [P01HD064653]
+FX This work was funded by a grant from the National Institutes of Health
+   P01HD064653. The funders had no role in study design, data collection
+   and analysis, decision to publish, or preparation of the manuscript.
+NR 62
+TC 41
+Z9 43
+U1 0
+U2 16
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAR 24
+PY 2014
+VL 9
+IS 3
+AR e92002
+DI 10.1371/journal.pone.0092002
+PG 8
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA AD7QO
+UT WOS:000333459900037
+PM 24663967
+OA DOAJ Gold, Green Accepted, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Heimann, K
+   Umilta, MA
+   Gallese, V
+AF Heimann, Katrin
+   Umilta, Maria Alessandra
+   Gallese, Vittorio
+TI How the motor-cortex distinguishes among letters, unknown symbols and
+   scribbles. A high density EEG study
+SO NEUROPSYCHOLOGIA
+LA English
+DT Article
+DE EEG; Event-related desynchronization; Mu-rhythm; Sensori-motor response;
+   Reading; Symbols; Scribbles
+ID PERCEPTION; OSCILLATIONS; NUMBERS; ALEXIA
+AB Previous research has reported that the perception of written language symbols activates the cortical motor hand representation of the dominant hemisphere also found to be activated during the writing of these symbols. It has been suggested that such motor activation supports reading. Nevertheless, the precise circumstances leading to such activation are still unknown. For instance, several studies suggested that motor activation necessarily depends on specific sensory-motor experience with the stimuli. Some results, however, also indicated that untrained stimuli can elicit the response. Moreover, due to the methods used so far, little is known about the temporal course of the motor activity. Our study explored these open questions using high-density EEG. We measured central alpha event-related desynchronization (ERD) as a marker of cortical motor activation during the observation of Roman letters (alphabet of participants' mother language), Chinese characters (not familiar to participants), and scribbles. Our results show that the cortical motor system is activated during the perception of all three stimuli in both hemispheres, with ERD stronger in the left (dominant) hemisphere. A significant difference of ERD time-course was observed in the left hemisphere between the observation of symbols (letters and characters) and scribbles. Scribbles elicited significantly faster resynchronization of central alpha than symbols. We suggest that ERD results are due to recognizing all stimuli as traces of hand gestures. Furthermore, differences in ERD found between symbols and scribbles might depend either on visuo-motor training, separating symbols from scribbles, or on stimuli specific features marking their status as either language symbols or scribbles. (C) 2013 Elsevier Ltd. All rights reserved.
+C1 [Heimann, Katrin; Umilta, Maria Alessandra; Gallese, Vittorio] Univ Parma, Dept Neurosci, I-43120 Parma, Italy.
+RP Heimann, K (corresponding author), Univ Parma, Dept Neurosci, I-43120 Parma, Italy.
+EM katrin.heimann@nemo.unipr.it; vittorio.gallese@unipr.it
+OI Umilta', Maria Alessandra/0000-0003-0180-6818
+FU EUEuropean Union (EU); TESIS
+FX This work was supported by the EU grants TESIS to K.H and V.G. The
+   authors wish to thank Cristina Berchio and John Elias for their most
+   valuable help.
+NR 29
+TC 18
+Z9 18
+U1 2
+U2 10
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0028-3932
+EI 1873-3514
+J9 NEUROPSYCHOLOGIA
+JI Neuropsychologia
+PD NOV
+PY 2013
+VL 51
+IS 13
+BP 2833
+EP 2840
+DI 10.1016/j.neuropsychologia.2013.07.014
+PG 8
+WC Behavioral Sciences; Neurosciences; Psychology, Experimental
+SC Behavioral Sciences; Neurosciences & Neurology; Psychology
+GA 278DN
+UT WOS:000328869400036
+PM 23911777
+DA 2020-08-05
+ER
+
+PT J
+AU Desy, MC
+   Lepage, JF
+AF Desy, Marie-Christine
+   Lepage, Jean-Francois
+TI Skin color has no impact on motor resonance: Evidence from mu rhythm
+   suppression and imitation
+SO NEUROSCIENCE RESEARCH
+LA English
+DT Article
+DE Action observation; Mu rhythm; Imitation; Mirror-neurons; EEG; Physical
+   similarity
+ID MIRROR-NEURON; AUTOMATIC IMITATION; GENDER-DIFFERENCES; FINGER
+   MOVEMENTS; RECOGNITION; MODULATION; PERCEPTION; SYSTEM; MOTION;
+   DESYNCHRONIZATION
+AB It has been suggested that physical similarity with an observed model facilitates action-perception and understanding. Indeed, a number of studies have shown that observing actors of one's own race facilitate motor, sensory and pain resonance, possibly mediated by the human mirror-neuron system (hMNS). However, most of these studies have used stimuli that included emotional or cultural components, hence obscuring the precise contribution of physical similarity to resonance phenomena per se. The goal of the present study was to assess the effect of physical similarity (skin color) on motor resonance using stimuli that have no emotional and cultural components. We used both behavioral (imitation) and electrophysiological measures (mu-rhythm) to assess the effects of skin color on the hMNS during the observation of simple finger movements. Our results show that, in line with previous results, observation of biological movements resulted in faster reaction times and greater mu-rhythm suppression compared to non-biological movements. However, physical similarity did not affect imitation speed or mu-rhythm desynchronization. These results suggest that physical similarity with an observed action in terms of skin color does not modulate hMNS activity, and that the enhanced resonance effects reported in the previous studies are likely attributable to cultural and emotional aspects. (C) 2013 Elsevier Ireland Ltd and the Japan Neuroscience Society. All rights reserved.
+C1 [Desy, Marie-Christine; Lepage, Jean-Francois] Univ Montreal, Dept Psychol, Montreal, PQ H3C 3J7, Canada.
+RP Lepage, JF (corresponding author), Harvard Univ, Sch Med, Lab Neuromodulat, 79-96 13th St, Boston, MA 02129 USA.
+EM jf.lepage@gmail.com
+OI Lepage, Jean-Francois/0000-0002-1181-6043
+FU National Sciences and Engineering Research Council of CanadaNatural
+   Sciences and Engineering Research Council of Canada; Fonds de la
+   Recherche en Sante du QuebecFonds de la Recherche en Sante du Quebec
+FX This work was supported by grants from the National Sciences and
+   Engineering Research Council of Canada and the Fonds de la Recherche en
+   Sante du Quebec. We thank Sacha Sojic for help with the videos, Stephane
+   Denis for the reaction time device, Nathalie Bouloute for assistance
+   with EEG acquisition, and Rosemarie Perrault for help with experimental
+   testing.
+NR 46
+TC 7
+Z9 7
+U1 0
+U2 15
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0168-0102
+EI 1872-8111
+J9 NEUROSCI RES
+JI Neurosci. Res.
+PD SEP-OCT
+PY 2013
+VL 77
+IS 1-2
+BP 58
+EP 63
+DI 10.1016/j.neures.2013.08.003
+PG 6
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 254NF
+UT WOS:000327171700007
+PM 23968689
+DA 2020-08-05
+ER
+
+PT J
+AU Ruysschaert, L
+   Warreyn, P
+   Wiersema, JR
+   Metin, B
+   Roeyers, H
+AF Ruysschaert, Lieselot
+   Warreyn, Petra
+   Wiersema, Jan R.
+   Metin, Baris
+   Roeyers, Herbert
+TI Neural mirroring during the observation of live and video actions in
+   infants
+SO CLINICAL NEUROPHYSIOLOGY
+LA English
+DT Article
+DE Neural mirroring; Mu suppression; Video; Infants; EEG; Imitation
+ID EEG EVIDENCE; SYSTEM; TELEVISION; IMITATION; RHYTHM; ALPHA
+AB Objective: Previous infant studies investigated neural mirroring during the observation of live or video actions. However, both methods have their (dis) advantages and studies using one of these methods are not always directly comparable. Therefore, the present study directly compared neural mirroring activity in a video setting with a live setting in infants between 18 and 36 months old.
+   Methods: Central mu rhythm suppression was measured through EEG recordings during the observation and imitation of the same goal-directed and mimicked actions presented either on video or live.
+   Results: Results revealed significant mu suppression during action imitation in both settings but stronger mu suppression was observed in the live setting during this condition. Significant mu suppression during the observation of goal-directed actions and mimicked actions was only observed in the live setting.
+   Conclusion: This study revealed a different influence of video and live actions on neural mirroring activity in infants.
+   Significance: It is recommended to use live actions to investigate neural mirroring in young children. (C) 2013 International Federation of Clinical Neurophysiology. Published by Elsevier Ireland Ltd. All rights reserved.
+C1 [Ruysschaert, Lieselot; Warreyn, Petra; Wiersema, Jan R.; Metin, Baris; Roeyers, Herbert] Univ Ghent, Dept Expt Clin & Hlth Psychol, B-9000 Ghent, Belgium.
+RP Ruysschaert, L (corresponding author), Univ Ghent, Dept Expt Clin & Hlth Psychol, Henri Dunantlaan 2, B-9000 Ghent, Belgium.
+EM Lieselot.Ruysschaert@UGent.be
+RI Roeyers, Herbert/A-5557-2018
+OI Roeyers, Herbert/0000-0002-4895-583X
+FU Ghent University Research Fund (BOF)Ghent University; Marguerite-Marie
+   Delacroix Fund
+FX This research was supported by the Ghent University Research Fund (BOF)
+   and the Marguerite-Marie Delacroix Fund.
+NR 28
+TC 20
+Z9 20
+U1 1
+U2 17
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 1388-2457
+EI 1872-8952
+J9 CLIN NEUROPHYSIOL
+JI Clin. Neurophysiol.
+PD SEP
+PY 2013
+VL 124
+IS 9
+BP 1765
+EP 1770
+DI 10.1016/j.clinph.2013.04.007
+PG 6
+WC Clinical Neurology; Neurosciences
+SC Neurosciences & Neurology
+GA 213AV
+UT WOS:000324026200010
+PM 23673063
+OA Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Porcelli, P
+   Giromini, L
+   Parolin, L
+   Pineda, JA
+   Viglione, DJ
+AF Porcelli, Piero
+   Giromini, Luciano
+   Parolin, Laura
+   Pineda, Jaime A.
+   Viglione, Donald J.
+TI Mirroring Activity in the Brain and Movement Determinant in the
+   Rorschach Test
+SO JOURNAL OF PERSONALITY ASSESSMENT
+LA English
+DT Article
+ID SHARED MANIFOLD HYPOTHESIS; AUTISM SPECTRUM DISORDERS; NEURON SYSTEM;
+   MU-RHYTHMS; COMPREHENSIVE SYSTEM; SOCIAL COGNITION; EEG EVIDENCE;
+   MAGNETIC STIMULATION; MOTOR FACILITATION; BIOLOGICAL-MOTION
+AB Human movement (M) responses to the Rorschach are related to cognitive sophistication, creativity, and empathy. Recent studies also link Ms to EEG-mu suppression, an index of mirroring activity in the brain. In this article, we further investigate the link between Ms and mu suppression by testing some clinical interpretative distinctions. Previously collected EEG data recorded during the administration of the Rorschach were reanalyzed. We hypothesized that (a) among several responses investigated, only M would be associated with mu suppression, and (b) Ms with active movement, ordinary form quality, or whole human figures would be most strongly associated with mu suppression. Hypothesis 1 was fully confirmed, thus supporting that the traditional interpretation of M has a neurobiological foundation. Hypothesis 2 was partially confirmed; that is, active Ms were associated with mu suppression more strongly than passive Ms (p < .05), but no other significant differences emerged. Clinical implications are discussed.
+C1 [Porcelli, Piero] IRCCS De Bellis Hosp, Psychosomat Unit, Castellana Grotte, Italy.
+   [Giromini, Luciano; Parolin, Laura] Univ Milano Bicocca, Dept Psychol, Milan, Italy.
+   [Pineda, Jaime A.] Univ Calif San Diego, Dept Cognit Sci, San Diego, CA 92103 USA.
+RP Porcelli, P (corresponding author), IRCCS Osped De Bellis, Unita Psicol Clin, Via Turi, I-70013 Bari, Italy.
+EM porcellip@media.it
+RI Porcelli, Piero/H-9812-2012
+OI Porcelli, Piero/0000-0002-2263-8051; Giromini,
+   Luciano/0000-0002-9540-4803
+NR 101
+TC 17
+Z9 17
+U1 3
+U2 17
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0022-3891
+EI 1532-7752
+J9 J PERS ASSESS
+JI J. Pers. Assess.
+PD SEP 1
+PY 2013
+VL 95
+IS 5
+BP 444
+EP 456
+DI 10.1080/00223891.2013.775136
+PG 13
+WC Psychology, Clinical; Psychology, Social
+SC Psychology
+GA 199WM
+UT WOS:000323026200002
+PM 23495976
+DA 2020-08-05
+ER
+
+PT J
+AU Wriessnegger, SC
+   Leeb, R
+   Kaiser, V
+   Neuper, C
+   Muller-Putz, GR
+AF Wriessnegger, S. C.
+   Leeb, R.
+   Kaiser, V.
+   Neuper, C.
+   Mueller-Putz, G. R.
+TI Watching object related movements modulates mirror-like activity in
+   parietal brain regions
+SO CLINICAL NEUROPHYSIOLOGY
+LA English
+DT Article
+DE Movement observation; EEG; ERD/ERS; Mu rhythm; Mirror neuron system
+ID HIGH-RESOLUTION EEG; PRIMARY MOTOR CORTEX; MU-RHYTHMS; CORTICAL RHYTHMS;
+   PREMOTOR CORTEX; NEURON ACTIVITY; ALPHA-RHYTHM; FMRI; RECOGNITION; AREA
+AB Objective: We studied the activation of cortical motor and parietal areas during the observation of object related grasping movements. By manipulating the type of an object (realistic versus abstract) and the type of grasping (correct versus incorrect), we addressed the question how observing such object related movements influences cortical rhythmicity, especially the mu-rhythm, in the context of an "extended" human mirror neuron system (MNS).
+   Methods: Multichannel electroencephalogram (EEG) was recorded during the observation of different object-related grasping actions in twenty healthy subjects. Different movies were presented, showing sequences of correct or incorrect hand grasping actions related to an abstract or realistic (daily life) object.
+   Results: Event-related de/synchronization (ERD/ERS) analyses revealed a larger ERD in the upper alpha (10-12 Hz), beta (16-20 Hz) and gamma (36-40 Hz) frequency bands over parietal brain regions depending on the type of grasping. The type of object only influenced ERD patterns in the gamma band range (36-40 Hz) at parietal sites suggesting a strong relation of gamma band activity and cortical object representation. Abstract and realistic objects produced lower beta band synchronization at central sites only, whereas depending on the type of grasping an ERS in the upper alpha band (10-12 Hz) was observed.
+   Conclusion: Depending on the type of the grasped object and the type of grasping stronger parietal cortical activation occurred during movement observation.
+   Significance: Discussing the results in terms of an "extended" human mirror neuron system (MNS), it could be concluded that beside sensorimotor areas a stronger involvement of parietal brain regions was found depending on the type of object and grasping movement observed. (C) 2013 International Federation of Clinical Neurophysiology. Published by Elsevier Ireland Ltd. All rights reserved.
+C1 [Wriessnegger, S. C.; Kaiser, V.; Neuper, C.; Mueller-Putz, G. R.] Graz Univ Technol, Inst Knowledge Discovery, A-8010 Graz, Austria.
+   [Neuper, C.] Graz Univ, Dept Psychol, A-8010 Graz, Austria.
+   [Leeb, R.] Ecole Polytech Fed Lausanne, Ctr Neuroprosthet, Chair Noninvas Brain Machine Interface, CH-1015 Lausanne, Switzerland.
+RP Wriessnegger, SC (corresponding author), Graz Univ Technol, Inst Knowledge Discovery, Lab Brain Comp Interfaces, Inffeldgasse 13-4, A-8010 Graz, Austria.
+EM s.wriessnegger@tugraz.at
+OI Muller-Putz, Gernot/0000-0002-0087-3720
+FU European ICT Program [FP7-224631, FP7-299566]
+FX This work is supported by the European ICT Program Projects FP7-224631
+   and FP7-299566.
+NR 61
+TC 10
+Z9 10
+U1 3
+U2 16
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 1388-2457
+EI 1872-8952
+J9 CLIN NEUROPHYSIOL
+JI Clin. Neurophysiol.
+PD AUG
+PY 2013
+VL 124
+IS 8
+BP 1596
+EP 1604
+DI 10.1016/j.clinph.2013.02.019
+PG 9
+WC Clinical Neurology; Neurosciences
+SC Neurosciences & Neurology
+GA 201TD
+UT WOS:000323165000016
+PM 23540418
+DA 2020-08-05
+ER
+
+PT J
+AU Southgate, V
+   Begus, K
+AF Southgate, Victoria
+   Begus, Katarina
+TI Motor Activation During the Prediction of Nonexecutable Actions in
+   Infants
+SO PSYCHOLOGICAL SCIENCE
+LA English
+DT Article
+DE infant development; social cognition; goals; action understanding;
+   neuroimaging
+ID 14-MONTH-OLD INFANTS; GOAL-ATTRIBUTION; EEG-ALPHA; MIRROR; SYSTEM;
+   MECHANISMS; HANDS; EYES
+AB Although it is undeniable that the motor system is recruited when people observe others' actions, the inferences that the brain generates from motor activation and the mechanisms involved in the motor system's recruitment are still unknown. Here, we challenged the popular hypothesis that motor involvement in action observation enables the observer to identify and predict an agent's goal by matching observed actions with existing and corresponding motor representations. Using a novel neural indication of action predictionsensorimotor-cortex activation measured by electroencephalographywe demonstrated that 9-month-old infants recruit their motor system whenever a context suggests an impending action, but that this recruitment is not dependent on being able to match the observed action with a corresponding motor representation. Our data are thus inconsistent with the view that action prediction depends on motor correspondence; instead, they support an alternative view in which motor activation is the result of, rather than the cause of, goal identification.
+C1 [Southgate, Victoria; Begus, Katarina] Univ London, Ctr Brain & Cognit Dev, London WC1E 7HX, England.
+RP Southgate, V (corresponding author), Univ London, Ctr Brain & Cognit Dev, Henry Wellcome Bldg,Malet St, London WC1E 7HX, England.
+EM v.southgate@bbk.ac.uk
+OI Southgate, Victoria/0000-0001-9328-3019
+FU Wellcome TrustWellcome Trust [088427/Z/09/Z]
+NR 39
+TC 27
+Z9 27
+U1 1
+U2 14
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0956-7976
+J9 PSYCHOL SCI
+JI Psychol. Sci.
+PD JUN
+PY 2013
+VL 24
+IS 6
+BP 828
+EP 835
+DI 10.1177/0956797612459766
+PG 8
+WC Psychology, Multidisciplinary
+SC Psychology
+GA 159EA
+UT WOS:000320026000002
+PM 23678509
+OA Green Accepted, Green Published, Other Gold
+DA 2020-08-05
+ER
+
+PT J
+AU Bernier, R
+   Aaronson, B
+   McPartland, J
+AF Bernier, Raphael
+   Aaronson, Benjamin
+   McPartland, James
+TI The role of imitation in the observed heterogeneity in EEG mu rhythm in
+   autism and typical development
+SO BRAIN AND COGNITION
+LA English
+DT Article
+DE Autism Spectrum Disorders; Electroencephalography; Mu rhythm; Imitation;
+   Mirror neuron system
+ID SPECTRUM DISORDERS; FACE PERCEPTION; MIRROR NEURONS; CHILDREN;
+   INDIVIDUALS; RESPONSES; ACTIVATION; DEFICITS; ADULTS
+AB Dysfunction in an execution/observation matching system, or mirror neuron system, has been proposed to contribute to the social deficits observed in Autism Spectrum Disorder (ASD). Atypical activity in this system, as reflected in attenuation of the EEG mu rhythm, has been demonstrated in several studies; however, normative patterns of activity have been evident in other ASD samples. The current study sought to investigate this poorly understood heterogeneity in social perceptual brain function in ASD. EEG mu rhythm was recorded in a well-characterized sample of 19 children with ASD (mean age = 6.4; 1 female) and 19 age-matched typically developing peers (mean age = 6.9; 2 females) during execution and observation of goal-directed hand actions. Children were assessed on variables theoretically related to mirror neuron system function (MNS), such as ASD symptoms and imitation ability. Results indicated that MNS activity was associated with facial imitation ability, but not hand imitation ability, in children with ASD and typically developing individuals. Groups were comparable in terms of average MNS activity during both action observation and execution, but, in both groups, a subset of children showed absent or significantly reduced MNS activity during observation of action in conjunction with greater difficulty in imitation. These results emphasize the relationship between EEG indices of MNS function and imitative skill and suggest that dysfunction of the MNS is related to imitation ability in both clinical and typical populations, rather than representing a core deficit or universal impairment in ASD. (C) 2013 Elsevier Inc. All rights reserved.
+C1 [Bernier, Raphael; Aaronson, Benjamin] Univ Washington, Dept Psychiat & Behav Sci, Seattle, WA 98195 USA.
+   [McPartland, James] Yale Univ, Yale Child Study Ctr, New Haven, CT 06519 USA.
+RP Bernier, R (corresponding author), Univ Washington, Dept Psychiat & Behav Sci, Box 357920, Seattle, WA 98195 USA.
+EM rab2@u.washington.edu
+FU Simons Foundation (SFARI) [89638]
+FX This work was supported by a grant from the Simons Foundation (SFARI
+   #89638 to RB).
+NR 51
+TC 31
+Z9 36
+U1 1
+U2 58
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0278-2626
+EI 1090-2147
+J9 BRAIN COGNITION
+JI Brain Cogn.
+PD JUN
+PY 2013
+VL 82
+IS 1
+BP 69
+EP 75
+DI 10.1016/j.bandc.2013.02.008
+PG 7
+WC Neurosciences; Psychology, Experimental
+SC Neurosciences & Neurology; Psychology
+GA 130AH
+UT WOS:000317884600008
+PM 23511847
+DA 2020-08-05
+ER
+
+PT J
+AU Frenkel-Toledo, S
+   Bentin, S
+   Perry, A
+   Liebermann, DG
+   Soroker, N
+AF Frenkel-Toledo, Silvi
+   Bentin, Shlomo
+   Perry, Anat
+   Liebermann, Dario G.
+   Soroker, Nachum
+TI Dynamics of the EEG power in the frequency and spatial domains during
+   observation and execution of manual movements
+SO BRAIN RESEARCH
+LA English
+DT Article
+DE EEG; Mu-rhythm; Alpha-rhythm; Mirror-neuron; Perception-action cycle
+ID MIRROR-NEURON SYSTEM; EVENT-RELATED DESYNCHRONIZATION; AUTISM SPECTRUM
+   DISORDERS; HIGH-RESOLUTION EEG; PRIMARY MOTOR CORTEX; MU-RHYTHM;
+   FUNCTIONAL-SIGNIFICANCE; CORTICAL ACTIVATION; VOLUNTARY MOVEMENT; THETA
+   OSCILLATIONS
+AB Mu suppression is the attenuation of EEG power in the alpha frequency range (8-12 Hz) while executing or observing a motor action. Whereas typically observed at central scalp sites, there are diverging reports about the extent of the attenuation over the cortical mantle, its exact frequency range and the specificity of this phenomenon. We investigated the modulation of EEG oscillations in frequency-bands between 4 to 12 Hz at frontal, central, parietal and occipital sites during the execution of manual movements and during observation of similar actions from allocentric (i.e., facing the actor) and egocentric (i.e., seeing the actor from behind) viewpoints. Suppression was determined relative to observation of a non-biological movement. Action observation elicited greater suppression in the lower (8-10 Hz) compared to the higher mu range (10-12 Hz), and greater suppression in the entire range (4-12 Hz) at frontal and central sites compared to parietal and occipital sites. In addition, suppression tended to be greater during observation of a motor action from allocentric compared to egocentric viewpoints. During execution of movement, suppression of the EEG occurred primarily in the higher alpha range and was absent at occipital sites. In the theta range (4-8 Hz), the EEG amplitude was suppressed during action observation and execution. The results suggest a functional distinction between modulation of mu and alpha rhythms, and between the higher and lower ranges of the mu rhythms. The activity of the presumed human mirror-neuron system seems primarily evident in the lower mu range and in the theta range. (C) 2013 Elsevier B.V. All rights reserved.
+C1 [Frenkel-Toledo, Silvi; Soroker, Nachum] Tel Aviv Univ, Sackler Fac Med, Tel Aviv, Israel.
+   [Frenkel-Toledo, Silvi; Soroker, Nachum] Loewenstein Hosp & Rehabil Ctr, Dept Neurol Rehabil, Raanana, Israel.
+   [Bentin, Shlomo; Perry, Anat] Hebrew Univ Jerusalem, Dept Psychol, IL-91905 Jerusalem, Israel.
+   [Bentin, Shlomo] Hebrew Univ Jerusalem, Interdisciplinary Ctr Neural Computat, Jerusalem, Israel.
+   [Liebermann, Dario G.] Tel Aviv Univ, Sackler Fac Med, Phys Therapy Dept, Tel Aviv, Israel.
+   [Frenkel-Toledo, Silvi] Tel Aviv Univ, Fac Med, PT Dept, Stanley Steyer Sch Hlth Profess, Tel Aviv, Israel.
+RP Frenkel-Toledo, S (corresponding author), Loewenstein Hosp & Rehabil Ctr, 278 Ahuza, IL-43100 Raanana, Israel.
+EM silvi197@bezeqint.net
+RI Soroker, Nachum/V-7094-2019; Perry, Anat/AAF-8396-2020
+OI Soroker, Nachum/0000-0003-4909-5576; Frenkel-Toledo,
+   Silvi/0000-0001-8991-3428
+FU Legacy Foundation through the Loewenstein Rehabilitation Hospital;
+   Steyer Family Endowment through the Stanley Steyer School of Health
+   Professions of the Sadder Faculty of Medicine - Tel Aviv University;
+   Israeli Ministry of Health [3-00000-7772]
+FX This research project was carried out by the first author in partial
+   fulfillment of the requirements for the PhD degree at the Sackler
+   Faculty of Medicine - Tel Aviv University, under the supervision of
+   Shlomo Bentin, Dario G. Liebermann and Nachum Soroker. We dedicate the
+   paper in memory of Professor Shlomo Bentin, who recently passed away in
+   a tragic accident. We wish to thank the participants for their
+   cooperation in the experiment. This research was partially funded by the
+   Legacy Foundation granted through the Loewenstein Rehabilitation
+   Hospital, the Steyer Family Endowment through the Stanley Steyer School
+   of Health Professions of the Sadder Faculty of Medicine - Tel Aviv
+   University and the Israeli Ministry of Health no. 3-00000-7772.
+NR 96
+TC 37
+Z9 40
+U1 1
+U2 34
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0006-8993
+EI 1872-6240
+J9 BRAIN RES
+JI Brain Res.
+PD MAY 6
+PY 2013
+VL 1509
+BP 43
+EP 57
+DI 10.1016/j.brainres.2013.03.004
+PG 15
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 146LU
+UT WOS:000319093400005
+PM 23500633
+DA 2020-08-05
+ER
+
+PT J
+AU Milston, SI
+   Vanman, EJ
+   Cunnington, R
+AF Milston, Sashenka I.
+   Vanman, Eric J.
+   Cunnington, Ross
+TI Cognitive empathy and motor activity during observed actions
+SO NEUROPSYCHOLOGIA
+LA English
+DT Article
+DE Mu; Beta; EEG; Empathy; Perspective taking; Mirror neuron system
+ID INFERIOR FRONTAL GYRUS; MIRROR NEURON SYSTEM; SOCIAL COGNITION; AUTISM;
+   PAIN; PERCEPTION; MODULATION; HUMANS; MU; OSCILLATIONS
+AB Whether empathy depends on activation of the mirror neuron system is controversial. This study tested the relationship between cognitive empathy and motor activation during action observation through the sensorimotor system. EEG activity was recorded over the motor area while participants observed and then performed a task demonstrated by a model. Analyses revealed significant suppression in mu/alpha (8-12 Hz) and beta (18-22 Hz) EEG bands, indicative of sensorimotor activity, during both observed and executed actions. Crucially, participants rating higher in perspective taking as a measure of trait cognitive empathy showed significantly less beta suppression when observing actions. The direction of this relationship, contrary to studies involving induced emotional empathy, may reflect individual differences in mentalizing and mirroring mechanisms to understand others' actions. Implications of these findings for the hypothesised empathy-mirror neuron system link are discussed. (C) 2013 Elsevier Ltd. All rights reserved.
+C1 [Milston, Sashenka I.; Vanman, Eric J.; Cunnington, Ross] Univ Queensland, Sch Psychol, Brisbane, Qld 4072, Australia.
+   [Cunnington, Ross] Univ Queensland, Queensland Brain Inst, Brisbane, Qld 4072, Australia.
+RP Cunnington, R (corresponding author), Univ Queensland, Sch Psychol, Brisbane, Qld 4072, Australia.
+EM r.cunnington@uq.edu.au
+RI Vanman, Eric J./F-3520-2018
+OI Vanman, Eric J./0000-0001-7014-6951; Cunnington,
+   Ross/0000-0002-7423-4809
+NR 43
+TC 12
+Z9 12
+U1 0
+U2 45
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0028-3932
+EI 1873-3514
+J9 NEUROPSYCHOLOGIA
+JI Neuropsychologia
+PD MAY
+PY 2013
+VL 51
+IS 6
+BP 1103
+EP 1108
+DI 10.1016/j.neuropsychologia.2013.02.020
+PG 6
+WC Behavioral Sciences; Neurosciences; Psychology, Experimental
+SC Behavioral Sciences; Neurosciences & Neurology; Psychology
+GA 152MK
+UT WOS:000319535600009
+PM 23499724
+DA 2020-08-05
+ER
+
+PT J
+AU Warreyn, P
+   Ruysschaert, L
+   Wiersema, JR
+   Handl, A
+   Pattyn, G
+   Roeyers, H
+AF Warreyn, Petra
+   Ruysschaert, Lieselot
+   Wiersema, Jan R.
+   Handl, Andrea
+   Pattyn, Griet
+   Roeyers, Herbert
+TI Infants' mu suppression during the observation of real and mimicked
+   goal-directed actions
+SO DEVELOPMENTAL SCIENCE
+LA English
+DT Article
+ID MIRROR NEURON SYSTEM; MOTOR FACILITATION; DEFERRED IMITATION; EEG
+   EVIDENCE; ACTIVATION; RHYTHM; EXECUTION; CHILDREN; CORTEX; BRAIN
+AB Since their discovery in the early 1990s, mirror neurons have been proposed to be related to many social-communicative abilities, such as imitation. However, research into the early manifestations of the putative neural mirroring system and its role in early social development is still inconclusive. In the current EEG study, mu suppression, generally thought to reflect activity in neural mirroring systems was investigated in 18- to 30-month-olds during the observation of object manipulations as well as mimicked actions. EEG power data recorded from frontal, central, and parietal electrodes were analysed. As predicted, based on previous research, mu wave suppression was found over central electrodes during action observation and execution. In addition, a similar suppression was found during the observation of intransitive, mimicked hand movements. To a lesser extent, the results also showed mu suppression at parietal electrode sites, over all three conditions. Mu wave suppression during the observation of hand movements and during the execution of actions was significantly correlated with quality of imitation, but not with age or language level.
+C1 [Warreyn, Petra; Ruysschaert, Lieselot; Wiersema, Jan R.; Pattyn, Griet] Univ Ghent, Dept Expt Clin & Hlth Psychol, B-9000 Ghent, Belgium.
+   [Handl, Andrea] Uppsala Univ, Dept Psychol, Uppsala, Sweden.
+RP Warreyn, P (corresponding author), Univ Ghent, Dept Expt Clin & Hlth Psychol, Henri Dunantlaan 2, B-9000 Ghent, Belgium.
+EM Petra.Warreyn@UGent.be
+RI Roeyers, Herbert/A-5557-2018
+OI Roeyers, Herbert/0000-0002-4895-583X
+NR 60
+TC 22
+Z9 26
+U1 0
+U2 50
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1363-755X
+EI 1467-7687
+J9 DEVELOPMENTAL SCI
+JI Dev. Sci.
+PD MAR
+PY 2013
+VL 16
+IS 2
+BP 173
+EP 185
+DI 10.1111/desc.12014
+PG 13
+WC Psychology, Developmental; Psychology, Experimental
+SC Psychology
+GA 096DQ
+UT WOS:000315384700003
+PM 23432828
+OA Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Brown, EC
+   Wiersema, JR
+   Pourtois, G
+   Brune, M
+AF Brown, E. C.
+   Wiersema, Jan Roelf
+   Pourtois, Gilles
+   Bruene, Martin
+TI Modulation of motor cortex activity when observing rewarding and
+   punishing actions
+SO NEUROPSYCHOLOGIA
+LA English
+DT Article
+DE Action observation; Reward; Punishment; Observational learning; Mirror
+   neurons
+ID MIRROR NEURONS; MU-SUPPRESSION; EEG; PERSPECTIVE; PREMOTOR; SYSTEM;
+   SCHIZOPHRENIA; RECOGNITION; PERCEPTION; EXECUTION
+AB Interpreting others' actions is essential for understanding the intentions and goals in social interactions. Activity in the motor cortex is evoked when we see another person performing actions, which can also be influenced by the intentions and context of the observed action. No study has directly explored the influence of reward and punishment on motor cortex activity when observing others' actions, which is likely to have substantial relevance in different social contexts. In this experiment, EEG was recorded while participants watched movie clips of a person performing actions that led to a monetary reward, loss or no change for the observer. Using the EEG mu rhythm as an index of motor resonance, our results demonstrate that observation of rewarding actions produce significantly greater motor cortex activity than punishing or neutral actions, with punishing actions producing greater activity than neutral ones. In addition, the dynamic change in the mu rhythm over sensorimotor cortex is modulated by reward and punishment, with punishing actions producing a prolonged suppression. These findings demonstrate that the associated reward value of an observed action may be crucial in determining the strength of the representation of the action in the observer's brain. Consequently, reward and punishment is likely to drive observational learning through changes in the action observation network, and may also influence how we interpret, understand, engage in and empathize with others' actions in social interaction. (C) 2012 Elsevier Ltd. All rights reserved.
+C1 [Brown, E. C.; Bruene, Martin] LWL Univ Hosp Bochum, Res Dept Cognit Neuropsychiat, D-44791 Bochum, Germany.
+   [Brown, E. C.; Bruene, Martin] Ruhr Univ Bochum, IGSN, D-44801 Bochum, Germany.
+   [Wiersema, Jan Roelf; Pourtois, Gilles] Univ Ghent, Dept Expt Clin & Hlth Psychol, B-9000 Ghent, Belgium.
+RP Brown, EC (corresponding author), LWL Univ Hosp Bochum, Res Dept Cognit Neuropsychiat, Alexandrinenstr 1-3, D-44791 Bochum, Germany.
+EM elliot.c.brown@gmail.com
+RI Brown, Elliot/I-8137-2012
+OI Brown, Elliot/0000-0002-0209-3293; Brune, Martin/0000-0002-2507-0561;
+   Pourtois, Gilles/0000-0002-5109-2801
+FU International Brain Research Organisation (IBRO)-CEERC-WERC InEurope
+   Travel Fellowship; European Research CouncilEuropean Research Council
+   (ERC) [200758]; Ghent University (BOF)Ghent University [05Z01708]
+FX This study was supported by an International Brain Research Organisation
+   (IBRO)-CEERC-WERC InEurope Travel Fellowship granted to the author ECB.
+   The author GP is supported by grants from the European Research Council
+   (Starting Grant #200758) and Ghent University (BOF Grant #05Z01708).
+NR 42
+TC 17
+Z9 17
+U1 2
+U2 32
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0028-3932
+EI 1873-3514
+J9 NEUROPSYCHOLOGIA
+JI Neuropsychologia
+PD JAN
+PY 2013
+VL 51
+IS 1
+BP 52
+EP 58
+DI 10.1016/j.neuropsychologia.2012.11.005
+PG 7
+WC Behavioral Sciences; Neurosciences; Psychology, Experimental
+SC Behavioral Sciences; Neurosciences & Neurology; Psychology
+GA 083US
+UT WOS:000314491300006
+PM 23159701
+OA Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Cuellar, M
+   Bowers, A
+   Harkrider, AW
+   Wilson, M
+   Saltuklaroglu, T
+AF Cuellar, Megan
+   Bowers, Andrew
+   Harkrider, Ashley W.
+   Wilson, Matthew
+   Saltuklaroglu, Tim
+TI Mu suppression as an index of sensorimotor contributions to speech
+   processing: Evidence from continuous EEG signals
+SO INTERNATIONAL JOURNAL OF PSYCHOPHYSIOLOGY
+LA English
+DT Article
+DE Phonological discrimination; Sub lexical; Electroencephalography
+ID FUNCTIONAL NEUROANATOMY; ALPHA BAND; PERCEPTION; CORTEX;
+   SYNCHRONIZATION; ACTIVATION; RHYTHMS
+AB Mu rhythm suppression is an index of sensorimotor activity during the processing of sensory stimuli. Two present studies investigate the extent to which this measure is sensitive to differences in acoustic processing. In both studies, participants were required to listen to 90 second acoustic stimuli clips with their eyes closed and identify predetermined targets. Experimental conditions were designed to vary the acoustic processing demands. Mu suppression was measured continuously across central electrodes (C3, Cz, and C4). Ten adult females participated in the first study in which the target was a pseudoword presented in three conditions (identification, discrimination, discrimination in noise). Mu suppression was strongest and reached significance relative to baseline only in the discrimination in noise task at C3 (indicative of left hemisphere sensorimotor activity) when measured in a 10-12 Hz bandwidth. Thirteen adult females participated in the second study, which measured mu suppression to acoustic stimuli with 'segmentation' (i.e., separating a parsed stimulus into individual components) versus non-segmentation requirements in both speech and tone discrimination conditions. Significantly greater overall suppression to speech relative to tone tasks was found in the 10-12 Hz bandwidth. Further, suppression relative to baseline was significant only at C3 during the speech discrimination with segmentation task. Taken together, findings indicate that mu rhythm suppression in acoustic processing is sensitive to dorsal stream processing. More specifically, it is sensitive to (1) increases in overall processing demands and (2) processing linguistic versus non-linguistic information. (C) 2012 Elsevier B.V. All rights reserved.
+C1 [Cuellar, Megan; Bowers, Andrew; Harkrider, Ashley W.; Wilson, Matthew; Saltuklaroglu, Tim] Univ Tennessee, Coll Allied Hlth Sci, Dept Audiol & Speech Pathol, Knoxville, TN 37996 USA.
+RP Cuellar, M (corresponding author), Univ Tennessee, Coll Allied Hlth Sci, Dept Audiol & Speech Pathol, Knoxville, TN 37996 USA.
+EM mmorris5@uthsc.edu
+NR 51
+TC 14
+Z9 14
+U1 0
+U2 12
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0167-8760
+EI 1872-7697
+J9 INT J PSYCHOPHYSIOL
+JI Int. J. Psychophysiol.
+PD AUG
+PY 2012
+VL 85
+IS 2
+BP 242
+EP 248
+DI 10.1016/j.ijpsycho.2012.04.003
+PG 7
+WC Psychology, Biological; Neurosciences; Physiology; Psychology;
+   Psychology, Experimental
+SC Psychology; Neurosciences & Neurology; Physiology
+GA 020DZ
+UT WOS:000309790400015
+PM 22522370
+DA 2020-08-05
+ER
+
+PT J
+AU Fargier, R
+   Paulignan, Y
+   Boulenger, V
+   Monaghan, P
+   Reboul, A
+   Nazir, TA
+AF Fargier, Raphael
+   Paulignan, Yves
+   Boulenger, Veronique
+   Monaghan, Padraic
+   Reboul, Anne
+   Nazir, Tatjana A.
+TI Learning to associate novel words with motor actions: Language-induced
+   motor activity following short training
+SO CORTEX
+LA English
+DT Article
+DE Language and action; Associative learning; mu rhythm; Embodied
+   cognition; Word-referent
+ID CONCEPTUAL REPRESENTATIONS; PREMOTOR CORTEX; MIRROR NEURONS; SYSTEM;
+   KNOWLEDGE; RECOGNITION; COMPREHENSION; ACTIVATION; RHYTHMS; BRAIN
+AB Action words referring to face, arm or leg actions activate areas along the motor strip that also control the planning and execution of the actions specified by the words. This electroencephalogram (EEG) study aimed to test the learning profile of this language-induced motor activity. Participants were trained to associate novel verbal stimuli to videos of object-oriented hand and arm movements or animated visual images on two consecutive days. Each training session was preceded and followed by a test-session with isolated videos and verbal stimuli. We measured motor-related brain activity (reflected by a desynchronization in the mu frequency bands; 8-12 Hz range) localized at centro-parietal and fronto-central electrodes. We compared activity from viewing the videos to activity resulting from processing the language stimuli only. At centro-parietal electrodes, stable action-related mu suppression was observed during viewing of videos in each test-session of the two days. For processing of verbal stimuli associated with motor actions, a similar pattern of activity was evident only in the second test-session of Day 1. Over the fronto-central regions, mu suppression was observed in the second test-session of Day 2 for the videos and in the second test-session of Day 1 for the verbal stimuli.
+   Whereas the centro-parietal mu suppression can be attributed to motor events actually experienced during training, the fronto-central mu suppression seems to serve as a convergence zone that mediates underspecified motor information. Consequently, sensory-motor reactivations through which concepts are comprehended seem to differ in neural dynamics from those implicated in their acquisition. (C) 2011 Elsevier Srl. All rights reserved.
+C1 [Fargier, Raphael; Paulignan, Yves; Reboul, Anne; Nazir, Tatjana A.] Univ Lyon 1, CNRS UCBL, Inst Sci Cognit L2C2, Bron, France.
+   [Boulenger, Veronique] Univ Lyon, Inst Sci Homme, CNRS, Lab Dynam Langage,UMR 5596, Lyon, France.
+   [Monaghan, Padraic] Univ Lancaster, Dept Psychol, Fylde Coll, Lancaster LA1 4YF, England.
+RP Fargier, R (corresponding author), Inst Cognit Sci, Brain & Cognit Lab, Language L2C2, 67 Bd Pinel, F-69675 Bron, France.
+EM raphael.fargier@isc.cnrs.fr
+RI Boulenger, Veronique/P-6339-2015; Fargier, Raphael/P-7125-2019;
+   Boulenger, Veronique/AAQ-2881-2020; Monaghan, Padraic/E-6812-2010
+OI Fargier, Raphael/0000-0002-0165-0238; Boulenger,
+   Veronique/0000-0001-8701-8278; Monaghan, Padraic/0000-0003-3965-2682;
+   Paulignan, Yves/0000-0001-9474-3080
+FU CNRS (Centre National de la Recherche Scientifique)Centre National de la
+   Recherche Scientifique (CNRS); CIBLE-Region Rhone-AlpesRegion
+   Auvergne-Rhone-Alpes [EOTP INV 2896410]; Universite Claude Bernard Lyon1
+FX This research was supported by the CNRS (Centre National de la Recherche
+   Scientifique), a grant from CIBLE2009-Region Rhone-Alpes (EOTP INV
+   2896410) and a PhD fellowship from the Universite Claude Bernard Lyon1.
+NR 48
+TC 21
+Z9 21
+U1 0
+U2 19
+PU ELSEVIER MASSON, CORPORATION OFFICE
+PI PARIS
+PA 65 CAMILLE DESMOULINS CS50083 ISSY-LES-MOULINEAUX, 92442 PARIS, FRANCE
+SN 0010-9452
+EI 1973-8102
+J9 CORTEX
+JI Cortex
+PD JUL-AUG
+PY 2012
+VL 48
+IS 7
+SI SI
+BP 888
+EP 899
+DI 10.1016/j.cortex.2011.07.003
+PG 12
+WC Behavioral Sciences; Neurosciences; Psychology, Experimental
+SC Behavioral Sciences; Neurosciences & Neurology; Psychology
+GA 964QA
+UT WOS:000305710600009
+PM 21864836
+DA 2020-08-05
+ER
+
+PT J
+AU Avanzini, P
+   Fabbri-Destro, M
+   Dalla Volta, R
+   Daprati, E
+   Rizzolatti, G
+   Cantalupo, G
+AF Avanzini, Pietro
+   Fabbri-Destro, Maddalena
+   Dalla Volta, Riccardo
+   Daprati, Elena
+   Rizzolatti, Giacomo
+   Cantalupo, Gaetano
+TI The Dynamics of Sensorimotor Cortical Oscillations during the
+   Observation of Hand Movements: An EEG Study
+SO PLOS ONE
+LA English
+DT Article
+ID EVENT-RELATED DESYNCHRONIZATION; PRIMARY MOTOR CORTEX; SELF-PACED
+   MOVEMENT; HIGH-RESOLUTION EEG; PREMOTOR CORTEX; MU-RHYTHM; VOLUNTARY
+   MOVEMENT; INFERIOR PARIETAL; PRECISION GRIP; HUMAN BRAIN
+AB Background: The observation of action done by others determines a desynchronization of the rhythms recorded from cortical central regions. Here, we examined whether the observation of different types of hand movements (target directed, non-target directed, cyclic and non-cyclic) elicits different EEG cortical temporal patterns.
+   Methodology: Video-clips of four types of hand movements were shown to right-handed healthy participants. Two were target directed (grasping and pointing) motor acts; two were non-target directed (supinating and clenching) movements. Grasping and supinating were performed once, while pointing and clenching twice (cyclic movements). High-density EEG was recorded and analyzed by means of wavelet transform, subdividing the time course in time bins of 200 ms. The observation of all presented movements produced a desynchronization of alpha and beta rhythms in central and parietal regions. The rhythms desynchronized as soon as the hand movement started, the nadir being reached around 700 ms after movement onset. At the end of the movement, a large power rebound occurred for all bands. Target and non-target directed movements produced an alpha band desynchronization in the central electrodes at the same time, but with a stronger desynchronization and a prolonged rebound for target directed motor acts. Most interestingly, there was a clear correlation between the velocity profile of the observed movements and beta band modulation.
+   Significance: Our data show that the observation of motor acts determines a modulation of cortical rhythm analogous to that occurring during motor act execution. In particular, the cortical motor system closely follows the velocity of the observed movements. This finding provides strong evidence for the presence in humans of a mechanism (mirror mechanism) mapping action observation on action execution motor programs.
+C1 [Avanzini, Pietro; Dalla Volta, Riccardo; Rizzolatti, Giacomo] Univ Parma, Dipartimento Neurosci Sez Fisiol, I-43100 Parma, Italy.
+   [Fabbri-Destro, Maddalena; Rizzolatti, Giacomo] Italian Inst Technol, Brain Ctr Motor & Social Cognit, Parma, Italy.
+   [Dalla Volta, Riccardo] Magna Graecia Univ Catanzaro, Dipartimento Sci Med & Chirurg, Catanzaro, Italy.
+   [Daprati, Elena] Univ Roma Tor Vergata, Dipartimento Neurosci, Rome, Italy.
+   [Daprati, Elena] Univ Roma Tor Vergata, Ctr Biomed Spaziale, Rome, Italy.
+   [Cantalupo, Gaetano] Univ Parma, Dipartimento Neurosci Neuropsichiat Infantile, I-43100 Parma, Italy.
+RP Avanzini, P (corresponding author), Univ Parma, Dipartimento Neurosci Sez Fisiol, I-43100 Parma, Italy.
+EM pietro.avanzini@unipr.it
+RI Fabbri-Destro, Maddalena/J-4988-2018; Cantalupo, Gaetano/N-8617-2019;
+   daprati, elena/AAA-2224-2019; Cantalupo, Gaetano/A-4231-2010
+OI Cantalupo, Gaetano/0000-0003-1343-8434; Avanzini,
+   Pietro/0000-0001-9371-451X; DALLA VOLTA, Riccardo/0000-0002-2621-4459;
+   Fabbri Destro, Maddalena/0000-0001-8321-4634
+FU Fondo Regionale per le Neuroscienze; Compagnia di San Paolo
+   (Neuroscience Program)Compagnia di San Paolo; European Union grant
+   "Cogsystem"
+FX This study was supported by Fondo Regionale per le Neuroscienze, by
+   Compagnia di San Paolo (Neuroscience Program), and by European Union
+   grant "Cogsystem" to GR. The funders had no role in study design, data
+   collection and analysis, decision to publish, or preparation of the
+   manuscript.
+NR 61
+TC 88
+Z9 91
+U1 0
+U2 13
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAY 18
+PY 2012
+VL 7
+IS 5
+AR e37534
+DI 10.1371/journal.pone.0037534
+PG 10
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 959VG
+UT WOS:000305343500133
+PM 22624046
+OA DOAJ Gold, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU McGarry, LM
+   Russo, FA
+   Schalles, MD
+   Pineda, JA
+AF McGarry, Lucy M.
+   Russo, Frank A.
+   Schalles, Matt D.
+   Pineda, Jaime A.
+TI Audio-visual facilitation of the mu rhythm
+SO EXPERIMENTAL BRAIN RESEARCH
+LA English
+DT Article
+DE Mu rhythm; Mirror neuron system; Multimodal facilitation; Independent
+   components analysis
+ID MIRROR-NEURON SYSTEM; GRASP REPRESENTATIONS; MOTOR FACILITATION; ACTION
+   RECOGNITION; PREMOTOR CORTEX; ALPHA-ACTIVITY; PERCEPTION; HUMANS;
+   INTEGRATION; ACTIVATION
+AB Previous studies demonstrate that perception of action presented audio-visually facilitates greater mirror neuron system (MNS) activity in humans (Kaplan and Iacoboni in Cogn Process 8(2):103-113, 2007) and non-human primates (Keysers et al. in Exp Brain Res 153(4):628-636, 2003) than perception of action presented unimodally. In the current study, we examined whether audio-visual facilitation of the MNS can be indexed using electroencephalography (EEG) measurement of the mu rhythm. The mu rhythm is an EEG oscillation with peaks at 10 and 20 Hz that is suppressed during the execution and perception of action and is speculated to reflect activity in the premotor and inferior parietal cortices as a result of MNS activation (Pineda in Behav Brain Funct 4(1):47, 2008). Participants observed experimental stimuli unimodally (visual-alone or audio-alone) or bimodally during randomized presentations of two hands ripping a sheet of paper, and a control video depicting a box moving up and down. Audio-visual perception of action stimuli led to greater event-related desynchrony (ERD) of the 8-13 Hz mu rhythm compared to unimodal perception of the same stimuli over the C3 electrode, as well as in a left central cluster when data were examined in source space. These results are consistent with Kaplan and Iacoboni's (in Cogn Process 8(2):103-113, 2007), findings that indicate audio-visual facilitation of the MNS; our left central cluster was localized approximately 13.89 mm away from the ventral premotor cluster identified in their fMRI study, suggesting that these clusters originate from similar sources. Consistency of results in electrode space and component space support the use of ICA as a valid source localization tool.
+C1 [McGarry, Lucy M.; Russo, Frank A.] Ryerson Univ, Dept Psychol, Toronto, ON M5B 2K3, Canada.
+   [Schalles, Matt D.; Pineda, Jaime A.] Univ Calif San Diego, Dept Cognit Sci, La Jolla, CA 92037 USA.
+   [Pineda, Jaime A.] Univ Calif San Diego, Neurosci Grp, La Jolla, CA 92037 USA.
+RP McGarry, LM (corresponding author), Ryerson Univ, Dept Psychol, 350 Victoria St, Toronto, ON M5B 2K3, Canada.
+EM lmcgarry@psych.ryerson.ca
+RI Russo, Frank A./H-3748-2019
+OI Russo, Frank A./0000-0002-2939-6358
+FU Ontario International Education Opportunity Scholarship; Natural
+   Sciences and Engineering Research Council of CanadaNatural Sciences and
+   Engineering Research Council of Canada; Department of Defense (DOD)
+   Office of the Congressionally Directed Medical Research Programs (CDMRP)
+FX The authors would like to thank Stacy Levichev for her assistance with
+   data collection. Thanks also to the EEGlab discussion group at UCSD for
+   advice regarding independent components analysis. This work was funded
+   by an Ontario International Education Opportunity Scholarship awarded to
+   L.M. McGarry and a grant from the Natural Sciences and Engineering
+   Research Council of Canada to F.A. Russo. Support was also provided by a
+   grant to J.A. Pineda from the Department of Defense (DOD) Office of the
+   Congressionally Directed Medical Research Programs (CDMRP).
+NR 55
+TC 17
+Z9 19
+U1 0
+U2 11
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0014-4819
+J9 EXP BRAIN RES
+JI Exp. Brain Res.
+PD MAY
+PY 2012
+VL 218
+IS 4
+BP 527
+EP 538
+DI 10.1007/s00221-012-3046-3
+PG 12
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 934NG
+UT WOS:000303450400003
+PM 22427133
+DA 2020-08-05
+ER
+
+PT J
+AU McCormick, LM
+   Brumm, MC
+   Beadle, JN
+   Paradiso, S
+   Yamada, T
+   Andreasen, N
+AF McCormick, Laurie M.
+   Brumm, Michael C.
+   Beadle, Janelle N.
+   Paradiso, Sergio
+   Yamada, Thoru
+   Andreasen, Nancy
+TI Mirror neuron function, psychosis, and empathy in schizophrenia
+SO PSYCHIATRY RESEARCH-NEUROIMAGING
+LA English
+DT Article
+DE EEG; Empathy; Psychosis; Social cognition; Emotion
+ID POSITRON-EMISSION-TOMOGRAPHY; AUTISM SPECTRUM DISORDERS; SOCIAL
+   COGNITION; MU-RHYTHM; FACIAL AFFECT; MOTOR CORTEX; MIND; SYSTEM; EEG;
+   HYPOTHESIS
+AB Processing of social and emotional information has been shown to be disturbed in schizophrenia. The biological underpinnings of these abnormalities may be explained by an abnormally functioning mirror neuron system. Yet the relationship between mirror neuron system activity in schizophrenia, as measured using an electroencephalography (EEG) paradigm, and socio-emotional functioning has not been assessed. The present research measured empathy and mirror neuron activity using an established EEG paradigm assessing the integrity of the Mu rhythm (8-13 Hz) suppression over the sensorimotor cortex during observed and actual hand movement in 16 schizophrenia-spectrum disorder (SSD) participants (n = 8 actively psychotic and n = 8 in residual illness phase) and 16 age- and gender-matched healthy comparison participants. Actively psychotic SSD participants showed significantly greater mu suppression over the sensorimotor cortex of the left hemisphere than residual phase SSD and healthy comparison individuals. The latter two groups showed similar levels of mu suppression. Greater left-sided mu suppression was positively correlated with psychotic symptoms (i.e., greater mu suppression/mirror neuron activity was highest among subjects with the greater severity of psychotic symptoms). SSD subjects tended to have significantly higher levels of Personal Distress (as measured by the Interpersonal Reactivity Index) than healthy participants. The present study suggests that abnormal mirror neuron activity may exist among patients with schizophrenia during the active (psychotic) phase of the illness, and correlates with severity of psychosis. (C) 2012 Elsevier Ireland Ltd. All rights reserved.
+C1 [McCormick, Laurie M.; Brumm, Michael C.; Beadle, Janelle N.; Paradiso, Sergio; Andreasen, Nancy] Univ Iowa, Dept Psychiat, Carver Coll Med, Iowa City, IA 52242 USA.
+   [Yamada, Thoru] Univ Iowa, Dept Neurol, Carver Coll Med, Iowa City, IA 52242 USA.
+RP McCormick, LM (corresponding author), Univ Iowa Hosp & Clin, Dept Psychiat, Psychiat Iowa Neuroimaging Consortium, Roy J & Lucille A Carver Coll Med, 200 Hawkins Dr,W278 GH, Iowa City, IA 52242 USA.
+EM laurie-mccormick@uiowa.edu; michael-brumm@uiowa.edu;
+   janelle.beadle@gmail.com; sergio-paradiso@uiowa.edu;
+   thoru-yamada@uiowa.edu; nancy-andreasen@uiowa.edu
+RI Paradiso, Sergio/H-9052-2012
+OI Brumm, Michael/0000-0002-3173-9989; Andreasen, Nancy/0000-0001-5730-9744
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [K23 MH083879]
+NR 70
+TC 67
+Z9 75
+U1 0
+U2 53
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0925-4927
+J9 PSYCHIAT RES-NEUROIM
+JI Psychiatry Res. Neuroimaging
+PD MAR 31
+PY 2012
+VL 201
+IS 3
+BP 233
+EP 239
+DI 10.1016/j.pscychresns.2012.01.004
+PG 7
+WC Clinical Neurology; Neuroimaging; Psychiatry
+SC Neurosciences & Neurology; Psychiatry
+GA 964RG
+UT WOS:000305713800010
+PM 22510432
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Moore, A
+   Gorodnitsky, I
+   Pineda, J
+AF Moore, Adrienne
+   Gorodnitsky, Irina
+   Pineda, Jaime
+TI EEG mu component responses to viewing emotional faces
+SO BEHAVIOURAL BRAIN RESEARCH
+LA English
+DT Article
+DE Mu rhythm; Facial expression; Simulation; SOBI; EEGLAB; Mirror neuron
+ID LIGHT BIOLOGICAL MOTION; BLIND SOURCE SEPARATION; INFERIOR FRONTAL
+   GYRUS; MIRROR-NEURON SYSTEM; FACIAL EXPRESSIONS; SOCIAL COGNITION;
+   RIGHT-HEMISPHERE; PERCEPTION; RHYTHM; MOTOR
+AB Simulation theories for the perceptual processing of emotional faces assert that observers recruit the neural circuitry involved in creating their own emotional facial expressions in order to recognize the emotions and infer the feelings of others. The EEG mu rhythm is a sensorimotor oscillation hypothesized to index simulation of some actions during perceptual processing of these actions. The purpose of this research was to extend the study of mu rhythm simulation responses during perceptual tasks to the domain of emotional face perception. Subjects viewed happy and disgusted face photos with empathy and non-empathy task instructions while EEG responses were measured. EEG components were isolated and analyzed using a blind source separation (BSS) method. Mu components were found to respond to the perception of happy and disgusted faces during both empathy and non-empathy tasks with an event-related desynchronization (ERD), activation that is consistent with face simulation. Significant differences were found between responses to happy and to disgusted faces across the right hemisphere mu components beginning about 500 ms after stimulus presentation. These findings support a simulation account of perceptual face processing based on a sensorimotor mirroring mechanism, and are the first report of distinct EEG mu responses to observation of positively and negatively valenced emotional faces. (C) 2011 Elsevier B.V. All rights reserved.
+C1 [Moore, Adrienne; Gorodnitsky, Irina; Pineda, Jaime] Univ Calif San Diego, Dept Cognit Sci, La Jolla, CA 92093 USA.
+   [Pineda, Jaime] Univ Calif San Diego, Dept Neurosci, La Jolla, CA 92093 USA.
+RP Moore, A (corresponding author), Univ Calif San Diego, Dept Cognit Sci, 9500 Gilman Dr 0515, La Jolla, CA 92093 USA.
+EM armoore@ucsd.edu
+FU Temporal Dynamics of Learning Center; John D. and Catherine T. MacArthur
+   Foundation Research Network on Early Experience and Brain Development
+FX Special thanks to Dr. Andrea Chiba and the Temporal Dynamics of Learning
+   Center for mentoring and support.; Development of the MacBrain Face
+   Stimulus Set was overseen by Nim Tottenham and supported by the John D.
+   and Catherine T. MacArthur Foundation Research Network on Early
+   Experience and Brain Development. Please contact Nim Tottenham at
+   tott0006@tc.umn.edu for more information concerning the stimulus set.
+NR 48
+TC 59
+Z9 61
+U1 1
+U2 33
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0166-4328
+EI 1872-7549
+J9 BEHAV BRAIN RES
+JI Behav. Brain Res.
+PD JAN 1
+PY 2012
+VL 226
+IS 1
+BP 309
+EP 316
+DI 10.1016/j.bbr.2011.07.048
+PG 8
+WC Behavioral Sciences; Neurosciences
+SC Behavioral Sciences; Neurosciences & Neurology
+GA 846ZJ
+UT WOS:000296941400038
+PM 21835208
+DA 2020-08-05
+ER
+
+PT J
+AU Perry, A
+   Stein, L
+   Bentin, S
+AF Perry, Anat
+   Stein, Libi
+   Bentin, Shlomo
+TI Motor and attentional mechanisms involved in social interaction-Evidence
+   from mu and alpha EEG suppression
+SO NEUROIMAGE
+LA English
+DT Article
+DE Alpha rhythms; Mu rhythms; EEG; Social interaction
+ID AUTISM SPECTRUM DISORDERS; MIRROR NEURON SYSTEM; COGNITIVE NEUROSCIENCE;
+   PREMOTOR CORTEX; BRAIN; IMITATION; EMPATHY; HUMANS; RHYTHMS; IMAGERY
+AB Mu rhythms are EEG oscillations in the 8-13 Hz recorded at sites located roughly over the sensory-motor cortex. There is reliable evidence that the amplitude of mu rhythms is reduced when the participant performs a motor act (mu suppression). Recent studies found mu suppression not only in response to actual movements but also while the participant observes actions executed by someone else. This finding putatively associates the mu suppression to the activity of a mirror neurons system which, in humans, has been suggested to contribute to social skills. In the present study we explored the effects of different levels of social interaction on mu suppression. Participants observed dynamic displays of hand gestures performing actions used in the Rock-Scissors-Paper game. In different blocks, participants passively viewed identical video clips with no game context and in the context of a game, or while being actually engaged in the game either by imagining actions or by actual playing. As a baseline for calculating mu suppression we used a dynamic display of a rolling ball. In addition, to isolate the social aspect of the actual movements, participants performed the same acts outside the game context. Mu suppression was larger while participants were engaged in the social game than when they passively looked at the "opponent" actions or when they performed movements without the game context. This effect was found while viewing the opponent play as well as while actually playing, which supports the view that mu suppression is affected not only by motion, but also by the social context of the motion. However, we did not find differences in mu suppression between perception segments in which the participant did not actually play. Furthermore, in all perception segments occipital alpha suppression was more robust than mu suppression suggesting the involvement of a strong attentional component. While actually playing, however, mu suppression was stronger than alpha suppression. (C) 2011 Elsevier Inc. All rights reserved.
+C1 [Perry, Anat; Bentin, Shlomo] Hebrew Univ Jerusalem, Dept Psychol, IL-91905 Jerusalem, Israel.
+   [Stein, Libi] Hebrew Univ Jerusalem, Dept Cognit Sci, IL-91905 Jerusalem, Israel.
+   [Bentin, Shlomo] Hebrew Univ Jerusalem, Interdisciplinary Ctr Neural Computat, IL-91905 Jerusalem, Israel.
+RP Perry, A (corresponding author), Hebrew Univ Jerusalem, Dept Psychol, IL-91905 Jerusalem, Israel.
+EM anat.perry@mail.huji.ac.il; libi.stein@mail.huji.ac.il;
+   shlomo.bentin@huji.ac.il
+RI Perry, Anat/AAF-8396-2020
+OI Kliger, Libi/0000-0001-8316-2854
+FU Noah Royal Foundation; Hebrew University
+FX We thank Shirey Sole and Noga Diamant for skillful assistance in running
+   the experiment. Anat Perry was partially funded by the Noah Royal
+   Foundation and the "Hoffman Leadership and Responsibility" fellowship
+   program, at the Hebrew University.
+NR 66
+TC 65
+Z9 70
+U1 0
+U2 43
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1053-8119
+EI 1095-9572
+J9 NEUROIMAGE
+JI Neuroimage
+PD OCT 1
+PY 2011
+VL 58
+IS 3
+BP 895
+EP 904
+DI 10.1016/j.neuroimage.2011.06.060
+PG 10
+WC Neurosciences; Neuroimaging; Radiology, Nuclear Medicine & Medical
+   Imaging
+SC Neurosciences & Neurology; Radiology, Nuclear Medicine & Medical Imaging
+GA 820XZ
+UT WOS:000294940700021
+PM 21742042
+DA 2020-08-05
+ER
+
+PT J
+AU Woodruff, CC
+   Martin, T
+   Bilyk, N
+AF Woodruff, C. Chad
+   Martin, Tim
+   Bilyk, Nick
+TI Differences in self- and other-induced Mu suppression are correlated
+   with empathic abilities
+SO BRAIN RESEARCH
+LA English
+DT Article
+DE Mu Suppression; Empathy; Mirroring; Social Perception
+ID MIRROR NEURON; MATCHING SYSTEM; EEG EVIDENCE; EXECUTION; AUTISM;
+   PERCEPTION; RESPONSES; RHYTHMS; MOTION; CORTEX
+AB Recent research suggests a role of the human mirror neuron system in empathic processing. Electroencephalographic (EEG) mu suppression in the 8-13 Hz band-range has been proposed to reflect mirror-like activation of sensorimotor cortices. We therefore investigated the relationship between suppression in the 8-13 Hz range and empathic abilities as measured by the Interpersonal Reactivity Index (IRI). Based on previous work showing significant differences between execution- and observation-related mu suppression and on theories of empathy pointing to the importance of discriminating self from other, we predicted that the size of this difference within individuals would correlate with participants' perspective-taking abilities. Larger differences in execution- and observation-induced mu suppression were associated with greater scores on the perspective-taking subscale of the IRI. The current data are therefore consistent with the claim that neural activity reflected in mu suppression is related to empathic abilities. (C) 2011 Elsevier B.V. All rights reserved.
+C1 [Woodruff, C. Chad] No Arizona Univ, Dept Psychol, Flagstaff, AZ 86011 USA.
+   Kennesaw State Univ, Dept Psychol, Kennesaw, GA USA.
+RP Woodruff, CC (corresponding author), No Arizona Univ, Dept Psychol, Flagstaff, AZ 86011 USA.
+EM Chad.Woodruff@nau.edu
+NR 44
+TC 44
+Z9 47
+U1 1
+U2 26
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0006-8993
+EI 1872-6240
+J9 BRAIN RES
+JI Brain Res.
+PD AUG 8
+PY 2011
+VL 1405
+BP 69
+EP 76
+DI 10.1016/j.brainres.2011.05.046
+PG 8
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 807VW
+UT WOS:000293932100007
+PM 21741034
+DA 2020-08-05
+ER
+
+PT J
+AU Behmer, LP
+   Jantzen, KJ
+AF Behmer, Lawrence Paul, Jr.
+   Jantzen, Kelly J.
+TI Reading sheet music facilitates sensorimotor mu-desynchronization in
+   musicians
+SO CLINICAL NEUROPHYSIOLOGY
+LA English
+DT Article
+DE Human mirror system; Electroencephalography; Perception-action;
+   Sensorimotor integration; Event related desynchronization; Mu rhythm;
+   Expertise; Sheet music
+ID PRIMARY MOTOR CORTEX; MIRROR NEURON SYSTEM; HAND ACTIONS; ACTION
+   REPRESENTATION; EEG EVIDENCE; PERCEPTION; ACTIVATION; NETWORKS;
+   PREMOTOR; EXCITABILITY
+AB Objective: Recent brain imaging studies have demonstrated that the human mirror system, in addition to becoming active while viewing the actions of others, also responds to abstract visual and auditory stimuli associated with specific actions. Here, we test the hypothesis that when musicians read sheet music an associated motor act is automatically recruited in the same way as when we observe the actions of others.
+   Methods: Using EEG, we measured event related desynchronization of the sensorimotor mu rhythm (mu-ERD) while musicians and non-musicians listened to music, observed movies of a musical instrument being played and observed a static image of the corresponding sheet music.
+   Results: Musicians showed significantly greater mu-ERD than non-musicians when observing sheet music and musical performances.
+   Conclusions: Our results demonstrate that the human motor system aids in the process of perception and understanding by forming functional links between arbitrary, abstract percepts and associated acts.
+   Significance: This research uniquely adds to the existing body of literature by demonstrating that abstract images are capable of triggering an "action understanding" system when viewed by experts who have formed the appropriate visual-motor association. (C) 2010 International Federation of Clinical Neurophysiology. Published by Elsevier Ireland Ltd. All rights reserved.
+C1 [Jantzen, Kelly J.] Western Washington Univ, Dept Psychol, 516 High St, Bellingham, WA 98225 USA.
+RP Jantzen, KJ (corresponding author), Western Washington Univ, Dept Psychol, 516 High St, Bellingham, WA 98225 USA.
+EM Kelly.jantzen@wwu.edu
+NR 50
+TC 32
+Z9 33
+U1 0
+U2 14
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 1388-2457
+EI 1872-8952
+J9 CLIN NEUROPHYSIOL
+JI Clin. Neurophysiol.
+PD JUL
+PY 2011
+VL 122
+IS 7
+BP 1342
+EP 1347
+DI 10.1016/j.clinph.2010.12.035
+PG 6
+WC Clinical Neurology; Neurosciences
+SC Neurosciences & Neurology
+GA 770PZ
+UT WOS:000291102300013
+PM 21216663
+DA 2020-08-05
+ER
+
+PT J
+AU Meyer, M
+   Hunnius, S
+   van Elk, M
+   van Ede, F
+   Bekkering, H
+AF Meyer, Marlene
+   Hunnius, Sabine
+   van Elk, Michiel
+   van Ede, Freek
+   Bekkering, Harold
+TI Joint action modulates motor system involvement during action
+   observation in 3-year-olds
+SO EXPERIMENTAL BRAIN RESEARCH
+LA English
+DT Article
+DE Joint action; Social-cognitive development; Social interaction; Motor
+   system; Action observation
+ID MIRROR-NEURON SYSTEM; BETA-BAND OSCILLATIONS; SOCIAL-INTERACTION;
+   MU-RHYTHMS; BRAIN; EVENT; COOPERATION; CORTEX; EEG; DESYNCHRONIZATION
+AB When we are engaged in a joint action, we need to integrate our partner's actions with our own actions. Previous research has shown that in adults the involvement of one's own motor system is enhanced during observation of an action partner as compared to during observation of an individual actor. The aim of this study was to investigate whether similar motor system involvement is present at early stages of joint action development and whether it is related to joint action performance. In an EEG experiment with 3-year-old children, we assessed the children's brain activity and performance during a joint game with an adult experimenter. We used a simple button-pressing game in which the two players acted in turns. Power in the mu- and beta-frequency bands was compared when children were not actively moving but observing the experimenter's actions when (1) they were engaged in the joint action game and (2) when they were not engaged. Enhanced motor involvement during action observation as indicated by attenuated sensorimotor mu- and beta-power was found when the 3-year-olds were engaged in the joint action. This enhanced motor activation during action observation was associated with better joint action performance. The findings suggest that already in early childhood the motor system is differentially activated during action observation depending on the involvement in a joint action. This motor system involvement might play an important role for children's joint action performance.
+C1 [Meyer, Marlene; Hunnius, Sabine; van Elk, Michiel; van Ede, Freek; Bekkering, Harold] Radboud Univ Nijmegen, Donders Inst Brain Cognit & Behav, NL-6500 HE Nijmegen, Netherlands.
+   [van Elk, Michiel] Ecole Polytech Fed Lausanne, Cognit Neurosci Lab, Brain Mind Inst, Lausanne, Switzerland.
+RP Meyer, M (corresponding author), Radboud Univ Nijmegen, Donders Inst Brain Cognit & Behav, POB 9104, NL-6500 HE Nijmegen, Netherlands.
+EM m.meyer@donders.ru.nl
+RI Hunnius, Sabine/D-5834-2012; Bekkering, Harold/A-6357-2009
+OI van Ede, Freek/0000-0002-7434-1751
+FU NWONetherlands Organization for Scientific Research (NWO) [453-05-001]
+FX We thank the children and parents for participating in this study.
+   Moreover, we would like to thank our laboratory managers Angela Khadar
+   and Margret van Beuningen as well as our research assistants Evelien
+   Akker, Yvonne Maas, and Manuela Beeren. We also wish to acknowledge the
+   technical support from Gerard van Oijen, Norbert Hermesdorf, and Pascal
+   de Water. This research was supported by NWO-VICI grant (453-05-001) to
+   Harold Bekkering.
+NR 45
+TC 38
+Z9 38
+U1 0
+U2 15
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0014-4819
+J9 EXP BRAIN RES
+JI Exp. Brain Res.
+PD JUN
+PY 2011
+VL 211
+IS 3-4
+BP 581
+EP 592
+DI 10.1007/s00221-011-2658-3
+PG 12
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 769SM
+UT WOS:000291038600024
+PM 21479943
+OA Other Gold, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Francuz, P
+   Zapala, D
+AF Francuz, Piotr
+   Zapala, Dariusz
+TI The suppression of the mu rhythm during the creation of imagery
+   representation of movement
+SO NEUROSCIENCE LETTERS
+LA English
+DT Article
+DE mu Rhythms; Mirror neurons; Motor imagery; Biological motion; EEG
+ID EEG EVIDENCE; MIRROR; SYNCHRONIZATION; INTERFERENCE; RECOGNITION
+AB The aim of this study was to answer the following question: are there differences between the attenuation of mu rhythms, recorded with EEG in the parietal area during observation of movement and the creation of its imaginative representation? In addition, we checked the extent to which the mu rhythm suppression depends on whether the observed and the imagined movement is performed by a human or is artificial. As a result of the experiment a significant difference in mu rhythm suppression between the conditions "Observation," "Imagery," and "White noise" was recorded. It did not matter whether the motion was carried out by a human being or performed by a machine. The results are discussed in the light of findings which relate to the mirror neuron system. (C) 2011 Elsevier Ireland Ltd. All rights reserved.
+C1 [Francuz, Piotr; Zapala, Dariusz] John Paul II Catholic Univ Lublin, Dept Expt Psychol, Lublin, Poland.
+RP Zapala, D (corresponding author), John Paul II Catholic Univ Lublin, Dept Expt Psychol, Al Raclawickie 14, Lublin, Poland.
+EM d.zapala@gmail.com
+RI Francuz, Piotr/V-1850-2019
+OI Zapala, Dariusz/0000-0002-3472-3050
+NR 28
+TC 15
+Z9 19
+U1 0
+U2 11
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0304-3940
+EI 1872-7972
+J9 NEUROSCI LETT
+JI Neurosci. Lett.
+PD MAY 9
+PY 2011
+VL 495
+IS 1
+BP 39
+EP 43
+DI 10.1016/j.neulet.2011.03.031
+PG 5
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 766YA
+UT WOS:000290821300009
+PM 21406213
+DA 2020-08-05
+ER
+
+PT J
+AU Marshall, PJ
+   Young, T
+   Meltzoff, AN
+AF Marshall, Peter J.
+   Young, Thomas
+   Meltzoff, Andrew N.
+TI Neural correlates of action observation and execution in 14-month-old
+   infants: an event-related EEG desynchronization study
+SO DEVELOPMENTAL SCIENCE
+LA English
+DT Article
+ID MU-RHYTHM; FUNCTIONAL-SIGNIFICANCE; OTHERS ACTIONS; SYSTEM; PERCEPTION;
+   EXPERIENCE; IMITATION; CHILDREN; SYNCHRONIZATION; ACTIVATION
+AB There is increasing interest in neurobiological methods for investigating the shared representation of action perception and production in early development. We explored the extent and regional specificity of EEG desynchronization in the infant alpha frequency range (6-9 Hz) during action observation and execution in 14-month-old infants. Desynchronization during execution was restricted to central electrode sites, while action observation was associated with a broader desynchronization across frontal, central, and parietal regions. The finding of regional specificity in the overlap between EEG responses to action execution and observation suggests that the rhythm seen in the 6-9 Hz range over central sites in infancy shares certain properties with the adult mu rhythm. The magnitude of EEG desynchronization to action perception and production appears to be smaller for infants than for adults and older children, suggesting developmental change in this measure.
+C1 [Marshall, Peter J.] Temple Univ, Dept Psychol, Philadelphia, PA 19087 USA.
+   [Young, Thomas] Temple Univ, Dept Comp & Informat Sci, Philadelphia, PA 19087 USA.
+   [Meltzoff, Andrew N.] Univ Washington, Inst Learning & Brain Sci, Seattle, WA 98195 USA.
+RP Marshall, PJ (corresponding author), Temple Univ, Dept Psychol, Weiss Hall, Philadelphia, PA 19087 USA.
+EM pjmarsh@temple.edu
+OI Meltzoff, Andrew/0000-0001-8683-0547
+FU NICHD NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH Eunice Kennedy Shriver National
+   Institute of Child Health & Human Development (NICHD) [R37 HD022514-21,
+   HD-22514, R37 HD022514-21S1, R37 HD022514]
+NR 44
+TC 93
+Z9 97
+U1 0
+U2 20
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 1363-755X
+J9 DEVELOPMENTAL SCI
+JI Dev. Sci.
+PD MAY
+PY 2011
+VL 14
+IS 3
+BP 474
+EP 480
+DI 10.1111/j.1467-7687.2010.00991.x
+PG 7
+WC Psychology, Developmental; Psychology, Experimental
+SC Psychology
+GA 747ED
+UT WOS:000289302200003
+PM 21477187
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Reid, VM
+   Striano, T
+   Iacoboni, M
+AF Reid, Vincent M.
+   Striano, Tricia
+   Iacoboni, Marco
+TI Neural correlates of dyadic interaction during infancy
+SO DEVELOPMENTAL COGNITIVE NEUROSCIENCE
+LA English
+DT Article
+DE Infant, social cognition; Mirroring systems; EEG, mu frequency
+AB This study examines the electrophysiological correlates of dyadic interaction in 14-month-old infants. Infants were presented with three conditions of live stimuli.A baseline condition involved the observation of moving geometric shapes. In a second condition the infant observed an adult performing movements that were not in reference to the infant and were not within the infant's proficient motor repertoire, such as dancing or hopping. A third condition involved face to face dyadic interactions in the context of an imitative game, where the infant and adult engaged in copying each other's hand and facial actions. Motor activity by the infant was controlled between conditions by synchronizing EEG with video frames of action. Infant EEG data was then edited offline to match in motor intensity across conditions. We expected mu rhythm (6-9 Hz) suppression during dyadic interactions relative to the amount of mu present in the baseline condition. This prediction was confirmed. We also observed suppressed mu in the interaction condition relative to the observation condition. The mu rhythm results suggest that infants at 14 months may well utilize a functioning mirroring system during dyadic interactions. (C) 2011 Elsevier Ltd. All rights reserved.
+C1 [Reid, Vincent M.] Univ Durham, Dept Psychol, Durham DH1 3LE, England.
+   [Striano, Tricia] Max Planck Inst Human Cognit & Brain Sci, Dept Neuropsychol, Leipzig, Germany.
+   [Striano, Tricia] CUNY Hunter Coll, Dept Psychol, New York, NY 10021 USA.
+   [Iacoboni, Marco] Univ Calif Los Angeles, David Geffen Sch Med, Ahmanson Lovelace Brain Mapping Ctr, Los Angeles, CA 90095 USA.
+RP Reid, VM (corresponding author), Univ Durham, Dept Psychol, Sci Labs, South Rd, Durham DH1 3LE, England.
+EM vincent.reid@durham.ac.uk; triciastriano@gmail.com
+OI Reid, Vincent/0000-0002-2774-6975
+FU Alexander von Humboldt FoundationAlexander von Humboldt Foundation;
+   Federal Ministry for Education and ResearchFederal Ministry of Education
+   & Research (BMBF); Universitatsfrauenklinik; Klinikum St. Georg
+FX This research was supported by the Sofja Kovalevskaja Award granted by
+   the Alexander von Humboldt Foundation, funded by the Federal Ministry
+   for Education and Research to T.S. We are grateful to the infants and
+   parents who participated and to the Universitatsfrauenklinik and the
+   Klinikum St. Georg for support and assistance with recruitment. We would
+   like to thank Jennifer Landt for assistance with testing and coding and
+   Maren Grigutsch for assistance with data transformation and analysis.
+NR 43
+TC 37
+Z9 39
+U1 0
+U2 16
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1878-9293
+J9 DEV COGN NEUROS-NETH
+JI Dev. Cogn. Neurosci.
+PD APR
+PY 2011
+VL 1
+IS 2
+BP 124
+EP 130
+DI 10.1016/j.dcn.2011.01.001
+PG 7
+WC Psychology, Developmental; Neurosciences
+SC Psychology; Neurosciences & Neurology
+GA V28AJ
+UT WOS:000208653400003
+PM 22436436
+OA Bronze, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Li, SJ
+   Hong, B
+   Gao, XR
+   Wang, Y
+   Gao, SK
+AF Li, Shijun
+   Hong, Bo
+   Gao, Xiaorong
+   Wang, Yi
+   Gao, Shangkai
+TI Event-related spectral perturbation induced by action-related sound
+SO NEUROSCIENCE LETTERS
+LA English
+DT Article
+DE Auditory-motor system; Event-related spectral perturbation; Motor
+   experience
+ID PERCEPTION; EEG
+AB It is now well established that human brain is endowed with an auditory-motor system which may depend on individual's motor experience. Here we designed an electroencephalography (EEG) experiment for investigating this dependency. A sound with not-so-obvious meaning was presented to subjects firstly. Then a visual exposure process was carried out to establish an association between the sound and action. By analyzing event-related spectral perturbation (ERSP) in the mu rhythm, we expected to find response differences in the motor cortex between the pre- and post-exposure periods. Results of 14 subjects indicated that the activation of motor cortex was stronger in the post-exposure phase. Our study suggests that the auditory-motor association can be established rapidly by a simple exposure process. (C) 2011 Elsevier Ireland Ltd. All rights reserved.
+C1 [Li, Shijun; Hong, Bo; Gao, Xiaorong; Gao, Shangkai] Tsinghua Univ, Sch Med, Dept Biomed Engn, Beijing 100084, Peoples R China.
+   [Li, Shijun] Peoples Liberat Army Gen Hosp, Dept Med Instruments, Beijing 100853, Peoples R China.
+   [Wang, Yi] Peoples Liberat Army Gen Hosp, Dept Stomatol, Beijing 100853, Peoples R China.
+RP Gao, SK (corresponding author), Tsinghua Univ, Sch Med, Dept Biomed Engn, Beijing 100084, Peoples R China.
+EM gsk-dea@tsinghua.edu.cn
+OI Hong, Bo/0000-0003-2900-6791
+FU National Natural Science Foundation of ChinaNational Natural Science
+   Foundation of China [30630022]
+FX This work was funded by National Natural Science Foundation of China
+   (30630022).
+NR 9
+TC 4
+Z9 4
+U1 0
+U2 3
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 0304-3940
+EI 1872-7972
+J9 NEUROSCI LETT
+JI Neurosci. Lett.
+PD MAR 24
+PY 2011
+VL 491
+IS 3
+BP 165
+EP 167
+DI 10.1016/j.neulet.2011.01.016
+PG 3
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 740BB
+UT WOS:000288765400001
+PM 21236317
+DA 2020-08-05
+ER
+
+PT J
+AU Perry, A
+   Bentin, S
+AF Perry, Anat
+   Bentin, Shlomo
+TI Does focusing on hand-grasping intentions modulate electroencephalogram
+   mu and alpha suppressions?
+SO NEUROREPORT
+LA English
+DT Article
+DE alpha rhythms; electroencephalography; grasping; intention; mirror
+   neuron system; mu rhythms
+ID MIRROR-NEURON SYSTEM; COGNITIVE-PROCESSES; PREMOTOR CORTEX; PERCEPTION;
+   DESYNCHRONIZATION; OSCILLATIONS; RECOGNITION; INFORMATION; EXECUTION;
+   MOVEMENT
+AB Understanding the intentions of others presumably involves a human analog of the mirror neuron system. A putative marker of such mirror activity is the suppression of electroencephalographic oscillations in the 8-12 Hz range, which, when recorded over somatosensory areas, is associated with motor activity and labeled mu rhythms. We investigated whether mu-suppression can be modulated by attention to another person's intention as expressed by her hand movement toward an object and whether this suppression is distinguished from the suppression of alpha waves that oscillate in the same frequency range and are modulated by attention and cognitive load. Both mu and alpha suppressions were modulated by task difficulty, and not distinctively by intention, reflecting the recruitment of resources needed for task performance. NeuroReport 21:1050-1054 (C) 2010 Wolters Kluwer Health vertical bar Lippincott Williams & Wilkins.
+C1 [Perry, Anat; Bentin, Shlomo] Hebrew Univ Jerusalem, Dept Psychol, IL-91905 Jerusalem, Israel.
+   [Bentin, Shlomo] Hebrew Univ Jerusalem, Interdisciplinary Ctr Neural Computat, IL-91905 Jerusalem, Israel.
+RP Perry, A (corresponding author), Hebrew Univ Jerusalem, Dept Psychol, IL-91905 Jerusalem, Israel.
+EM anat.perry@mail.huji.ac.il
+RI Perry, Anat/AAF-8396-2020
+NR 25
+TC 33
+Z9 34
+U1 0
+U2 16
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0959-4965
+J9 NEUROREPORT
+JI Neuroreport
+PD NOV 17
+PY 2010
+VL 21
+IS 16
+BP 1050
+EP 1054
+DI 10.1097/WNR.0b013e32833fcb71
+PG 5
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 664IV
+UT WOS:000282954500008
+PM 20838261
+DA 2020-08-05
+ER
+
+PT J
+AU Giromini, L
+   Porcelli, P
+   Viglione, DJ
+   Parolin, L
+   Pineda, JA
+AF Giromini, Luciano
+   Porcelli, Piero
+   Viglione, Donald J.
+   Parolin, Laura
+   Pineda, Jaime A.
+TI The feeling of movement: EEG evidence for mirroring activity during the
+   observations of static, ambiguous stimuli in the Rorschach cards
+SO BIOLOGICAL PSYCHOLOGY
+LA English
+DT Article
+DE Mirror neurons; Action observation; Empathy; Rorschach
+ID SHARED MANIFOLD HYPOTHESIS; NEURON SYSTEM; SOCIAL COGNITION; MU-RHYTHMS;
+   MOTOR FACILITATION; BIOLOGICAL-MOTION; HAND ACTIONS; EMPATHY;
+   ACTIVATION; IMITATION
+AB The mirror neuron system (MNS) is considered the best explanation for the neural basis of embodied simulation. To date no study has investigated if it may be activated not only by actual but by the "feeling of movement". The Rorschach test cards were used to investigate evidence of EEG mu wave suppression at central areas, an index of MNS activity, since human movement responses (M) to the Rorschach elicit such feelings of movement. Nineteen healthy volunteers observed different sets of Rorschach stimuli during attribution, identification, and observation of human movements and different scenarios while their EEG were recorded. Significant mu suppression occurred when subjects perceived movement, regardless of the experimental condition. These results show that mirroring can be activated by static, ambiguous stimuli such as Rorschach cards, suggesting that internal representation of the "feeling of movement" may be sufficient to trigger MNS activity even when minimal external cues are present. (c) 2010 Elsevier B.V. All rights reserved.
+C1 [Pineda, Jaime A.] Univ Calif San Diego, Dept Cognit Sci, La Jolla, CA 92037 USA.
+   [Giromini, Luciano; Parolin, Laura] Univ Milano Bicocca, Dept Psychol, Milan, Italy.
+   [Viglione, Donald J.] Alliant Int Univ, Calif Sch Profess Psychol, San Diego, CA 92131 USA.
+RP Pineda, JA (corresponding author), Univ Calif San Diego, Dept Cognit Sci, La Jolla, CA 92037 USA.
+EM pineda@cogsci.ucsd.edu
+RI Porcelli, Piero/H-9812-2012; Giromini, Luciano/AAF-9386-2019
+OI Porcelli, Piero/0000-0002-2263-8051; Giromini,
+   Luciano/0000-0002-9540-4803
+NR 80
+TC 32
+Z9 34
+U1 3
+U2 17
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0301-0511
+EI 1873-6246
+J9 BIOL PSYCHOL
+JI Biol. Psychol.
+PD OCT
+PY 2010
+VL 85
+IS 2
+BP 233
+EP 241
+DI 10.1016/j.biopsycho.2010.07.008
+PG 9
+WC Psychology, Biological; Behavioral Sciences; Psychology; Psychology,
+   Experimental
+SC Psychology; Behavioral Sciences
+GA 664ZI
+UT WOS:000283002400007
+PM 20654683
+DA 2020-08-05
+ER
+
+PT J
+AU Streltsova, A
+   Berchio, C
+   Gallese, V
+   Umilta', MA
+AF Streltsova, Alena
+   Berchio, Cristina
+   Gallese, Vittorio
+   Umilta', Maria Alessandra
+TI Time course and specificity of sensory-motor alpha modulation during the
+   observation of hand motor acts and gestures: a high density EEG study
+SO EXPERIMENTAL BRAIN RESEARCH
+LA English
+DT Article
+DE EEG; Sensory-motor alpha; Mirror mechanism; Motor resonance; Social
+   context; Time course
+ID MIRROR-NEURON SYSTEM; HIGH-RESOLUTION EEG; MU-RHYTHM; SOCIAL INTENTION;
+   PREMOTOR CORTEX; RECOGNITION; ACTIVATION; EXECUTION; OSCILLATIONS;
+   MOVEMENTS
+AB The main aim of the present study was to explore, by means of high-density EEG, the intensity and the temporal pattern of event-related sensory-motor alpha desynchronization (ERD) during the observation of different types of hand motor acts and gestures. In particular, we aimed to investigate whether the sensory-motor ERD would show a specific modulation during the observation of hand behaviors differing for goal-relatedness (hand grasping of an object and meaningless hand movements) and social relevance (communicative hand gestures and grasping within a social context). Time course analysis of alpha suppression showed that all types of hand behaviors were effective in triggering sensory-motor alpha ERD, but to a different degree depending on the category of observed hand motor acts and gestures. Meaningless gestures and hand grasping were the most effective stimuli, resulting in the strongest ERD. The observation of social hand behaviors such as social grasping and communicative gestures, triggered a more dynamic time course of ERD compared to that driven by the observation of simple grasping and meaningless gestures. These findings indicate that the observation of hand motor acts and gestures evoke the activation of a motor resonance mechanism that differs on the basis of the goal-relatedness and the social relevance of the observed hand behavior.
+C1 [Streltsova, Alena; Berchio, Cristina; Gallese, Vittorio; Umilta', Maria Alessandra] Univ Parma, Dept Neurosci, Physiol Sect, I-43100 Parma, Italy.
+   [Gallese, Vittorio; Umilta', Maria Alessandra] IIT, Brain Ctr Social & Motor Cognit, Parma, Italy.
+RP Umilta', MA (corresponding author), Univ Parma, Dept Neurosci, Physiol Sect, Via Volturno 39, I-43100 Parma, Italy.
+EM mariaalessandra.umilta@unipr.it
+OI Umilta', Maria Alessandra/0000-0003-0180-6818
+FU Ministero dell'Universita e della RicercaMinistry of Education,
+   Universities and Research (MIUR); Marie Curie Research Training
+   NetworkEuropean Union (EU); Ricerca FinalizzataMinistry of Health,
+   ItalyMinistry of Health Italy - Ricerca Finalizzata (MIUR-RF)
+FX The authors wish to thank Prof. C.A. Tassinari for most valuable
+   comments on EEG data collection and analysis, Dr. Pietro Avanzini for
+   his assistance in wavelet analysis and Dr. Patricia Gough for helpful
+   comments on earlier draft of this manuscript, Dr. Marco Bimbi and Dr.
+   Fabian Chersi for providing the technical support for movement analysis
+   This research was supported by Ministero dell'Universita e della Ricerca
+   [Relevant National Interest Project]. A.S. was funded by the Marie Curie
+   Research Training Network "Disorders and Coherence of the Embodied
+   Self''. C.B. was supported by fellowship Ricerca Finalizzata
+   2007-Programma Strategico "Inquiry into disruption of inter-subjective
+   equipment in autistic spectrum disorders in childhood''.
+NR 53
+TC 44
+Z9 44
+U1 1
+U2 15
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0014-4819
+EI 1432-1106
+J9 EXP BRAIN RES
+JI Exp. Brain Res.
+PD SEP
+PY 2010
+VL 205
+IS 3
+BP 363
+EP 373
+DI 10.1007/s00221-010-2371-7
+PG 11
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 640HP
+UT WOS:000281041100006
+PM 20680250
+OA Other Gold, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Gutsell, JN
+   Inzlicht, M
+AF Gutsell, Jennifer N.
+   Inzlicht, Michael
+TI Empathy constrained: Prejudice predicts reduced mental simulation of
+   actions during observation of outgroups
+SO JOURNAL OF EXPERIMENTAL SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE Prejudice; Interpersonal sensitivity; Empathy; EEG
+ID RESPONSES; EEG; DESYNCHRONIZATION; EXPERIENCE; ATTENTION; ATTITUDES;
+   OTHERS; PAIN
+AB Perception-action-coupling refers to the vicarious activation of the neural system for action during perception of action, and is considered important for forms of interpersonal sensitivity, including empathy. We hypothesize that perception-action-coupling is limited to the ingroup: neural motor networks will fire upon the perception of action, but only when the object-person belongs to the ingroup; if the object-person belongs to an outgroup these motor neurons will not fire. Using electroencephalographic oscillations as an index of perception-action-coupling, we found exactly this: participants displayed activity over motor cortex when acting and when observing ingroups act, but not when observing outgroups - an effect magnified by prejudice and for disliked groups (South-Asians, then Blacks, followed by East Asians). These findings provide evidence from brain activity for yet another detrimental aspect of prejudice: a spontaneous and implicit simulation of others' action states may be limited to close others and, without active effort, may not be available for outgroups. (C) 2010 Elsevier Inc. All rights reserved.
+C1 [Gutsell, Jennifer N.; Inzlicht, Michael] Univ Toronto, Dept Psychol, Toronto, ON M1C 1A4, Canada.
+RP Gutsell, JN (corresponding author), Univ Toronto, Dept Psychol, 1265 Mil Trail, Toronto, ON M1C 1A4, Canada.
+EM jennifer.nadine@googlemail.com; michael.inzlicht@utoronto.ca
+NR 41
+TC 146
+Z9 147
+U1 0
+U2 40
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0022-1031
+EI 1096-0465
+J9 J EXP SOC PSYCHOL
+JI J. Exp. Soc. Psychol.
+PD SEP
+PY 2010
+VL 46
+IS 5
+BP 841
+EP 845
+DI 10.1016/j.jesp.2010.03.011
+PG 5
+WC Psychology, Social
+SC Psychology
+GA 650TT
+UT WOS:000281876200020
+DA 2020-08-05
+ER
+
+PT J
+AU Schuch, S
+   Bayliss, AP
+   Klein, C
+   Tipper, SP
+AF Schuch, Stefanie
+   Bayliss, Andrew P.
+   Klein, Christoph
+   Tipper, Steven P.
+TI Attention modulates motor system activation during action observation:
+   evidence for inhibitory rebound
+SO EXPERIMENTAL BRAIN RESEARCH
+LA English
+DT Article
+DE Action perception; Inhibition; Mirror system; Mu rhythm; EEG
+ID MU-RHYTHM; CORTICAL EXCITABILITY; EEG; MIRROR; IMITATION; PERCEPTION;
+   REPRESENTATION; SUPPRESSION; EXECUTION; PREMOTOR
+AB Perceiving another individual's actions activates the human motor system. We investigated whether this effect is stronger when the observed action is relevant to the observer's task. The mu rhythm (oscillatory activity in the 8- to 13-Hz band over sensorimotor cortex) was measured while participants watched videos of grasping movements. In one of two conditions, the participants had to later report how many times they had seen a certain kind of grasp. In the other condition, they viewed the identical videos but had to later report how many times they had seen a certain colour change. The colour change and the grasp always occurred simultaneously. Results show mu rhythm attenuation when watching the videos relative to baseline. This attenuation was stronger when participants later reported the grasp rather than the colour, suggesting that the motor system is more strongly activated when the observed grasping actions were relevant to the observer's task. Moreover, when the graspable object disappeared after the offset of the video, there was subsequent mu rhythm enhancement, reflecting a post-stimulus inhibitory rebound. This enhancement was again stronger when making judgments about the grasp than the colour, suggesting that the stronger activation is followed by a stronger inhibitory rebound.
+C1 [Schuch, Stefanie] Rhein Westfal TH Aachen, Inst Psychol, D-52066 Aachen, Germany.
+   [Schuch, Stefanie; Bayliss, Andrew P.; Klein, Christoph; Tipper, Steven P.] Bangor Univ, Sch Psychol, Bangor, Gwynedd, Wales.
+   [Bayliss, Andrew P.] Univ Queensland, Sch Psychol, Brisbane, Qld, Australia.
+   [Klein, Christoph] Univ Freiburg, Dept Child & Adolescent Psychiat & Psychotherapy, Freiburg, Germany.
+RP Schuch, S (corresponding author), Rhein Westfal TH Aachen, Inst Psychol, Jaegerstr 17-19, D-52066 Aachen, Germany.
+EM schuch@psych.rwth-aachen.de
+RI Tipper, Steven P/I-6884-2012; Schuch, Stefanie/A-8414-2018
+OI Tipper, Steven P/0000-0002-1554-0531; Schuch,
+   Stefanie/0000-0001-9465-7692; Bayliss, Andrew/0000-0003-4810-7758;
+   Tipper, Steven Paul/0000-0002-7066-1117
+FU Wellcome TrustWellcome Trust [WT071924]; Leverhulme TrustLeverhulme
+   Trust
+FX This research was funded by a Wellcome Trust programme grant, WT071924,
+   awarded to SPT, and a Leverhulme Trust Early Career Fellowship awarded
+   to APB.
+NR 61
+TC 38
+Z9 39
+U1 0
+U2 7
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0014-4819
+EI 1432-1106
+J9 EXP BRAIN RES
+JI Exp. Brain Res.
+PD AUG
+PY 2010
+VL 205
+IS 2
+BP 235
+EP 249
+DI 10.1007/s00221-010-2358-4
+PG 15
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 634PW
+UT WOS:000280596400009
+PM 20644919
+OA Green Accepted, Other Gold, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Silas, J
+   Levy, JP
+   Nielsen, MK
+   Slade, L
+   Holmes, A
+AF Silas, Jonathan
+   Levy, Joseph P.
+   Nielsen, Maria Kragh
+   Slade, Lance
+   Holmes, Amanda
+TI Sex and individual differences in induced and evoked EEG measures of
+   action observation
+SO NEUROPSYCHOLOGIA
+LA English
+DT Article
+DE Mirror systems; Action observation; EEG
+ID SPECTRUM QUOTIENT AQ; GENDER-DIFFERENCES; MU-RHYTHM; FUNCTIONING AUTISM;
+   EMPATHY QUOTIENT; PREMOTOR CORTEX; MOTOR; EXECUTION; MOVEMENT;
+   RECOGNITION
+AB We used two established methods for analysing the EEG response of the neurotypical adult human brain to examine the execution and observation of simple motor actions. In one, execution or observation of a button-press in response to a tone caused a decrease in the power at 8-13 Hz ("mu") frequencies. In the other, the response preparation (or the inferred response preparation when these actions are observed in another person) was measured by the averaged response time-locked potentials measured over motor cortex - the "readiness potential". Results indicated that the mirrored readiness potentials were bilaterally generated. We found sex differences for both measures. However, whereas females showed a greater degree of response for the mu power measure during the observation of movement only, males showed larger readiness potentials during both movement performance and observation. Both measures have been claimed to be neural correlates of mirror systems in the brain where processes responsible for actions are linked to the perception of such actions. Such mirror systems have also been implicated in higher order social cognition such as empathy. However, we found no correlations between either of our EEG measures and self-report scales of social cognition. The results imply sex differences in the measured systems and for mirroring that are not directly related to social cognition. We suggest that the results may indicate two dissociable motor mirroring systems that can be measured by induced and evoked EEG. (C) 2010 Elsevier Ltd. All rights reserved.
+C1 [Silas, Jonathan; Levy, Joseph P.; Nielsen, Maria Kragh; Slade, Lance; Holmes, Amanda] Roehampton Univ, Dept Psychol, London SW15 4JD, England.
+RP Levy, JP (corresponding author), Roehampton Univ, Dept Psychol, Holybourne Ave, London SW15 4JD, England.
+EM j.levy@roehampton.ac.uk
+OI Slade, Lance/0000-0001-7846-7522
+FU BIAL FoundationBial Foundation [59/06]
+FX This research was supported by a grant from the BIAL Foundation (59/06).
+   The authors thank Tanith Hodges and Helen Judson for help in collecting
+   some of the data and Paul Bretherton for his technical assistance.
+NR 54
+TC 14
+Z9 14
+U1 3
+U2 17
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0028-3932
+EI 1873-3514
+J9 NEUROPSYCHOLOGIA
+JI Neuropsychologia
+PD JUL
+PY 2010
+VL 48
+IS 9
+BP 2417
+EP 2426
+DI 10.1016/j.neuropsychologia.2010.03.004
+PG 10
+WC Behavioral Sciences; Neurosciences; Psychology, Experimental
+SC Behavioral Sciences; Neurosciences & Neurology; Psychology
+GA 634ID
+UT WOS:000280573300002
+PM 20226800
+DA 2020-08-05
+ER
+
+PT J
+AU Yuan, H
+   Perdoni, C
+   He, B
+AF Yuan, Han
+   Perdoni, Christopher
+   He, Bin
+TI Relationship between speed and EEG activity during imagined and executed
+   hand movements
+SO JOURNAL OF NEURAL ENGINEERING
+LA English
+DT Article
+ID BRAIN-COMPUTER INTERFACE; MOTOR IMAGERY TASKS; CORTICAL REPRESENTATION;
+   ARM MOVEMENTS; ALPHA-RHYTHM; CORTEX; DIRECTION; CLASSIFICATION; NEURONS;
+   HUMANS
+AB The relationship between primary motor cortex and movement kinematics has been shown in nonhuman primate studies of hand reaching or drawing tasks. Studies have demonstrated that the neural activities accompanying or immediately preceding the movement encode the direction, speed and other information. Here we investigated the relationship between the kinematics of imagined and actual hand movement, i.e. the clenching speed, and the EEG activity in ten human subjects. Study participants were asked to perform and imagine clenching of the left hand and right hand at various speeds. The EEG activity in the alpha (8-12 Hz) and beta (18-28 Hz) frequency bands were found to be linearly correlated with the speed of imagery clenching. Similar parametric modulation was also found during the execution of hand movements. A single equation relating the EEG activity to the speed and the hand (left versus right) was developed. This equation, which contained a linear independent combination of the two parameters, described the time-varying neural activity during the tasks. Based on the model, a regression approach was developed to decode the two parameters from the multiple-channel EEG signals. We demonstrated the continuous decoding of dynamic hand and speed information of the imagined clenching. In particular, the time-varying clenching speed was reconstructed in a bell-shaped profile. Our findings suggest an application to providing continuous and complex control of noninvasive brain-computer interface for movement-impaired paralytics.
+C1 [Yuan, Han; Perdoni, Christopher; He, Bin] Univ Minnesota, Dept Biomed Engn, Minneapolis, MN 55455 USA.
+RP He, B (corresponding author), Univ Minnesota, Dept Biomed Engn, Minneapolis, MN 55455 USA.
+EM binhe@umn.edu
+RI Yuan, Han/AAH-2894-2019
+OI Yuan, Han/0000-0003-0055-9691
+FU NSFNational Science Foundation (NSF) [CBET-0933067]; NIHUnited States
+   Department of Health & Human ServicesNational Institutes of Health (NIH)
+   - USA [RO1EB007920, RO1EB006433]; NIH Neuro-Physical-Computational
+   Sciences [R90 DK070106]
+FX The authors are grateful to Drs A David Redish, Zhongming Liu and Audrey
+   Royer for helpful discussions. Also the authors would like to thank Dan
+   Rinker and Rahel Ghenbot for assistance in collecting the experimental
+   data in the subjects. This work was supported in part by NSF
+   CBET-0933067, NIH RO1EB007920, NIH RO1EB006433. HY was supported in part
+   by an NIH Neuro-Physical-Computational Sciences Fellowship R90 DK070106.
+NR 37
+TC 67
+Z9 70
+U1 1
+U2 14
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 1741-2560
+EI 1741-2552
+J9 J NEURAL ENG
+JI J. Neural Eng.
+PD APR
+PY 2010
+VL 7
+IS 2
+AR 026001
+DI 10.1088/1741-2560/7/2/026001
+PG 10
+WC Engineering, Biomedical; Neurosciences
+SC Engineering; Neurosciences & Neurology
+GA 575XL
+UT WOS:000276104000001
+PM 20168002
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Southgate, V
+   Johnson, MH
+   El Karoui, I
+   Csibra, G
+AF Southgate, Victoria
+   Johnson, Mark H.
+   El Karoui, Imen
+   Csibra, Gergely
+TI Motor System Activation Reveals Infants' On-Line Prediction of Others'
+   Goals
+SO PSYCHOLOGICAL SCIENCE
+LA English
+DT Article
+DE action understanding; goal prediction; infants; EEG; sensorimotor alpha
+ID ATTRIBUTE GOALS; OBJECT; ORIGINS; CORTEX
+AB Despite much research demonstrating infants' abilities to attribute goals to others' actions, it is unclear whether infants can generate on-line predictions about action outcomes, an ability crucial for the human propensity to cooperate and collaborate with others. This lack of evidence is mainly due to methodological limitations restricting the interpretation of behavioral data. Here, we exploited the fact that observers' motor systems are recruited during the observation of goal-directed actions. We presented 9-month-old infants with part of an action. For this action to be interpreted as goal directed, the infants would need to predict an outcome for the action. Measuring the attenuation of the sensorimotor alpha signal during observation of action, we found that infants exhibited evidence of motor activation only if the observed action permitted them to infer a likely outcome. This result provides evidence for on-line goal prediction in infancy, and our method offers a new way to explore infants' cognitive abilities.
+C1 [Southgate, Victoria] Univ London, Ctr Brain & Cognit Dev, Sch Psychol, London WC1E 7HX, England.
+   [El Karoui, Imen] Ecole Normale Super, Dept Biol, Paris, France.
+   [Csibra, Gergely] Cent European Univ, Dept Philosophy, Cognit Dev Ctr, Budapest, Hungary.
+RP Southgate, V (corresponding author), Univ London, Ctr Brain & Cognit Dev, Sch Psychol, Malet St, London WC1E 7HX, England.
+EM v.southgate@bbk.ac.uk
+RI Csibra, Gergely/C-4345-2008
+OI Csibra, Gergely/0000-0002-7044-3056; Southgate,
+   Victoria/0000-0001-9328-3019; Johnson, Mark/0000-0003-4229-2585
+FU Medical Research CouncilMedical Research Council UK (MRC) [G0701484]
+NR 28
+TC 126
+Z9 130
+U1 1
+U2 20
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0956-7976
+EI 1467-9280
+J9 PSYCHOL SCI
+JI Psychol. Sci.
+PD MAR
+PY 2010
+VL 21
+IS 3
+BP 355
+EP 359
+DI 10.1177/0956797610362058
+PG 5
+WC Psychology, Multidisciplinary
+SC Psychology
+GA 575OJ
+UT WOS:000276076500008
+PM 20424068
+DA 2020-08-05
+ER
+
+PT J
+AU Perry, A
+   Troje, NF
+   Bentin, S
+AF Perry, Anat
+   Troje, Nikolaus F.
+   Bentin, Shlomo
+TI Exploring motor system contributions to the perception of social
+   information: Evidence from EEG activity in the mu/alpha frequency range
+SO SOCIAL NEUROSCIENCE
+LA English
+DT Article
+DE Mu rhythms; Alpha; Biological motion; Motor system; Social skills
+ID MIRROR-NEURON SYSTEM; EVENT-RELATED DESYNCHRONIZATION; SHARED MANIFOLD
+   HYPOTHESIS; AUTISM SPECTRUM DISORDERS; LIGHT BIOLOGICAL MOTION;
+   FACE-TO-FACE; MU-RHYTHM; COGNITIVE NEUROSCIENCE; GRASP REPRESENTATIONS;
+   FUNCTIONAL TOPOGRAPHY
+AB Putative contributions of a human mirror neuron system (hMNS) to the perception of social information have been assessed by measuring the suppression of EEG oscillations in the mu/alpha (8-12 Hz), beta (15-25 Hz) and low-gamma (25-25 Hz) ranges while participants processed social information revealed by point-light displays of human motion. Identical dynamic displays were presented and participants were instructed to distinguish the intention, the emotion, or the gender of a moving image of a person, while they performed an adapted odd-ball task. Relative to a baseline presenting a nonbiological but meaningful motion display, all three biological motion conditions reduced the EEG amplitude in the mu/alpha and beta ranges, but not in the low-gamma range. Suppression was larger in the intention than in the emotion and gender conditions, with no difference between the latter two. Moreover, the suppression in the intention condition was negatively correlated with an accepted measure of empathy (EQ), revealing that participants high in empathy scores manifested less suppression. For intention and emotion the suppression was larger at occipital than at central sites, suggesting that factors other than motor system were in play while processing social information embedded in the motion of point-light displays.
+C1 [Perry, Anat] Hebrew Univ Jerusalem, Dept Psychol, IL-91905 Jerusalem, Israel.
+   [Troje, Nikolaus F.] Queens Univ, Kingston, ON, Canada.
+RP Perry, A (corresponding author), Hebrew Univ Jerusalem, Dept Psychol, IL-91905 Jerusalem, Israel.
+EM anat.perry@mail.huji.ac.il
+RI Troje, Niko/F-1107-2010; Perry, Anat/AAF-8396-2020
+OI Troje, Niko/0000-0002-1533-2847
+FU NSERCNatural Sciences and Engineering Research Council of Canada;
+   Hoffman Leadership and Responsibility at the Hebrew University
+FX We thank Dori Bar-On for skillful assistance in running the experiment,
+   NSERC for funding NFT, and the "Hoffman Leadership and Responsibility"
+   fellowship program, at the Hebrew University, for partially funding AP.
+NR 104
+TC 82
+Z9 84
+U1 1
+U2 25
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1747-0919
+EI 1747-0927
+J9 SOC NEUROSCI-UK
+JI Soc. Neurosci.
+PY 2010
+VL 5
+IS 3
+BP 272
+EP 284
+AR PII 919324322
+DI 10.1080/17470910903395767
+PG 13
+WC Neurosciences; Psychology
+SC Neurosciences & Neurology; Psychology
+GA 610HV
+UT WOS:000278723400002
+PM 20169504
+DA 2020-08-05
+ER
+
+PT J
+AU Southgate, V
+   Johnson, MH
+   Osborne, T
+   Csibra, G
+AF Southgate, Victoria
+   Johnson, Mark H.
+   Osborne, Tamsin
+   Csibra, Gergely
+TI Predictive motor activation during action observation in human infants
+SO BIOLOGY LETTERS
+LA English
+DT Article
+DE social cognition; action perception; motor system
+ID SYSTEM; EXECUTION; CORTEX
+AB Certain regions of the human brain are activated both during action execution and action observation. This so-called 'mirror neuron system' has been proposed to enable an observer to understand an action through a process of internal motor simulation. Although there has been much speculation about the existence of such a system from early in life, to date there is little direct evidence that young infants recruit brain areas involved in action production during action observation. To address this question, we identified the individual frequency range in which sensorimotor alpha-band activity was attenuated in nine-month-old infants' electroencephalographs (EEGs) during elicited reaching for objects, and measured whether activity in this frequency range was also modulated by observing others' actions. We found that observing a grasping action resulted in motor activation in the infant brain, but that this activity began prior to observation of the action, once it could be anticipated. These results demonstrate not only that infants, like adults, display overlapping neural activity during execution and observation of actions, but that this activation, rather than being directly induced by the visual input, is driven by infants' understanding of a forthcoming action. These results provide support for theories implicating the motor system in action prediction.
+C1 [Southgate, Victoria; Johnson, Mark H.; Osborne, Tamsin; Csibra, Gergely] Univ London, Ctr Brain & Cognit Dev, London WC1E 7HU, England.
+   [Csibra, Gergely] Cent European Univ, Dept Philosophy, Budapest, Hungary.
+RP Southgate, V (corresponding author), Univ London, Ctr Brain & Cognit Dev, London WC1E 7HU, England.
+EM v.southgate@bbk.ac.uk
+RI Csibra, Gergely/C-4345-2008
+OI Csibra, Gergely/0000-0002-7044-3056; Southgate,
+   Victoria/0000-0001-9328-3019; Johnson, Mark/0000-0003-4229-2585
+FU UK MRC ProgrammeMedical Research Council UK (MRC) [G9715587]; James
+   McDonnell Foundation; Medical Research CouncilMedical Research Council
+   UK (MRC) [G9715587, G0701484]
+FX This work was supported by UK MRC Programme grant no. G9715587 and the
+   James McDonnell Foundation. We also thank A. Hamilton and C. Sinigaglia
+   for helpful comments on a previous version of this manuscript.
+NR 19
+TC 141
+Z9 142
+U1 2
+U2 29
+PU ROYAL SOC
+PI LONDON
+PA 6-9 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1744-9561
+EI 1744-957X
+J9 BIOL LETTERS
+JI Biol. Lett.
+PD DEC 23
+PY 2009
+VL 5
+IS 6
+BP 769
+EP 772
+DI 10.1098/rsbl.2009.0474
+PG 4
+WC Biology; Ecology; Evolutionary Biology
+SC Life Sciences & Biomedicine - Other Topics; Environmental Sciences &
+   Ecology; Evolutionary Biology
+GA 517QM
+UT WOS:000271632000016
+PM 19675001
+OA Green Published, Bronze
+DA 2020-08-05
+ER
+
+PT J
+AU Raymaekers, R
+   Wiersema, JR
+   Roeyers, H
+AF Raymaekers, Ruth
+   Wiersema, Jan Roelf
+   Roeyers, Herbert
+TI EEG study of the mirror neuron system in children with high functioning
+   autism
+SO BRAIN RESEARCH
+LA English
+DT Article
+DE HFA; Mirror neurons; EEG; Mu frequency
+ID HIGH-RESOLUTION EEG; SPECTRUM DISORDERS; MOTOR FACILITATION; SOCIAL
+   COGNITION; MU-RHYTHM; MAGNETIC STIMULATION; MOVEMENT OBSERVATION; ACTION
+   RECOGNITION; PREMOTOR CORTEX; HAND ACTIONS
+AB Individuals with Autism Spectrum Disorder (ASD) are characterised by an impaired imitation, thought to be critical for early affective, social and communicative development. One neurological system proposed to underlie this function is the mirror neuron system (MNS) and previous research has suggested a dysfunctional MNS in ASD. The EEG mu frequency, more precisely the reduction of the mu power, is considered to be an index for mirror neuron functioning. in this work, EEG registrations are used to evaluate the mirror neuron functioning of twenty children with high functioning autism (HFA) between 8 and 13 years. Their mu suppression to self-executed and observed movement is compared to typically developing peers and related to age, intelligence and symptom severity. Both groups show significant mu suppression to both self and observed hand movements. No group differences are found in either condition. These results do not support the hypothesis that HFA is associated with a dysfunctional MNS. The discrepancy with previous research is discussed in light of the heterogeneity of the ASD population. (C) 2009 Elsevier B.V. All rights reserved.
+C1 [Raymaekers, Ruth; Wiersema, Jan Roelf; Roeyers, Herbert] Univ Ghent, Ghent, Belgium.
+RP Raymaekers, R (corresponding author), Dept Expt Clin & Hlth Psychol, Res Grp Dev Disorders, Henri Dunantlaan 2, B-9000 Ghent, Belgium.
+EM ruth.raymaekers@UGent.be
+RI Roeyers, Herbert/A-5557-2018
+OI Roeyers, Herbert/0000-0002-4895-583X
+NR 75
+TC 84
+Z9 88
+U1 2
+U2 57
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0006-8993
+J9 BRAIN RES
+JI Brain Res.
+PD DEC 4
+PY 2009
+VL 1304
+BP 113
+EP 121
+DI 10.1016/j.brainres.2009.09.068
+PG 9
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 531HE
+UT WOS:000272654400012
+PM 19782668
+DA 2020-08-05
+ER
+
+PT J
+AU Marshall, PJ
+   Bouquet, CA
+   Shipley, TF
+   Young, T
+AF Marshall, Peter J.
+   Bouquet, Cedric A.
+   Shipley, Thomas F.
+   Young, Thomas
+TI Effects of brief imitative experience on EEG desynchronization during
+   action observation
+SO NEUROPSYCHOLOGIA
+LA English
+DT Article
+DE Perception; Action; Imitation; EEG; Mirror neuron system
+ID MIRROR-NEURON SYSTEM; PRIMARY MOTOR CORTEX; MU-RHYTHMS;
+   FUNCTIONAL-SIGNIFICANCE; ACTION-PERCEPTION; HAND ACTIONS; ALPHA BAND;
+   SIMULATION; FMRI; EXECUTION
+AB There is a good deal of evidence that observing the actions of other people is associated with activation of the observer's motor system, which may reflect involvement of the mirror neuron system (MNS) in certain aspects of action processing in humans. Furthermore, variation in the extent of this activation appears to be partly dependent on individuals' experience with performing the observed actions. However, very little work has examined the processes through which the observation of unfamiliar actions - which are not in an observer's motor repertoire - might become associated with MNS activation. In the current study we examined differences in EEG desynchronization in alpha-range bands during action observation following very brief imitative experience with the observed actions, which were novel drawing movements. Compared to carrying out unrelated actions, brief imitative experience was specifically associated with a significantly larger desynchronization in the 11-13 Hz band at mid-frontal sites (F3 and F4) when a previously imitated action was viewed again. In addition, higher fidelity of imitation was significantly correlated with greater bilateral desynchronization of the lower mu band (8-10 Hz) at central sites (C3 and C4) during subsequent observation of the previously imitated action. Our findings point to the involvement of frontal cortical processing and the MNS in the early stages of imitative learning. (C) 2009 Elsevier Ltd. All rights reserved.
+C1 [Marshall, Peter J.] Temple Univ, Dept Psychol, Philadelphia, PA 19122 USA.
+   [Bouquet, Cedric A.] Univ Poitiers, Poitiers, France.
+RP Marshall, PJ (corresponding author), Temple Univ, Dept Psychol, 1701 N 13th St, Philadelphia, PA 19122 USA.
+EM pjmarsh@temple.edu
+RI Bouquet, Cedric A/C-8518-2009; Bouquet, Cedric/AAT-9527-2020
+OI Bouquet, Cedric A/0000-0003-4228-3291; Bouquet,
+   Cedric/0000-0003-4228-3291
+FU National Science FoundationNational Science Foundation (NSF)
+   [BCS-0642404]
+FX The authors wish to thank Ben Schimeneck, Jeremy Fesi, Kat Ruopp, and
+   Inara O'Gorman for their assistance with data collection. This research
+   was supported by grant BCS-0642404 from the National Science Foundation
+   to PJM and TFS.
+NR 49
+TC 39
+Z9 40
+U1 1
+U2 12
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0028-3932
+EI 1873-3514
+J9 NEUROPSYCHOLOGIA
+JI Neuropsychologia
+PD AUG
+PY 2009
+VL 47
+IS 10
+BP 2100
+EP 2106
+DI 10.1016/j.neuropsychologia.2009.03.022
+PG 7
+WC Behavioral Sciences; Neurosciences; Psychology, Experimental
+SC Behavioral Sciences; Neurosciences & Neurology; Psychology
+GA 460LM
+UT WOS:000267189200010
+PM 19467360
+DA 2020-08-05
+ER
+
+PT J
+AU Perry, A
+   Bentin, S
+AF Perry, Anat
+   Bentin, Shlomo
+TI Mirror activity in the human brain while observing hand movements: A
+   comparison between EEG desynchronization in the mu-range and previous
+   fMRI results
+SO BRAIN RESEARCH
+LA English
+DT Article
+DE Mu rhythm; Alpha; EEG
+ID FUNCTIONAL TOPOGRAPHY; ACTION RECOGNITION; NEURAL MECHANISMS;
+   ALPHA-RHYTHM; NEURONS; ACTIVATION; IMITATION; OTHERS; REPRESENTATIONS;
+   MODULATION
+AB Mu (mu) rhythms are EEG oscillations between 8-13 Hz distinguished from alpha by having more anterior distribution and being desynchronized by motor rather than visual activity. Evidence accumulating during the last decade suggests that the de synchronization of mu rhythms (mu suppression) might be also a manifestation of a human Mirror Neuron System (MNS). To further explore this hypothesis we used a paradigm that, in a previous fMRI study, successfully activated this putative MNS in humans. our direct goal was to provide further support for a link between modulation of mu rhythms and the MNS, by finding parallels between the reported patterns of fMRI activations and patterns of mu suppression. The EEG power in the mu range has been recorded while participants passively observed either a left or a right hand, reaching to and grasping objects, and compared it with that recorded while participants observed the movement of a ball, and while observing static grasping scenes or still objects. Mirroring fMRI results (Shmuelof, L., Zohary, E., 2005. Dissociation between ventral and dorsal fMRI activation during object and action recognition. Neuron 47, 457-470), mu suppression was larger in the hemisphere contra-lateral to the moving hand and larger when the hands grasped different objects in different ways than when the movement was repetitive. No suppression was found while participants observed still objects but mu suppression was also found while seeing static grasping postures. These data are discussed in light of similar parallels between modulations of alpha waves and fMRI while recording EEG in the magnet. The present data support a link between mu suppression and a human MNS. (C) 2009 Elsevier B.V. All rights reserved.
+C1 [Perry, Anat; Bentin, Shlomo] Hebrew Univ Jerusalem, Dept Psychol, IL-91905 Jerusalem, Israel.
+   [Bentin, Shlomo] Hebrew Univ Jerusalem, Interdisciplinary Ctr Neural Computat, IL-91905 Jerusalem, Israel.
+RP Perry, A (corresponding author), Hebrew Univ Jerusalem, Dept Psychol, IL-91905 Jerusalem, Israel.
+EM anat.perry@mail.huji.ac.il
+RI Perry, Anat/AAF-8396-2020
+FU Israeli Science Foundation (ISF)Israel Science Foundation
+FX This study was supported by an Israeli Science Foundation (ISF) grant to
+   Shlomo Bentin. We thank Lior Shmuelof and Ehud Zohary for kindly sharing
+   their stimuli with us.
+NR 51
+TC 137
+Z9 141
+U1 0
+U2 34
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0006-8993
+EI 1872-6240
+J9 BRAIN RES
+JI Brain Res.
+PD JUL 28
+PY 2009
+VL 1282
+BP 126
+EP 132
+DI 10.1016/j.brainres.2009.05.059
+PG 7
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 477PG
+UT WOS:000268530400014
+PM 19500557
+DA 2020-08-05
+ER
+
+PT J
+AU Yang, CY
+   Decety, J
+   Lee, SY
+   Chen, CY
+   Cheng, YW
+AF Yang, Chia-Yen
+   Decety, Jean
+   Lee, Shinyi
+   Chen, Chenyi
+   Cheng, Yawei
+TI Gender differences in the mu rhythm during empathy for pain: An
+   electroencephalographic study
+SO BRAIN RESEARCH
+LA English
+DT Article
+DE Mu rhythm; Empathy; Pain; Gender difference; Mimicry
+ID AUTISM SPECTRUM DISORDERS; SEX-DIFFERENCES; NEURAL PROCESSES; MIRROR
+   SYSTEM; OTHERS; BRAIN; STIMULATION; PERCEPTION; MODULATION; HUMANS
+AB Our recent magnetoencephalography study demonstrated that the mu rhythm can reliably indicate sensorimotor resonance during the perception of pain in others (Cheng, Y., Yang, C. Y., Lin, C.P., Lee, P.L., Decety, J., 2008b. The perception of pain in others suppresses somatosensory oscillations: a magnetoencephalography study. NeuroImage 40, 1833-1840). The current study further investigated the neurophysiological mechanism underpinning empathy for pain in relation with gender through the measurements of the electroencephalographic mu suppression in healthy female (N=16) and male (N=16) adults during the observation of body parts in painful or no-painful situations. The results demonstrate that both genders exhibited sensorimotor activation related to pain empathy. However, females showed stronger mu suppressions than males when watching the painful as well as the non-painful situations. Further, the mu suppression for pain empathy was positively correlated with the scoring on the personal distress subscale of the interpersonal reactivity index only in the female participants. The present findings suggest the existence of a gender difference in pain empathy in relation with the sensorimotor cortex resonance. The mu rhythm can be a potential biomarker of empathic mimicry. (c) 2008 Elsevier B.V. All rights reserved.
+C1 [Chen, Chenyi; Cheng, Yawei] Natl Yang Ming Univ, Sch Life Sci, Inst Neurosci, Taipei 112, Taiwan.
+   [Yang, Chia-Yen] Ching Yun Univ, Inst Comp Commun & Syst Engn, Chungli, Taiwan.
+   [Decety, Jean] Univ Chicago, Dept Psychiat & Psychol, Chicago, IL 60637 USA.
+   [Decety, Jean] Univ Chicago, Ctr Cognit & Social Neurosci, Chicago, IL 60637 USA.
+   [Lee, Shinyi] Natl Yang Ming Univ, Inst Brain Sci, Taipei 112, Taiwan.
+   [Cheng, Yawei] Natl Yang Ming Univ Hosp, Dept Phys Med & Rehabil, Yilan, Taiwan.
+RP Cheng, YW (corresponding author), Natl Yang Ming Univ, Sch Life Sci, Inst Neurosci, Taipei 112, Taiwan.
+EM ywcheng2@ym.edu.tw
+OI Chen, Chenyi/0000-0001-8050-6754
+FU National Yang-Ming University Hospital [RD2008-015]; National Science
+   CouncilNational Science Council of Taiwan [NSC 97-2410-H-010-003-MY2,
+   NSC 97-2410-H-231-004]; Department of Health of Taipei City Government
+   [97001-62-020]; NSFNational Science Foundation (NSF) [BCS-0718480]
+FX This study was sponsored by the National Yang-Ming University Hospital
+   (RD2008-015), National Science Council (NSC 97-2410-H-010-003-MY2; NSC
+   97-2410-H-231-004), and the Department of Health of Taipei City
+   Government (97001-62-020). Dr. Jean Decety was supported by a grant from
+   NSF (BCS-0718480).
+NR 58
+TC 106
+Z9 112
+U1 2
+U2 32
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0006-8993
+EI 1872-6240
+J9 BRAIN RES
+JI Brain Res.
+PD JAN 28
+PY 2009
+VL 1251
+BP 176
+EP 184
+DI 10.1016/j.brainres.2008.11.062
+PG 9
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 406OI
+UT WOS:000263304400017
+PM 19083993
+DA 2020-08-05
+ER
+
+PT J
+AU van Elk, M
+   van Schie, HT
+   Hunnius, S
+   Vesper, C
+   Bekkering, H
+AF van Elk, M.
+   van Schie, H. T.
+   Hunnius, S.
+   Vesper, C.
+   Bekkering, H.
+TI You'll never crawl alone: Neurophysiological evidence for
+   experience-dependent motor resonance in infancy
+SO NEUROIMAGE
+LA English
+DT Article
+ID MIRROR-NEURON SYSTEM; HIGH-RESOLUTION EEG; PREMOTOR AREAS; OTHERS
+   ACTIONS; MOVEMENTS; PARIETAL; CORTEX; PERCEPTION; ACTIVATION; IMITATION
+AB Lately, neuroscience is showing a great interest in examining the functional and neural mechanisms which support action observation and understanding. Recent studies have suggested that our motor skills crucially affect the way in which we perceive the actions generated by others, by showing stronger motor resonance for observation of actions that are established in one's motor repertoire. In the present study we extend previous findings that were based on expert motor skills in adults to the natural development of actions in infants. To investigate the effect of natural motor experience on motor resonance during action observation, 14- to 16-month-old infants' EEG was recorded during observation of action videos. Stronger mu- and betadesynchronizations were found for observation of crawling compared to walking videos and the size of the effect was strongly related to the infant's own crawling experience. This suggests that already early in life one's own action experience is closely related to how actions of others are perceived. (C) 2008 Elsevier Inc. All rights reserved.
+C1 [van Elk, M.; Hunnius, S.; Bekkering, H.] Radboud Univ Nijmegen, Donders Inst Brain Cognit & Behav, NL-6500 HE Nijmegen, Netherlands.
+   [van Schie, H. T.] Radboud Univ Nijmegen, Inst Behav Sci, NL-6500 HE Nijmegen, Netherlands.
+   [Vesper, C.] Univ Munich, Munich, Germany.
+RP van Elk, M (corresponding author), Radboud Univ Nijmegen, Donders Inst Brain Cognit & Behav, POB 9104, NL-6500 HE Nijmegen, Netherlands.
+EM m.vanelk@nici.ru.nl
+RI van Schie, Hein T/D-2281-2010; Hunnius, Sabine/D-5834-2012; Vesper,
+   Cordula/E-6734-2012; Bekkering, Harold/A-6357-2009
+OI Vesper, Cordula/0000-0002-3434-4843
+FU VICINetherlands Organization for Scientific Research (NWO) [453-05-001];
+   Dutch Organization for Scientific ResearchNetherlands Organization for
+   Scientific Research (NWO); European Union Joint-Action Science and
+   TechnologyEuropean Union (EU) [IST-FP6-003747]; Group Radboud University
+   Nijmegen; Radboud University Nijmegen
+FX The present study was supported by a VICI Grant 453-05-001 from the
+   Dutch Organization for Scientific Research (NWO) and the European Union
+   Joint-Action Science and Technology Project (IST-FP6-003747). We thank
+   the following people for their help and support: Jos Wittebrood
+   (Electronics Group Radboud University Nijmegen; producing movement
+   sensors and connection with EEG computer), Pascal de Water (Electronics
+   Group Radboud University Nijmegen; integrating Tobii-eyetracker with
+   Presentation software), Gerard van Oijen (Electronics Group Radboud
+   University Nijmegen; integrating experimental setup in EEG lab), Birgit
+   Knudsen and Madelon Riem (help with EEG data acquisition).
+NR 41
+TC 153
+Z9 155
+U1 1
+U2 28
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 1053-8119
+J9 NEUROIMAGE
+JI Neuroimage
+PD DEC
+PY 2008
+VL 43
+IS 4
+BP 808
+EP 814
+DI 10.1016/j.neuroimage.2008.07.057
+PG 7
+WC Neurosciences; Neuroimaging; Radiology, Nuclear Medicine & Medical
+   Imaging
+SC Neurosciences & Neurology; Radiology, Nuclear Medicine & Medical Imaging
+GA 392KA
+UT WOS:000262300400017
+PM 18760368
+DA 2020-08-05
+ER
+
+PT J
+AU Nystrom, P
+AF Nystrom, Par
+TI The infant mirror neuron system studied with high density EEG
+SO SOCIAL NEUROSCIENCE
+LA English
+DT Article
+ID PRIMARY MOTOR CORTEX; EVENT-RELATED POTENTIALS; GRASP REPRESENTATIONS;
+   MAGNETIC STIMULATION; ACTION RECOGNITION; SOCIAL COGNITION; PREMOTOR
+   CORTEX; BRAIN RESPONSES; YOUNG INFANTS; ALPHA-RHYTHM
+AB The mirror neuron system has been suggested to play a role in many social capabilities such as action understanding, imitation, language and empathy. These are all capabilities that develop during infancy and childhood, but the human mirror neuron system has been poorly studied using neurophysiological measures. This study measured the brain activity of 6-month-old infants and adults using a high-density EEG net with the aim of identifying mirror neuron activity. The subjects viewed both goal-directed movements and non-goal-directed movements. An independent component analysis was used to extract the sources of cognitive processes. The desynchronization of the mu rhythm in adults has been shown to be a marker for activation of the mirror neuron system and was used as a criterion to categorize independent components between subjects. The result is showed significant mu desynchronization in the adult group and significantly higher ERP activation in both adults and 6-month-olds for the goal-directed action observation condition. This study demonstrate that infants as young as 6 months display mirror neuron activity and is the first to present a direct ERP measure of the mirror neuron system in infants.
+C1 Uppsala Univ, Dept Psychol, S-75142 Uppsala, Sweden.
+RP Nystrom, P (corresponding author), Uppsala Univ, Dept Psychol, Box 1225, S-75142 Uppsala, Sweden.
+EM par.nystrom@psyk.uu.se
+FU Swedish Research CouncilSwedish Research Council [421-2003-1508];
+   EUEuropean Union (EU) [FP6-004370]
+FX The author acknowledges the contribution of Robert Oostenveld for making
+   the DIPFIT software available, as well as the whole EEGLAB developer
+   group. Luciano Fadiga and Laila Craighero contributed with valuable
+   discussions and Claes von Hofsten. Kerstin Rosander and Clara Schmitow
+   assisted with important improvements and great support.
+NR 57
+TC 110
+Z9 111
+U1 1
+U2 35
+PU PSYCHOLOGY PRESS
+PI HOVE
+PA 27 CHURCH RD, HOVE BN3 2FA, EAST SUSSEX, ENGLAND
+SN 1747-0919
+J9 SOC NEUROSCI
+JI Soc. Neurosci.
+PD SEP-DEC
+PY 2008
+VL 3
+IS 3-4
+BP 334
+EP 347
+DI 10.1080/17470910701563665
+PG 14
+WC Neurosciences; Psychology
+SC Neurosciences & Neurology; Psychology
+GA 382FE
+UT WOS:000261589800012
+PM 18979389
+DA 2020-08-05
+ER
+
+PT J
+AU Moore, RA
+   Gale, A
+   Morris, PH
+   Forrester, D
+AF Moore, Roger A.
+   Gale, Anthony
+   Morris, Paul H.
+   Forrester, Dave
+TI Alpha power and coherence primarily reflect neural activity related to
+   stages of motor response during a continuous monitoring task
+SO INTERNATIONAL JOURNAL OF PSYCHOPHYSIOLOGY
+LA English
+DT Article
+DE alpha coherence/power; Mu; response preparation/execution/inhibition
+ID CORTICAL ACTIVATION; EEG COHERENCE; THETA; SYNCHRONIZATION;
+   OSCILLATIONS; STIMULUS; BAND
+AB Previously, EEG theta (4-6 Hz) was related to goal conflict resolution [Moore, R.A., Gale, A., Morris, P.H., Forrester, D., 2006. Theta phase locking across the neocortex reflects cortico-hippocampal recursive communication during goal conflict resolution. Int. J. Psychophysiol. 60, 260-2731 in the context of theory linked with animal hippocampal theta [GrayJA., McNaughton, N., 2000. The Neuropsychology of Anxiety: An Enquiry into the Functions of the Septo-Hippocampal system, 2nd ed, Oxford University Press, Oxford]. Here, the hypothesis that human EEG alpha (8-12 Hz) may also be a natural analogue to animal hippocampal theta is tested. Participants engaged in a monitoring task where the object was to press a response key immediately after presentation of 4 individual, non-repeating, single integer odd digits. These were presented amongst a continuous stream of single integer digits and Xs. EEG recorded in the earlier study were reanalysed; this time extracting alpha power and coherence from the same 34 participants. Alpha had a different profile to theta and was not primarily related to goal conflict. Low alpha (8-10 Hz) coherence consistently increased at electrodes close to primary sensorimotor cortex; particularly during response execution and response inhibition. The coherence analysis revealed that high alpha (10-12 Hz) related to response execution. Supplementary analyses demonstrated widespread high alpha coherence increase during response execution, inhibition and preparation. These data were discussed within the context of motor driven 'classic alpha' and Rolandic mu. A coherence profile which differentiated response execution and response inhibition was proposed to reflect a working memory network which was activated during response execution. Also, alpha power (8-12 Hz) reduced at several central electrodes during response execution. This reflected classic Rolandic mu response. Participants displaying a predicted low alpha power trend had the fastest response times; this was linked with traditional views of low alpha's functional significance. (c) 2008 Elsevier B.V. All rights reserved.
+C1 [Moore, Roger A.; Gale, Anthony; Morris, Paul H.; Forrester, Dave] Univ Portsmouth, Dept Psychol, Portsmouth PO1 2DY, Hants, England.
+RP Moore, RA (corresponding author), Univ Portsmouth, Dept Psychol, King Henry I st, Portsmouth PO1 2DY, Hants, England.
+EM roger.s.moore@port.ac.uk
+OI Moore, Roger/0000-0002-8375-0434; morris, paul/0000-0002-3752-6992
+NR 32
+TC 14
+Z9 14
+U1 1
+U2 5
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0167-8760
+EI 1872-7697
+J9 INT J PSYCHOPHYSIOL
+JI Int. J. Psychophysiol.
+PD AUG
+PY 2008
+VL 69
+IS 2
+BP 79
+EP 89
+DI 10.1016/j.ijpsycho.2008.03.003
+PG 11
+WC Psychology, Biological; Neurosciences; Physiology; Psychology;
+   Psychology, Experimental
+SC Psychology; Neurosciences & Neurology; Physiology
+GA 334VY
+UT WOS:000258250600001
+PM 18430481
+DA 2020-08-05
+ER
+
+PT J
+AU Kranczioch, C
+   Athanassiou, S
+   Shen, S
+   Gao, G
+   Sterr, A
+AF Kranczioch, C.
+   Athanassiou, S.
+   Shen, S.
+   Gao, G.
+   Sterr, A.
+TI Short-term learning of a visually guided power-grip task is associated
+   with dynamic changes in EEG oscillatory activity
+SO CLINICAL NEUROPHYSIOLOGY
+LA English
+DT Article
+DE ERD; desynchronisation; ERS; synchronisation; motor system; power;
+   beta-rebound; visual force-feedback; coherence
+ID INDEPENDENT COMPONENT ANALYSIS; MOVEMENT BETA-SYNCHRONIZATION;
+   SUPPLEMENTARY MOTOR AREA; TOP-DOWN CONTROL; CORTICAL AREAS; BRAIN
+   ACTIVITY; VISUOMOTOR INTEGRATION; COHERENT OSCILLATIONS; CONSCIOUS
+   PERCEPTION; BILATERAL COHERENCE
+AB Objective: Performing a motor task after a period of training has been associated with reduced cortical activity and changes in oscillatory brain activity. Little is known about whether learning also affects the neural network associated with motor preparation and post movement processes. Here we investigate how short-term motor learning affects oscillatory brain activity during the preparation, execution, and post-movement stage of a force-feedback task.
+   Methods: Participants performed a visually guided power-grip tracking task. EEG was recorded from 64 scalp electrodes. Power and coherence data for the early and late stages of the task were compared.
+   Results: Performance improved with practice. During the preparation for the task alpha power was reduced for late experimental blocks. A movement execution-related decrease in beta power was attenuated with increasing task practice. A post-movement increase in alpha and lower beta activity was observed that decreased with learning. Coherence analysis revealed changes in cortico-cortical coupling with regard to the stage of the visuomotor task and with regard to learning. Learning was variably associated with increased coherence between contralateral and/or ipsilateral frontal and parietal, fronto-central, and occipital brain regions.
+   Conclusions: Practice of a visuomotor power-grip task is associated with various changes in the activity of a widespread cortical network. These changes might promote visuomotor learning.
+   Significance: This study provides important new evidence for and sheds new light on the complex nature of the brain processes underlying visuomotor integration and short-term learning. (c) 2008 International Federation of Clinical Neurophysiology. Published by Elsevier Ireland Ltd. All rights reserved.
+C1 [Kranczioch, C.] Univ Portsmouth, Dept Psychol, Portsmouth PO1 2DY, Hants, England.
+   [Kranczioch, C.; Athanassiou, S.; Shen, S.; Gao, G.; Sterr, A.] Univ Surrey, Dept Psychol, Cognit Neurosci Res Team, Guildford GU2 5XH, Surrey, England.
+   [Gao, G.] UCL, Dept Comp Sci, London WC1E 6BT, England.
+RP Kranczioch, C (corresponding author), Univ Portsmouth, Dept Psychol, King Henry 1st St, Portsmouth PO1 2DY, Hants, England.
+EM conny.kranczioh@port.ac.uk
+OI Sterr, Annette/0000-0003-4490-985X
+FU Medical Research CouncilMedical Research Council UK (MRC) [G0200128]
+NR 72
+TC 31
+Z9 33
+U1 0
+U2 4
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 1388-2457
+EI 1872-8952
+J9 CLIN NEUROPHYSIOL
+JI Clin. Neurophysiol.
+PD JUN
+PY 2008
+VL 119
+IS 6
+BP 1419
+EP 1430
+DI 10.1016/j.clinph.2008.02.011
+PG 12
+WC Clinical Neurology; Neurosciences
+SC Neurosciences & Neurology
+GA 309ZP
+UT WOS:000256499000026
+PM 18378494
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Orgs, G
+   Dombrowski, JH
+   Heil, M
+   Jansen-Osmann, P
+AF Orgs, Guido
+   Dombrowski, Jan-Henryk
+   Heil, Martin
+   Jansen-Osmann, Petra
+TI Expertise in dance modulates alpha/beta event-related desynchronization
+   during action observation
+SO EUROPEAN JOURNAL OF NEUROSCIENCE
+LA English
+DT Article
+DE electroencephalogram; human; imitation; mirror neurons; mu-rhythm
+ID GRASP REPRESENTATIONS; MAGNETIC STIMULATION; PREMOTOR CORTEX; MU-RHYTHM;
+   MOTOR; EXECUTION; MOVEMENT; HUMANS; ELECTROENCEPHALOGRAPHY;
+   SYNCHRONIZATION
+AB We presented professional dancers and non-dancers with videos of two movement styles, dance movements and everyday movements. Participants were asked to indicate by a button press to which category a movement belonged. We computed event-related desynchronization (ERD) in alpha and beta frequency bands between 7.5 and 25 Hz relative to a visual baseline condition. Power in alpha and lower beta frequency bands was significantly reduced if dancers watched dance movements but not if non-dancers watched dance movements, in particular between 1 and 2 s after movement onset. During observation of everyday movements no such group difference was evident. Thus, ERD in alpha and beta frequency bands was modulated by a participant's expertise with a certain movement style. The results are discussed in light of a human observation-execution matching system similar to the macaque mirror neuron system and strengthen the idea of a functional relationship between such a system and rhythmical activity in the alpha and beta frequency bands.
+C1 [Orgs, Guido; Dombrowski, Jan-Henryk; Heil, Martin; Jansen-Osmann, Petra] Univ Dusseldorf, Dept Expt Psychol, D-40225 Dusseldorf, Germany.
+RP Orgs, G (corresponding author), Univ Dusseldorf, Dept Expt Psychol, Univ Str 1, D-40225 Dusseldorf, Germany.
+EM orgs@uni-duesseldorf.de
+RI Heil, Martin/B-9444-2008
+OI Heil, Martin/0000-0003-1245-9954; Orgs, Guido/0000-0003-3725-3979
+NR 29
+TC 125
+Z9 127
+U1 2
+U2 17
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0953-816X
+J9 EUR J NEUROSCI
+JI Eur. J. Neurosci.
+PD JUN
+PY 2008
+VL 27
+IS 12
+BP 3380
+EP 3384
+DI 10.1111/j.1460-9568.2008.06271.x
+PG 5
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 315BV
+UT WOS:000256853800027
+PM 18598273
+DA 2020-08-05
+ER
+
+PT J
+AU Martineau, J
+   Cochin, S
+   Magne, R
+   Barthelemy, C
+AF Martineau, Joele
+   Cochin, Stephanie
+   Magne, Remy
+   Barthelemy, Catherine
+TI Impaired cortical activation in autistic children: Is the mirror neuron
+   system involved?
+SO INTERNATIONAL JOURNAL OF PSYCHOPHYSIOLOGY
+LA English
+DT Article
+DE autism; EEG; desynchronisation; human motion; visual perception; mirror
+   neuron system
+ID PERCEPTION; PREMOTOR; MOTION; RECOGNITION; IMITATION; MOVEMENT
+AB The inability to imitate becomes obvious early in autistic children and seems to contribute to learning delay and to disorders of communication and contact. Posture, motility and imitation disorders in autistic syndrome might be the consequence of an abnormality of sensori-motor integration, related to the visual perception of movement, and could reflect impairment of the mirror neuron system (MNS).
+   We compared EEG activity during the observation of videos showing actions or still scenes in 14 right-handed autistic children and 14 right-handed, age- and gender-matched control children (3 girls and I I boys, aged 5 years 3 months-7 years I I months). We showed desynchronisation of the EEG in the motor cerebral cortex and the frontal and temporal areas during observation of human actions in the group of healthy children. No such desynchronisation was found in autistic children. Moreover, inversion of the pattern of hemispheric activation was found in autistic children, with increased cortical activity in the right hemisphere in the posterior region, including the centro-parietal and temporo-occipital sites. These results are in agreement with the hypothesis of impairment of the mirror neuron system in autistic disorder. (C) 2008 Elsevier B.V. All rights reserved.
+C1 [Martineau, Joele; Cochin, Stephanie; Magne, Remy; Barthelemy, Catherine] Univ Tours, CHRU, INSERM U930, F-37000 Tours, France.
+RP Martineau, J (corresponding author), CHU Bretonneau, 2 Blvd Tonnelle, F-37044 Tours, France.
+EM j.martineau@chu-tours.fr
+NR 23
+TC 70
+Z9 77
+U1 0
+U2 18
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0167-8760
+EI 1872-7697
+J9 INT J PSYCHOPHYSIOL
+JI Int. J. Psychophysiol.
+PD APR
+PY 2008
+VL 68
+IS 1
+BP 35
+EP 40
+DI 10.1016/j.ijpsycho.2008.01.002
+PG 6
+WC Psychology, Biological; Neurosciences; Physiology; Psychology;
+   Psychology, Experimental
+SC Psychology; Neurosciences & Neurology; Physiology
+GA 293GE
+UT WOS:000255322600005
+PM 18313160
+DA 2020-08-05
+ER
+
+PT J
+AU Babiloni, C
+   Del Percio, C
+   Lacoboni, M
+   Infarinato, F
+   Lizio, R
+   Marzano, N
+   Crespi, G
+   Dassu, F
+   Pirritano, M
+   Gallamini, M
+   Eusebi, F
+AF Babiloni, Claudio
+   Del Percio, Claudio
+   Lacoboni, Marco
+   Infarinato, Francesco
+   Lizio, Roberta
+   Marzano, Nicola
+   Crespi, Gianluca
+   Dassu, Federica
+   Pirritano, Mirella
+   Gallamini, Michele
+   Eusebi, Fabrizio
+TI Golf putt outcomes are predicted by sensorimotor cerebral EEG rhythms
+SO JOURNAL OF PHYSIOLOGY-LONDON
+LA English
+DT Article
+ID EVENT-RELATED DESYNCHRONIZATION; PROCESS DISSOCIATION PROCEDURE;
+   SUPPLEMENTARY MOTOR AREA; HIGH-RESOLUTION EEG; MU-RHYTHM; COGNITIVE
+   PERFORMANCE; LAPLACIAN ESTIMATE; CORTICAL AREAS; ALPHA-ACTIVITY; HAND
+   AREA
+AB It is not known whether frontal cerebral rhythms of the two hemispheres are implicated in fine motor control and balance. To address this issue, electroencephalographic (EEG) and stabilometric recordings were simultaneously performed in 12 right-handed expert golfers. The subjects were asked to stand upright on a stabilometric force platform placed at a golf green simulator while playing about 100 golf putts. Balance during the putts was indexed by body sway area. Cortical activity was indexed by the power reduction in spatially enhanced alpha (8-12 Hz) and beta (13-30 Hz) rhythms during movement, referred to as the pre-movement period. It was found that the body sway area displayed similar values in the successful and unsuccessful putts. In contrast, the high-frequency alpha power (about 10-12 Hz) was smaller in amplitude in the successful than in the unsuccessful putts over the frontal midline and the arm and hand region of the right primary sensorimotor area; the stronger the reduction of the alpha power, the smaller the error of the unsuccessful putts (i.e. distance from the hole). These results indicate that high-frequency alpha rhythms over associative, premotor and non-dominant primary sensorimotor areas subserve motor control and are predictive of the golfer's performance.
+C1 [Babiloni, Claudio; Lacoboni, Marco; Marzano, Nicola; Eusebi, Fabrizio] Univ Roma La Sapienza, Dipartimento Fisiol Umana & Farmacol, I-00185 Rome, Italy.
+   [Babiloni, Claudio] AFaR S Giovanmi Calibita Isola Tibernia, Rome, Italy.
+   [Babiloni, Claudio; Del Percio, Claudio] AFaR, IRCCS San Giovanni Dio Fatebenefratelli, Brescia, Italy.
+   [Del Percio, Claudio; Infarinato, Francesco; Lizio, Roberta; Marzano, Nicola; Pirritano, Mirella; Eusebi, Fabrizio] CONI Serv, Ist Med & Sci Sport, Rome, Italy.
+   [Crespi, Gianluca; Dassu, Federica] Fed Italiana Golf, Rome, Italy.
+   [Gallamini, Michele] RGM, Genoa, Italy.
+   [Eusebi, Fabrizio] Neuromed IRCCS, I-86077 Pozzilli Isernia, Italy.
+RP Del Percio, C (corresponding author), Univ Roma La Sapienza, Dipartimento Fisiol Umana & Farmacol, Ple A Moro 5, I-00185 Rome, Italy.
+EM claudio.delpercio@uniromal.it
+RI Lizio, Roberta/K-3114-2016; Infarinato, Francesco/K-8843-2016
+OI Infarinato, Francesco/0000-0002-5570-8490; Babiloni,
+   Claudio/0000-0002-5245-9839
+NR 46
+TC 85
+Z9 87
+U1 0
+U2 14
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0022-3751
+EI 1469-7793
+J9 J PHYSIOL-LONDON
+JI J. Physiol.-London
+PD JAN 1
+PY 2008
+VL 586
+IS 1
+BP 131
+EP 139
+DI 10.1113/jphysiol.2007.141630
+PG 9
+WC Neurosciences; Physiology
+SC Neurosciences & Neurology; Physiology
+GA 255SW
+UT WOS:000252678700018
+PM 17947315
+OA Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Oberman, LM
+   Ramachandran, VS
+   Pineda, JA
+AF Oberman, Lindsay M.
+   Ramachandran, Vilayanur S.
+   Pineda, Jaime A.
+TI Modulation of mu suppression in children with autism spectrum disorders
+   in response to familiar or unfamiliar stimuli: The mirror neuron
+   hypothesis
+SO NEUROPSYCHOLOGIA
+LA English
+DT Article
+DE autism spectrum disorder; mu rhythm; EEG; mirror neuron system;
+   familiarity; social interaction
+ID MOTOR CORTEX; EEG EVIDENCE; FACE; IMITATION; RHYTHMS; SYSTEM; MONKEY;
+   FMRI; AREA; INDIVIDUALS
+AB In an early description of the mu rhythm, Gastaut and Bert [Gastaut, H. J., & Bert, J. (1954). EEG changes during cinematographic presentation. Clinical Neurophysiology, 6, 433-444] noted that it was blocked when an individual identified himself with an active person on the screen, suggesting that it may be modulated by the degree to which the individual can relate to the observed action. Additionally, multiple recent studies suggest that the mirror neurons system (MNS) is impaired in individuals with autism spectrum disorders (ASD), which may affect their ability to relate to others. The current study aimed to investigate MNS sensitivity by examining mu suppression to familiarity, i.e., the degree to which the observer is able to identify with the actor on the screen by using familiar versus unfamiliar actors. The participants viewed four 80 s videos that included: (1) stranger: an unfamiliar hand performing a grasping action; (2) familiar: the child's guardian or sibling's hand performing the same action; (3) own: the participant's own hand performing the same action; (4) bouncing balls: two balls moving vertically toward and away from each other. The study revealed that mu suppression was sensitive to degree of familiarity. Both typically developing participants and those with ASD showed greater suppression to familiar hands compared to those of strangers. These findings suggest that the MNS responds to observed actions in individuals with ASD, but only when individuals can identify in some personal way with the stimuli. (C) 2008 Elsevier Ltd. All rights reserved.
+C1 [Oberman, Lindsay M.; Ramachandran, Vilayanur S.] Univ Calif San Diego, Ctr Brain & Cognit, La Jolla, CA 92093 USA.
+   [Oberman, Lindsay M.; Ramachandran, Vilayanur S.] Univ Calif San Diego, Dept Psychol, La Jolla, CA 92093 USA.
+   [Ramachandran, Vilayanur S.; Pineda, Jaime A.] Univ Calif San Diego, Dept Neurosci, La Jolla, CA 92093 USA.
+   [Pineda, Jaime A.] Univ Calif San Diego, Dept Cognit Sci, La Jolla, CA 92093 USA.
+RP Oberman, LM (corresponding author), 330 Brookline Ave,Kirstein Bldg KS 158, Boston, MA 02215 USA.
+EM loberman@bidmc.harvard.edu
+NR 61
+TC 199
+Z9 203
+U1 3
+U2 66
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0028-3932
+EI 1873-3514
+J9 NEUROPSYCHOLOGIA
+JI Neuropsychologia
+PY 2008
+VL 46
+IS 5
+BP 1558
+EP 1565
+DI 10.1016/j.neuropsychologia.2008.01.010
+PG 8
+WC Behavioral Sciences; Neurosciences; Psychology, Experimental
+SC Behavioral Sciences; Neurosciences & Neurology; Psychology
+GA 314DO
+UT WOS:000256789500036
+PM 18304590
+DA 2020-08-05
+ER
+
+PT J
+AU Ulloa, ER
+   Pineda, JA
+AF Ulloa, Erlinda R.
+   Pineda, Jaime A.
+TI Recognition of point-light biological motion: Mu rhythms and mirror
+   neuron activity
+SO BEHAVIOURAL BRAIN RESEARCH
+LA English
+DT Article
+DE EEG; mirror neurons; mu rhythm
+ID SUPERIOR TEMPORAL SULCUS; HUMAN MOTOR CORTEX; FUNCTIONAL-ANATOMY;
+   PERCEPTION; PREMOTOR; AREAS; EEG; IMITATION; MOVEMENT; PARIETAL
+AB Changes in power in the mu frequency band (8-13 Hz) of the electroencephalogram (EEG) is thought to indirectly reflect the activity of mirror neurons in premotor cortex. Activation of these neurons by self-performed, observed or imagined motor actions is assumed to produce asynchronous firing and a reduction in mu rhythm oscillation (referred to as mu suppression) in sensorimotor cortex. A recent fMRI study by Saygin et al. [Saygin AP, Wilson SM, Hagler Jr DJ, Bates E, Sereno MI. Point-light biological motion perception activates human premotor cortex. J Neurosci 2004;24:6181-8] revealed that the premotor brain regions containing mirror-neurons are also activated in response to point-light human motion. The perceived movement of these light cues are integrated into one percept of a complete human action (e.g. jumping jacks), rather than seen as individual moving lights. The present study examined whether recruitment of the mirror neuron system, as reflected in mu rhythm suppression, mediates recognition of point-light biological motion. Changes in mu power were recorded while subjects viewed point-light biological motion videos, matched scrambled versions of these animations, and visual white-noise (baseline). The results revealed that point-light biological animations produced mu suppression relative to baseline, while scrambled versions of these animations did not. This supports the hypothesis that the mirror neuron system is involved in inferring human actions by recovering object information from sparse input. (C) 2007 Elsevier B.V. All rights reserved.
+C1 Univ Calif San Diego, Dept Biol, La Jolla, CA 92093 USA.
+   Univ Calif San Diego, Dept Cognit Sci, La Jolla, CA 92093 USA.
+   Univ Calif San Diego, Dept Neurosci, La Jolla, CA 92093 USA.
+   Univ Calif San Diego, Dept Psychol, La Jolla, CA 92093 USA.
+RP Pineda, JA (corresponding author), Univ Calif San Diego, 9500 Gilman Dr, La Jolla, CA 92093 USA.
+EM pineda@cogsci.ucsd.edu
+NR 68
+TC 151
+Z9 155
+U1 0
+U2 18
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0166-4328
+EI 1872-7549
+J9 BEHAV BRAIN RES
+JI Behav. Brain Res.
+PD NOV 2
+PY 2007
+VL 183
+IS 2
+BP 188
+EP 194
+DI 10.1016/j.bbr.2007.06.007
+PG 7
+WC Behavioral Sciences; Neurosciences
+SC Behavioral Sciences; Neurosciences & Neurology
+GA 218TR
+UT WOS:000250038300009
+PM 17658625
+DA 2020-08-05
+ER
+
+PT J
+AU Bernier, R
+   Dawson, G
+   Webb, S
+   Murias, M
+AF Bernier, R.
+   Dawson, G.
+   Webb, S.
+   Murias, M.
+TI EEG mu rhythm and imitation impairments in individuals with autism
+   spectrum disorder
+SO BRAIN AND COGNITION
+LA English
+DT Article
+DE autism; imitation; EEG; mu rhythm; mirror neurons
+ID HIGH-RESOLUTION EEG; MIRROR NEURON DYSFUNCTION; DEVELOPMENTAL DISORDERS;
+   FUNCTIONAL-SIGNIFICANCE; CHILDHOOD AUTISM; MOTOR IMITATION;
+   ALPHA-RHYTHM; CHILDREN; MOVEMENT; PERCEPTION
+AB Imitation ability has consistently been shown to be impaired in individuals with autism. A dysfunctional execution/observation matching system has been proposed to account for this impairment. The EEG mu rhythm is believed to reflect an underlying execution/observation matching system. This study investigated evidence of differential mu rhythm attenuation during the observation, execution, and imitation of movements and examined its relation to behaviorally assessed imitation abilities. Fourteen high-functioning adults with autism spectrum disorder (ASD) and 15 IQ- and age-matched typical adults participated. On the behavioral imitation task, adults with ASD demonstrated significantly poorer performance compared to typical adults in all domains of imitation ability. On the EEG task, both groups demonstrated significant attenuation of the mu rhythm when executing an action. However, when observing movement, the individuals with ASD showed significantly reduced attenuation of the mu wave. Behaviorally assessed imitation skills were correlated with degree of mu wave attenuation during observation of movement. These findings suggest that there is execution/observation matching system dysfunction in individuals with autism and that this matching system is related to degree of impairment in imitation abilities. (C) 2007 Elsevier Inc. All rights reserved.
+C1 Univ Washington, Ctr Dev & Disabil, Seattle, WA 98195 USA.
+   Univ Washington, Dept Psychol, Seattle, WA 98195 USA.
+   Univ Washington, UW Autism Ctr, Seattle, WA 98195 USA.
+   Univ Washington, Ctr Human Dev & Disabil, Seattle, WA 98195 USA.
+   Univ Washington, Dept Psychiat & Behav Sci, Seattle, WA 98195 USA.
+RP Bernier, R (corresponding author), Univ Washington, Ctr Dev & Disabil, Box 357920, Seattle, WA 98195 USA.
+EM rab2@u.washington.edu
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [U54 MH066399, U54 MH066399-050001]; Autism Speaks [AS2154]
+NR 59
+TC 179
+Z9 185
+U1 3
+U2 53
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0278-2626
+EI 1090-2147
+J9 BRAIN COGNITION
+JI Brain Cogn.
+PD AUG
+PY 2007
+VL 64
+IS 3
+BP 228
+EP 237
+DI 10.1016/j.bandc.2007.03.004
+PG 10
+WC Neurosciences; Psychology, Experimental
+SC Neurosciences & Neurology; Psychology
+GA 197LI
+UT WOS:000248556500004
+PM 17451856
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Oberman, LM
+   McCleery, JP
+   Ramachandran, VS
+   Pineda, JA
+AF Oberman, Lindsay M.
+   McCleery, Joseph P.
+   Ramachandran, Vilayanur S.
+   Pineda, Jaime A.
+TI EEG evidence for mirror neuron activity during the observation of human
+   and robot actions: Toward an analysis of the human qualities of
+   interactive robots
+SO NEUROCOMPUTING
+LA English
+DT Article; Proceedings Paper
+CT 3rd International Conference on Development and Learning (ICDL 2004)
+CY OCT 20-22, 2004
+CL La Jolla, CA
+DE mirror neuron; humanoid; anthropomorphic; robot; volition; action
+   observation; social interaction
+ID AUTISM SPECTRUM DISORDERS; BIOLOGICAL MOTION; MU-RHYTHMS; MOTOR
+   FACILITATION; PREMOTOR CORTEX; PERCEPTION; RECOGNITION; MECHANISMS;
+   IMITATION; ACTIVATION
+AB The current study investigated the properties of stimuli that lead to the activation of the human mirror neuron system, with an emphasis on those that are critically relevant for the perception of humanoid robots. Results suggest that robot actions, even those without objects, may activate the human mirror neuron system. Additionally, both volitional and nonvolitional human actions also appear to activate the mirror neuron system to relatively the same degree. Results front the current studies leave open the opportunity to use mirror neuron activation as a 'Turing test' for the development of truly humanoid robots. (C) 2007 Elsevier B.V. All rights reserved.
+C1 Univ Calif San Diego, Dept Psychol, La Jolla, CA 92093 USA.
+   Univ Calif San Diego, Dept Neurosci, La Jolla, CA 92093 USA.
+   Univ Calif San Diego, Dept Cognit Sci, La Jolla, CA 92093 USA.
+   Univ Calif San Diego, Ctr Brain & Cognit, La Jolla, CA 92093 USA.
+RP Oberman, LM (corresponding author), Univ Calif San Diego, Dept Psychol, La Jolla, CA 92093 USA.
+EM lshenk@psy.ucsd.edu
+NR 64
+TC 131
+Z9 134
+U1 3
+U2 42
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0925-2312
+EI 1872-8286
+J9 NEUROCOMPUTING
+JI Neurocomputing
+PD AUG
+PY 2007
+VL 70
+IS 13-15
+SI SI
+BP 2194
+EP 2203
+DI 10.1016/j.neucom.2006.02.024
+PG 10
+WC Computer Science, Artificial Intelligence
+SC Computer Science
+GA 185XZ
+UT WOS:000247745000005
+DA 2020-08-05
+ER
+
+PT J
+AU Muller-Putz, GR
+   Zimmermann, D
+   Graimann, B
+   Nestinger, K
+   Korisek, G
+   Pfurtscheller, G
+AF Mueller-Putz, Gernot R.
+   Zimmermann, Doris
+   Graimann, Bernhard
+   Nestinger, Kurt
+   Korisek, Gerd
+   Pfurtscheller, Gert
+TI Event-related beta EEG-changes during passive and attempted foot
+   movements in paraplegic patients
+SO BRAIN RESEARCH
+LA English
+DT Article
+DE electroencephalogram (EEG); event related (de-)synchronization (ERD/S);
+   passive/attempted movement; spinal cord injury (SCI); paraplegic
+   patients
+ID SPINAL-CORD INJURY; OSCILLATORY CORTICAL ACTIVITY; MOTOR IMAGERY;
+   SYNCHRONIZATION; DESYNCHRONIZATION; FREQUENCIES; POTENTIALS; RHYTHMS;
+   FINGER; CORTEX
+AB A number of electroencephalographic (EEG) studies report on motor event-related desynchronization and synchronization (ERD/ERS) in the beta band, i.e. a decrease and increase of spectral amplitudes of central beta rhythms in the range from 13 to 35 Hz. Following an ERD that occurs shortly before and during the movement, bursts of beta oscillations (beta ERS) appear within a 1-s interval after movement offset. Such a post-movement beta ERS has been reported after voluntary hand movements, passive movements, movement imagination, and also after movements induced by functional electrical stimulation. The present study compares ERD/ERS patterns in paraplegic patients (suffering from a complete spinal cord injury) and healthy subjects during attempted (active) and passive foot movements. The aim of this work is to address the question, whether patients do have the same focal beta ERD/ERS pattern during attempted foot movement as healthy subjects do. The results showed midcentral-focused beta ERD/ERS patterns during passive, active, and imagined foot movements in healthy subjects. This is in contrast to a diffuse and broad distributed ERD/ERS pattern during attempted foot movements in patients. Only one patient showed a similar ERD/ERS pattern. Furthermore, no significant ERD/ERS patterns during passive foot movement in the group of the paraplegics could be found. (c) 2006 Elsevier B.V. All rights reserved.
+C1 Graz Univ Technol, Lab Brain Comp Interfaces, Inst Knowledge Discovery, A-8010 Graz, Austria.
+   Rehabil Clin Tobelbad, A-8144 Tobelbad, Austria.
+RP Muller-Putz, GR (corresponding author), Graz Univ Technol, Lab Brain Comp Interfaces, Inst Knowledge Discovery, Krenngasse 37, A-8010 Graz, Austria.
+EM gernot.mueller@tugraz.at
+OI Muller-Putz, Gernot/0000-0002-0087-3720
+NR 29
+TC 125
+Z9 130
+U1 0
+U2 12
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0006-8993
+EI 1872-6240
+J9 BRAIN RES
+JI Brain Res.
+PD MAR 16
+PY 2007
+VL 1137
+IS 1
+BP 84
+EP 91
+DI 10.1016/j.brainres.2006.12.052
+PG 8
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 145EY
+UT WOS:000244849300010
+PM 17229403
+DA 2020-08-05
+ER
+
+PT J
+AU Pineda, JOA
+   Oberman, LM
+AF Pineda, Jaime Owner A.
+   Oberman, Lindsay M.
+TI What goads cigarette smokers to smoke? Neural adaptation and the mirror
+   neuron system
+SO BRAIN RESEARCH
+LA English
+DT Article
+DE Mu rhythm; addiction; smoker; motivationally salient; frontal cortex;
+   action
+ID MU-RHYTHMS; BEHAVIORAL SENSITIZATION; DRUG-ADDICTION; DYSFUNCTION;
+   ACTIVATION; MECHANISMS; IMITATION; MOVEMENT; EMPATHY; REWARD
+AB One model of addiction suggests that neural circuits in the frontal cortex adapt to drug use and become sensitized leading to excessive attribution of incentive salience to drug-associated cues. The present study examined changes associated with cigarette use in the frontal mirror neuron system (MNS) of the human brain, as reflected in mu rhythm responsiveness. Mirror neurons in premotor cortex exhibit visuomotor properties that allow them to respond to self-movement as well as the observation of movement. This is a potential neural substrate for imitation learning and social cognition, factors that may be important in determining who does and does not develop addictive behaviors. EEG mu rhythm suppression is hypothesized to reflect MNS activity and thus provide a non-invasive method for studying this relationship. our results show that while nonsmokers exhibit normal mu suppression to observed and self-generated actions, smokers exhibit normal suppression only to self-movement but not to the observation of movement, particularly actions involving addiction-related cues. Non-abstinent and abstinent smokers (those abstaining for approximately 12 h) did not differ significantly in their responses to the observation of movement, i.e., both exhibited atypical patterns of mu rhythm reactivity compared to nonsmokers. These data support the hypothesis that cigarette use produces short- and longer term adaptations in the MNS. Such adaptations may inappropriately bias attention toward motivationally salient, addiction-related cues leading to more impulsive and addiction-related behaviors. (c) 2006 Elsevier B.V. All rights reserved.
+C1 Univ Calif San Diego, Dept Cognit Sci, La Jolla, CA 92093 USA.
+   Univ Calif San Diego, Dept Neurosci, La Jolla, CA 92093 USA.
+   Univ Calif San Diego, Dept Psychol, La Jolla, CA 92093 USA.
+   Univ Calif San Diego, Ctr Brain & Cognit, La Jolla, CA 92093 USA.
+RP Pineda, JOA (corresponding author), Univ Calif San Diego, Dept Cognit Sci 0515, La Jolla, CA 92093 USA.
+EM pineda@cogsci.ucsd.edu
+NR 32
+TC 41
+Z9 43
+U1 1
+U2 11
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0006-8993
+J9 BRAIN RES
+JI Brain Res.
+PD NOV 22
+PY 2006
+VL 1121
+BP 128
+EP 135
+DI 10.1016/j.brainres.2006.08.128
+PG 8
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 114LT
+UT WOS:000242668400013
+PM 17045248
+DA 2020-08-05
+ER
+
+PT J
+AU Holmes, P
+   Collins, D
+   Calmels, C
+AF Holmes, P
+   Collins, D
+   Calmels, C
+TI Electroencephalographic functional equivalence during observation of
+   action
+SO JOURNAL OF SPORTS SCIENCES
+LA English
+DT Article
+DE EEG; observation; functional equivalence; shooting
+ID SINGLE-TRIAL EEG; ACTION RECOGNITION; HEART-RATE; BRAIN; PERFORMANCE;
+   PERCEPTION; AREA; REPRESENTATIONS; SYNCHRONIZATION; POTENTIALS
+AB The purpose of this study was to examine the variability in cortical activation during physical air-rifle shooting and three different observation conditions. Elite air-rifle shooters performed a 40 shot individual match. Electroencephalograms were recorded from 11 active sites across the cortex during the final 6 s (3 x 2 s epochs) before shot release. Data collection was repeated while shooters watched a large-screen video of their worst shot performance from an internal-visual perspective when seated, standing and standing holding their rifle. The hypothesized differences between the three observation conditions and the physical shooting profile were not shown except at the left anterior temporal site, T5. This finding suggests that observation of performance cannot be differentiated clearly by posture or modified through kinetic and haptic afference, and that visual percepts predominate in observational functional equivalence. However, more functionally equivalent observation reduced the observation/execution variability over the temporal areas. Performer debriefs also identified different perceptions of physiological, psychological and behavioural functional equivalence associated with the different observation conditions. We conclude that elite performers' brains are accessed equally effectively during different observation conditions irrespective of some of the physical factors ascribed to the conditions. However, they may require more functionally matched conditions to attain greater equivalence in temporal areas.
+C1 Manchester Metropolitan Univ, Alsager ST7 2HL, England.
+   Univ Edinburgh, Dept Phys Educ & Sport, Edinburgh, Midlothian, Scotland.
+   Inst Natl Sport & Educ Phys, Paris, France.
+RP Holmes, P (corresponding author), Manchester Metropolitan Univ, Hassall Rd, Alsager ST7 2HL, England.
+EM p.s.holmes@mmu.ac.uk
+OI Holmes, Paul/0000-0003-0821-3580
+NR 51
+TC 11
+Z9 13
+U1 1
+U2 6
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0264-0414
+EI 1466-447X
+J9 J SPORT SCI
+JI J. Sports Sci.
+PD JUN
+PY 2006
+VL 24
+IS 6
+BP 605
+EP 616
+DI 10.1080/02640410500244507
+PG 12
+WC Sport Sciences
+SC Sport Sciences
+GA 030QS
+UT WOS:000236650000003
+PM 16608772
+DA 2020-08-05
+ER
+
+PT J
+AU Lepage, JF
+   Theoret, H
+AF Lepage, Jean-Francois
+   Theoret, Hugo
+TI EEG evidence for the presence of an action observation-execution
+   matching system in children
+SO EUROPEAN JOURNAL OF NEUROSCIENCE
+LA English
+DT Article
+DE action observation; children; mirror neurons; motor cortex; mu rhythm
+ID MIRROR-NEURON SYSTEM; PRIMARY MOTOR CORTEX; BIOLOGICAL MOTION; PREMOTOR
+   CORTEX; HUMAN IMITATION; HUMAN INFANTS; ALPHA-RHYTHM; MU-RHYTHM;
+   FACILITATION; PERCEPTION
+AB In the adult human brain, passive observation of actions performed by others activates some of the same cortical areas that are involved in the execution of actions, thereby contributing to action recognition. This mechanism appears to occur through activation of a population of action-coding cells known as mirror neurons (MN). In the adult motor cortex, performing actions and observing human movement reduces the magnitude of the mu (8-13 Hz) rhythm, possibly reflecting MN system activity. Despite the wealth of information available regarding the adult MN system, little is known about its existence in children. Here, we used EEG to probe mu rhythm modulation in 15 children during observation and execution of hand actions. Our data show that mu rhythm attenuation occurs in children under 11 years old during observation of hand movements. Similarly to what has been reported in adults, observation of goal/object-orientated movement produces greater modulation of the mu rhythm than intransitive movement. These data confirm the existence of an observation-execution matching system in the immature human brain and may be of clinical value in the understanding of neurodevelopmental disorders associated with a faulty MN system, such as autism spectrum disorder.
+RP Theoret, H (corresponding author), Univ Montreal, Dept Psychol, Montreal, PQ H3T 1C5, Canada.
+EM hugo.theoret@umontreal.ca
+OI Lepage, Jean-Francois/0000-0002-1181-6043
+NR 41
+TC 113
+Z9 119
+U1 0
+U2 23
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0953-816X
+EI 1460-9568
+J9 EUR J NEUROSCI
+JI Eur. J. Neurosci.
+PD MAY
+PY 2006
+VL 23
+IS 9
+BP 2505
+EP 2510
+DI 10.1111/j.1460-9568.2006.04769.x
+PG 6
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 043LV
+UT WOS:000237603500025
+PM 16706857
+DA 2020-08-05
+ER
+
+PT J
+AU Oberman, LM
+   Hubbard, EM
+   McCleery, JP
+   Altschuler, EL
+   Ramachandran, VS
+   Pineda, JA
+AF Oberman, LM
+   Hubbard, EM
+   McCleery, JP
+   Altschuler, EL
+   Ramachandran, VS
+   Pineda, JA
+TI EEG evidence for mirror neuron dysfunction in autism spectrum disorders
+SO COGNITIVE BRAIN RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT 11th Annual Meeting of the Cognitive-Neuroscience-Society
+CY APR, 2004
+CL San Francisco, CA
+SP Cognit Neurosci Soc
+DE mirror neurons; autism spectrum disorders; EEG; Mu rhythm
+ID PREMOTOR CORTEX; MU RHYTHMS; IMITATION; MOTOR; MOVEMENT; MIND; CHILDREN;
+   LANGUAGE; MOTION; GRASP
+AB Autism spectrum disorders (ASD) are largely characterized by deficits in imitation, pragmatic language, theory of mind, and empathy. Previous research has suggested that a dysfunctional mirror neuron system may explain the pathology observed in ASD. Because EEG oscillations in the mu frequency (8-13 Hz) over sensorimotor cortex are thought to reflect mirror neuron activity, one method for testing the integrity of this system is to measure mu responsiveness to actual and observed movement. It has been established that mu power is reduced (mu suppression) in typically developing individuals both when they perform actions and when they observe others performing actions, reflecting an observation/execution system which may play a critical role in the ability to understand and imitate others' behaviors. This study investigated whether individuals with ASD show a dysfunction in this system, given their behavioral impairments in understanding and responding appropriately to others' behaviors. Mu wave suppression was measured in ten high-functioning individuals with ASD and ten age- and gender-matched control subjects while watching videos of (1) a moving hand, (2) a bouncing ball, and (3) visual noise, or (4) moving their own hand. Control subjects showed significant mu suppression to both self and observed hand movement. The ASD group showed significant mu suppression to self-performed hand movements but not to observed hand movements. These results support the hypothesis of a dysfunctional mirror neuron system in high-functioning individuals with ASD. (c) 2005 Elsevier B.V. All rights reserved.
+C1 Univ Calif San Diego, Ctr Brain & Cognit, La Jolla, CA 92093 USA.
+   Univ Calif San Diego, Dept Psychol, La Jolla, CA 92093 USA.
+   Mt Sinai Sch Med, Dept Rehabil Med, New York, NY 10029 USA.
+   Univ Calif San Diego, Dept Neurosci, La Jolla, CA 92093 USA.
+   Univ Calif San Diego, Dept Cognit Sci, La Jolla, CA 92093 USA.
+RP Oberman, LM (corresponding author), 9500 Gilman Dr, La Jolla, CA 92093 USA.
+EM lshenk@psy.ucsd.edu
+RI Hubbard, Edward/N-2931-2019; Hubbard, Edward/C-1770-2012
+OI Hubbard, Edward/0000-0002-2701-415X; 
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [F31MH-63585]
+NR 54
+TC 592
+Z9 618
+U1 9
+U2 229
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0926-6410
+J9 COGNITIVE BRAIN RES
+JI Cognit. Brain Res.
+PD JUL
+PY 2005
+VL 24
+IS 2
+BP 190
+EP 198
+DI 10.1016/j.cogbrainres.2005.01.014
+PG 9
+WC Computer Science, Artificial Intelligence; Neurosciences; Neuroimaging
+SC Computer Science; Neurosciences & Neurology
+GA 948XA
+UT WOS:000230747800002
+PM 15993757
+DA 2020-08-05
+ER
+
+PT J
+AU Muthukumaraswamy, SD
+   Johnson, BW
+AF Muthukumaraswamy, SD
+   Johnson, BW
+TI Primary motor cortex activation during action observation revealed by
+   wavelet analysis of the EEG
+SO CLINICAL NEUROPHYSIOLOGY
+LA English
+DT Article
+DE EEG; wavelets; beta rhythm; action observation; mirror neurons
+ID EVENT-RELATED SYNCHRONIZATION; STIMULATION; RHYTHMS; DESYNCHRONIZATION;
+   IMITATION; OSCILLATIONS; MOVEMENTS; ASPERGER
+AB Objective: We characterised the spectral response of the EEG to median nerve stimulation using wavelet analysis, and compared the relative magnitudes of effect of several different action-observation conditions on the beta and mu 'rebound' rhythms.
+   Methods: EEG responses to median nerve stimulation were recorded from 8 normal adult subjects during baseline or action-observation conditions. Analysis was performed by convolution of the EEG with a family of wavelets.
+   Results: Decreased power in the mu and beta bands characterized the EEG following median nerve stimulation until 500 ms post-stimulus, followed by increased amplitudes ('rebound') of both rhythms. Execution of movement, observation of object-directed movement and observation of somatosensory stimulation all caused a decreased rebound of the beta rhythm whereas observation of aimless thumb movement did not.
+   Conclusions: Wavelet analysis of the EEG extracted similar features reported in previous studies using bandpass filtering with respect to the activation state of the motor cortex during action observation. Further, our results show that observation of somatosensory stimulation alone is sufficient to cause significant modulation of motor cortex activity.
+   Significance: These results add further details as to what stimuli can activate the human mirror neuron system and the analytical techniques used may be useful for future studies of clinical populations such as autistic patients. (C) 2004 International Federation of Clinical Neurophysiology. Published by Elsevier Ireland Ltd. All rights reserved.
+C1 Univ Auckland, Dept Psychol, Res Ctr Cognit Neurosci, Auckland 1003, New Zealand.
+RP Muthukumaraswamy, SD (corresponding author), Univ Auckland, Dept Psychol, Res Ctr Cognit Neurosci, Private Bag 92019, Auckland 1003, New Zealand.
+EM smut008@psynov1.auckland.ac.nz
+RI ; Johnson, Blake/B-3104-2014
+OI Muthukumaraswamy, Suresh/0000-0001-7042-3920; Johnson,
+   Blake/0000-0002-0598-4358
+NR 37
+TC 132
+Z9 133
+U1 0
+U2 16
+PU ELSEVIER IRELAND LTD
+PI CLARE
+PA ELSEVIER HOUSE, BROOKVALE PLAZA, EAST PARK SHANNON, CO, CLARE, 00000,
+   IRELAND
+SN 1388-2457
+EI 1872-8952
+J9 CLIN NEUROPHYSIOL
+JI Clin. Neurophysiol.
+PD AUG
+PY 2004
+VL 115
+IS 8
+BP 1760
+EP 1766
+DI 10.1016/j.clinph.2004.03.004
+PG 7
+WC Clinical Neurology; Neurosciences
+SC Neurosciences & Neurology
+GA 850DP
+UT WOS:000223591700005
+PM 15261854
+DA 2020-08-05
+ER
+
+PT J
+AU Muthukumaraswamy, SD
+   Johnson, BW
+   McNair, NA
+AF Muthukumaraswamy, SD
+   Johnson, BW
+   McNair, NA
+TI Mu rhythm modulation during observation of an object-directed grasp
+SO COGNITIVE BRAIN RESEARCH
+LA English
+DT Article
+DE mirror neurons; EEG; Mu rhythm; goal-directed actions
+ID HIGH-RESOLUTION EEG; MAGNETIC STIMULATION; MOVEMENT OBSERVATION;
+   PREMOTOR CORTEX; HUMANS; ELECTROENCEPHALOGRAPHY; REPRESENTATIONS;
+   LOCALIZATION; IMAGINATION; RECOGNITION
+AB Recent electrophysiological studies have shown that the human electroencephalographic mu rhythm is suppressed during the observation of actions performed by other persons, an effect that may be functionally related to the behaviour of so-called "mirror neurons" observed in area F5 of nonhuman primates. Because mirror neuron activity has been reported to be functionally specific to object-oriented actions, the present study was designed to determine if the human mu rhythm also exhibits this property. EEG measurements were obtained from 12 normal subjects while they observed either a precision grip of a manipulandum or an empty grip using the same hand position. Our results showed that the magnitude of the mu rhythm was significantly lower for the object grip condition than for the empty grip condition. These data support the notion that the human mu rhythm indexes a brain system that is functionally comparable to the monkey mirror neuron system. We propose that nonobject-directed actions may result in representational schemas that are either different or less salient than motorically equivalent actions that are directed toward objects. (C) 2003 Elsevier B.V. All rights reserved.
+C1 Univ Auckland, Dept Psychol, Res Ctr Cognit Neurosci, Auckland, New Zealand.
+RP Muthukumaraswamy, SD (corresponding author), Univ Auckland, Dept Psychol, Res Ctr Cognit Neurosci, Private Bag 92019, Auckland, New Zealand.
+EM smut008@psynov1.auckland.ac.nz
+RI ; Johnson, Blake/B-3104-2014
+OI Muthukumaraswamy, Suresh/0000-0001-7042-3920; Johnson,
+   Blake/0000-0002-0598-4358
+NR 29
+TC 336
+Z9 351
+U1 2
+U2 32
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0926-6410
+J9 COGNITIVE BRAIN RES
+JI Cognit. Brain Res.
+PD APR
+PY 2004
+VL 19
+IS 2
+BP 195
+EP 201
+DI 10.1016/j.cogbrainres.2003.12.001
+PG 7
+WC Computer Science, Artificial Intelligence; Neurosciences; Neuroimaging
+SC Computer Science; Neurosciences & Neurology
+GA 812ZB
+UT WOS:000220876300009
+PM 15019715
+DA 2020-08-05
+ER
+
+PT J
+AU Muthukumaraswamy, SD
+   Johnson, BW
+AF Muthukumaraswamy, SD
+   Johnson, BW
+TI Changes in rolandic mu rhythm during observation of a precision grip
+SO PSYCHOPHYSIOLOGY
+LA English
+DT Article
+DE action recognition; electroencephalogram; mirror neurons; mu rhythm;
+   sensorimotor cortex
+ID GRASP REPRESENTATIONS; PREMOTOR CORTEX; MOVEMENT; HUMANS; LOCALIZATION;
+   IMAGINATION; RECOGNITION; POTENTIALS; EXECUTION; AREA
+AB We recorded 128-channel EEG from 16 participants while they observed, imitated, and self-initiated the precision grip of a manipulandum. Mu rhythm amplitudes were significantly lower during observation of a precision grip than during observation of a simple hand extension without object interaction. Scalp topographies for subtractions of observation, imitation, and execution conditions from the control condition showed a high degree of congruence, supporting the notion of a human observation-execution matching system. Surface Laplacian transformations suggest that the decrease in mu amplitude during precision grip observation reflects desynchronization of mu rhythm generators in the sensorimotor cortex. These results support the hypothesis that sensorimotor cortex is a neural substrate involved in the representation of both self- and other-generated actions and show the mu rhythm is sensitive to subtle changes in observed motor behavior.
+C1 Univ Auckland, Dept Psychol, Res Ctr Cognit Neurosci, Auckland 1, New Zealand.
+RP Muthukumaraswamy, SD (corresponding author), Univ Auckland, Dept Psychol, Res Ctr Cognit Neurosci, Private Bag 92019, Auckland 1, New Zealand.
+EM smut008@psynov1.auckland.ac.nz
+RI ; Johnson, Blake/B-3104-2014
+OI Muthukumaraswamy, Suresh/0000-0001-7042-3920; Johnson,
+   Blake/0000-0002-0598-4358
+NR 23
+TC 148
+Z9 153
+U1 4
+U2 12
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0048-5772
+EI 1469-8986
+J9 PSYCHOPHYSIOLOGY
+JI Psychophysiology
+PD JAN
+PY 2004
+VL 41
+IS 1
+BP 152
+EP 156
+DI 10.1046/j.1469-8986.2003.00129.x
+PG 5
+WC Psychology, Biological; Neurosciences; Physiology; Psychology;
+   Psychology, Experimental
+SC Psychology; Neurosciences & Neurology; Physiology
+GA 768WJ
+UT WOS:000188592900016
+PM 14693010
+DA 2020-08-05
+ER
+
+PT J
+AU Serrien, DJ
+   Brown, P
+AF Serrien, DJ
+   Brown, P
+TI The integration of cortical and behavioural dynamics during initial
+   learning of a motor task
+SO EUROPEAN JOURNAL OF NEUROSCIENCE
+LA English
+DT Article
+DE bimanual coordination; electroencephalogram; functional coupling;
+   task-related coherence
+ID PREFRONTAL CORTEX; BIMANUAL COORDINATION; FINGER MOVEMENTS; ACQUISITION;
+   PERFORMANCE; AWARENESS; AREAS; TIME; SYNCHRONIZATION; CONSTRAINTS
+AB Here we test the hypothesis that frequency and topographically specific changes in the strength of functional cortico-cortical coupling occur during the acquisition of a completely new task. To this end we studied the behavioural and cortical dynamics of a bimanual multifrequency coordination pattern during which one hand moved at twice the frequency of the other hand. This pattern represents a noninherent assignment and necessitates training before appropriate interlimb decoupling takes place. Results showed that acquisition of the multifrequency task was associated with an improved behavioural output that matched specific changes in the electroencephalogram dynamics. In particular, practice of the coordination pattern was accompanied by a decrease in coherence between the primary sensorimotor regions, and over the midline area in the alpha and beta bands, respectively, along with an increase in functional interhemispheric coupling between the prefrontal areas in the gamma band. These data suggest that the strength of cortico-cortical connectivity is adaptively modified across regions and across frequencies during early learning as the functional couplings are created and optimized for the purpose of movement execution.
+C1 Inst Neurol, Sobell Dept Motor Neurosci & Movement Disorders, London WC1N 3BG, England.
+RP Serrien, DJ (corresponding author), Inst Neurol, Sobell Dept Motor Neurosci & Movement Disorders, Box 146,Queen Sq, London WC1N 3BG, England.
+EM d.serrien@ion.ucl.ac.uk
+RI Brown, Peter/J-4307-2016
+OI Brown, Peter/0000-0002-5201-3044
+NR 48
+TC 55
+Z9 55
+U1 0
+U2 5
+PU BLACKWELL PUBLISHING LTD
+PI OXFORD
+PA 9600 GARSINGTON RD, OXFORD OX4 2DG, OXON, ENGLAND
+SN 0953-816X
+J9 EUR J NEUROSCI
+JI Eur. J. Neurosci.
+PD MAR
+PY 2003
+VL 17
+IS 5
+BP 1098
+EP 1104
+DI 10.1046/j.1460-9568.2003.02534.x
+PG 7
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 659QN
+UT WOS:000181788800019
+PM 12653986
+DA 2020-08-05
+ER
+
+PT J
+AU Cochin, S
+   Barthelemy, C
+   Roux, S
+   Martineau, J
+AF Cochin, S
+   Barthelemy, C
+   Roux, S
+   Martineau, J
+TI Electroencephalographic activity during perception of motion in
+   childhood
+SO EUROPEAN JOURNAL OF NEUROSCIENCE
+LA English
+DT Article
+DE children; imitation; 'mirror' neurons; imitation; observation; theta
+   rhythm
+ID BRAIN; EEG; CHILDREN; AGE; PET
+AB The purpose of the present study was to relate observations of biological motion to cortical activity by evaluation of the association of quantified electroencephalogram (qEEG) parameters with a video film projection. Thirty right-handed healthy children (2-8-year-olds) viewed a video film showing still shots and moving shots with human movement or object movement. The EEG was recorded while children watched the video movie and was then subjected to spectral analysis; the spectral powers for theta, alpha and beta bands were matched with corresponding sequences of video film. The power values of each frequency band were analysed in a four-way repeated-measures anova (Age x Hemisphere x Electrode x Sequence). Three main results were obtained: (i) younger children (2-4-year-olds) had higher power spectral values than older children (5-8-year-olds); (ii) greater EEG desynchronization of the left hemisphere was observed; (iii) observation of biological movement was related to a significant decrease in theta 1 and theta 2 power values of EEG in fronto-temporal and central regions of the left hemisphere compared with visual perception of still shots or nonhuman movement. These results indicated some support for the theory that the sensori-motor cortex and Broca's area are activated during visual observation of human motion.
+C1 CHU Bretonneau, Serv Univ Explorat Fonct & Neurophysiol & Pedopsy, INSERM, U316, F-37044 Tours, France.
+RP Cochin, S (corresponding author), CHU Bretonneau, Serv Univ Explorat Fonct & Neurophysiol & Pedopsy, INSERM, U316, 2 Bd Tonnelle, F-37044 Tours, France.
+EM s.cochin@gil.med.Universityof-tours.fr
+RI Roux, Sylvie/N-5655-2016
+NR 33
+TC 34
+Z9 34
+U1 0
+U2 10
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0953-816X
+EI 1460-9568
+J9 EUR J NEUROSCI
+JI Eur. J. Neurosci.
+PD MAY
+PY 2001
+VL 13
+IS 9
+BP 1791
+EP 1796
+DI 10.1046/j.0953-816x.2001.01544.x
+PG 6
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 437AJ
+UT WOS:000168967800014
+PM 11359530
+DA 2020-08-05
+ER
+
+PT J
+AU Cochin, S
+   Barthelemy, C
+   Roux, S
+   Martineau, J
+AF Cochin, S
+   Barthelemy, C
+   Roux, S
+   Martineau, J
+TI Observation and execution of movement: similarities demonstrated by
+   quantified electroencephalography
+SO EUROPEAN JOURNAL OF NEUROSCIENCE
+LA English
+DT Article
+DE adults; imitation; mu rhythm; perception; qEEG
+ID MU-RHYTHM; PREMOTOR CORTEX; MOTOR; RECOGNITION; PERCEPTION; IMAGERY;
+   MOTION; BRAIN; PET
+AB Quantified electroencephalography (qEEG) was used to compare cerebral electrical variations while human subjects (10 males and 10 females) were observing and executing finger movements and while they were resting. Video recording enabled elimination of subjects performing involuntary movements. EEGs were recorded from 14 sites in seven frequency bands: theta 1, theta 2, alpha 1, alpha, beta 1, beta 2 and beta 3. Analyses were performed on logarithmically transformed absolute spectral power values. Both observation and execution of finger movements involved a decrease in spectral power compared with resting. This decrease was significant only for the alpha 1 frequency band (7.5-10.5 Hz) and it involved nine of the 14 electrode locations (F7, F8, F4, T6, T5, C3, C4, P3 and P4). This indicates that the motor cortex and the frontal cortex are specifically activated by both observation and execution of finger movements. These results provide evidence that observation and execution of movement share the same cortical network.
+C1 CHU Bretonneau, INSERM, U316, Serv Univ Explorat Fonctionnelles & Neurophysiol, F-37044 Tours, France.
+RP Cochin, S (corresponding author), CHU Bretonneau, INSERM, U316, Serv Univ Explorat Fonctionnelles & Neurophysiol, 2 Bd Tonnelle, F-37044 Tours, France.
+RI Roux, Sylvie/N-5655-2016
+NR 22
+TC 284
+Z9 295
+U1 2
+U2 26
+PU BLACKWELL SCIENCE LTD
+PI OXFORD
+PA P O BOX 88, OSNEY MEAD, OXFORD OX2 0NE, OXON, ENGLAND
+SN 0953-816X
+J9 EUR J NEUROSCI
+JI Eur. J. Neurosci.
+PD MAY
+PY 1999
+VL 11
+IS 5
+BP 1839
+EP 1842
+DI 10.1046/j.1460-9568.1999.00598.x
+PG 4
+WC Neurosciences
+SC Neurosciences & Neurology
+GA 194CX
+UT WOS:000080175500038
+PM 10215938
+DA 2020-08-05
+ER
+
+PT J
+AU Stancak, A
+   Pfurtscheller, G
+AF Stancak, A
+   Pfurtscheller, G
+TI Mu-rhythm changes in brisk and slow self-paced finger movements
+SO NEUROREPORT
+LA English
+DT Article
+DE EEG; Mu-rhythm; event-related desynchronization; voluntary movement
+ID EVENT-RELATED SYNCHRONIZATION; CORTEX; EEG
+AB WE analysed whether type of movement (brisk vs slow) and active muscle force are encoded in the time course of mu-rhythm desynchronization during self-paced finger movements. Ten subjects performed 100 brisk and slow extensions of the right index finger. The time course of mu-rhythm desynchronization in the contralateral sensorimotor area before movement was identical for both types of movements. Brisk movements accompanied by a stronger extensor muscle contraction were preceded by larger desynchronization. The onset of mu-rhythm recovery was related to the duration of the extensor EMG burst in both types of movement. The results suggest that both amplitude and duration of the extensor muscle contraction are encoded in the time course of mu-rhythm desynchronization.
+C1 GRAZ UNIV TECHNOL, INST BIOMED ENGN, DEPT MED INFORMAT, A-8010 GRAZ, AUSTRIA.
+   GRAZ UNIV TECHNOL, LUDWIG BOLTZMANN INST MED INFORMAT & NEUROINFORMT, A-8010 GRAZ, AUSTRIA.
+NR 17
+TC 53
+Z9 53
+U1 0
+U2 1
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 0959-4965
+EI 1473-558X
+J9 NEUROREPORT
+JI Neuroreport
+PD APR 26
+PY 1996
+VL 7
+IS 6
+BP 1161
+EP 1164
+DI 10.1097/00001756-199604260-00013
+PG 4
+WC Neurosciences
+SC Neurosciences & Neurology
+GA VK184
+UT WOS:A1996VK18400013
+PM 8817524
+DA 2020-08-05
+ER
+
+PT J
+AU PFURTSCHELLER, G
+   NEUPER, C
+AF PFURTSCHELLER, G
+   NEUPER, C
+TI SIMULTANEOUS EEG 10-HZ DESYNCHRONIZATION AND 40-HZ SYNCHRONIZATION
+   DURING FINGER MOVEMENTS
+SO NEUROREPORT
+LA English
+DT Article
+DE FINGER MOVEMENT; EVENT-RELATED DESYNCHRONIZATION; 40-HZ EEG; CORTICAL
+   ACTIVATION
+ID EVENT-RELATED DESYNCHRONIZATION; CAT; OSCILLATIONS; ACTIVATION
+AB NINETEEN-CHANNEL, EEG was recorded with closely spaced electrodes overlaying the left sensorimotor cortex during self-paced, voluntary right finger movements. Three right-handed people served as subjects. The EEG was analysed in the 10 Hz band (10-12 Hz) and in four 40 Hz bands (34-36, 36-38, 38-40, 40-42) by calculation of ERD time courses and ERD maps, whereby a ERD is characterized by a movement-related band power decrease. In all three subjects a close to C, localized 10 Hz ERD was found, starting about 2 s prior to movement onset and continuing during movement. Along with this 10 Hz ERD a localized and short-lasting (about 0.5 s) burst of 40 Hz oscillations was embedded around movement onset. This can be interpreted as indicating that planning of movement is accompanied by a desynchronization of central mu rhythm and a generation of 40 Hz oscillations.
+C1 GRAZ UNIV TECHNOL,INST BIOMED ENGN,DEPT MED INFORMAT,GRAZ,AUSTRIA.
+RP PFURTSCHELLER, G (corresponding author), LUDWIG BOLTZMANN INST MED INFORMAT & NEUROINFORMAT,GRAZ,AUSTRIA.
+NR 19
+TC 180
+Z9 180
+U1 0
+U2 13
+PU RAPID SCIENCE PUBLISHERS
+PI LONDON
+PA 2-6 BOUNDARY ROW, LONDON, ENGLAND SE1 8NH
+SN 0959-4965
+J9 NEUROREPORT
+JI Neuroreport
+PD DEC
+PY 1992
+VL 3
+IS 12
+BP 1057
+EP 1060
+DI 10.1097/00001756-199212000-00006
+PG 4
+WC Neurosciences
+SC Neurosciences & Neurology
+GA KH030
+UT WOS:A1992KH03000006
+PM 1493217
+DA 2020-08-05
+ER
+
+EF

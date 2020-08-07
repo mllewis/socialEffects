@@ -1,0 +1,463 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Chiva-Bartoll, O
+   Salvador-Garcia, C
+   Ruiz-Montero, PJ
+AF Chiva-Bartoll, Oscar
+   Salvador-Garcia, Celina
+   Jesus Ruiz-Montero, Pedro
+TI Teaching Games for Understanding and Cooperative Learning: Can Their
+   Hybridization Increase Motivational Climate among Physical Education
+   Students?
+SO CROATIAN JOURNAL OF EDUCATION-HRVATSKI CASOPIS ZA ODGOJ I OBRAZOVANJE
+LA English
+DT Article
+DE cooperative learning; motivational climate; physical education;
+   secondary school; teaching methodology
+ID OPTION-GENERATION; IMPLEMENTATION; PERFORMANCE; EXPERTISE; SPORT
+AB The present study examines the evolution of Motivational Climate among Physical Education students through the hybridization of Cooperative Learning and the Teaching Games for Understanding model in a handball didactic unit. A sample of 96 students, whose average age was fifteen, were divided into an experimental group of 31 students and a control group of 65 students. The Motivational Climate evolution promoted by the hybrid model (experimental group) was compared with the results obtained through a traditional learning approach (control group). The results show differences in the Task-involvement scale, (Effort/ Improvement and Important Role subscales), and in the Ego-involvement scale (Unequal Recognition subscale). In conclusion, in accordance with the results obtained by similar research on other sports, significant differences were found between the two scales with regard to the perceived motivational climate.
+C1 [Chiva-Bartoll, Oscar; Salvador-Garcia, Celina] Jaume I Univ, Dept Educ, Av Sos Baynat S-N, Castellon de La Plana 12071, Spain.
+   [Jesus Ruiz-Montero, Pedro] Univ Granada, Phys Educ & Sport Dept, C Santander 1, Melilla 52071, Spain.
+RP Chiva-Bartoll, O (corresponding author), Jaume I Univ, Dept Educ, Av Sos Baynat S-N, Castellon de La Plana 12071, Spain.
+EM ochiva@uji.es; salvadoc@uji.es; pedrorumo@ugr.es
+RI Salvador-Garcia, Celina/AAA-1249-2020
+NR 58
+TC 2
+Z9 2
+U1 2
+U2 11
+PU FAC TEACHER EDUCATION
+PI ZAGREB
+PA UNIV ZAGREB, SAVSKA CESTA 77, ZAGREB, 00000, CROATIA
+SN 1848-5189
+EI 1848-5197
+J9 CROAT J EDUC
+JI Croat. J. Educ.
+PY 2018
+VL 20
+IS 2
+BP 561
+EP 584
+DI 10.15516/cje.v20i2.2827
+PG 24
+WC Education & Educational Research
+SC Education & Educational Research
+GA HF9EE
+UT WOS:000454544000008
+DA 2020-08-05
+ER
+
+PT J
+AU Gil-Arias, A
+   Harvey, S
+   Carceles, A
+   Praxedes, A
+   Del Villar, F
+AF Gil-Arias, Alexander
+   Harvey, Stephen
+   Carceles, Adrian
+   Praxedes, Alba
+   Del Villar, Fernando
+TI Impact of a hybrid TGfU-Sport Education unit on student motivation in
+   physical education
+SO PLOS ONE
+LA English
+DT Article
+ID SELF-DETERMINATION; GAME PERFORMANCE; DECISION-MAKING; DIRECT
+   INSTRUCTION; SKILL EXECUTION; PERCEIVED LOCUS; TACTICAL GAMES;
+   COMPETENCE; KNOWLEDGE; MODELS
+AB The Teaching Games for Understanding (TGfU) and Sport Education (SE) pedagogical models share several objectives and pedagogical processes. Despite this seemingly uncanny relationship, few studies have examined the efficacy of a hybrid TGfU/SE pedagogical model, particularly how a teacher's utilization of such a model impacts on student motivation. The purpose of the current study was to investigate the effect a hybrid TGfU/SE unit, in comparison to direct instruction, on students' perceptions of various aspects of their motivation to engage in physical education (autonomous motivation, basic psychological needs, enjoyment and intention to be physically active). A crossover design was utilized, using the technique of counterbalancing. One group experienced a hybrid SE/TGfU unit first, followed by a unit of direct instruction. A second group experienced the units in the opposite order. Participants were 55 students. The intervention was conducted over a total of 16 lessons. The hybrid unit was designed according to the characteristics of SE by using seasons, roles, persistent teams, etc. Learning tasks set by the teacher during individual lessons, however, were designed according to the pedagogical principles of TGfU. Student motivation data was generated using validated questionnaires. Results showed that regardless of the order of intervention, the two groups showed significant improvements in autonomy, competence and enjoyment when they were taught using the hybrid model. Instead, in the variables autonomous motivation, relatedness and intention to be physically active there were no significant improvements in one group. These results demonstrate that it is possible to design varied learning situations in which affiliation, leadership and trust are fostered, while tasks are adapted to the characteristics of the students. All this can cause greater autonomous motivation, and consequently, perceived competence in the student, a positive image of the sport to practice, and therefore greater enjoyment and to be physically active.
+C1 [Gil-Arias, Alexander; Carceles, Adrian] Catholic Univ San Antonio Murcia UCAM, Fac Sport, Murcia, Spain.
+   [Harvey, Stephen] Ohio Univ, Athens, OH 45701 USA.
+   [Praxedes, Alba] Univ Extremadura, Fac Sport Sci, Caceres, Spain.
+   [Del Villar, Fernando] Rey Juan Carlos Univ, Area Phys Educ & Sport, Madrid, Spain.
+RP Gil-Arias, A (corresponding author), Catholic Univ San Antonio Murcia UCAM, Fac Sport, Murcia, Spain.
+EM agilarias@ucam.edu
+OI PRAXEDES PIZARRO, ALBA/0000-0001-8959-480X
+NR 65
+TC 16
+Z9 16
+U1 2
+U2 29
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUN 28
+PY 2017
+VL 12
+IS 6
+AR e0179876
+DI 10.1371/journal.pone.0179876
+PG 17
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA EZ3JT
+UT WOS:000404607900044
+PM 28658267
+OA DOAJ Gold, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Fernandez-Rio, J
+   Sanz, N
+   Fernandez-Cando, J
+   Santos, L
+AF Fernandez-Rio, Javier
+   Sanz, Naira
+   Fernandez-Cando, Judith
+   Santos, Luis
+TI Impact of a sustained Cooperative Learning intervention on student
+   motivation
+SO PHYSICAL EDUCATION AND SPORT PEDAGOGY
+LA English
+DT Article
+DE physical education; secondary education; models-based learning
+ID ELEMENTARY PHYSICAL-EDUCATION; MODELS-BASED PRACTICE; SELF-DETERMINATION
+   APPROACH; SPORT; PROGRAM; IMPLEMENTATION; ACHIEVEMENT; VALIDITY
+AB Background: Cooperative Learning has been recently defined as a true pedagogical model. Moreover, in a recent review Casey and Goodyear reported that it can help physical education promote the four basic learning outcomes: physical, cognitive, social and affective.Purpose: The main goal was to investigate the impact of a sustained Cooperative Learning intervention on student motivation. The second goal was to assess students' perceptions of the Cooperative Learning class climate. Finally, the third goal was to explore students' feelings and thoughts after experiencing Cooperative Learning in physical education for an extended period of time.Participants and settings: 249 students (grades 8-11) and 4 teachers enrolled in 4 different high schools agreed to participate. Each school administration allocated several class groups to each teacher based on its necessities. Therefore, intact physical education classes played a part in this research project. They were randomly distributed into an experimental group with 137 students (mean age 13.911.76 years), which experienced 3 consecutive cooperative learning units, and a comparison group with 112 students (mean age 13.411.25 years), which experienced a traditional teaching approach during the same length of time.Research design: A pre-test, post-test, quasi-experimental, comparison group design was followed.Data collection: Prior to and at the end of the intervention programme, all participating students were asked to complete a questionnaire, which included the Perceived Locus of Causality Scale and the subscale Cooperative Learning' of the Perceived Motivational Climate Questionnaire. At post-test, participants in the experimental group were also asked to: Describe your feelings, your thoughts and your ideas on the three Cooperative Learning units that you just experienced in physical education'.Data analysis: Quantitative data was analysed using SPSS 22.0, while MAXQDA 11 was used to assist with qualitative data management.Findings: Quantitative data showed an increase in intrinsic motivation and identified regulation only in the experimental group. This group also increased its perceptions of a Cooperative Learning class climate. Qualitative data analysis of the students' responses after experiencing Cooperative Learning on a sustained basis produced five major themes: cooperation, relatedness, enjoyment, novelty and disappointment. All these findings are in line with Vallerand's hierarchical model of motivation, where social factors (i.e. Cooperative Learning) influence psychological mediators (i.e. relatedness), which mediate over the different types of motivation (i.e. intrinsic motivation) and finally lead to different outcomes (i.e. enjoyment).Conclusion: Cooperative Learning applied on a sustained basis can increase the most self-determined types of motivation, intrinsic motivation and identified regulation, in secondary education students. Students' perceptions after experiencing Cooperative Learning for a long period of time reflected four positive ideas: cooperation, relatedness, enjoyment and novelty and a negative one: disappointment. Both the positive and the negative ideas should be considered when implementing Cooperative Learning in physical education, because students experience them.
+C1 [Fernandez-Rio, Javier; Santos, Luis] Univ Oviedo, Fac Teacher Training & Educ, Dept Educ Sci, Oviedo, Spain.
+   [Sanz, Naira] Educ Dept Cantabria, Cantabria, Spain.
+   [Fernandez-Cando, Judith] Educ Dept Castilla & Leon, Castilla Y Leon, Spain.
+RP Fernandez-Rio, J (corresponding author), Univ Oviedo, Fac Teacher Training & Educ, Dept Educ Sci, Oviedo, Spain.
+EM javier.rio@uniovi.es
+RI Fernandez-Rio, Javier/H-9529-2015
+OI Fernandez-Rio, Javier/0000-0002-1368-3723
+NR 82
+TC 35
+Z9 35
+U1 8
+U2 55
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1740-8989
+EI 1742-5786
+J9 PHYS EDUC SPORT PEDA
+JI Phys. Educ. Sport Pedag.
+PD JAN
+PY 2017
+VL 22
+IS 1
+BP 89
+EP 105
+DI 10.1080/17408989.2015.1123238
+PG 17
+WC Education & Educational Research
+SC Education & Educational Research
+GA EK4CE
+UT WOS:000393873900006
+DA 2020-08-05
+ER
+
+PT J
+AU Cuevas, R
+   Garcia-Lopez, LM
+   Serra-Olivares, J
+AF Cuevas, Ricardo
+   Miguel Garcia-Lopez, Luis
+   Serra-Olivares, Jaime
+TI SPORT EDUCATION MODEL AND SELF-DETERMINATION THEORY: AN INTERVENTION IN
+   SECONDARY SCHOOL CHILDREN
+SO KINESIOLOGY
+LA English
+DT Article
+DE motivation; basic psychological needs; adolescents; intention to be
+   physically active; physical activity
+ID PROFESSIONAL-DEVELOPMENT; MOTIVATION; SEASON; TEACHERS; STUDENTS; SKILL;
+   NEEDS; PARTICIPATION; SATISFACTION; STYLE
+AB Using self-determination theory as a guiding framework, this study analyzed the impact of the Sport Education Model in self-determination and motivation, psychological basic need thwarting, enjoyment-satisfaction, boredom, and intention to be physically active in Physical Education (PE) of secondary school students in Spain. Two groups were selected for the study: an experimental group (EG; n=43), which received 19 volleyball lessons following the Sport Education Model, and a control group (CG; n=43), which received 19 traditional Physical Education lessons. Pre- and post-intervention measures were taken in both groups. The results showed significant improvements in intrinsic motivation in EG. The results are discussed, and the suitability of the Sport Education Model to improve self-determined behaviors in Physical Education is emphasized.
+C1 [Cuevas, Ricardo; Miguel Garcia-Lopez, Luis] Univ Castilla La Mancha, E-13071 Ciudad Real, Spain.
+   [Serra-Olivares, Jaime] Temuco Catholic Univ, Temuco, Araucania, Chile.
+RP Cuevas, R (corresponding author), Univ Castilla La Mancha, Fac Educ, Ronda de la Mata 3, E-13071 Ciudad Real, Spain.
+EM ricardo.cuevas@uclm.es
+RI Lopez, Luis Miguel Garcia/I-1200-2015
+OI Lopez, Luis Miguel Garcia/0000-0001-5393-0090; Cuevas,
+   Ricardo/0000-0003-0001-4747
+NR 55
+TC 17
+Z9 19
+U1 3
+U2 40
+PU UNIV ZAGREB, FAC KINESIOLOGY
+PI ZAGREB
+PA HORVACANSKI ZAVOJ 15, ZAGREB, 10000, CROATIA
+SN 1331-1441
+J9 KINESIOLOGY
+JI Kinesiology
+PD JUN
+PY 2016
+VL 48
+IS 1
+BP 30
+EP 38
+DI 10.26582/k.48.1.15
+PG 9
+WC Rehabilitation; Sport Sciences
+SC Rehabilitation; Sport Sciences
+GA DR5BF
+UT WOS:000379917300002
+OA DOAJ Gold
+DA 2020-08-05
+ER
+
+PT J
+AU Chatzipanteli, A
+   Digelidis, N
+   Papaioannou, AG
+AF Chatzipanteli, Athanasia
+   Digelidis, Nikolaos
+   Papaioannou, Athanasios G.
+TI Self-Regulation, Motivation and Teaching Styles in Physical Education
+   Classes: An Intervention Study
+SO JOURNAL OF TEACHING IN PHYSICAL EDUCATION
+LA English
+DT Article
+DE student-activated teaching styles; metacognition; lesson satisfaction;
+   motivation
+ID ACHIEVEMENT GOALS; CLIMATE
+AB The aim of the study was to investigate the influence of student-activated teaching styles through a specific intervention program on students' self-regulation, lesson satisfaction, and motivation. Six hundred and one 7th grade students (318 boys and 283 girls), aged 13 years were randomly assigned to an experimental group and a comparison group. The teachers who taught the students assigned to the experimental group used student-activated teaching styles, and specifically the reciprocal, self-check, inclusion, guided discovery, convergent discovery, and divergent discovery styles. Repeated measures analysis of variance revealed that the experimental group, compared with the comparison group, had higher scores in lesson satisfaction, intrinsic motivation, identified regulation, and metacognitive activities, and lower scores in external motivation, and amotivation. The study revealed that going beyond the command and/or the practice style of teaching, PE teachers can enhance students' metacognitive skills, lesson satisfaction and intrinsic motivation.
+C1 [Chatzipanteli, Athanasia; Digelidis, Nikolaos; Papaioannou, Athanasios G.] Univ Thessaly, Dept Phys Educ & Sport Sci, Trikala, Greece.
+RP Chatzipanteli, A (corresponding author), Univ Thessaly, Dept Phys Educ & Sport Sci, Trikala, Greece.
+EM atchatzip@yahoo.gr
+RI Digelidis, Nikolaos/V-1210-2019
+NR 25
+TC 8
+Z9 8
+U1 4
+U2 33
+PU HUMAN KINETICS PUBL INC
+PI CHAMPAIGN
+PA 1607 N MARKET ST, PO BOX 5076, CHAMPAIGN, IL 61820-2200 USA
+SN 0273-5024
+EI 1543-2769
+J9 J TEACH PHYS EDUC
+JI J. Teach. Phys. Educ.
+PD APR
+PY 2015
+VL 34
+IS 2
+BP 333
+EP 344
+DI 10.1123/jtpe.2013-0024
+PG 12
+WC Education & Educational Research; Sport Sciences
+SC Education & Educational Research; Sport Sciences
+GA CI8WG
+UT WOS:000355051800010
+DA 2020-08-05
+ER
+
+PT J
+AU Amado, D
+   Del Villar, F
+   Leo, FM
+   Sanchez-Oliva, D
+   Sanchez-Miguel, PA
+   Garcia-Calvo, T
+AF Amado, Diana
+   Del Villar, Fernando
+   Miguel Leo, Francisco
+   Sanchez-Oliva, David
+   Antonio Sanchez-Miguel, Pedro
+   Garcia-Calvo, Tomas
+TI Effect of a Multi-Dimensional Intervention Programme on the Motivation
+   of Physical Education Students
+SO PLOS ONE
+LA English
+DT Article
+ID SELF-DETERMINATION THEORY; TRANS-CONTEXTUAL MODEL; AUTONOMY SUPPORT;
+   CREATIVE DANCE; PARTICIPATION; COMPETENCE; NEEDS; RELATEDNESS; TEACHERS;
+   MOVEMENT
+AB This research study purports to verify the effect produced on the motivation of physical education students of a multidimensional programme in dance teaching sessions. This programme incorporates the application of teaching skills directed towards supporting the needs of autonomy, competence and relatedness. A quasi-experimental design was carried out with two natural groups of 4th year Secondary Education students - control and experimental -, delivering 12 dance teaching sessions. A prior training programme was carried out with the teacher in the experimental group to support these needs. An initial and final measurement was taken in both groups and the results revealed that the students from the experimental group showed an increase of the perception of autonomy and, in general, of the level of self-determination towards the curricular content of corporal expression focused on dance in physical education. To this end, we highlight the programme's usefulness in increasing the students' motivation towards this content, which is so complicated for teachers of this area to develop.
+C1 [Amado, Diana; Del Villar, Fernando; Miguel Leo, Francisco; Sanchez-Oliva, David; Antonio Sanchez-Miguel, Pedro; Garcia-Calvo, Tomas] Univ Extremadura, Fac Sport Sci, Caceres, Spain.
+RP Amado, D (corresponding author), Univ Extremadura, Fac Sport Sci, Caceres, Spain.
+EM diamal@unex.es
+RI SANCHEZ-OLIVA, DAVID/O-1139-2019; Garcia-Calvo, Tomas/K-8501-2014; Leo,
+   Francisco M/H-1492-2017
+OI SANCHEZ-OLIVA, DAVID/0000-0001-9678-963X; Garcia-Calvo,
+   Tomas/0000-0002-2550-418X; Leo, Francisco M/0000-0003-0971-9188; Del
+   Villar, Fernando/0000-0001-8724-8006
+FU Ministry of Education, Culture and Sport
+FX This study has been realized thanks to the financing of the Ministry of
+   Education, Culture and Sport and with the contribution of the Council of
+   Employment, Company and Innovation of the Government of Estremadura
+   across the European funds of Regional Development. The funders had no
+   role in study design, data collection and analysis, decision to publish,
+   or preparation of the manuscript.
+NR 49
+TC 26
+Z9 26
+U1 0
+U2 31
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JAN 15
+PY 2014
+VL 9
+IS 1
+AR e85275
+DI 10.1371/journal.pone.0085275
+PG 6
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 297DH
+UT WOS:000330235100068
+PM 24454831
+OA DOAJ Gold, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Perlman, D
+AF Perlman, Dana
+TI The influence of the Sport Education Model on developing autonomous
+   instruction
+SO PHYSICAL EDUCATION AND SPORT PEDAGOGY
+LA English
+DT Article
+DE self-determination theory; Sport Education Model; teacher education
+ID SUPPORT STUDENTS AUTONOMY; SELF-DETERMINATION THEORY;
+   PHYSICAL-EDUCATION; PROFESSIONAL-DEVELOPMENT; EXTRINSIC MOTIVATION;
+   INTRINSIC MOTIVATION; TEACHERS; CURRICULUM; CLASSROOM; BEHAVIOR
+AB Background: Teachers commonly adopt instructional styles that thwart student motivation. As such, researchers have examined interventions based within the self-determination theory to identify changes in teaching behaviors. Results of these studies have demonstrated a level of success in teachers adopting a more motivationally supportive teaching context. While important results to the development and implementation of quality motivational pedagogy, these results may have occurred due to an increased focus on specific behaviors as espoused by the self-determination theory. What is absent to date is an examination of current pedagogical approaches that align with aspects of self-determination theory that might inherently influence the motivational instruction of teachers. A model of instruction that has been aligned with self-determination theory and may provide a new avenue for the development and implementation of motivationally supportive instruction is the Sport Education Model (SEM).
+   Purpose: The purpose of this study was to provide an initial examination into the influence of using the Sport Education approach on pre-service teachers autonomous instruction.
+   Participants and setting: 50 pre-service physical education teachers (PT's) were enrolled in a secondary physical education methods course and randomly assigned to teach a 15-lesson unit using Sport Education or skill-drill-game approach.
+   Data collection: Collection of teacher instruction utilized an observational tool that coded distinct teacher-student interactions into one of fifteen categories. As a result, each teacher was provided an overall frequency of statements that were further classified into an overall level of autonomy-supportive, controlling and neutral statements. In addition, students within each of the classes were asked to complete the Learning Climate Questionnaire (LCQ) and Sport Motivation Scale (SMS) that provided a score for perception of autonomy-support and individual motivation. Teacher instruction was collected daily, while LCQ and SMS data were collected at four time points within the unit.
+   Data analysis: Analysis of data was conducted using repeated measure ANOVA's for teacher instruction, student perceptions of autonomy-support and motivation. Significant ANOVA calculations were further analyzed using follow-up tests to examine where the significance occurred.
+   Results: Statistical analysis revealed that teachers within distinct phases of Sport Education provided a significantly higher level of autonomy-supportive statements. In addition, students engaged within Sport Education reported similar significance related to the second and third phases of the model.
+   Conclusion: As a result of this study, utilization of Sport Education seems to provide support that teachers may adopt a more autonomy-supportive social context within their instructional practices.
+C1 Univ Wollongong, Fac Educ, Wollongong, NSW, Australia.
+RP Perlman, D (corresponding author), Univ Wollongong, Fac Educ, Wollongong, NSW, Australia.
+EM dperlman@uow.edu.au
+OI Perlman, Dana/0000-0003-3349-6420
+NR 41
+TC 15
+Z9 18
+U1 2
+U2 51
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXFORDSHIRE, ENGLAND
+SN 1740-8989
+J9 PHYS EDUC SPORT PEDA
+JI Phys. Educ. Sport Pedag.
+PD NOV
+PY 2012
+VL 17
+IS 5
+BP 493
+EP 505
+DI 10.1080/17408989.2011.594430
+PG 13
+WC Education & Educational Research
+SC Education & Educational Research
+GA 024TZ
+UT WOS:000310133000004
+DA 2020-08-05
+ER
+
+PT J
+AU Wallhead, TL
+   Ntoumanis, N
+AF Wallhead, TL
+   Ntoumanis, N
+TI Effects of a sport education intervention on students' motivational
+   responses in physical education
+SO JOURNAL OF TEACHING IN PHYSICAL EDUCATION
+LA English
+DT Article
+DE curriculum programs; motivational climate; high school students
+ID INTRINSIC MOTIVATION; ACHIEVEMENT GOALS; PERCEIVED LOCUS; CLIMATE;
+   PERCEPTIONS; AMOTIVATION; CAUSALITY; BELIEFS; SCALE
+AB This study looked at the influence of a Sport Education intervention program on students' motivational responses in a high school physical education setting. Two intact groups were assigned curricular interventions: the Sport Education group (n = 25), which received eight 60-min lessons, and the comparison group (n = 26), which received a traditional teaching approach to sport-based activity. Pre- and postintervention measures of student enjoyment, perceived effort, perceived competence, goal orientations, perceived motivational climate, and perceived autonomy were obtained for both groups. Repeated-measures ANOVAs showed significant increases in student enjoyment and perceived effort in the Sport Education group only. Hierarchical regression analyses revealed that increases in task-involving climate and perceived autonomy explained a significant amount of unique variance in the Sport Education students' postintervention enjoyment, perceived effort, and perceived competence responses. The results suggest that the Sport Education curriculum may increase perceptions of a task-involving climate and perceived autonomy, and in so doing, enhance the motivation of high school students toward physical education.
+C1 Ohio State Univ, Dept Sport & Exercise Educ, Columbus, OH 43210 USA.
+   Univ Birmingham, Sch Sport & Exercise Sci, Birmingham B15 2TT, W Midlands, England.
+RP Wallhead, TL (corresponding author), Ohio State Univ, Dept Sport & Exercise Educ, 215 Pomerene Hall,1760 Neil Ave, Columbus, OH 43210 USA.
+RI Ntoumanis, Nikos/R-1039-2017; Ntoumanis, Nikos/P-5801-2019
+OI Ntoumanis, Nikos/0000-0001-7122-3795; Ntoumanis,
+   Nikos/0000-0001-7122-3795
+NR 38
+TC 135
+Z9 147
+U1 4
+U2 40
+PU HUMAN KINETICS PUBL INC
+PI CHAMPAIGN
+PA 1607 N MARKET ST, PO BOX 5076, CHAMPAIGN, IL 61820-2200 USA
+SN 0273-5024
+EI 1543-2769
+J9 J TEACH PHYS EDUC
+JI J. Teach. Phys. Educ.
+PD JAN
+PY 2004
+VL 23
+IS 1
+BP 4
+EP 18
+DI 10.1123/jtpe.23.1.4
+PG 15
+WC Education & Educational Research; Sport Sciences
+SC Education & Educational Research; Sport Sciences
+GA 765CT
+UT WOS:000188250100001
+OA Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Prusak, KA
+   Treasure, DC
+   Darst, PW
+   Pangrazi, RP
+AF Prusak, KA
+   Treasure, DC
+   Darst, PW
+   Pangrazi, RP
+TI The effects of choice on the motivation of adolescent girls in physical
+   education
+SO JOURNAL OF TEACHING IN PHYSICAL EDUCATION
+LA English
+DT Article
+DE self-determination; autonomy; activity; high school girls
+ID EXTRINSIC MOTIVATION; INTRINSIC MOTIVATION; AUTONOMY; BEHAVIOR;
+   CHILDREN; SPORTS
+AB This study examined the motivational responses of adolescent girls in the physical education setting to having choices of walking activities. Seventh and 8th grade girls (N = 1,110) in 42 intact physical education classes participated in this study. Classes were randomly assigned to choice (n = 21) and no-choice (n = 21) groups. Participants' situational and contextual motivation was assessed using the Situational Motivation Scale (SIMS) and the Sport Motivation Scale for PE (SMSPE). The SIMS was administered every 3 days during the intervention. The SMSPE was administered as the pre- and posttest. Significant differences indicated that the choice group (a) was more intrinsically motivated, (b) had higher identified regulation, (c) experienced less external control, and (d) was less amotivated. Moderate to large effect sizes were noted. A significant difference in amotivation at the contextual level was noted. Results suggest that adolescent female PE students may be more motivated if given choices. The notion of emerging adult attitudes is presented and explored.
+C1 Brigham Young Univ, Dept Phys Educ, Provo, UT 84602 USA.
+   Arizona State Univ, Dept Exercise Sci & Phys Educ, Tempe, AZ 85287 USA.
+RP Prusak, KA (corresponding author), Brigham Young Univ, Dept Phys Educ, 221 E RB, Provo, UT 84602 USA.
+NR 26
+TC 73
+Z9 74
+U1 1
+U2 27
+PU HUMAN KINETICS PUBL INC
+PI CHAMPAIGN
+PA 1607 N MARKET ST, CHAMPAIGN, IL 61820-2200 USA
+SN 0273-5024
+J9 J TEACH PHYS EDUC
+JI J. Teach. Phys. Educ.
+PD JAN
+PY 2004
+VL 23
+IS 1
+BP 19
+EP 29
+DI 10.1123/jtpe.23.1.19
+PG 11
+WC Education & Educational Research; Sport Sciences
+SC Education & Educational Research; Sport Sciences
+GA 765CT
+UT WOS:000188250100002
+DA 2020-08-05
+ER
+
+EF

@@ -1,0 +1,949 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Flack, ZM
+   Horst, JS
+AF Flack, Zoe M.
+   Horst, Jessica S.
+TI Two sides to every story: Children learn words better from one storybook
+   page at a time
+SO INFANT AND CHILD DEVELOPMENT
+LA English
+DT Article
+DE cognitive load; extraneous information; illustrations; storybooks; word
+   learning
+ID PICTURE BOOKS; ATTENTION; PRESCHOOLERS; ILLUSTRATIONS; KINDERGARTEN;
+   ACQUISITION; COMPETITION; LITERACY; MAPPINGS; READERS
+AB Two experiments tested how the number of illustrations in storybooks influences 3.5-year-old children's word learning from shared reading. In Experiment 1, children encountered stories with two regular-sized A4 illustrations, one regular-sized A4 illustration, or one large-sized A3 illustration (in the control group) per spread. Children learned significantly fewer words when they had to find the referent within two illustrations presented at the same time. In Experiment 2, a gesture was added to guide children's attention to the correct page in the 2-illustration condition. Children who saw two illustrations with a guiding gesture learned words as well as children who had seen only one illustration per spread. Results are discussed in terms of the cognitive load of word learning from storybooks.
+C1 [Flack, Zoe M.; Horst, Jessica S.] Univ Sussex, Brighton, E Sussex, England.
+RP Horst, JS (corresponding author), Univ Sussex, Sch Psychol, Pevensey 1 Bldg, Brighton BN1 9QH, E Sussex, England.
+EM jessica@sussex.ac.uk
+RI Kavlie, Jessica/F-5523-2012
+OI Kavlie, Jessica/0000-0003-3200-5239; Flack, Zoe/0000-0001-8123-5589
+NR 63
+TC 10
+Z9 10
+U1 2
+U2 13
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+EI 1522-7219
+J9 INFANT CHILD DEV
+JI Infant Child Dev.
+PD JAN-FEB
+PY 2018
+VL 27
+IS 1
+AR e2047
+DI 10.1002/icd.2047
+PG 12
+WC Psychology, Developmental
+SC Psychology
+GA FV1XS
+UT WOS:000424358700009
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Blewitt, P
+   Langan, R
+AF Blewitt, Pamela
+   Langan, Ryan
+TI Learning words during shared book reading.: The role of extratextual
+   talk designed to increase child engagement
+SO JOURNAL OF EXPERIMENTAL CHILD PSYCHOLOGY
+LA English
+DT Article
+DE Vocabulary; Word learning; Shared book reading; Verbal responsiveness;
+   Child engagement; Early childhood
+ID 1ST 3 YEARS; VOCABULARY ACQUISITION; STORYBOOKS; LANGUAGE
+AB Shared book reading (SBR) is a valuable context for word learning during early childhood, and adults' extratextual talk boosts the vocabulary building potential of SBR. We propose that the benefits of such talk depend largely on a reader's success in promoting children's active engagement (attention and interest) during SBR. When readers ask children questions about new words, especially if they respond to children in a prompt, contingent, and appropriate (positive) manner, this verbal responsiveness functions as an effective engagement strategy. We randomly assigned 3- and 4-year-olds to three reading conditions (low, moderate, and high) distinguished by the degree to which the reader used extratextual engagement strategies, including verbal responsiveness. Despite equal exposure to unfamiliar target words, children's performance improved on two measures, of word learning across the three conditions, demonstrating the value of engagement strategies in extratextual talk. This study provides a strong experimental demonstration that adult verbal responsiveness directly benefits preschoolers' word learning. (C) 2016 Elsevier Inc. All rights reserved.
+C1 [Blewitt, Pamela; Langan, Ryan] Villanova Univ, Dept Psychol, Villanova, PA 19085 USA.
+RP Blewitt, P (corresponding author), Villanova Univ, Dept Psychol, Villanova, PA 19085 USA.
+EM pamela.blewitt@villanova.edu
+NR 20
+TC 14
+Z9 15
+U1 5
+U2 39
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0022-0965
+EI 1096-0457
+J9 J EXP CHILD PSYCHOL
+JI J. Exp. Child Psychol.
+PD OCT
+PY 2016
+VL 150
+BP 404
+EP 410
+DI 10.1016/j.jecp.2016.06.009
+PG 7
+WC Psychology, Developmental; Psychology, Experimental
+SC Psychology
+GA DT5QZ
+UT WOS:000381539000028
+PM 27378488
+DA 2020-08-05
+ER
+
+PT J
+AU Damhuis, CMP
+   Segers, E
+   Verhoeven, L
+AF Damhuis, Carmen M. P.
+   Segers, Eliane
+   Verhoeven, Ludo
+TI Stimulating breadth and depth of vocabulary via repeated storybook
+   readings or tests
+SO SCHOOL EFFECTIVENESS AND SCHOOL IMPROVEMENT
+LA English
+DT Article
+DE feedback; vocabulary; testing; storybook reading; early literacy
+ID RETRIEVAL PRACTICE; EXPANDING RETRIEVAL; ACQUISITION; FEEDBACK; WORDS
+AB We investigated effects of listening to single or multiple storybook readings versus testing with and without feedback on children's breadth (i.e., the number of words) and depth (i.e., the quality of word knowledge) of vocabulary learning. Kindergartners (n = 125) were divided into 3 intervention and 1 control conditions. Children in the control condition listened once to a storybook reading. In the experimental conditions, the initial storybook reading was followed by (a) repeated storybook reading, (b) repeated testing, or (c) repeated testing with feedback. For breadth of vocabulary, all 3 conditions showed learning gains compared to a single storybook reading, and no "testing effect" was found. For depth of vocabulary, repeated storybook reading and repeated testing with feedback were more effective than the control condition with the former seemingly most effective. Both for breadth and depth of vocabulary, the effects of testing were found to be conditional upon the provision of feedback.
+C1 [Damhuis, Carmen M. P.; Segers, Eliane; Verhoeven, Ludo] Radboud Univ Nijmegen, Inst Behav Sci, Learning & Plast Grp, NL-6525 ED Nijmegen, Netherlands.
+RP Damhuis, CMP (corresponding author), Radboud Univ Nijmegen, Inst Behav Sci, Learning & Plast Grp, NL-6525 ED Nijmegen, Netherlands.
+EM c.damhuis@pwo.ru.nl
+NR 41
+TC 4
+Z9 4
+U1 0
+U2 31
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0924-3453
+EI 1744-5124
+J9 SCH EFF SCH IMPROV
+JI Sch. Eff. Sch. Improv.
+PD JUL 3
+PY 2015
+VL 26
+IS 3
+BP 382
+EP 396
+DI 10.1080/09243453.2014.965181
+PG 15
+WC Education & Educational Research
+SC Education & Educational Research
+GA CM3PP
+UT WOS:000357595300003
+DA 2020-08-05
+ER
+
+PT J
+AU Kaefer, T
+   Neuman, SB
+   Pinkham, AM
+AF Kaefer, Tanya
+   Neuman, Susan B.
+   Pinkham, Ashley M.
+TI PRE-EXISTING BACKGROUND KNOWLEDGE INFLUENCES SOCIOECONOMIC DIFFERENCES
+   IN PRESCHOOLERS' WORD LEARNING AND COMPREHENSION
+SO READING PSYCHOLOGY
+LA English
+DT Article
+ID READING-COMPREHENSION; LOW-INCOME; VOCABULARY; LITERACY; ACQUISITION;
+   INFERENCES; MEMORY; INTERVENTION; INFORMATION; CONTEXT
+AB The goal of the current study is to explore the influence of knowledge on socioeconomic discrepancies in word learning and comprehension. After establishing socioeconomic differences in background knowledge (Study 1), the authors presented children with a storybook that incorporates this knowledge (Study 2). Results indicated that middle-income children learned significantly more words and comprehended the story better than lower-income children. By contrast, Study 3 presented children with a novel category and found that children performed equally in their word learning and comprehension. This suggests that socioeconomic differences in vocabulary and comprehension skills may be partially explained by differences in extant knowledge.
+C1 [Kaefer, Tanya] Lakehead Univ, Fac Educ, Thunder Bay, ON, Canada.
+   [Neuman, Susan B.] NYU, Steinhardt Sch Culture Educ & Human Dev, New York, NY USA.
+   [Pinkham, Ashley M.] West Texas A&M Univ, Dept Psychol Sociol & Social Work, Canyon, TX USA.
+RP Kaefer, T (corresponding author), Lakehead Univ, 955 Oliver Rd, Thunder Bay, ON P7B 5E1, Canada.
+EM tkaefer@lakeheadu.ca
+OI Kaefer, Tanya/0000-0002-2562-0965
+FU IESUS Department of Education [R305A090013]; Corporation for Public
+   Broadcasting/Public Broadcasting System [F015286-052751]
+FX The authors gratefully acknowledge funding from IES (Grant R305A090013)
+   and the Corporation for Public Broadcasting/Public Broadcasting System
+   (Grant F015286-052751).
+NR 74
+TC 11
+Z9 11
+U1 0
+U2 0
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0270-2711
+EI 1521-0685
+J9 READ PSYCHOL
+JI Read. Psychology
+PY 2015
+VL 36
+IS 3
+BP 203
+EP 231
+DI 10.1080/02702711.2013.843064
+PG 29
+WC Psychology, Educational
+SC Psychology
+GA VF6MG
+UT WOS:000443327300001
+DA 2020-08-05
+ER
+
+PT J
+AU Abel, AD
+   Schuele, CM
+AF Abel, Alyson D.
+   Schuele, C. Melanie
+TI The Influence of Two Cognitive-Linguistic Variables on Incidental Word
+   Learning in 5-Year-Olds
+SO JOURNAL OF PSYCHOLINGUISTIC RESEARCH
+LA English
+DT Article
+DE Language development; Word learning; Phonological awareness;
+   Phonological memory
+ID PHONOLOGICAL MEMORY; VOCABULARY DEVELOPMENT; LANGUAGE IMPAIRMENT;
+   NONWORD REPETITION; RECEPTIVE VOCABULARY; YOUNG-CHILDREN; PHONOTACTIC
+   PROBABILITY; WORKING-MEMORY; ACQUISITION; AWARENESS
+AB The relation between incidental word learning and two cognitive-linguistic variables-phonological memory and phonological awareness-is not fully understood. Thirty-five typically developing, 5-year-old, preschool children participated in a study examining the association between phonological memory, phonological awareness, and incidental word learning. Children were exposed to target words in a read-aloud story that accompanied a wordless picture book. Target word comprehension was assessed before and after two readings of the story. Phonological awareness predicted incidental word learning but phonological memory did not. The influence of phonological awareness and phonological memory on word learning may be dependent on the demands of the word learning task.
+C1 [Abel, Alyson D.] Univ Texas Dallas, Callier Ctr, Dallas, TX 75235 USA.
+   [Schuele, C. Melanie] Vanderbilt Univ, Sch Med, Dept Hearing & Speech Sci, Nashville, TN 37212 USA.
+RP Abel, AD (corresponding author), Univ Texas Dallas, Callier Ctr, 1966 Inwood Rd, Dallas, TX 75235 USA.
+EM alyson.abel@utdallas.edu
+FU NIDCD NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute on Deafness &
+   Other Communication Disorders (NIDCD) [T32 DC000052]
+NR 51
+TC 4
+Z9 4
+U1 3
+U2 38
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0090-6905
+EI 1573-6555
+J9 J PSYCHOLINGUIST RES
+JI J. Psycholinguist. Res.
+PD AUG
+PY 2014
+VL 43
+IS 4
+BP 447
+EP 463
+DI 10.1007/s10936-013-9264-4
+PG 17
+WC Linguistics; Psychology, Experimental
+SC Linguistics; Psychology
+GA AI9VA
+UT WOS:000337287600008
+PM 23979141
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Williams, SE
+   Horst, JS
+AF Williams, Sophie E.
+   Horst, Jessica S.
+TI Goodnight book: sleep consolidation improves word learning via story
+   books
+SO FRONTIERS IN PSYCHOLOGY
+LA English
+DT Article
+DE word learning; sleep; shared story book reading; language acquisition;
+   memory consolidation
+ID DECLARATIVE MEMORY CONSOLIDATION; PICTURE BOOKS; VOCABULARY; DURATION;
+   LANGUAGE; CHILDREN; BENEFITS; BEHAVIOR; SPEECH
+AB Reading the same storybooks repeatedly helps preschool children learn words. In addition, sleeping shortly after learning also facilitates memory consolidation and aids learning in older children and adults. The current study explored how sleep promotes word learning in preschool children using a shared storybook reading task. Children were either read the same story repeatedly or different stories and either napped after the stories or remained awake. Children's word retention were tested 2.5 h later, 24 h later, and 7 days later. Results demonstrate strong, persistent effects for both repeated readings and sleep consolidation on young children's word learning. A key finding is that children who read different stories before napping learned words as well as children who had the advantage of hearing the same story. In contrast, children who read different stories and remained awake never caught up to their peers on later word learning tests. Implications for educational practices are discussed.
+C1 [Williams, Sophie E.; Horst, Jessica S.] Univ Sussex, Sch Psychol, Brighton BN1 9QH, E Sussex, England.
+RP Horst, JS (corresponding author), Univ Sussex, Sch Psychol, Pevensey 1 Bldg, Brighton BN1 9QH, E Sussex, England.
+EM jessica@sussex.ac.uk
+NR 65
+TC 42
+Z9 42
+U1 2
+U2 48
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1664-1078
+J9 FRONT PSYCHOL
+JI Front. Psychol.
+PD MAR 4
+PY 2014
+VL 5
+AR 184
+DI 10.3389/fpsyg.2014.00184
+PG 12
+WC Psychology, Multidisciplinary
+SC Psychology
+GA AC0YE
+UT WOS:000332220600001
+PM 24624111
+OA DOAJ Gold, Green Published, Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Houston-Price, C
+   Howe, JA
+   Lintern, NJ
+AF Houston-Price, Carmel
+   Howe, Jodie A.
+   Lintern, Natalie J.
+TI Once upon a time, there was a fabulous funambulist...: what children
+   learn about the "high-level" vocabulary they encounter while listening
+   to stories
+SO FRONTIERS IN PSYCHOLOGY
+LA English
+DT Article
+DE vocabulary; comprehension; listening to stories; definitions;
+   grammaticality judgments; teacher-led intervention; word learning;
+   forced-choice
+ID INDIVIDUAL-DIFFERENCES; PRINT KNOWLEDGE; ORAL LANGUAGE; ACQUISITION;
+   WORDS; LITERACY; BOOK; INSTRUCTION; EXPOSURE; KINDERGARTNERS
+AB Previous research has shown that listening to stories supports vocabulary growth in preschool and school-aged children and that lexical entries for even very difficult or rare words can be established if these are defined when they are first introduced. However, little is known about the nature of the lexical representations children form for the words they encounter while listening to stories, or whether these are sufficiently robust to support the child's own use of such "high-level" vocabulary. This study explored these questions by administering multiple assessments of children's knowledge about a set of newly-acquired vocabulary. Four- and six-year-old children were introduced to nine difficult new words (including nouns, verbs and adjectives) through three exposures to a story read by their class teacher. The story included a definition of each new word at its first encounter. Learning of the target vocabulary was assessed by means of two tests of semantic understanding a forced choice picture-selection task and a definition production task-and a grammaticality judgment task, which asked children to choose between a syntactically-appropriate and syntactically-inappropriate usage of the word. Children in both age groups selected the correct pictorial representation and provided an appropriate definition for the target words in all three word classes significantly more often than they did for a matched set of non-exposed control words. However, only the older group was able to identify the syntactically-appropriate sentence frames in the grammaticality judgment task. Further analyses elucidate some of the components of the lexical representations children lay down when they hear difficult new vocabulary in stories and how different tests of word knowledge might overlap in their assessment of these components.
+C1 [Houston-Price, Carmel; Howe, Jodie A.; Lintern, Natalie J.] Univ Reading, Sch Psychol & Clin Language Sci, Reading RG6 6AL, Berks, England.
+RP Houston-Price, C (corresponding author), Univ Reading, Sch Psychol & Clin Language Sci, Reading RG6 6AL, Berks, England.
+EM c.houston-price@reading.ac.uk
+OI Houston-Price, Carmel/0000-0001-6368-142X
+NR 57
+TC 10
+Z9 10
+U1 1
+U2 32
+PU FRONTIERS RESEARCH FOUNDATION
+PI LAUSANNE
+PA PO BOX 110, LAUSANNE, 1015, SWITZERLAND
+SN 1664-1078
+J9 FRONT PSYCHOL
+JI Front. Psychol.
+PD FEB 7
+PY 2014
+VL 5
+AR 75
+DI 10.3389/fpsyg.2014.00075
+PG 14
+WC Psychology, Multidisciplinary
+SC Psychology
+GA AA7MH
+UT WOS:000331281000001
+PM 24570670
+OA DOAJ Gold, Green Published, Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Chen, YC
+   Liu, HM
+AF Chen, Yuchun
+   Liu, Huei-Mei
+TI Novel-word learning deficits in Mandarin-speaking preschool children
+   with specific language impairments
+SO RESEARCH IN DEVELOPMENTAL DISABILITIES
+LA English
+DT Article
+DE Specific language impairment (SLI); Word learning; Fast mapping;
+   Mandarin compound
+ID PHONOTACTIC PROBABILITY; VOCABULARY; ACQUISITION; RECOGNITION;
+   AWARENESS; CONTEXT; MEMORY; SKILLS; CUES; SLI
+AB Children with SLI exhibit overall deficits in novel word learning compared to their age-matched peers. However, the manifestation of the word learning difficulty in SLI was not consistent across tasks and the factors affecting the learning performance were not yet determined. Our aim is to examine the extent of word learning difficulties in Mandarin-. speaking preschool children with SLI, and to explore the potent influence of existing lexical knowledge on to the word learning process. Preschool children with SLI (n = 37) and typical language development (n = 33) were exposed to novel words for unfamiliar objects embedded in stories. Word learning tasks including the initial mapping and short-term repetitive learning were designed. Results revealed that Mandarin-speaking preschool children with SLI performed as well as their age-peers in the initial form-meaning mapping task. Their word learning difficulty was only evidently shown in the short-term repetitive learning task under a production demand, and their learning speed was slower than the control group. Children with SLI learned the novel words with a semantic head better in both the initial mapping and repetitive learning tasks. Moderate correlations between stand word learning performances and scores on standardized vocabulary were found after controlling for children's age and nonverbal IQ. The results suggested that the word learning difficulty in children with SLI occurred in the process of establishing a robust phonological representation at the beginning stage of word learning. Also, implicit compound knowledge is applied to aid word learning process for children with and without SLI. We also provide the empirical data to validate the relationship between preschool children's word learning performance and their existing receptive vocabulary ability. (C) 2013 Elsevier Ltd. All rights reserved.
+C1 [Chen, Yuchun; Liu, Huei-Mei] Natl Taiwan Normal Univ, Dept Special Educ, Taipei, Taiwan.
+RP Liu, HM (corresponding author), Natl Taiwan Normal Univ, Dept Special Educ, Taipei, Taiwan.
+EM liumei@ntnu.edu.tw
+NR 54
+TC 5
+Z9 5
+U1 0
+U2 24
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0891-4222
+J9 RES DEV DISABIL
+JI Res. Dev. Disabil.
+PD JAN
+PY 2014
+VL 35
+IS 1
+BP 10
+EP 20
+DI 10.1016/j.ridd.2013.10.010
+PG 11
+WC Education, Special; Rehabilitation
+SC Education & Educational Research; Rehabilitation
+GA 270FI
+UT WOS:000328303900002
+PM 24211792
+DA 2020-08-05
+ER
+
+PT J
+AU Suggate, SP
+   Lenhard, W
+   Neudecker, E
+   Schneider, W
+AF Suggate, Sebastian P.
+   Lenhard, Wolfgang
+   Neudecker, Elisabeth
+   Schneider, Wolfgang
+TI Incidental vocabulary acquisition from stories: Second and fourth
+   graders learn more from listening than reading
+SO FIRST LANGUAGE
+LA English
+DT Article
+DE Language development; reading; reading comprehension; story telling;
+   vocabulary
+ID CHINESE CHILDREN; LITERACY; LANGUAGE; COMPREHENSION; BOOK; EXPERIENCE;
+   ABILITY; WORDS; SKILL
+AB Both reading and language experiences contribute to vocabulary development, but questions remain as to what effect each has and when. This article investigates the effects that reading, telling and sharing a story have on vocabulary acquisition. Children (N = 37) were told nine stories in a randomized, single-blind and counterbalanced 2 x 3 mixed design. The between-subjects variable was grade (2 vs 4) and the within-subjects factor was the story condition, being either read (adult read aloud) or told (free story telling) to the children, or read silently by the children (independent reading). Each story contained two rare target words that were unlikely to have been previously known to the children. Measures of receptive vocabulary, decoding, reading comprehension and target vocabulary acquisition from the story were also administered. Children in grade 4 performed better on the vocabulary acquisition test and there was a main effect for story condition; children learnt the least number of words when reading the stories independently and the most from the free story telling condition. Implications for vocabulary learning and the importance of oral language exposure - even for established readers in primary school - are discussed.
+C1 [Suggate, Sebastian P.] Univ Regensburg, D-93040 Regensburg, Germany.
+   [Lenhard, Wolfgang; Neudecker, Elisabeth; Schneider, Wolfgang] Univ Wurzburg, Wurzburg, Germany.
+RP Suggate, SP (corresponding author), Univ Regensburg, Lehrstuhl Schulpadagog, Univ Str 31, D-93040 Regensburg, Germany.
+EM sebastian.suggate@ur.de
+RI Lenhard, Wolfgang/AAU-3292-2020
+OI Lenhard, Wolfgang/0000-0002-8184-6889
+NR 49
+TC 27
+Z9 27
+U1 8
+U2 77
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0142-7237
+EI 1740-2344
+J9 FIRST LANG
+JI First Lang.
+PD DEC
+PY 2013
+VL 33
+IS 6
+BP 551
+EP 571
+DI 10.1177/0142723713503144
+PG 21
+WC Psychology, Developmental; Linguistics; Language & Linguistics
+SC Psychology; Linguistics
+GA AB0BZ
+UT WOS:000331458100001
+DA 2020-08-05
+ER
+
+PT J
+AU Evans, MA
+   Saint-Aubin, J
+AF Evans, Mary Ann
+   Saint-Aubin, Jean
+TI Vocabulary Acquisition Without Adult Explanations in Repeated Shared
+   Book Reading: An Eye Movement Study
+SO JOURNAL OF EDUCATIONAL PSYCHOLOGY
+LA English
+DT Article
+DE vocabulary acquisition; shared book reading; eye movements
+ID LEARNING VOCABULARY; CHILDREN; KINDERGARTEN; PRESCHOOLERS; STORYBOOKS;
+   PRINT; INTERVENTION; INFORMATION; ATTENTION; PICTURES
+AB When preschoolers listen to storybooks, are their eye movements related to their vocabulary acquisition in this context? This study addressed this question with 36 four-year-old French-speaking participants by assessing their general receptive vocabulary knowledge and knowledge of low-frequency words in 3 storybooks. These books were read verbatim to them 7 times over a 2-week interval. At the first and seventh reading, children's eye movements were tracked. Results revealed considerable stability in eye movements, with children spending the vast majority of their viewing time on the illustrations at both time points. Children made modest vocabulary gains on the words in the books, and as expected, these gains were related to their general receptive vocabulary. Most importantly, viewing time during the first reading on depictions of corresponding nouns in the story partially mediated the advantage that overall receptive vocabulary held. As such, this study points to active matching of picture with text during shared book reading and children's processing style when listening to stories as a mechanism for vocabulary acquisition.
+C1 [Evans, Mary Ann] Univ Guelph, Dept Psychol, Guelph, ON N1G 2W1, Canada.
+   [Saint-Aubin, Jean] Univ Moncton, Sch Psychol, Moncton, NB E1A 3E9, Canada.
+RP Evans, MA (corresponding author), Univ Guelph, Dept Psychol, Mackinnon Bldg, Guelph, ON N1G 2W1, Canada.
+EM evans@psy.uoguelph.ca; jean.saint-aubin@umoncton.ca
+RI Saint-Aubin, Jean/AAF-3807-2019
+OI Saint-Aubin, Jean/0000-0002-4799-6912
+NR 54
+TC 18
+Z9 18
+U1 1
+U2 41
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-0663
+EI 1939-2176
+J9 J EDUC PSYCHOL
+JI J. Educ. Psychol.
+PD AUG
+PY 2013
+VL 105
+IS 3
+BP 596
+EP 608
+DI 10.1037/a0032465
+PG 13
+WC Psychology, Educational
+SC Psychology
+GA 196CY
+UT WOS:000322752200003
+DA 2020-08-05
+ER
+
+PT J
+AU Strasser, K
+   Larrain, A
+   Lissi, MR
+AF Strasser, Katherine
+   Larrain, Antonia
+   Rosa Lissi, Maria
+TI Effects of Storybook Reading Style on Comprehension: The Role of Word
+   Elaboration and Coherence Questions
+SO EARLY EDUCATION AND DEVELOPMENT
+LA English
+DT Article
+ID VOCABULARY INSTRUCTION; INDIVIDUAL-DIFFERENCES; WORKING-MEMORY; ORAL
+   LANGUAGE; INTERVENTION; SKILLS; ACQUISITION; KNOWLEDGE; CHILDREN; HOME
+AB Research Findings: Two studies examined the effects of specific reading styles on the comprehension of stories of at-risk preschool Chilean children. Study 1 examined the effect of word elaboration on story comprehension with 72 children. Children who were exposed to elaborations of unknown words during storybook reading achieved better comprehension than those who were not after vocabulary and narrative comprehension skills were controlled. This effect was mediated by children's learning of the elaborated words and thus provides evidence for the causal role of word knowledge in story comprehension. Study 2 examined the effect of asking questions about coherence relations versus other kinds of open-ended questions such as requests for predictions, descriptions, and real-life connections. Children exposed to coherence questions achieved better story comprehension than those exposed to other open-ended questions after initial vocabulary, narrative comprehension skills, and attentiveness were controlled. Practice or Policy: These findings suggest the use of specific reading strategies for improving comprehension. Teaching rare words and asking coherence-related questions during reading leads to better understanding of the story. These are 2 easy methods that could be integrated into daily teaching practices to help improve children's narrative comprehension.
+C1 [Strasser, Katherine; Rosa Lissi, Maria] Pontificia Univ Catolica Chile, Escuela Psicol, Santiago 7820436, Chile.
+RP Strasser, K (corresponding author), Pontificia Univ Catolica Chile, Escuela Psicol, Vicuna Mackenna 4860, Santiago 7820436, Chile.
+EM kstrasse@uc.cl
+RI Larrain, Antonia/J-6827-2017
+OI Larrain, Antonia/0000-0002-1968-4516; Strasser,
+   Katherine/0000-0003-2364-6798
+NR 68
+TC 23
+Z9 24
+U1 2
+U2 49
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1040-9289
+EI 1556-6935
+J9 EARLY EDUC DEV
+JI Early Educ. Dev.
+PD JUL 1
+PY 2013
+VL 24
+IS 5
+BP 616
+EP 639
+DI 10.1080/10409289.2012.715570
+PG 24
+WC Education & Educational Research; Psychology, Educational; Psychology,
+   Developmental
+SC Education & Educational Research; Psychology
+GA 174QS
+UT WOS:000321171100002
+DA 2020-08-05
+ER
+
+PT J
+AU Wilkinson, KS
+   Houston-Price, C
+AF Wilkinson, Kathryn S.
+   Houston-Price, Carmel
+TI Once upon a time, there was a pulchritudinous princess ... : The role of
+   word definitions and multiple story contexts in children's learning of
+   difficult vocabulary
+SO APPLIED PSYCHOLINGUISTICS
+LA English
+DT Article
+ID INDIVIDUAL-DIFFERENCES; ACQUISITION; LANGUAGE; ABILITY; MEMORY;
+   KNOWLEDGE; LITERACY; MEANINGS; SKILLS; AGE
+AB The close relationship between children's vocabulary size and their later academic success has led researchers to explore how vocabulary development might be promoted during the early school years. We describe a study that explored the effectiveness of naturalistic classroom storytelling as an instrument for teaching new vocabulary to 6- to 9-year-old children. We examined whether learning was facilitated by encountering new words in single versus multiple story contexts, or by the provision of age-appropriate definitions of words as they were encountered. Results showed that encountering words in stories on three occasions led to significant gains in word knowledge in children of all ages and abilities, and that learning was further enhanced across the board when teachers elaborated on the new words' meanings by providing dictionary definitions. Our findings clarify how classroom storytelling activities can be a highly effective means of promoting vocabulary development.
+C1 [Houston-Price, Carmel] Univ Reading, Reading RG6 6AL, Berks, England.
+RP Houston-Price, C (corresponding author), Univ Reading, Sch Psychol & Clin Language Sci, Reading RG6 6AL, Berks, England.
+EM c.houston-price@reading.ac.uk
+OI Wilkinson, Kath/0000-0001-8962-0991; Houston-Price,
+   Carmel/0000-0001-6368-142X
+NR 56
+TC 20
+Z9 21
+U1 1
+U2 30
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0142-7164
+EI 1469-1817
+J9 APPL PSYCHOLINGUIST
+JI Appl. Psycholinguist.
+PD JUL
+PY 2013
+VL 34
+IS 3
+BP 591
+EP 613
+DI 10.1017/S0142716411000889
+PG 23
+WC Linguistics; Psychology, Experimental
+SC Linguistics; Psychology
+GA 137KZ
+UT WOS:000318436100008
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Walsh, BA
+   Rose, KK
+AF Walsh, Bridget
+   Rose, Katherine
+TI Impact of Adult Vocabulary Noneliciting and Eliciting Questions on the
+   Novel Vocabulary Acquisition of Preschoolers Enrolled in Head Start
+SO JOURNAL OF RESEARCH IN CHILDHOOD EDUCATION
+LA English
+DT Article
+DE storybook; reading; novel vocabulary; questioning; Head Start
+ID LITERACY INTERVENTION; EMERGENT LITERACY; LANGUAGE; CHILDREN
+AB A variety of adult questioning styles may accompany shared storybook reading to help preschoolers' word learning. This experiment utilized a blocked randomized design to investigate the impact of two adult questioning styles-vocabulary noneliciting questions and vocabulary eliciting questions-on the novel vocabulary learning of preschoolers enrolled in Head Start. Results indicate that children who were asked vocabulary noneliciting questions, or questions that included novel words, had significantly higher receptive word knowledge posttest scores than children who were asked questions that elicited the novel words. In addition, vocabulary noneliciting questions facilitated children's initial associations of the novel label and referent during the storybook reading more so than eliciting questions. This study may inform practices for promoting preschoolers' novel vocabulary learning in the context of shared storybook reading. Implications for adults working with children enrolled in Head Start are discussed.
+C1 [Walsh, Bridget] Univ Nevada, Reno, NV 89557 USA.
+   [Rose, Katherine] Texas Womans Univ, Denton, TX 76204 USA.
+RP Walsh, BA (corresponding author), Univ Nevada, Human Dev & Family Studies, Mail Stop 0281, Reno, NV 89557 USA.
+EM bridgetw@unr.edu
+FU International Reading Association
+FX This study was partially supported by a Helen M. Robinson dissertation
+   grant of the International Reading Association awarded to Bridget A.
+   Walsh. An earlier version of this work was presented at the annual
+   conference of the National Association for the Education of Young
+   Children in Washington, DC.
+NR 34
+TC 6
+Z9 6
+U1 0
+U2 0
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0256-8543
+EI 2150-2641
+J9 J RES CHILD EDUC
+JI J. Res. Child. Educ.
+PY 2013
+VL 27
+IS 1
+BP 31
+EP 45
+DI 10.1080/02568543.2012.712085
+PG 15
+WC Education & Educational Research
+SC Education & Educational Research
+GA V58EA
+UT WOS:000210677500003
+DA 2020-08-05
+ER
+
+PT J
+AU Mandel, E
+   Osana, HP
+   Venkatesh, V
+AF Mandel, Eliana
+   Osana, Helena P.
+   Venkatesh, Vivek
+TI Addressing the Effects of Reciprocal Teaching on the Receptive and
+   Expressive Vocabulary of 1st-Grade Students
+SO JOURNAL OF RESEARCH IN CHILDHOOD EDUCATION
+LA English
+DT Article
+DE vocabulary; reading; young children; English
+ID READING-COMPREHENSION; LANGUAGE-DEVELOPMENT; BOOK; PRESCHOOLERS;
+   INTERVENTION; ACQUISITION; ADAPTATIONS; GENERATION; CLASSROOM; LITERACY
+AB This study evaluated the effects of Adapted Reciprocal Teaching (ART) on the receptive and expressive flight-word vocabulary of 1st-grade students. During ART, classroom interactions produced narrative contexts within which students assumed responsibility for applying new flight words in personally meaningful ways. Students in the control group also received interactive storybook instruction, but classroom interactions were led primarily by the teacher and focused only on the meanings of unfamiliar flight words. Students were assessed using the Receptive Flight Word Vocabulary Test (RFVT) and the Expressive Flight Word Vocabulary Test (EFVT). The data demonstrated that after the instructional intervention, the students in the ART group acquired significantly more target words (as measured by performance on the RFVT and the EFVT) than students in the control group. Results are interpreted in light of generative learning theory, and practical implications for introducing vocabulary in the early school years are addressed.
+C1 [Mandel, Eliana; Osana, Helena P.; Venkatesh, Vivek] Concordia Univ, 1455 Maisonneuve Blvd Ouest,Educ LB-579, Montreal, PQ H3G 1M8, Canada.
+RP Mandel, E (corresponding author), Concordia Univ, 1455 Maisonneuve Blvd Ouest,Educ LB-579, Montreal, PQ H3G 1M8, Canada.
+EM elianamandel@gmail.com
+NR 58
+TC 3
+Z9 3
+U1 0
+U2 0
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0256-8543
+EI 2150-2641
+J9 J RES CHILD EDUC
+JI J. Res. Child. Educ.
+PY 2013
+VL 27
+IS 4
+BP 407
+EP 426
+DI 10.1080/02568543.2013.824526
+PG 20
+WC Education & Educational Research
+SC Education & Educational Research
+GA V58FE
+UT WOS:000210680500002
+DA 2020-08-05
+ER
+
+PT J
+AU McLeod, AN
+   McDade, HL
+AF McLeod, Angela N.
+   McDade, Hiram L.
+TI Preschoolers' Incidental Learning of Novel Words During Storybook
+   Reading
+SO COMMUNICATION DISORDERS QUARTERLY
+LA English
+DT Article
+DE acquisition; development; language; linguistics; semantics
+ID PHONOTACTIC PROBABILITY; VOCABULARY ACQUISITION; LANGUAGE IMPAIRMENT;
+   COMPREHENSION; MEANINGS; CONTEXT
+AB This investigation examined the ability of 44 preschool children to acquire novel words embedded in storybook contexts. Previous investigations of word learning have typically consisted of novel words for which synonyms exist. It is argued that the acquisition of unfamiliar words that refer to existing concepts that already have labels is not necessarily the same process as the acquisition of legitimately new words for novel referents. Storybook conditions were designed to provide equivalent opportunity for exposure to the target words in two different contexts. All target words consisted of single-syllable, high phonotactic probability sound sequences. This investigation was designed for several purposes: 1) to examine children's receptive identification of novel words following brief exposure (fast mapping); 2) to identify possible differences in acquisition of nouns and verbs; and 3) to determine if the rate of acquisition of novel words significantly differs by the context of presentation. All children identified novel words following exposure through book reading, preferring nouns over verbs. Participants in one version of the story acquired a significantly greater total number of words. Verb learning did not differ significantly between the storybook conditions.
+C1 [McLeod, Angela N.; McDade, Hiram L.] Univ S Carolina, Columbia, SC 29204 USA.
+RP McLeod, AN (corresponding author), Univ S Carolina, Speech & Hearing Res Ctr, 1601 St Julian Pl, Columbia, SC 29204 USA.
+EM mcleodan@mailbox.sc.edu
+NR 62
+TC 25
+Z9 26
+U1 3
+U2 24
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 1525-7401
+EI 1538-4837
+J9 COMMUN DISORD Q
+JI Comm. Disord. Q.
+PD AUG
+PY 2011
+VL 32
+IS 4
+BP 256
+EP 266
+DI 10.1177/1525740109354777
+PG 11
+WC Linguistics; Rehabilitation
+SC Linguistics; Rehabilitation
+GA V28NW
+UT WOS:000208688500005
+DA 2020-08-05
+ER
+
+PT J
+AU Ramachandra, V
+   Hewitt, LE
+   Brackenbury, T
+AF Ramachandra, Vijayachandra
+   Hewitt, Lynne E.
+   Brackenbury, Tim
+TI The Relationship Between Phonological Memory, Phonological Sensitivity,
+   and Incidental Word Learning
+SO JOURNAL OF PSYCHOLINGUISTIC RESEARCH
+LA English
+DT Article
+DE Fast mapping; Vocabulary development; Lexical memory; Phonological
+   knowledge
+ID NONWORD REPETITION; LANGUAGE IMPAIRMENT; YOUNG-CHILDREN; VOCABULARY
+   ACQUISITION; RECEPTIVE VOCABULARY; WORKING-MEMORY; PRESCHOOLERS;
+   INDIVIDUALS; ABILITIES; AWARENESS
+AB This study investigated the cognitive abilities needed to succeed at incidental word learning, specifically by examining the role of phonological memory and phonological sensitivity in novel word learning by 4-year-olds who were typically developing. Forty 4-year-olds were administered a test of nonword repetition (to investigate phonological memory), rhyming and phoneme alliteration tasks (to investigate phonological sensitivity), and an incidental word learning task (via a computer-based presentation of a cartoon story). A multiple regression analysis revealed that nonword repetition scores did not contribute significantly to incidental word learning. Phonological sensitivity scores were significant predictors of incidental word learning. These findings provide support for a model of lexical acquisition in which phonological knowledge plays an important role.
+C1 [Ramachandra, Vijayachandra] Marywood Univ, Dept Commun Sci & Disorders, Scranton, PA 18509 USA.
+   [Hewitt, Lynne E.; Brackenbury, Tim] Bowling Green State Univ, Dept Commun Disorders, Bowling Green, OH 43403 USA.
+RP Ramachandra, V (corresponding author), Marywood Univ, Dept Commun Sci & Disorders, Scranton, PA 18509 USA.
+EM vijay.chandra2002@gmail.com; lhewitt@bgsu.edu; tbracke@bgsu.edu
+OI Hewitt, Lynne/0000-0002-9067-1945
+NR 50
+TC 11
+Z9 11
+U1 1
+U2 19
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0090-6905
+EI 1573-6555
+J9 J PSYCHOLINGUIST RES
+JI J. Psycholinguist. Res.
+PD APR
+PY 2011
+VL 40
+IS 2
+BP 93
+EP 109
+DI 10.1007/s10936-010-9157-8
+PG 17
+WC Linguistics; Psychology, Experimental
+SC Linguistics; Psychology
+GA 739JN
+UT WOS:000288713300002
+PM 20872250
+DA 2020-08-05
+ER
+
+PT J
+AU Horst, JS
+   Parsons, KL
+   Bryan, NM
+AF Horst, Jessica S.
+   Parsons, Kelly L.
+   Bryan, Natasha M.
+TI Get the story straight: contextual repetition promotes word learning
+   from storybooks
+SO FRONTIERS IN PSYCHOLOGY
+LA English
+DT Article
+DE shared book reading; fast mapping; word learning; contextual learning;
+   language acquisition
+ID ACCELERATING LANGUAGE-DEVELOPMENT; VOCABULARY ACQUISITION; PICTURE
+   BOOKS; CHILDREN; INFANTS; TODDLERS; PARENT; COMPREHENSION; EXPERIENCE;
+   ATTENTION
+AB Although shared storybook reading is a common activity believed to improve the language skills of preschool children, how children learn new vocabulary from such experiences has been largely neglected in the literature. The current study systematically explores the effects of repeatedly reading the same storybooks on both young children's fast and slow mapping abilities. Specially created storybooks were read to 3-year-old children three times during the course of 1 week. Each of the nine storybooks contained two novel name-object pairs. At each session, children either heard three different stories with the same two novel name-object pairs or the same story three times. Importantly, all children heard each novel name the same number of times. Both immediate recall and retention were tested with a four-alternative forced-choice task with pictures of the novel objects. Children who heard the same stories repeatedly were very accurate on both the immediate recall and retention tasks. In contrast, children who heard different stories were only accurate on immediate recall during the last two sessions and failed to learn any of the new words. Overall, then, we found a dramatic increase in children's ability to both recall and retain novel name-object associations encountered during shared storybook reading when they heard the same stories multiple times in succession. Results are discussed in terms of contextual cueing effects observed in other cognitive domains.
+C1 [Horst, Jessica S.; Parsons, Kelly L.; Bryan, Natasha M.] Univ Sussex, Sch Psychol, Brighton BN1 9QH, E Sussex, England.
+RP Horst, JS (corresponding author), Univ Sussex, Sch Psychol, Pevensey 1 Bldg, Brighton BN1 9QH, E Sussex, England.
+EM jessica@sussex.ac.uk
+RI Horst, Jessica/F-5523-2012
+OI Horst, Jessica/0000-0003-3200-5239
+NR 72
+TC 61
+Z9 62
+U1 3
+U2 30
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1664-1078
+J9 FRONT PSYCHOL
+JI Front. Psychol.
+PY 2011
+VL 2
+AR 17
+DI 10.3389/fpsyg.2011.00017
+PG 11
+WC Psychology, Multidisciplinary
+SC Psychology
+GA V31DG
+UT WOS:000208863700029
+PM 21713179
+OA DOAJ Gold, Green Published, Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Blewitt, P
+   Rump, KM
+   Shealy, SE
+   Cook, SA
+AF Blewitt, Pamela
+   Rump, Keiran M.
+   Shealy, Stephanie E.
+   Cook, Samantha A.
+TI Shared Book Reading: When and How Questions Affect Young Children's Word
+   Learning
+SO JOURNAL OF EDUCATIONAL PSYCHOLOGY
+LA English
+DT Article
+DE shared book reading; word learning; vocabulary; scaffolding;
+   extratextual questions
+ID VOCABULARY ACQUISITION; LANGUAGE-DEVELOPMENT; INDIVIDUAL-DIFFERENCES;
+   PRESCHOOL-CHILDREN; STORYBOOKS; MOTHERS; INPUT; INTERVENTION;
+   CONVERSATION; INVOLVEMENT
+AB Shared book reading, and the conversation that accompanies it, can facilitate young children's vocabulary growth. To identify the features of extratextual questions that help 3-year-olds learn unfamiliar words during shared book reading, two experiments explored the impact of cognitive demand level, placement, and an approximation to scaffolding. Asking questions about target words improved children's comprehension and production of word-referent associations, and children with larger vocabularies learned more than children with smaller vocabularies. Neither the demand level nor placement of questions differentially affected word learning. However, an approximation to scaffolding, in which adults asked low demand questions when words first appeared and high demand questions later, did facilitate children's deeper understanding of word meanings as assessed with a definition task. These results are unique in experimentally demonstrating the value for word learning of shifting from less to more challenging input over time. Discussion focuses on why a scaffolding-like procedure improves children's acquisition of elaborated word meanings.
+C1 [Blewitt, Pamela; Shealy, Stephanie E.; Cook, Samantha A.] Villanova Univ, Dept Psychol, Villanova, PA 19085 USA.
+   [Rump, Keiran M.] Univ Pittsburgh, Dept Psychol, Pittsburgh, PA 15260 USA.
+RP Blewitt, P (corresponding author), Villanova Univ, Dept Psychol, Villanova, PA 19085 USA.
+EM pamela.blewitt@villanova.edu
+NR 66
+TC 130
+Z9 130
+U1 11
+U2 64
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-0663
+EI 1939-2176
+J9 J EDUC PSYCHOL
+JI J. Educ. Psychol.
+PD MAY
+PY 2009
+VL 101
+IS 2
+BP 294
+EP 304
+DI 10.1037/a0013844
+PG 11
+WC Psychology, Educational
+SC Psychology
+GA 432SW
+UT WOS:000265155500004
+DA 2020-08-05
+ER
+
+PT J
+AU Beck, IL
+   McKeown, MG
+AF Beck, Isabel L.
+   McKeown, Margaret G.
+TI Increasing young low-income children's oral vocabulary repertoires
+   through rich and focused instruction
+SO ELEMENTARY SCHOOL JOURNAL
+LA English
+DT Article
+ID ACQUISITION; COMPREHENSION; FREQUENCY; KNOWLEDGE; CONTEXT; GROWTH; MODEL
+AB This article reports on 2 studies with kindergarten and first-grade children from a low-achieving elementary school that provided vocabulary instruction by the students' regular classroom teacher of sophisticated words (advanced vocabulary words) from children's trade books that are typically read aloud. Study I compared the number of sophisticated words learned between 52 children who were directly taught the words and 46 children who received no instruction. As expected, children in the experimental group learned significantly more words. Study 2, a within-subject design, examined 76 children's learning of words under 2 different amounts of instruction, either 3 days or 6 days. In Study 2, the vocabulary gains in kindergarten and first-grade children for words that received more instruction were twice as large. Student vocabulary was assessed by a picture test where students were presented with pictures that represented different words and were asked to identify which picture represented the word that the tester provided. The verbal test was similar but used a sentence description of a scenario instead of a picture. The instructional implications for which words to teach and how to teach them to young children are discussed.
+C1 Univ Pittsburgh, Pittsburgh, PA 15260 USA.
+RP Beck, IL (corresponding author), Univ Pittsburgh, Pittsburgh, PA 15260 USA.
+RI parkinson, alison/B-1483-2012
+NR 62
+TC 286
+Z9 287
+U1 3
+U2 56
+PU UNIV CHICAGO PRESS
+PI CHICAGO
+PA 1427 E 60TH ST, CHICAGO, IL 60637-2954 USA
+SN 0013-5984
+EI 1554-8279
+J9 ELEM SCHOOL J
+JI Elem. Sch. J.
+PD JAN
+PY 2007
+VL 107
+IS 3
+BP 251
+EP 271
+DI 10.1086/511706
+PG 21
+WC Education & Educational Research
+SC Education & Educational Research
+GA 122AX
+UT WOS:000243199200001
+DA 2020-08-05
+ER
+
+PT J
+AU Horohov, JE
+   Oetting, JB
+AF Horohov, JE
+   Oetting, JB
+TI Effects of input manipulations on the word learning abilities of
+   children with and without specific language impairment
+SO APPLIED PSYCHOLINGUISTICS
+LA English
+DT Article
+ID SHORT-TERM-MEMORY; PHONOLOGICAL WORKING-MEMORY; SCHOOL-AGE-CHILDREN;
+   NONWORD REPETITION; VOCABULARY ACQUISITION; INDIVIDUAL-DIFFERENCES;
+   AFRICAN-AMERICAN; TEST-PERFORMANCE; COMPREHENSION; TASK
+AB Three input variables were manipulated during a story-viewing task to examine the word learning abilities of children with and without specific language impairment (SLI). The variables were presentation rate. sentence complexity, and word type. Fifty-four children participated: 18 were identified as SLI and 36 served as normally developing age-matched or language-matched controls. The stimuli involved a videotaped reading of two stories that had novel words embedded in the narrative, and word learning was measured by examining the children's ability to infer the meanings of the novel words from the story viewing context. A picture pointing task and a real word synonym task served as comprehension probes. A nonword repetition task and a battery of language tests were also administered. Two of the three input manipulations affected the children's scores. Across both probes, word type resulted in a main effect, with children from all three groups earning higher scores for verbs than nouns. On the picture pointing probe. presentation rate interacted with group. The interaction reflected lower scores in the fast rate than the slow rate for the children with SLI but not for the controls. Children's nonword repetition scores and standardized tests of vocabulary and syntax were moderately correlated with each other, and together these variables accounted for significant variation in the children's story viewing scores even after age, IQ, and articulation ability were controlled. The vocabulary and syntax tests contributed unique variance whereas nonword repetition contributed shared variance.
+C1 Louisiana State Univ, Dept Commun Sci & Disorders, Baton Rouge, LA 70803 USA.
+RP Oetting, JB (corresponding author), Louisiana State Univ, Dept Commun Sci & Disorders, 163 M&DA Bldg, Baton Rouge, LA 70803 USA.
+EM cdjanna@lsu.edu
+NR 54
+TC 30
+Z9 30
+U1 1
+U2 11
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0142-7164
+EI 1469-1817
+J9 APPL PSYCHOLINGUIST
+JI Appl. Psycholinguist.
+PD JAN
+PY 2004
+VL 25
+IS 1
+BP 43
+EP 65
+DI 10.1017/S0142716404001031
+PG 23
+WC Linguistics; Psychology, Experimental
+SC Linguistics; Psychology
+GA 814UD
+UT WOS:000220998700003
+DA 2020-08-05
+ER
+
+EF

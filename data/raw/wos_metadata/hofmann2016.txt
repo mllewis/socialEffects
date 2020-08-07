@@ -1,0 +1,546 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wellman, HM
+   Peterson, CC
+AF Wellman, Henry M.
+   Peterson, Candida C.
+TI Deafness, Thought Bubbles, and Theory-of-Mind Development
+SO DEVELOPMENTAL PSYCHOLOGY
+LA English
+DT Article
+DE social cognition; theory of mind; deafness; intervention research;
+   developmental delays
+ID TYPICALLY DEVELOPING-CHILDREN; FALSE-BELIEF; NORMAL-HEARING; LANGUAGE;
+   AUTISM; SKILLS; COMMUNICATION; ABILITY; STEPS
+AB The processes and mechanisms of theory-of-mind development were examined via a training study of false-belief conceptions in deaf children of hearing parents (N = 43). In comparison to 2 different control conditions, training based on thought-bubble instruction about beliefs was linked with improved false-belief understanding as well as progress on a broader theory-of-mind scale. By combining intervention, microgenetic, and developmental scaling methods, the findings provide informative data about the nature and mechanisms of theory-of-mind change in deaf children, as well as an initial demonstration of a useful intervention for enhancing social cognition in deaf children of hearing parents. The methods and results also point to possible avenues for the study of conceptual change more generally.
+C1 [Wellman, Henry M.] Univ Michigan, Ctr Human Growth & Dev, Ann Arbor, MI 48109 USA.
+   [Peterson, Candida C.] Univ Queensland, Dept Psychol, Brisbane, Qld 4072, Australia.
+RP Wellman, HM (corresponding author), Univ Michigan, Ctr Human Growth & Dev, 300 North Ingalls,10th Floor, Ann Arbor, MI 48109 USA.
+EM hmw@umich.edu
+FU NICHD NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH Eunice Kennedy Shriver National
+   Institute of Child Health & Human Development (NICHD) [HD022149, R37
+   HD022149, R01 HD022149]
+NR 66
+TC 37
+Z9 39
+U1 3
+U2 58
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0012-1649
+EI 1939-0599
+J9 DEV PSYCHOL
+JI Dev. Psychol.
+PD DEC
+PY 2013
+VL 49
+IS 12
+BP 2357
+EP 2367
+DI 10.1037/a0032419
+PG 11
+WC Psychology, Developmental
+SC Psychology
+GA 264DM
+UT WOS:000327857200013
+PM 23544856
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Sellabona, ES
+   Sanchez, CR
+   Majoral, EV
+   Guitart, ME
+   Caballero, FS
+   Ortiz, JS
+AF Serrat Sellabona, Elisabet
+   Rostan Sanchez, Carles
+   Valles Majoral, Eduard
+   Esteban Guitart, Moises
+   Sidera Caballero, Francesc
+   Serrano Ortiz, Jessica
+TI Labelling Improves False Belief Understanding. A Training Study
+SO SPANISH JOURNAL OF PSYCHOLOGY
+LA English
+DT Article
+DE theory of mind; false belief; language; training study
+ID APPEARANCE-REALITY DISTINCTION; CHANGE CARD SORT; MIND; LANGUAGE; TASK;
+   CHILDREN; PERFORMANCE; KNOWLEDGE; DEAFNESS; ABILITY
+AB A total of 104 children aged between 41 and 47 months were selected to study the relationship between language and false belief understanding. Participants were assigned to four different training conditions: discourse, labelling, control (all with deceptive objects), and sentential complements (involving non-deceptive objects). Post-test results showed an improvement in children's false belief understanding in the discourse and the labelling conditions, but not in the sentential complements with non-deceptive objects or the control group. Furthermore, the most remarkable improvement in false belief understanding occurred in the labelling group. These results suggest that some types of linguistic experience promote the development of false belief understanding, provided that differing perspectives are confronted.
+C1 [Serrat Sellabona, Elisabet; Rostan Sanchez, Carles; Valles Majoral, Eduard; Esteban Guitart, Moises; Sidera Caballero, Francesc; Serrano Ortiz, Jessica] Univ Girona, Girona 17071, Spain.
+RP Sellabona, ES (corresponding author), Univ Girona, Dept Psicol, Pl St Domenec 9, Girona 17071, Spain.
+EM elisabet.serrat@udg.edu
+RI Sidera, Francesc/C-5974-2011; Serrat, Elisabet/C-7564-2011; Rostan,
+   Carles/K-6453-2017; GUITART, MOISES ESTEBAN/J-8947-2014
+OI Sidera, Francesc/0000-0001-7107-0450; Serrat,
+   Elisabet/0000-0003-0702-0082; Rostan, Carles/0000-0003-4223-0368;
+   GUITART, MOISES ESTEBAN/0000-0002-1700-8792
+NR 37
+TC 3
+Z9 3
+U1 0
+U2 12
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 1138-7416
+J9 SPAN J PSYCHOL
+JI Span. J. Psychol.
+PY 2013
+VL 16
+AR e6
+DI 10.1017/sjp.2013.8
+PG 14
+WC Psychology; Psychology, Multidisciplinary
+SC Psychology
+GA 185FQ
+UT WOS:000321952000006
+PM 23866253
+OA Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Lecce, S
+   Caputi, M
+   Hughes, C
+AF Lecce, Serena
+   Caputi, Marcella
+   Hughes, Claire
+TI Does sensitivity to criticism mediate the relationship between theory of
+   mind and academic achievement?
+SO JOURNAL OF EXPERIMENTAL CHILD PSYCHOLOGY
+LA English
+DT Article
+DE Theory of mind; Academic achievement; Sensitivity to teacher criticism;
+   Transition to school; False belief understanding; Emotion understanding
+ID TEACHER-CHILD RELATIONSHIPS; MENTAL-STATE TALK; FALSE-BELIEF; EXECUTIVE
+   FUNCTION; INDIVIDUAL-DIFFERENCES; EMOTION KNOWLEDGE; ASSOCIATIONS;
+   LINKS; METAANALYSIS; COMPETENCE
+AB This study adds to the growing research on school outcomes associated with individual differences in preschoolers' theory of mind skills by considering whether "costs" of theory of mind (e.g., sensitivity to criticism) actually help to foster children's academic achievement. A group of 60 Italian children was tested during the last year of preschool (Time 1, mean age = 5 years 6 months) and in their first year (Time 2, mean age = 6 years 5 months) and second year (Time 3, mean age = 7 years 5 months) of primary school. Children's theory of mind, verbal ability, and social skills were evaluated at each time point. In addition, children's sensitivity to teacher criticism was assessed at Time 2 and teachers' ratings of children's academic achievement were gathered at Time 3. Mediation analyses showed that, independent of verbal ability and social skills, sensitivity to criticism at Time 2 mediated the association between theory of mind at Time 1 and academic achievement at Time 3. These findings highlight the importance of investigating the educational consequences of individual differences in preschoolers' theory of mind. (C) 2011 Elsevier Inc. All rights reserved.
+C1 [Lecce, Serena; Caputi, Marcella] Univ Pavia, Dept Psychol, I-27100 Pavia, Italy.
+   [Hughes, Claire] Univ Cambridge, Fac Social & Polit Sci, Ctr Family Res, Cambridge CB2 3RF, England.
+RP Lecce, S (corresponding author), Univ Pavia, Dept Psychol, Via Palestro 3, I-27100 Pavia, Italy.
+EM slecce@unipv.it
+RI Caputi, Marcella/H-6193-2012
+OI Caputi, Marcella/0000-0002-8041-5278; Hughes, Claire/0000-0003-2545-3025
+NR 115
+TC 54
+Z9 54
+U1 1
+U2 43
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0022-0965
+EI 1096-0457
+J9 J EXP CHILD PSYCHOL
+JI J. Exp. Child Psychol.
+PD NOV
+PY 2011
+VL 110
+IS 3
+BP 313
+EP 331
+DI 10.1016/j.jecp.2011.04.011
+PG 19
+WC Psychology, Developmental; Psychology, Experimental
+SC Psychology
+GA 808PI
+UT WOS:000293990500003
+PM 21624614
+DA 2020-08-05
+ER
+
+PT J
+AU Begeer, S
+   Gevers, C
+   Clifford, P
+   Verhoeve, M
+   Kat, K
+   Hoddenbach, E
+   Boer, F
+AF Begeer, Sander
+   Gevers, Carolien
+   Clifford, Pamela
+   Verhoeve, Manja
+   Kat, Kirstin
+   Hoddenbach, Elske
+   Boer, Frits
+TI Theory of Mind Training in Children with Autism: A Randomized Controlled
+   Trial
+SO JOURNAL OF AUTISM AND DEVELOPMENTAL DISORDERS
+LA English
+DT Article
+DE Autism; Treatment; Theory of Mind; Social cognition; Randomized
+   controlled trial
+ID HIGH-FUNCTIONING AUTISM; PERVASIVE DEVELOPMENTAL DISORDERS; BEHAVIOR
+   QUESTIONNAIRE CSBQ; SOCIAL-SKILLS INTERVENTIONS; PSYCHOSOCIAL
+   INTERVENTIONS; SPECTRUM DISORDERS; ASPERGER-SYNDROME; INDIVIDUALS;
+   COGNITION; EMOTIONS
+AB Many children with Autism Spectrum Disorders (ASD) participate in social skills or Theory of Mind (ToM) treatments. However, few studies have shown evidence for their effectiveness. The current study used a randomized controlled design to test the effectiveness of a 16-week ToM treatment in 8-13 year old children with ASD and normal IQs (n = 40). The results showed that, compared to controls, the treated children with ASD improved in their conceptual ToM skills, but their elementary understanding, self reported empathic skills or parent reported social behaviour did not improve. Despite the effects on conceptual understanding, the current study does not indicate strong evidence for the effectiveness of a ToM treatment on the daily life mindreading skills.
+C1 [Begeer, Sander] Vrije Univ Amsterdam, NL-1081 BT Amsterdam, Netherlands.
+   [Gevers, Carolien; Clifford, Pamela; Verhoeve, Manja; Kat, Kirstin; Hoddenbach, Elske; Boer, Frits] Acad Ctr Child & Adolescent Psychiat, Amsterdam, Netherlands.
+RP Begeer, S (corresponding author), Vrije Univ Amsterdam, Van der Boechorststr 1, NL-1081 BT Amsterdam, Netherlands.
+EM S.Begeer@psy.vu.nl
+RI Shvedovskyi, Evgeny/X-9106-2019; Begeer, Sander/I-3383-2012
+OI Begeer, Sander/0000-0002-0572-6893
+NR 45
+TC 75
+Z9 79
+U1 2
+U2 92
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0162-3257
+EI 1573-3432
+J9 J AUTISM DEV DISORD
+JI J. Autism Dev. Disord.
+PD AUG
+PY 2011
+VL 41
+IS 8
+BP 997
+EP 1006
+DI 10.1007/s10803-010-1121-9
+PG 10
+WC Psychology, Developmental
+SC Psychology
+GA 808KV
+UT WOS:000293977500002
+PM 20976617
+OA Other Gold, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Ornaghi, V
+   Brockmeier, J
+   Gavazzi, IG
+AF Ornaghi, Veronica
+   Brockmeier, Jens
+   Gavazzi, Ilaria Grazzani
+TI The Role of Language Games in Children's Understanding of Mental States:
+   A Training Study
+SO JOURNAL OF COGNITION AND DEVELOPMENT
+LA English
+DT Article
+ID FALSE-BELIEF; INDIVIDUAL-DIFFERENCES; MIND DEVELOPMENT; TALK;
+   CONVERSATIONS; DISCOURSE; MOTHERS; SIBS
+AB In this study the authors investigated whether training preschool children in the use of mental state lexicon plays a significant role in bringing about advanced conceptual understanding of mental terms and improved performance on theory-of-mind tasks. A total of 70 participants belonging to two age groups (3 and 4 years old) were randomly assigned to experimental and control conditions. All participants were pretested and posttested with linguistic and cognitive measures. Analyses of pretest data did not show any significant differences between experimental and control groups. During a 2-month period of intervention, children were read stories enriched with mental lexicon. After listening to a story, the experimental group took part in language games and conversations aimed at stimulating children to use mental terms. In contrast, the control group did not participate in any special linguistic activities. The results show that training had a significant effect on emotion understanding and metacognitive vocabulary comprehension in the 3-year-old group and on false-belief understanding and metacognitive vocabulary comprehension in the 4-year-old group.
+C1 [Ornaghi, Veronica; Gavazzi, Ilaria Grazzani] Univ Milano Bicocca, Milan, Italy.
+   [Brockmeier, Jens] Univ Manitoba, Winnipeg, MB R3T 2N2, Canada.
+RP Ornaghi, V (corresponding author), Dipartimento Sci Umane Formaz, Piazza Ateneo Nuovo 1,U6, I-20126 Milan, Italy.
+EM veronica.ornaghi1@unimib.it; ilaria.grazzani@unimib.it
+RI Ornaghi, Veronica/H-3401-2012; Grazzani, Ilaria/H-1819-2012
+OI ORNAGHI, VERONICA/0000-0003-3629-2714; GRAZZANI,
+   ILARIA/0000-0001-6420-2160
+NR 67
+TC 63
+Z9 65
+U1 2
+U2 37
+PU LAWRENCE ERLBAUM ASSOC INC-TAYLOR & FRANCIS
+PI PHILADELPHIA
+PA 325 CHESTNUT STREET, STE 800, PHILADELPHIA, PA 19106 USA
+SN 1524-8372
+J9 J COGN DEV
+JI J. Cogn. Dev.
+PY 2011
+VL 12
+IS 2
+BP 239
+EP 259
+AR PII 937313485
+DI 10.1080/15248372.2011.563487
+PG 21
+WC Psychology, Developmental; Psychology, Experimental
+SC Psychology
+GA 761PJ
+UT WOS:000290409600009
+DA 2020-08-05
+ER
+
+PT J
+AU Peskin, J
+   Astington, JW
+AF Peskin, J
+   Astington, JW
+TI The effects of adding metacognitive language to story texts
+SO COGNITIVE DEVELOPMENT
+LA English
+DT Article
+DE language development; metacognition; theory of mind; reading
+ID TEST-RETEST RELIABILITY; FALSE-BELIEF; CHILDRENS; MIND; TALK
+AB This study investigated whether exposing Kindergarten children to metacognitive language results in a greater conceptual understanding of mental states, and increased production and comprehension of metacognitive vocabulary. Over a 4-week period, parents, teachers and graduate assistants read about 70 picture books to each participant (N = 48, mean age 4;6). The experimental group received books with text rich in explicit metacognitive terms. The control group received the same books with no metacognitive language but with most stories and accompanying illustrations implicitly requiring children to think about alternative perspectives. Results from pre-test to post-test show firstly, that exposing children to explicit metacognitive vocabulary resulted in significantly more metacognitive verb production in story telling but no improvement in metacognitive language comprehension. This demonstrates Nelson's [Language in Cognitive Development: Emergence of the Mediated Mind, Cambridge University Press, New York, 1996] notion that children "use" such vocabulary before fully understanding the concepts. A second finding was that the control group children outperformed the experimental group on a false-belief explanation battery. This suggests that hearing numerous metacognitive terms in stories is less important than having to actively construct one's own mentalistic interpretations from illustrations and text that implicitly draw attention to mental states. (C) 2004 Elsevier Inc. All rights reserved.
+C1 Univ Toronto, OISE, Ctr Appl Cognit Sci, Dept Human Dev & Appl Psychol, Toronto, ON M5S 1V6, Canada.
+RP Peskin, J (corresponding author), Univ Toronto, OISE, Ctr Appl Cognit Sci, Dept Human Dev & Appl Psychol, 252 Bloor St W, Toronto, ON M5S 1V6, Canada.
+EM jpeskin@oise.utoronto.ca
+RI Johnson, Colin/H-1442-2012
+NR 70
+TC 80
+Z9 81
+U1 1
+U2 36
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0885-2014
+EI 1879-226X
+J9 COGNITIVE DEV
+JI Cogn. Dev.
+PD APR-JUN
+PY 2004
+VL 19
+IS 2
+BP 253
+EP 273
+DI 10.1016/j.cogdev.2004.01.003
+PG 21
+WC Psychology, Developmental; Psychology, Experimental
+SC Psychology
+GA 823QF
+UT WOS:000221627300007
+DA 2020-08-05
+ER
+
+PT J
+AU Kloo, D
+   Perner, J
+AF Kloo, D
+   Perner, J
+TI Training transfer between card sorting and false belief understanding:
+   Helping children apply conflicting descriptions
+SO CHILD DEVELOPMENT
+LA English
+DT Article; Proceedings Paper
+CT Meeting of the Society-for-Research-in-Child-Development
+CY APR, 2003
+CL TAMPA, FLORIDA
+SP Soc Res Child Dev
+ID STRATEGIC DECEPTION; EXECUTIVE FUNCTION; SELF-CONTROL; MIND;
+   PRESCHOOLERS; TASK; PERSPECTIVE; DIFFICULTY; WORDS
+AB Two studies investigated the parallel developmental progress in theory of mind and executive control, as exemplified by correlations between the Dimensional Change Card Sorting task (DCCS; Frye, Zelazo, & Palfai, 1995) and the false-belief task. Experiment 1 with sixty 3-year-old children confirmed earlier studies (e.g., Perner & Lang, 2002), suggesting that children's problem with the DCCS lies in the redescription of stimulus objects. Experiment 2 with forty-four 3- to 4-year-olds reinforced the correlational evidence for a developmental link by showing transfer of training: False-belief training improved DCCS performance, and DCCS training significantly increased children's performance on the false-belief task. Results are discussed in relation to 5 theories explaining the existing correlational evidence.
+C1 Salzburg Univ, Dept Psychol, A-5020 Salzburg, Austria.
+RP Perner, J (corresponding author), Salzburg Univ, Dept Psychol, Hellbrunnerstr 34, A-5020 Salzburg, Austria.
+NR 45
+TC 137
+Z9 141
+U1 2
+U2 40
+PU BLACKWELL PUBLISHERS
+PI MALDEN
+PA 350 MAIN STREET, STE 6, MALDEN, MA 02148 USA
+SN 0009-3920
+J9 CHILD DEV
+JI Child Dev.
+PD NOV-DEC
+PY 2003
+VL 74
+IS 6
+BP 1823
+EP 1839
+DI 10.1046/j.1467-8624.2003.00640.x
+PG 17
+WC Psychology, Educational; Psychology, Developmental
+SC Psychology
+GA 746PV
+UT WOS:000186755500016
+PM 14669898
+DA 2020-08-05
+ER
+
+PT J
+AU Hale, CM
+   Tager-Flusberg, H
+AF Hale, CM
+   Tager-Flusberg, H
+TI The influence of language on theory of mind: a training study
+SO DEVELOPMENTAL SCIENCE
+LA English
+DT Article
+ID APPEARANCE-REALITY DISTINCTION; YOUNG CHILDRENS CONCEPTION; FALSE
+   BELIEF; INDIVIDUAL-DIFFERENCES; PRESCHOOLERS; KNOWLEDGE;
+   REPRESENTATIONS; METAANALYSIS; COMPETENCE; DECEPTION
+AB This study investigated the role of language in the development of theory of mind. It was hypothesized that the acquisition of the syntactic and semantic properties of sentential complements would facilitate the development of a representational theory of mind. Sixty preschoolers who failed false belief and sentential complement pretests were randomly assigned to training on false belief, sentential complements or relative clauses (as a control group). All the children were post-tested on a set of different theory of mind tasks, sentential complements and relative clauses. The main findings were that the group trained on sentential complements not only acquired the linguistic knowledge fostered by the training, but also significantly increased their scores on a range of theory of mind tasks. In contrast, false belief training only led to improved theory of mind scores but had no influence on language. The control group, trained on relative clauses, showed no improvement on theory of mind post-tests. These findings are taken as evidence that the acquisition of sentential complements contributes to the development of theory of mind in preschoolers.
+C1 Boston Univ, Sch Med, Dept Anat & Neurobiol, Boston, MA 02118 USA.
+   Harvard Univ, Childrens Hosp, Sch Med, Dept Psychiat, Cambridge, MA 02138 USA.
+RP Tager-Flusberg, H (corresponding author), Boston Univ, Sch Med, Dept Anat & Neurobiol, 715 Albany St,L-814, Boston, MA 02118 USA.
+RI Tager-Flusberg, Helen B/D-5265-2009
+OI Tager-Flusberg, Helen/0000-0002-8768-5414
+FU NIDCD NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute on Deafness &
+   Other Communication Disorders (NIDCD) [P01 DC003610, P01 DC003610-05,
+   P01 DC003610-04, P01 DC003610-03]
+NR 59
+TC 208
+Z9 215
+U1 1
+U2 47
+PU BLACKWELL PUBL LTD
+PI OXFORD
+PA 108 COWLEY RD, OXFORD OX4 1JF, OXON, ENGLAND
+SN 1363-755X
+J9 DEVELOPMENTAL SCI
+JI Dev. Sci.
+PD JUN
+PY 2003
+VL 6
+IS 3
+BP 346
+EP 359
+DI 10.1111/1467-7687.00289
+PG 14
+WC Psychology, Developmental; Psychology, Experimental
+SC Psychology
+GA 683UW
+UT WOS:000183169500015
+PM 16467908
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Guajardo, NR
+   Watson, AC
+AF Guajardo, NR
+   Watson, AC
+TI Narrative discourse and theory of mind development
+SO JOURNAL OF GENETIC PSYCHOLOGY
+LA English
+DT Article; Proceedings Paper
+CT Biennial Meeting of the Society-for-Research-in-Child-Development
+CY APR 15-18, 1999
+CL ALBUQUERQUE, NM
+SP Soc Res Child Dev
+DE discourse; mind; narrative; training
+ID ACCELERATING LANGUAGE-DEVELOPMENT; FALSE BELIEF; YOUNG-CHILDREN;
+   MOTHERS; TALK; DISTINCTION; EXTENSION; ACCESS; STATES
+AB The authors examined experimentally whether exposure to social discourse about concepts related to mental states could promote changes in children's theory of mind understanding. In 2 studies, 3- to 4-year-old children were assigned to either a training or a no training control condition. All children were administered several theory of mind measures at pretest and 2 posttests. Training was not effective in improving performance in Study 1 (n = 37); but in Study 2 (n = 54), modifications of the training procedure led to significant improvements on measures of false belief and deception from pretest to 1st posttest. The findings support the influence of social discourse on children's theory of mind development.
+C1 Idaho State Univ, Dept Psychol, Pocatello, ID 83209 USA.
+   Illinois Wesleyan Univ, Dept Psychol, Bloomington, IL 61701 USA.
+RP Guajardo, NR (corresponding author), Idaho State Univ, Dept Psychol, Camous Box 8112, Pocatello, ID 83209 USA.
+EM guajnico@isu.edu
+NR 58
+TC 69
+Z9 73
+U1 0
+U2 14
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0022-1325
+EI 1940-0896
+J9 J GENET PSYCHOL
+JI J. Genet. Psychol.
+PD SEP
+PY 2002
+VL 163
+IS 3
+BP 305
+EP 325
+DI 10.1080/00221320209598686
+PG 21
+WC Psychology, Developmental; Psychology; Psychology, Multidisciplinary
+SC Psychology
+GA 590PQ
+UT WOS:000177831600005
+PM 12230152
+DA 2020-08-05
+ER
+
+PT J
+AU Hadwin, J
+   BaronCohen, S
+   Howlin, P
+   Hill, K
+AF Hadwin, J
+   BaronCohen, S
+   Howlin, P
+   Hill, K
+TI Can we teach children with autism to understand emotions, belief, or
+   pretence?
+SO DEVELOPMENT AND PSYCHOPATHOLOGY
+LA English
+DT Article
+ID SYMBOLIC PLAY; MIND; KNOWLEDGE; EXPRESSIONS; APPRAISAL; PEOPLE; STATES
+AB Previous studies have revealed a ''theory of mind'' impairment in children with autism. The aim of this study was to assess whether it is possible to intervene by teaching children with autism to understand the mental states of emotion, belief, or pretence. Results showed that it is possible to teach children with autism to pass tasks that assess emotion and belief understanding. Introducing unfamiliar materials in structurally similar tasks did not adversely influence teaching effects, either immediately after teaching, or 2 months later. However, teaching effects did not generalize to tasks in domains where children received no teaching. In addition, no significant progress in spontaneous pretend play resulted from teaching. These results indicate that children may be passing tasks using rules rather than any genuine understanding of the concepts involved.
+C1 UNIV CAMBRIDGE,DEPT EXPTL PSYCHOL,CAMBRIDGE,ENGLAND.
+   UNIV CAMBRIDGE,DEPT PSYCHIAT,CAMBRIDGE,ENGLAND.
+   UNIV LONDON ST GEORGES HOSP,DEPT PSYCHOL,LONDON,ENGLAND.
+RP Hadwin, J (corresponding author), UNIV KENT,DEPT PSYCHOL,CANTERBURY CT2 7LZ,KENT,ENGLAND.
+RI Howlin, Patricia/A-7622-2011
+OI Howlin, Patricia/0000-0002-1804-6053
+NR 56
+TC 124
+Z9 127
+U1 0
+U2 23
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 40 WEST 20TH STREET, NEW YORK, NY 10011-4211
+SN 0954-5794
+J9 DEV PSYCHOPATHOL
+JI Dev. Psychopathol.
+PD SPR
+PY 1996
+VL 8
+IS 2
+BP 345
+EP 365
+DI 10.1017/S0954579400007136
+PG 21
+WC Psychology, Developmental
+SC Psychology
+GA UJ355
+UT WOS:A1996UJ35500003
+DA 2020-08-05
+ER
+
+PT J
+AU OZONOFF, S
+   MILLER, JN
+AF OZONOFF, S
+   MILLER, JN
+TI TEACHING THEORY OF MIND - A NEW APPROACH TO SOCIAL SKILLS TRAINING FOR
+   INDIVIDUALS WITH AUTISM
+SO JOURNAL OF AUTISM AND DEVELOPMENTAL DISORDERS
+LA English
+DT Article
+ID CHILDS THEORY; SIZE; GO
+AB This study examined the effectiveness of a social skills training program for normal-IQ adolescents with autism.  Five boys participated in the 4 1/2-month treatment condition; four boys matched on age, IQ, and severity of autism constituted the no-treatment control group.  In addition to teaching specific interactional and conversational skills, the training program provided explicit and systematic instruction in the underlying social-cognitive principles necessary to infer the mental states of others (i.e., theory of mind).  Pre- and post-intervention assessment demonstrated meaningful change in the treatment group's performance on several false belief tasks, but no improvement in the control sample.  No changes, however, were demonstrated on general parent and teacher ratings of social competence for either group.
+RP OZONOFF, S (corresponding author), UNIV UTAH,DEPT PSYCHOL,502 BEHAV SCI BLDG,SALT LAKE CITY,UT 84112, USA.
+NR 34
+TC 284
+Z9 286
+U1 1
+U2 79
+PU PLENUM PUBL CORP
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013
+SN 0162-3257
+J9 J AUTISM DEV DISORD
+JI J. Autism Dev. Disord.
+PD AUG
+PY 1995
+VL 25
+IS 4
+BP 415
+EP 433
+DI 10.1007/BF02179376
+PG 19
+WC Psychology, Developmental
+SC Psychology
+GA RK445
+UT WOS:A1995RK44500005
+PM 7592252
+DA 2020-08-05
+ER
+
+EF

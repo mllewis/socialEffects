@@ -1,0 +1,878 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Kendler, KS
+   Myers, J
+   Potter, J
+   Opalesky, J
+AF Kendler, Kenneth S.
+   Myers, John
+   Potter, Jeff
+   Opalesky, Jill
+TI A Web-Based Study of Personality, Psychopathology and Substance Use in
+   Twin, Other Relative and Relationship Pairs
+SO TWIN RESEARCH AND HUMAN GENETICS
+LA English
+DT Article
+DE Twins; World Wide Web; personality; drug use
+ID SIMILARITY; COMORBIDITY; TOLERANCE
+AB Web-based studies have become increasingly common in the social sciences, but have been rare in genetic epidemiology in general and twin studies in particular. We here review the methods, validity checks and preliminary correlational data from an on-line questionnaire collected from 2005-2008. During this time period, 44,112 individuals completed the questionnaire. This sample was 65.3% female, 85.4% 18 years or older, 72.0% Caucasian and had a mean educational level of 12.2 years. The sample included 609 twin, 333 sibling and 201 parent-offspring pairs as well as 342 dating partners, 313 1 significant other' pairs, 327 spouses and 2,316 friend pairs. A range of checks suggested low levels of invalid data. Correlations for personality, substance use and misuse, lifetime major depression, social attitudes, educational status, and height and weight were broadly similar to those obtained previously using conventional assessment methods. Web-based studies are a relatively easy and inexpensive way to ascertain large numbers of individuals, although obtaining twin pairs is more difficult, and female and monozygotic pairs are overrepresented. The sample is diverse and pair resemblance is generally similar to that obtained using interviews or mailed questionnaires.
+C1 [Kendler, Kenneth S.; Myers, John; Opalesky, Jill] Virginia Commonwealth Univ, Sch Med, Virginia Inst Psychiat & Behav Genet, Richmond, VA 23298 USA.
+   [Kendler, Kenneth S.; Myers, John; Opalesky, Jill] Virginia Commonwealth Univ, Sch Med, Dept Psychiat, Richmond, VA 23298 USA.
+   [Kendler, Kenneth S.] Virginia Commonwealth Univ, Sch Med, Dept Human & Mol Genet, Richmond, VA 23298 USA.
+RP Kendler, KS (corresponding author), Virginia Commonwealth Univ, Sch Med, Virginia Inst Psychiat & Behav Genet, Box 980126,800 E Leigh St,Room 1-123, Richmond, VA 23298 USA.
+EM kendler@vcu.edu
+RI Kendler, Kenneth/AAF-2876-2019
+NR 24
+TC 16
+Z9 17
+U1 0
+U2 4
+PU AUSTRALIAN ACAD PRESS
+PI BOWEN HILLS
+PA 32 JEAYS ST, BOWEN HILLS, QLD 4006, AUSTRALIA
+SN 1832-4274
+J9 TWIN RES HUM GENET
+JI Twin Res. Hum. Genet.
+PD APR
+PY 2009
+VL 12
+IS 2
+BP 137
+EP 141
+DI 10.1375/twin.12.2.137
+PG 5
+WC Genetics & Heredity; Obstetrics & Gynecology
+SC Genetics & Heredity; Obstetrics & Gynecology
+GA 430GV
+UT WOS:000264977900003
+PM 19335183
+DA 2020-08-05
+ER
+
+PT J
+AU South, SC
+   Krueger, RF
+   Johnson, W
+   Iacono, WG
+AF South, Susan C.
+   Krueger, Robert F.
+   Johnson, Wendy
+   Iacono, William G.
+TI Adolescent personality moderates genetic and environmental influences on
+   relationships with parents
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE personality; parenting; behavior genetics; moderation
+ID CHILDHOOD FAMILY ENVIRONMENT; MINNESOTA TWIN FAMILY; REARED APART;
+   EXTERNALIZING SYMPTOMS; PERCEIVED SUPPORT; ADULT PERSONALITY; LIFE
+   EVENTS; AGE 3; PERCEPTIONS; CONFLICT
+AB In contrast with early theories of socialization that emphasized the role of parents in shaping their children's personalities, recent empirical evidence suggests an evocative relationship between adolescent personality traits and the quality of the parent-adolescent relationship. Research using behavior genetic methods suggests that the association between personality and parenting is genetically mediated, such that the genetic effects on adolescent personality traits overlap with the genetic effects on parenting behavior. In the current study, the authors examined whether the etiology of this relationship might change depending on the adolescent's personality. Biometrical moderation models were used to test for gene-environment interaction and correlation between personality traits and measures of conflict, regard, and involvement with parents in a sample of 2,452 adolescents (M age = 17.79 years). They found significant moderation of both positive and negative qualities of the parent-adolescent relationship, such that the genetic and environmental variance in relationship quality varied as functions of the adolescent's levels of personality. These findings support the importance of adolescent personality in the development of the quality of the parent-adolescent relationship.
+C1 [South, Susan C.; Krueger, Robert F.] Univ Minnesota, Dept Psychol, Minneapolis, MN 55455 USA.
+   [South, Susan C.; Krueger, Robert F.; Johnson, Wendy; Iacono, William G.] Univ Minnesota, Dept Psychol, St Paul, MN USA.
+   [Johnson, Wendy] Univ Edinburgh, Dept Psychol, Edinburgh, Midlothian, Scotland.
+RP South, SC (corresponding author), Univ Minnesota, Dept Psychol, N218 Elliott Hall,75 E River Rd, Minneapolis, MN 55455 USA.
+EM south088@umn.edu
+FU NIAAA NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute on Alcohol Abuse
+   & Alcoholism (NIAAA) [R01 AA009367, R01 AA009367-16, AA09367]; NIDA NIH
+   HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute on Drug Abuse
+   (NIDA) [R01 DA005147, R37 DA005147, DA05147, R01 DA005147-20]
+NR 56
+TC 24
+Z9 24
+U1 0
+U2 22
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD MAY
+PY 2008
+VL 94
+IS 5
+BP 899
+EP 912
+DI 10.1037/0022-3514.94.5.899
+PG 14
+WC Psychology, Social
+SC Psychology
+GA 292VH
+UT WOS:000255293700011
+PM 18444746
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Vernon, PA
+   Martin, RA
+   Schermer, JA
+   Mackie, A
+AF Vernon, Philip A.
+   Martin, Rod A.
+   Schermer, Julie Aitken
+   Mackie, Ashley
+TI A behavioral genetic investigation of humor styles and their
+   correlations with the Big-5 personality dimensions
+SO PERSONALITY AND INDIVIDUAL DIFFERENCES
+LA English
+DT Article
+DE sense of humor; personality; twin study; behavioral genetics
+ID TWIN; QUESTIONNAIRE
+AB Four hundred and fifty six pairs of adult twins completed the Humor Styles Questionnaire - which measures two positive and two negative styles of humor - and the NEO-PI-R, which measures the Big-5 personality traits. Univariate behavioral genetic model-fitting revealed that individual differences in the two positive humor styles (affiliative and self-enhancing) and all five of the Big-5 traits were largely attributable to genetic and nonshared environmental factors, whereas individual differences in the two negative humor styles (self-defeating and aggressive) were largely attributable to shared and nonshared environmental factors. Several significant phenotypic correlations were found between each of the four humor styles and the Big-5, and multivariate behavior genetic analyses revealed that these observed correlations were themselves entirely attributable to genetic and nonshared environmental factors. (C) 2007 Elsevier Ltd. All rights reserved.
+C1 [Vernon, Philip A.; Martin, Rod A.; Mackie, Ashley] Univ Western Ontario, Dept Psychol, London, ON, Canada.
+RP Vernon, PA (corresponding author), Univ Western Ontario, Dept Psychol, London, ON, Canada.
+EM vernon@uwo.ca
+RI Schermer, Julie Aitken/C-5277-2013; Martin, Rod A./F-3950-2011
+NR 16
+TC 82
+Z9 84
+U1 1
+U2 46
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0191-8869
+J9 PERS INDIV DIFFER
+JI Pers. Individ. Differ.
+PD APR
+PY 2008
+VL 44
+IS 5
+BP 1116
+EP 1125
+DI 10.1016/j.paid.2007.11.003
+PG 10
+WC Psychology, Social
+SC Psychology
+GA 282WO
+UT WOS:000254598100007
+DA 2020-08-05
+ER
+
+PT J
+AU Weiss, A
+   Bates, TC
+   Luciano, M
+AF Weiss, Alexander
+   Bates, Timothy C.
+   Luciano, Michelle
+TI Happiness is a personal(ity) thing - The genetics of personality and
+   well-being in a representative sample
+SO PSYCHOLOGICAL SCIENCE
+LA English
+DT Article
+ID ENVIRONMENTAL-INFLUENCES; MAJOR DEPRESSION; SET-POINT; K-FACTOR; TWIN;
+   ADAPTATION; COVITALITY; MODEL
+AB Subjective well-being is known to be related to personality traits. However, to date, nobody has examined whether personality and subjective well-being share a common genetic structure. We used a representative sample of 973 twin pairs to test the hypothesis that heritable differences in subjective well-being are entirely accounted for by the genetic architecture of the Five-Factor Model's personality domains. Results supported this model. Subjective well-being was accounted for by unique genetic influences from Neuroticism, Extraversion, and Conscientiousness, and by a common genetic factor that influenced all five personality domains in the directions of low Neuroticism and high Extraversion, Openness, Agreeableness, and Conscientiousness. These findings indicate that subjective well-being is linked to personality by common genes and that personality may form an "affective reserve" relevant to set-point maintenance and changes in set point over time.
+C1 [Weiss, Alexander; Bates, Timothy C.; Luciano, Michelle] Univ Edinburgh, Dept Psychol, Sch Philosophy, Edinburgh EH8 9JZ, Midlothian, Scotland.
+   [Bates, Timothy C.; Luciano, Michelle] Queensland Inst Med Res, Genet Epidemiol Unit, Brisbane, Qld 4006, Australia.
+RP Weiss, A (corresponding author), Univ Edinburgh, Dept Psychol, Sch Philosophy, 7 George Sq, Edinburgh EH8 9JZ, Midlothian, Scotland.
+EM alex.weiss@ed.ac.uk
+RI Luciano, Michelle/F-7277-2010; Bates, Timothy/C-9637-2010
+OI Luciano, Michelle/0000-0003-0935-7682; Bates,
+   Timothy/0000-0002-1153-9007
+NR 28
+TC 209
+Z9 211
+U1 2
+U2 79
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0956-7976
+EI 1467-9280
+J9 PSYCHOL SCI
+JI Psychol. Sci.
+PD MAR
+PY 2008
+VL 19
+IS 3
+BP 205
+EP 210
+DI 10.1111/j.1467-9280.2008.02068.x
+PG 6
+WC Psychology, Multidisciplinary
+SC Psychology
+GA 270HM
+UT WOS:000253711900001
+PM 18315789
+DA 2020-08-05
+ER
+
+PT J
+AU Hur, YM
+AF Hur, Yoon-Mi
+TI Evidence for nonadditive genetic effects on Eysenck personality scales
+   in South Korean twins
+SO TWIN RESEARCH AND HUMAN GENETICS
+LA English
+DT Article
+ID CLONINGERS; TEMPERAMENT; NEUROTICISM; CHARACTER; AMERICAN; CHINESE;
+   MODEL; SELF
+AB While evidence supporting for nonadditive genetic influences on personality traits in Caucasian populations has been growing in recent years, twin studies that explored the existence of genetic nonadditivity in personality variation in Asian populations are still lacking. Seven hundred and sixty-five pairs of adolescent and young adult twins registered with the South Korean Twin Registry completed the 7 scales of the Eysenck Personality Scales through a mail survey. Maximum likelihood twin correlations were computed and model-fitting analyses were conducted. Monozygotic twin correlations were consistently higher than twice the dizygotic twin correlations for all 7 scales, suggesting pervasive influences of nonadditive genetic effects on personality traits in the South Korean population. Model-fitting analyses indicated that genetic nonadditivity is particularly important for the variation of Impulsivity, Venturesomeness, Empathy, Lie, and Psychoticism. According to the best fitting models, nonadditive genetic effects ranged from 34 to 49% for these scales. For Neuroticism and Extraversion, models that included an additive genetic component fit better than those including a nonadditive genetic variance component.
+C1 Seoul Natl Univ, Coll Med, Med Res Ctr, Seoul 110799, South Korea.
+RP Hur, YM (corresponding author), Seoul Natl Univ, Coll Med, Med Res Ctr, 28 Yongon Dong, Seoul 110799, South Korea.
+EM ymhur@snu.ac.kr
+NR 27
+TC 20
+Z9 20
+U1 0
+U2 5
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 1832-4274
+EI 1839-2628
+J9 TWIN RES HUM GENET
+JI Twin Res. Hum. Genet.
+PD APR
+PY 2007
+VL 10
+IS 2
+BP 373
+EP 378
+DI 10.1375/twin.10.2.373
+PG 6
+WC Genetics & Heredity; Obstetrics & Gynecology
+SC Genetics & Heredity; Obstetrics & Gynecology
+GA 159NA
+UT WOS:000245871600014
+PM 17564527
+DA 2020-08-05
+ER
+
+PT J
+AU Bratko, D
+   Butkovic, A
+AF Bratko, Denis
+   Butkovic, Ana
+TI Stability of genetic and environmental effects from adolescence to young
+   adulthood: Results of Croatian longitudinal twin study of personality
+SO TWIN RESEARCH AND HUMAN GENETICS
+LA English
+DT Article
+ID TRAITS; NEUROTICISM; ZYGOSITY; AGE; METAANALYSIS; DIMENSIONS; EYSENCK;
+   APART
+AB The primary aim of this study was to conduct a bivariate genetic analysis investigating the extent to which genetic and environmental factors contribute to stability and change in personality factors in the period from adolescence to young adulthood on a sample of Croatian twins. The sample used in this research was formed in 1992 based on a register of citizens of Zagreb and data was collected for 160 twin pairs (75 monozygotic and 85 dizygotic twin pairs). Twins were tested twice, 4 years apart with the Eysenck Personality Questionnaire (mean age at first time point was 17 years). Univariate analyses indicate that the best fitting model for extraversion, neuroticism, psychoticism and lie scale at both time points includes additive genetic (A) and nonshared environmental (E) influences, with heritability estimates in the .40 to .50 range. Longitudinal analyses using AE correlated factors model indicate that genetic factors contribute mainly to stability, while environmental factors contribute mainly to change in personality during that 4-year period of transition from adolescence to young adulthood.
+C1 Univ Zagreb, Dept Psychol, Zagreb 41000, Croatia.
+RP Bratko, D (corresponding author), Fac Humanities & Social Sci, Dept Psychol, Luciceva 3, HR-10000 Zagreb, Croatia.
+EM dbratko@ffzg.hr
+OI Bratko, Denis/0000-0002-2482-4413
+NR 38
+TC 28
+Z9 28
+U1 1
+U2 10
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 1832-4274
+EI 1839-2628
+J9 TWIN RES HUM GENET
+JI Twin Res. Hum. Genet.
+PD FEB
+PY 2007
+VL 10
+IS 1
+BP 151
+EP 157
+DI 10.1375/twin.10.1.151
+PG 7
+WC Genetics & Heredity; Obstetrics & Gynecology
+SC Genetics & Heredity; Obstetrics & Gynecology
+GA 144VG
+UT WOS:000244823800016
+PM 17539374
+DA 2020-08-05
+ER
+
+PT J
+AU Johnson, W
+   McGue, M
+   Krueger, RF
+AF Johnson, W
+   McGue, M
+   Krueger, RF
+TI Personality stability in late adulthood: A behavioral genetic analysis
+SO JOURNAL OF PERSONALITY
+LA English
+DT Article
+ID TWIN; SIMILARITY; HERITABILITY; FAMILY; ENVIRONMENTS; TEMPERAMENT;
+   EXPERIENCES; CHILDHOOD; TRAITS; MODELS
+AB A sample of 833 twins from the Minnesota Twin Study of Adult Development and Aging completed the Multidimensional Personality Questionnaire (MPQ; Tellegen, 1982) twice, averaging 59.4 (sd=9.7) years of age at first and 64.4 (sd=10.2) years of age at second testing (average retest interval 5.0 years, sd=2.36, range 1.0-10.4 years). Both means and standard deviations of scale scores were extremely stable from first to second testing. In addition, sample participants tended to retain their rank order on the scales (average r=.76 across scales). Bivariate biometric analyses showed that the genetic influences on most of the scale scores were almost perfectly correlated across the two waves (range .95 to 1.00). The nonshared environmental influences were also highly correlated across the two waves (range .53 to .73). Models specifying identical variance components at the two time points and fixing the genetic correlation to 1.00 provided improved fit. The results suggest that the high stability of personality in later adulthood has a strong genetic foundation, supplemented by stability of environmental effects.
+C1 Univ Minnesota, Dept Psychol, Minneapolis, MN 55455 USA.
+RP Johnson, W (corresponding author), Univ Minnesota, Dept Psychol, 75 E River Rd, Minneapolis, MN 55455 USA.
+EM john4350@tc.umn.edu
+FU NIA NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute on Aging (NIA)
+   [AG 06886]; NIMH NIH HHSUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USANIH National Institute
+   of Mental Health (NIMH) [MH 65137]
+NR 60
+TC 64
+Z9 66
+U1 0
+U2 20
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0022-3506
+EI 1467-6494
+J9 J PERS
+JI J. Pers.
+PD APR
+PY 2005
+VL 73
+IS 2
+BP 523
+EP 551
+DI 10.1111/j.1467-6494.2005.00319.x
+PG 29
+WC Psychology, Social
+SC Psychology
+GA 902IX
+UT WOS:000227349400009
+PM 15745440
+DA 2020-08-05
+ER
+
+PT J
+AU Valera, EM
+   Berenbaum, H
+AF Valera, EM
+   Berenbaum, H
+TI A twin study of alexithymia
+SO PSYCHOTHERAPY AND PSYCHOSOMATICS
+LA English
+DT Article
+DE alexithymia; twins; genetics; shared environment; trait affectivity;
+   neuroticism; extraversion
+ID DIAGNOSIS; ZYGOSITY; SCALE; PERSONALITY; VALIDATION; DIMENSIONS;
+   CONSTRUCT; TRAITS
+AB Factors contributing to the development of alexithymia and the nature of alexithymia's relation with trait negative and positive affectivity are unclear. In this study, a twin approach was used to examine the degree of genetic and environmental contributions to the different facets of alexithymia, and the nature of their relations to trait negative and positive affectivity. Method. Forty-five monozygotic and 32 same-sex dizygotic twin pairs completed the Toronto Alexithymia Scale-20, the Eysenck Personality Inventory, and a zygosity questionnaire. Results: Model fitting analyses indicated that familial influences contributed significantly to all three facets of alexithymia. Parameter estimates and intraclass correlations suggested, though could not confirm, that it was shared environmental factors that contributed to difficulty identifying and communicating emotions (ID and COM), but shared genetic factors that contributed to externally oriented thinking (EOT). Between-twin cross-trait twin analyses revealed strong correlations between ID and neuroticism, and between COM and extraversion, and suggested that it is shared familial influences which account for these associations. Conclusions: The results of this study indicate that: (a) the different facets of alexithymia are influenced by familial factors; (b) the previously noted associations between ID and COM and trait affectivity are not merely methodological artifacts; and (c) the associations between ID and COM and trait affectivity are influenced by familial factors. The results also suggest that ID and COM are largely influenced by shared environmental factors, but that EOT is influenced by genetic factors. Copyright (C) 2001 S. Karger AG, Basel.
+C1 Massachusetts Mental Hlth Ctr, Dept Psychiat, Boston, MA 02115 USA.
+   Harvard Univ, Sch Med, Boston, MA USA.
+   Univ Illinois, Dept Psychiat & Psychol, Urbana, IL 61801 USA.
+RP Valera, EM (corresponding author), Massachusetts Mental Hlth Ctr, Dept Psychiat, 74 Fenwood Rd, Boston, MA 02115 USA.
+EM eve_valera@hms.harvard.edu
+NR 40
+TC 51
+Z9 52
+U1 0
+U2 8
+PU KARGER
+PI BASEL
+PA ALLSCHWILERSTRASSE 10, CH-4009 BASEL, SWITZERLAND
+SN 0033-3190
+EI 1423-0348
+J9 PSYCHOTHER PSYCHOSOM
+JI Psychother. Psychosom.
+PD SEP-OCT
+PY 2001
+VL 70
+IS 5
+BP 239
+EP 246
+DI 10.1159/000056261
+PG 8
+WC Psychiatry; Psychology
+SC Psychiatry; Psychology
+GA 467BA
+UT WOS:000170679600003
+PM 11509893
+DA 2020-08-05
+ER
+
+PT J
+AU Loehlin, JC
+   McCrae, RR
+   Costa, PT
+   John, OP
+AF Loehlin, JC
+   McCrae, RR
+   Costa, PT
+   John, OP
+TI Heritabilities of common and measure-specific components of the big five
+   personality factors
+SO JOURNAL OF RESEARCH IN PERSONALITY
+LA English
+DT Article
+DE Big Five; heredity; environment; twins; model fitting; sex differences
+ID CALIFORNIA PSYCHOLOGICAL INVENTORY; TWINS REARED APART; 5-FACTOR MODEL;
+   SIMILARITY; SCALES
+AB Three different measures of the Big Five personality dimensions were developed from the battery of questionnaires used in the National Merit Twin Study: one from trait self-rating scales, one from personality inventory items, and one from an adjective check list. Behavior-genetic models were fit to what the three measures had in common, and to the variance distinctive to each. The results of the model fitting agreed with other recent studies in showing the Big Five dimensions to be substantially and about equally heritable, with little or no contribution of shared family environment. Heritabilities for males and females did not differ significantly. For Agreeableness and Conscientiousness, some effect of shared environment was found for measure-specific variance on the personality inventory, and for Extraversion and Neuroticism, models involving nonadditive genetic variance or twin contrast effects provided slightly better fits. (C) 1998 Academic Press.
+C1 Univ Texas, Dept Psychol, Austin, TX 78712 USA.
+   NIA, Gerontol Res Ctr, NIH, Bethesda, MD 20892 USA.
+   Univ Calif Berkeley, Berkeley, CA 94720 USA.
+RP Loehlin, JC (corresponding author), Univ Texas, Dept Psychol, Austin, TX 78712 USA.
+RI Costa, Paul/AAH-6594-2019; Loehlin, John C./H-3794-2019
+OI Costa, Paul/0000-0003-4375-1712; 
+NR 31
+TC 184
+Z9 186
+U1 1
+U2 59
+PU ACADEMIC PRESS INC
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0092-6566
+J9 J RES PERS
+JI J. Res. Pers.
+PD DEC
+PY 1998
+VL 32
+IS 4
+BP 431
+EP 453
+DI 10.1006/jrpe.1998.2225
+PG 23
+WC Psychology, Social
+SC Psychology
+GA 140EZ
+UT WOS:000077075400004
+DA 2020-08-05
+ER
+
+PT J
+AU Losoya, SH
+   Callor, S
+   Rowe, DC
+   Goldsmith, HH
+AF Losoya, SH
+   Callor, S
+   Rowe, DC
+   Goldsmith, HH
+TI Origins of familial similarity in parenting: A study of twins and
+   adoptive siblings
+SO DEVELOPMENTAL PSYCHOLOGY
+LA English
+DT Article
+ID MULTIPLE-REGRESSION ANALYSIS; GENETIC INFLUENCE; LAST HALF; LIFE-SPAN;
+   ENVIRONMENT; PERSONALITY; MODEL; DIMENSIONS; ATTITUDES; BIAS
+AB Parents of young children completed questionnaires that assessed attitudes toward parenting and specific parenting practices, the emotional atmosphere of the home, and parental personality. These parents were themselves either identical twins (n = 90), fraternal twins (n = 56), or adoptive siblings (n = 40). Model-fitting results implicate modest genetic effects on affect-related aspects of parenting, such as parental warmth. The results add new dimensions to the growing body of literature that documents genetic influences on measures of the family environment and suggest that childrearing variables are significantly related to the major factors of parental personality.
+C1 UNIV WISCONSIN,DEPT PSYCHOL,MADISON,WI 53706.
+   UNIV ARIZONA,FAMILY STUDIES & HUMAN DEV DIV,TUCSON,AZ 85721.
+   ARIZONA STATE UNIV,DEPT PSYCHOL,TEMPE,AZ 85287.
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [MH50560, MH18935]; PHS HHSUnited States Public Health Service
+   [MF41240]
+NR 58
+TC 84
+Z9 87
+U1 0
+U2 5
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0012-1649
+J9 DEV PSYCHOL
+JI Dev. Psychol.
+PD NOV
+PY 1997
+VL 33
+IS 6
+BP 1012
+EP 1023
+DI 10.1037/0012-1649.33.6.1012
+PG 12
+WC Psychology, Developmental
+SC Psychology
+GA YE770
+UT WOS:A1997YE77000012
+PM 9383623
+DA 2020-08-05
+ER
+
+PT J
+AU Riemann, R
+   Angleitner, A
+   Strelau, J
+AF Riemann, R
+   Angleitner, A
+   Strelau, J
+TI Genetic and environmental influences on personality: A study of twins
+   reared together using the self- and peer report NEO-FFI scales
+SO JOURNAL OF PERSONALITY
+LA English
+DT Article; Proceedings Paper
+CT 7th Meeting of the
+   International-Society-for-the-Study-of-Individual-Differences
+CY JUL 15-19, 1995
+CL WARSAW, POLAND
+SP Int Soc Study Individual Differences
+ID RELIABILITY; CONSENSUS; OPENNESS; ACCURACY; BEHAVIOR; RATINGS; MODEL;
+   TRAIT; APART
+AB Previous behavior-genetic research on personality has been almost exclusively based on self-report questionnaire measures. The purpose of this research was to measure personality constructs via self-and peer reports on the items of the NEO Five-Factor Inventory (Costa & McCrae, 1989). The sample included 660 monozygotic and 200 same sex and 104 opposite sex dizygotic twin pairs. We collected self-and two independent peer reports for each of the twins. Our analysis of self-report data replicates earlier findings of a substantial genetic influence on the Big Five (h(2) = .42 to .56). We also found this influence for peer reports. Our results validate findings based solely on self-reports. However, estimates of genetic contributions to phenotypic variance were substantially higher when based on peer reports (h(2) = .57 to .81) or self-and peer reports (h(2) = .66 to .79) because these data allowed us to separate error variance from variance due to nonshared environmental influences. Correlations between self-and peer reports reflected the same genetic influences to a much higher extent than identical environmental effects.
+C1 UNIV WARSAW,WARSAW,POLAND.
+RP Riemann, R (corresponding author), UNIV BIELEFELD,DEPT PSYCHOL,POSTFACH 100131,D-33501 BIELEFELD,GERMANY.
+OI Riemann, Rainer/0000-0001-5805-4536
+NR 54
+TC 235
+Z9 238
+U1 1
+U2 54
+PU BLACKWELL PUBLISHERS
+PI CAMBRIDGE
+PA 350 MAIN STREET, STE 6, CAMBRIDGE, MA 02148-5023
+SN 0022-3506
+J9 J PERS
+JI J. Pers.
+PD SEP
+PY 1997
+VL 65
+IS 3
+BP 449
+EP 475
+DI 10.1111/j.1467-6494.1997.tb00324.x
+PG 27
+WC Psychology, Social
+SC Psychology
+GA XY712
+UT WOS:A1997XY71200001
+DA 2020-08-05
+ER
+
+PT J
+AU Saudino, KJ
+   Pedersen, NL
+   Lichtenstein, P
+   McClearn, GE
+   Plomin, R
+AF Saudino, KJ
+   Pedersen, NL
+   Lichtenstein, P
+   McClearn, GE
+   Plomin, R
+TI Can personality explain genetic influences on life events?
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+ID ADOPTION TWIN; ENVIRONMENT; NEUROTICISM; EXPERIENCE; SITUATIONS;
+   BEHAVIOR; MODEL
+AB Previous research in the Swedish Adoption/Twin Study of Aging (SATSA) has found genetic influences on life events (R. Plomin, P. Lichtenstein, N. L. Pedersen, G. E. McClearn, & J. R. Nesselroade, 1990). The present study extends this finding by examining sex differences in genetic and environmental contributions to life events and by examining personality as a mediator of genetic influences on life events in SATSA. Analyses were based on 320 twin pairs, including identical and fraternal twins reared together and apart (mean age = 58.6 years). Controllable, desirable, and undesirable life events revealed significant genetic variance only for women. There was no significant genetic variance for either sex for uncontrollable events. Multivariate analyses of personality (as indexed by Neuroticism, Extraversion, and Openness to Experience) and life events suggest that all of the genetic variance on controllable, desirable, and undesirable life events for women is common to personality. Thus, in this sample of older adult women, genetic influences on life events appear to be entirely mediated by personality.
+C1 PENN STATE UNIV,CTR DEV & HLTH GENET,UNIVERSITY PK,PA 16802.
+   KAROLINSKA INST,INST ENVIRONM MED,STOCKHOLM,SWEDEN.
+   INST PSYCHIAT,LONDON,ENGLAND.
+RI Plomin, Robert/B-8911-2008
+OI lichtenstein, paul/0000-0003-3037-5287; Plomin,
+   Robert/0000-0002-0756-3629
+FU NIA NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute on Aging (NIA)
+   [AG-04563, AG-10175]
+NR 37
+TC 122
+Z9 122
+U1 0
+U2 11
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0022-3514
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD JAN
+PY 1997
+VL 72
+IS 1
+BP 196
+EP 206
+DI 10.1037/0022-3514.72.1.196
+PG 11
+WC Psychology, Social
+SC Psychology
+GA WC936
+UT WOS:A1997WC93600017
+PM 9008381
+DA 2020-08-05
+ER
+
+PT J
+AU TAMBS, K
+   SUNDET, JM
+   EAVES, L
+   SOLAAS, MH
+   BERG, K
+AF TAMBS, K
+   SUNDET, JM
+   EAVES, L
+   SOLAAS, MH
+   BERG, K
+TI PEDIGREE ANALYSIS OF EYSENCK PERSONALITY QUESTIONNAIRE (EPQ) SCORES IN
+   MONOZYGOTIC (MZ) TWIN FAMILIES
+SO BEHAVIOR GENETICS
+LA English
+DT Article
+DE EYSENCK PERSONALITY QUESTIONNAIRE (EPQ); EXTROVERSION; NEUROTICISM;
+   HERITABILITY; MONOZYGOTIC (MZ) TWIN FAMILIES
+ID PAIRS BORN 1915-1960; PREDICTING ZYGOSITY; COMPONENTS; HERITABILITY
+AB MZ twins with spouses and children, altogether 811 subjects, completed the Eysenck Personality Questionnaire (EPQ).  For extraversion (E), neuroticism (N), and lying (L), models including only additive genetic effects fitted well to the observed sex-specific correlations for the various sets of relationships.  There was no evidence of sex differences for any parameter estimate for E, N, and L.  The fit for E improved significantly after including dominance, and the fit for L improved significantly after including assortative mating.  A model specifying genetic additive and dominance effects and assortative mating fitted well to the Psychoticism (P) data, but the fit improved significantly when a parameter for cultural transmission from fathers to daughters were included.  Except for this, there was no evidence of cultural transmission for any scores.  The heritabilities for the best-fitting models were .53 (E), .36 (N), .43 (L), and .39 (P).  The latter includes almost only nonadditive, and no additive, variance, suggesting an overestimation of this effect due to random fluctuation or environmental sibling effect misinterpreted as dominance.
+C1 UNIV OSLO,DEPT BEHAV SCI MED,OSLO 3,NORWAY.
+   UNIV OSLO,INST PSYCHOL,OSLO 3,NORWAY.
+   UNIV OSLO,INST MED GENET,OSLO 3,NORWAY.
+RP TAMBS, K (corresponding author), VIRGINIA COMMONWEALTH UNIV,MED COLL VIRGINIA,DEPT HUMAN GENET,POB 33,RICHMOND,VA 23298, USA.
+FU NICHD NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH Eunice Kennedy Shriver National
+   Institute of Child Health & Human Development (NICHD) [HD-10291]; NIGMS
+   NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of General
+   Medical Sciences (NIGMS) [GM-30250]
+NR 30
+TC 43
+Z9 43
+U1 0
+U2 1
+PU PLENUM PUBL CORP
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013
+SN 0001-8244
+J9 BEHAV GENET
+JI Behav. Genet.
+PD JUL
+PY 1991
+VL 21
+IS 4
+BP 369
+EP 382
+DI 10.1007/BF01065973
+PG 14
+WC Behavioral Sciences; Genetics & Heredity; Psychology, Multidisciplinary
+SC Behavioral Sciences; Genetics & Heredity; Psychology
+GA GD307
+UT WOS:A1991GD30700003
+PM 1953599
+DA 2020-08-05
+ER
+
+PT J
+AU PEDERSEN, NL
+   PLOMIN, R
+   MCCLEARN, GE
+   FRIBERG, L
+AF PEDERSEN, NL
+   PLOMIN, R
+   MCCLEARN, GE
+   FRIBERG, L
+TI NEUROTICISM, EXTRAVERSION, AND RELATED TRAITS IN ADULT TWINS REARED
+   APART AND REARED TOGETHER
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+C1 PENN STATE UNIV,INST STUDY HUMAN DEV,UNIVERSITY PK,PA 16802.
+RP PEDERSEN, NL (corresponding author), KAROLINSKA INST,DEPT ENVIRONM HYG,POB 60400,S-10401 STOCKHOLM 60,SWEDEN.
+RI Plomin, Robert/B-8911-2008
+OI Plomin, Robert/0000-0002-0756-3629
+FU NIA NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute on Aging (NIA)
+   [AG-04563]
+NR 37
+TC 181
+Z9 181
+U1 0
+U2 16
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0022-3514
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD DEC
+PY 1988
+VL 55
+IS 6
+BP 950
+EP 957
+DI 10.1037/0022-3514.55.6.950
+PG 8
+WC Psychology, Social
+SC Psychology
+GA R2275
+UT WOS:A1988R227500010
+PM 3216289
+DA 2020-08-05
+ER
+
+PT J
+AU TELLEGEN, A
+   LYKKEN, DT
+   BOUCHARD, TJ
+   WILCOX, KJ
+   RICH, S
+   SEGAL, NL
+AF TELLEGEN, A
+   LYKKEN, DT
+   BOUCHARD, TJ
+   WILCOX, KJ
+   RICH, S
+   SEGAL, NL
+TI PERSONALITY SIMILARITY IN TWINS REARED APART AND TOGETHER
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+C1 UNIV MINNESOTA,DEPT PSYCHIAT,MINNEAPOLIS,MN 55455.
+   UNIV MINNESOTA,INST HUMAN GENET,MINNEAPOLIS,MN 55455.
+   UNIV MINNESOTA,DEPT PATHOL & LAB MED,MINNEAPOLIS,MN 55455.
+RP TELLEGEN, A (corresponding author), UNIV MINNESOTA,DEPT PSYCHOL,ELLIOTT HALL,75 E RIVER RD,MINNEAPOLIS,MN 55455, USA.
+NR 57
+TC 809
+Z9 816
+U1 1
+U2 91
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0022-3514
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD JUN
+PY 1988
+VL 54
+IS 6
+BP 1031
+EP 1039
+DI 10.1037/0022-3514.54.6.1031
+PG 9
+WC Psychology, Social
+SC Psychology
+GA N6665
+UT WOS:A1988N666500012
+PM 3397862
+OA Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU AHERN, FM
+   JOHNSON, RC
+   WILSON, JR
+   MCCLEARN, GE
+   VANDENBERG, SG
+AF AHERN, FM
+   JOHNSON, RC
+   WILSON, JR
+   MCCLEARN, GE
+   VANDENBERG, SG
+TI FAMILY RESEMBLANCES IN PERSONALITY
+SO BEHAVIOR GENETICS
+LA English
+DT Article
+C1 UNIV COLORADO,INST BEHAV GENET,BOULDER,CO 80309.
+   PENN STATE UNIV,INST STUDY HUMAN DEV,UNIVERSITY PK,PA 16802.
+RP AHERN, FM (corresponding author), UNIV HAWAII,BEHAV BIOL LAB,HONOLULU,HI 96822, USA.
+FU NIAAA NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute on Alcohol Abuse
+   & Alcoholism (NIAAA) [AA 01762]; NIMH NIH HHSUnited States Department of
+   Health & Human ServicesNational Institutes of Health (NIH) - USANIH
+   National Institute of Mental Health (NIMH) [MH 06669]
+NR 42
+TC 65
+Z9 65
+U1 0
+U2 6
+PU PLENUM PUBL CORP
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013
+SN 0001-8244
+J9 BEHAV GENET
+JI Behav. Genet.
+PY 1982
+VL 12
+IS 3
+BP 261
+EP 280
+DI 10.1007/BF01067847
+PG 20
+WC Behavioral Sciences; Genetics & Heredity; Psychology, Multidisciplinary
+SC Behavioral Sciences; Genetics & Heredity; Psychology
+GA NX289
+UT WOS:A1982NX28900002
+PM 6889860
+DA 2020-08-05
+ER
+
+PT J
+AU FLODERUSMYRHED, B
+   PEDERSEN, N
+   RASMUSON, I
+AF FLODERUSMYRHED, B
+   PEDERSEN, N
+   RASMUSON, I
+TI ASSESSMENT OF HERITABILITY FOR PERSONALITY, BASED ON A SHORT-FORM OF THE
+   EYSENCK PERSONALITY-INVENTORY - A STUDY OF 12,898 TWIN PAIRS
+SO BEHAVIOR GENETICS
+LA English
+DT Article
+C1 UNIV COLORADO,INST BEHAV GENET,BOULDER,CO 80309.
+   NATL SWEDISH ENVIRONM PROTECT BOARD,S-10401 STOCKHOLM,SWEDEN.
+RP FLODERUSMYRHED, B (corresponding author), KAROLINSKA INST,DEPT ENVIRONM HYG,S-10401 STOCKHOLM 60,SWEDEN.
+NR 22
+TC 167
+Z9 167
+U1 1
+U2 9
+PU PLENUM PUBL CORP
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013
+SN 0001-8244
+J9 BEHAV GENET
+JI Behav. Genet.
+PY 1980
+VL 10
+IS 2
+BP 153
+EP 162
+DI 10.1007/BF01066265
+PG 10
+WC Behavioral Sciences; Genetics & Heredity; Psychology, Multidisciplinary
+SC Behavioral Sciences; Genetics & Heredity; Psychology
+GA KD640
+UT WOS:A1980KD64000003
+PM 7194035
+DA 2020-08-05
+ER
+
+PT J
+AU COPPEN, A
+   COWIE, V
+   SLATER, E
+AF COPPEN, A
+   COWIE, V
+   SLATER, E
+TI FAMILIAL ASPECTS OF NEUROTICISM AND EXTRAVERSION
+SO BRITISH JOURNAL OF PSYCHIATRY
+LA English
+DT Article
+NR 16
+TC 28
+Z9 27
+U1 0
+U2 0
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 0007-1250
+EI 1472-1465
+J9 BRIT J PSYCHIAT
+JI Br. J. Psychiatry
+PY 1965
+VL 111
+IS 470
+BP 70
+EP 83
+DI 10.1192/bjp.111.470.70
+PG 14
+WC Psychiatry
+SC Psychiatry
+GA CCS10
+UT WOS:A1965CCS1000011
+PM 14261731
+DA 2020-08-05
+ER
+
+EF

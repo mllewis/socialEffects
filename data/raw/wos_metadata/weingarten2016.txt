@@ -1,0 +1,2862 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Welsh, DT
+   Ordonez, LD
+AF Welsh, David T.
+   Ordonez, Lisa D.
+TI CONSCIENCE WITHOUT COGNITION: THE EFFECTS OF SUBCONSCIOUS PRIMING ON
+   ETHICAL BEHAVIOR
+SO ACADEMY OF MANAGEMENT JOURNAL
+LA English
+DT Article
+ID DECISION-MAKING; DARK SIDE; GOALS; SELF; ORGANIZATIONS; MODEL;
+   PERFORMANCE; VALIDITY
+AB Research in the field of behavioral ethics has traditionally viewed ethical decision making as rational and deliberate. However, some recent research has proposed a dual process model of ethical decision making that has both conscious and subconscious components (Reynolds, 2006). We extend current theory by using subconscious ethical and unethical priming to test the effects of subconscious processes on ethical behavior through an automatic process of schema activation and implicit association. Studies 1 and 2 extend self-concept maintenance theory (Mazar, Amir, & Ariely, 2008) by exploring the mediated process through which subconscious ethical and unethical primes trigger the activation of moral standards, thereby influencing categorization and subsequent responses to morally ambiguous situations. Study 3 demonstrates that both subconscious ethical and unethical priming reduce dishonesty even when participants are unmonitored and are given difficult performance goals that previously have been shown to lead to unethical behavior.
+C1 [Welsh, David T.] Univ Washington, Michael G Foster Sch Business, Seattle, WA 98195 USA.
+   [Ordonez, Lisa D.] Univ Arizona, Dept Management & Org, Tucson, AZ 85721 USA.
+RP Welsh, DT (corresponding author), Univ Washington, Michael G Foster Sch Business, Seattle, WA 98195 USA.
+EM davidtwelsh@hotmail.com; lordonez@u.arizona.edu
+NR 53
+TC 66
+Z9 67
+U1 1
+U2 125
+PU ACAD MANAGEMENT
+PI BRIARCLIFF MANOR
+PA PACE UNIV, PO BOX 3020, 235 ELM RD, BRIARCLIFF MANOR, NY 10510-8020 USA
+SN 0001-4273
+EI 1948-0989
+J9 ACAD MANAGE J
+JI Acad. Manage. J.
+PD JUN
+PY 2014
+VL 57
+IS 3
+BP 723
+EP 742
+DI 10.5465/amj.2011.1009
+PG 20
+WC Business; Management
+SC Business & Economics
+GA AL0IF
+UT WOS:000338809900006
+DA 2020-08-05
+ER
+
+PT J
+AU Park, J
+   Kim, K
+   Kwak, J
+   Wyer, RS
+AF Park, Jongwon
+   Kim, Kyeongheui
+   Kwak, Junsik
+   Wyer, Robert S., Jr.
+TI Priming Thoughts About Extravagance: Implications for Consumer Decisions
+   About Luxury Products
+SO JOURNAL OF EXPERIMENTAL PSYCHOLOGY-APPLIED
+LA English
+DT Article
+DE priming; judgments and decision making; consumer choice; nonconscious
+   process; luxury consumption
+ID CATEGORY ACCESSIBILITY; SOCIAL-PERCEPTION; BEHAVIOR; JUDGMENT;
+   JUSTIFICATION; DETERMINANTS; INFORMATION; DIMENSIONS; CONTEXT; MEMORY
+AB If a semantic concept is accessible in memory, it can direct attention to the attributes of a target that exemplify this concept. When these attributes have both affective and utilitarian implications that are evaluatively opposite, the relative impact of these different implications depends on an individual's ability and motivation to expend the cognitive effort required to evaluate them. These assumptions were confirmed in six experiments on the impact of priming the concept of extravagance on attention to a product's luxury-related features and consequent reactions to it. Priming this concept decreased the choice of a luxury product if participants were both motivated and able to construe the utilitarian implications of the product's extravagance-related features. When participants were either distracted from deliberating on their choices or were asked to recommend a product to others, however, priming extravagance led them to base their judgments on the affective reactions that the features spontaneously elicited and consequently increased their choice of the product.
+C1 [Park, Jongwon] Korea Univ, Dept Business Adm, Seoul, South Korea.
+   [Kim, Kyeongheui] Sungkyunkwan Univ, SKK Grad Sch Business, Seoul, South Korea.
+   [Kwak, Junsik] Dongseo Univ, Dept Business Adm, Pusan, South Korea.
+   [Wyer, Robert S., Jr.] Chinese Univ Hong Kong, Dept Business Adm, Hong Kong, Hong Kong, Peoples R China.
+RP Park, J (corresponding author), Korea Univ, Dept Business Adm, 1 Anam Dong, Seoul, South Korea.
+EM amadeus@korea.ac.kr
+NR 43
+TC 4
+Z9 4
+U1 1
+U2 36
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1076-898X
+EI 1939-2192
+J9 J EXP PSYCHOL-APPL
+JI J. Exp. Psychol.-Appl.
+PD MAR
+PY 2014
+VL 20
+IS 1
+BP 40
+EP 54
+DI 10.1037/xap0000006
+PG 15
+WC Psychology, Applied
+SC Psychology
+GA AD2WA
+UT WOS:000333095500004
+PM 24099532
+DA 2020-08-05
+ER
+
+PT J
+AU Keatley, DA
+   Clarke, DD
+   Ferguson, E
+   Hagger, MS
+AF Keatley, David A.
+   Clarke, David D.
+   Ferguson, Eamonn
+   Hagger, Martin S.
+TI Effects of pretesting implicit self-determined motivation on behavioral
+   engagement: evidence for the mere measurement effect at the implicit
+   level
+SO FRONTIERS IN PSYCHOLOGY
+LA English
+DT Article
+DE implicit measurement; mere measurement effect; self-determination
+   theory; implicit association test; priming
+ID PHYSICAL-ACTIVITY INTENTIONS; ASSOCIATION TEST; EXPLICIT MEASURES;
+   INDIVIDUAL-DIFFERENCES; AUTOMATIC ACTIVATION; PREDICTIVE-VALIDITY;
+   EGO-DEPLETION; EXERCISE; ACCESSIBILITY; ORIENTATIONS
+AB Research into individuals' intended behavior and performance has traditionally adopted explicitly measured, self-report constructs, and outcomes. More recently, research has shown that completing explicit self-report measures of constructs may effect subsequent behavior, termed the "mere measurement" effect. The aim of the present experiment was to investigate whether implicit measures of motivation showed a similar mere measurement effect on subsequent behavior. It may be the case that measuring the implicit systems affects subsequent implicit interventions (e.g., priming), observable on subsequent behavior. Priming manipulations were also given to participants in order to investigate the interaction between measurement and priming of motivation. Initially, a 2 [implicit association test (IAT. present vs. absent) x2 (Prime: autonomous vs. absent) and a 2 (IAT: present vs. absent) x 2 (Prime: controlled vs. absent)] between participants designs were conducted, these were them combined into a 2 (IAT present vs. absent) x3 (Prime: autonomous vs. controlled vs. absent) between participants design, with attempts at a novel task taken as the outcome measure. Implicit measure completion significantly decreased behavioral engagement. Priming autonomous motivation significantly facilitated, and controlled motivation significantly inhibited performance. Finally, there was a significant implicit measurement x priming interaction, such that priming autonomous motivation only improved performance in the absence of the implicit measure. Overall, this research provides an insight into the effects of implicit measurement and priming of motivation and the combined effect of completing both tasks on behavior.
+C1 [Keatley, David A.; Hagger, Martin S.] Curtin Univ, Hlth Psychol & Behav Med Res Grp, Lab Self Regulat, Fac Hlth Sci,Sch Psychol & Speech Pathol, Perth, WA 6845, Australia.
+   [Clarke, David D.; Ferguson, Eamonn] Univ Nottingham, Personal Social Psychol & Hlth Res Grp, Sch Psychol, Nottingham NG7 2RD, England.
+RP Keatley, DA (corresponding author), Curtin Univ, Hlth Psychol & Behav Med Res Grp, Lab Self Regulat, Fac Hlth Sci,Sch Psychol & Speech Pathol, Perth, WA 6845, Australia.
+EM david.keatley@curtin.edu.au
+RI Hagger, Martin S./G-5211-2012
+OI Hagger, Martin S./0000-0002-2685-1546; Keatley,
+   David/0000-0002-6601-1939; Ferguson, Eamonn/0000-0002-7678-1451
+NR 39
+TC 8
+Z9 8
+U1 1
+U2 33
+PU FRONTIERS RESEARCH FOUNDATION
+PI LAUSANNE
+PA PO BOX 110, LAUSANNE, 1015, SWITZERLAND
+SN 1664-1078
+J9 FRONT PSYCHOL
+JI Front. Psychol.
+PD FEB 13
+PY 2014
+VL 5
+AR 125
+DI 10.3389/fpsyg.2014.00125
+PG 6
+WC Psychology, Multidisciplinary
+SC Psychology
+GA AA7OH
+UT WOS:000331286300001
+PM 24592249
+OA DOAJ Gold, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Boland, WA
+   Connell, PM
+   Vallen, B
+AF Boland, Wendy Attaya
+   Connell, Paul M.
+   Vallen, Beth
+TI Time of day effects on the regulation of food consumption after
+   activation of health goals
+SO APPETITE
+LA English
+DT Article
+DE Health; Time of day effect; Priming; Motivation; Advertising; Self
+   regulation
+ID SELF-CONTROL; LIMITED-RESOURCE; EATING BEHAVIOR; DECISION-MAKING;
+   CALORIC-INTAKE; EGO DEPLETION; CHILDREN; ADVERTISEMENTS; CUES;
+   TEMPTATION
+AB Previous research has found that while self-regulation is a resource that can be depleted, enhanced motivation to do so can help people successfully self-regulate. The aim of this research was to determine whether activating health goals-either via laboratory priming techniques or via advertisements-can help people regulate food intake later in the day, when self-regulation resources are typically depleted. In two experimental studies, participants completed goal activation tasks in the morning or in the afternoon while they had a snack food (M&M's candies) available for consumption. In study 1, 121 participants viewed television shows with either healthy food ads, indulgent food ads, or non-food ads embedded within the program. In study 2, 149 participants completed a supraliminal but nonconscious goal priming exercise, in which they searched for health, indulgence, or control words in a puzzle. In both studies, activation of health goals led to decreased consumption of the snack food in the afternoon. In contrast, activation of health goals did not change consumption in the morning, when self-regulatory resources are typically high, due to replenishment after rest. These results suggest that activating health goals-either via classic laboratory goal-priming paradigms or via "real world primes," such as ads for healthy foods-helps people to overcome failures in curbing food consumption due to depleted self-regulatory resources later in the day. (C) 2013 Elsevier Ltd. All rights reserved.
+C1 [Boland, Wendy Attaya] American Univ, Kogod Sch Business, Dept Mkt, Washington, DC 20016 USA.
+   [Connell, Paul M.] City Univ London, Cass Business Sch, London, England.
+   [Connell, Paul M.] SUNY Stony Brook, Stony Brook, NY 11794 USA.
+   [Vallen, Beth] Fordham Univ, Fordham Sch Business, Bronx, NY 10458 USA.
+RP Boland, WA (corresponding author), American Univ, Kogod Sch Business, Dept Mkt, 4400 Massachusetts Ave NW, Washington, DC 20016 USA.
+EM boland@american.edu
+NR 41
+TC 21
+Z9 21
+U1 0
+U2 64
+PU ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN 0195-6663
+J9 APPETITE
+JI Appetite
+PD NOV 1
+PY 2013
+VL 70
+BP 47
+EP 52
+DI 10.1016/j.appet.2013.06.085
+PG 6
+WC Behavioral Sciences; Nutrition & Dietetics
+SC Behavioral Sciences; Nutrition & Dietetics
+GA 215QJ
+UT WOS:000324225100007
+PM 23816756
+DA 2020-08-05
+ER
+
+PT J
+AU Cougle, JR
+   Hawkins, KA
+AF Cougle, Jesse R.
+   Hawkins, Kirsten A.
+TI Priming of Courageous Behavior: Contrast Effects in Spider Fearful Women
+SO JOURNAL OF CLINICAL PSYCHOLOGY
+LA English
+DT Article
+DE priming; courage; contrast effects; automaticity; spider fear;
+   psychological intervention
+ID STEREOTYPE ACTIVATION; SOCIAL-BEHAVIOR; PHOBIA; SELF; POWER
+AB ObjectiveRecently, researchers have called for therapeutic applications of behavioral primes (Shalev & Bargh, 2011). We evaluated whether courageous approach behavior might be facilitated through priming in a sample of spider fearful women.
+   MethodUndergraduate student women reporting elevated spider fear (N = 33, Age mean = 18.88) were recruited for this study. Participants completed self-report measures of spider fear and dispositional courage. They then completed either a courage or neutral word search prime, which was followed by a behavioral approach task involving a tarantula.
+   ResultsConsistent with predictions, among those reporting lower dispositional courage, the courage prime led to reduced approach behavior relative to the neutral prime. However, no group differences were found among those high in dispositional courage.
+   ConclusionsThese findings point to the importance of self-perceptions in moderating the effects of behavioral primes and suggest limitations to the use of such interventions with individuals with psychological dysfunction.
+C1 [Cougle, Jesse R.; Hawkins, Kirsten A.] Florida State Univ, Tallahassee, FL 32306 USA.
+RP Cougle, JR (corresponding author), Florida State Univ, Dept Psychol, 1107 W Call St, Tallahassee, FL 32306 USA.
+EM cougle@psy.fsu.edu
+NR 23
+TC 6
+Z9 6
+U1 0
+U2 11
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0021-9762
+EI 1097-4679
+J9 J CLIN PSYCHOL
+JI J. Clin. Psychol.
+PD SEP
+PY 2013
+VL 69
+IS 9
+BP 896
+EP 902
+DI 10.1002/jclp.21961
+PG 7
+WC Psychology, Clinical
+SC Psychology
+GA 282ZN
+UT WOS:000329214000003
+PM 23348403
+DA 2020-08-05
+ER
+
+PT J
+AU Kleiman, T
+   Hassin, RR
+AF Kleiman, Tali
+   Hassin, Ran R.
+TI When Conflicts Are Good: Nonconscious Goal Conflicts Reduce Confirmatory
+   Thinking
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE goal conflicts; mindset; consciousness; decision making; confirmation
+   bias
+ID ACTIVATION; PURSUIT; ALTERNATIVES; OPPOSITE; STRESS; WILL
+AB In this article, we argue that nonconscious goal conflicts are accompanied by a mindset that has wide-ranging implications for reasoning and thinking in content areas that are not part of the conflict itself. Specifically, we propose that nonconscious goal conflicts induce a mode of processing information that increases the likelihood of approaching an issue from opposing perspectives. This hypothesis is examined by investigating the effects of nonconscious goal conflicts on confirmatory thinking, that is, a way of thinking that narrowly focuses on confirmation rather than on broader examination of information. In 5 experiments, we show that nonconscious goal conflicts significantly reduce confirmatory hypothesis testing (Experiments 1 through 3) and anchoring (Experiments 4 and 5). We further show that these effects result from a goal conflict by rejecting explanations based on priming of semantic opposites, and priming of multiple goals that do not conflict (Experiments 2 and 3), and by examining decision times as a conflict process variable (Experiment 5). Using various probes, we show that these changes in confirmatory judgments are not accompanied by changes in conflict phenomenology. Together, these results suggest that nonconscious goal conflicts attenuate the robust confirmatory thinking strategy that characterizes human thinking in numerous domains.
+C1 [Kleiman, Tali] NYU, Dept Psychol, New York, NY 10003 USA.
+   [Hassin, Ran R.] Hebrew Univ Jerusalem, Dept Psychol, IL-91905 Jerusalem, Israel.
+   [Hassin, Ran R.] Hebrew Univ Jerusalem, Ctr Study Rat, Jerusalem, Israel.
+RP Kleiman, T (corresponding author), NYU, Dept Psychol, 6 Washington Pl, New York, NY 10003 USA.
+EM tali.kleiman@nyu.edu
+NR 49
+TC 15
+Z9 15
+U1 0
+U2 47
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+EI 1939-1315
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD SEP
+PY 2013
+VL 105
+IS 3
+BP 374
+EP 387
+DI 10.1037/a0033608
+PG 14
+WC Psychology, Social
+SC Psychology
+GA 203IM
+UT WOS:000323285600002
+PM 23855347
+DA 2020-08-05
+ER
+
+PT J
+AU Hart, W
+   Gable, PA
+AF Hart, William
+   Gable, Philip A.
+TI Motivating goal pursuit: The role of affect motivational intensity and
+   activated goals
+SO JOURNAL OF EXPERIMENTAL SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE Affect; Behaviour; Goal; Motivation; Performance
+ID FRONTAL CORTICAL ACTIVATION; POSITIVE AFFECT; COGNITIVE CATEGORIZATION;
+   APPETITIVE STIMULI; GENERAL ACTION; ATTENTION; MODEL; MOOD; INFORMATION;
+   AWARENESS
+AB Despite much interest in the operation of goals, there remains little understanding of how goal pursuit originates from the cognitive activation of a goal in memory. To address this knowledge gap, we examined how the motivational component of positive affect leads to the successful pursuit of primed goals. Experiment 1 found that people evidenced more successful pursuit of an action goal if the goal was primed as people experienced a positive state high in motivational intensity versus a positive state low in motivational intensity or a baseline state. Likewise, in Experiment 2, people showed more successful pursuit of an inaction goal if the goal was primed as people experienced a positive state high in motivational intensity. In sum, the motivational component of affect directed the pursuit of primed goals. (c) 2013 Elsevier Inc. All rights reserved.
+C1 [Hart, William; Gable, Philip A.] Univ Alabama, Tuscaloosa, AL 35487 USA.
+RP Hart, W (corresponding author), Univ Alabama, Dept Psychol, Box 873048, Tuscaloosa, AL 35487 USA.
+EM wphart@ua.edu
+NR 32
+TC 13
+Z9 16
+U1 0
+U2 26
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0022-1031
+EI 1096-0465
+J9 J EXP SOC PSYCHOL
+JI J. Exp. Soc. Psychol.
+PD SEP
+PY 2013
+VL 49
+IS 5
+BP 922
+EP 926
+DI 10.1016/j.jesp.2013.05.002
+PG 5
+WC Psychology, Social
+SC Psychology
+GA 182FL
+UT WOS:000321727000015
+DA 2020-08-05
+ER
+
+PT J
+AU Connell, PM
+   Mayor, LF
+AF Connell, Paul M.
+   Mayor, Lauren F.
+TI Activating health goals reduces (increases) hedonic evaluation of food
+   brands for people who harbor highly positive (negative) affect toward
+   them
+SO APPETITE
+LA English
+DT Article
+DE Affect; Devaluation; Health; Judgment; Motivation; Nutrition; Priming
+ID NUTRITION INFORMATION; MODERATING ROLE; PREFERENCE; CONSUMER; TASTE;
+   IDENTIFICATION; AMBIVALENCE; JUDGMENT; PURSUIT; OBESITY
+AB Associations of pleasure and fun with junk foods have the potential to create considerable challenges for efforts to improve diets. The aim of this research was to determine whether activating health goals had the potential to exploit mixed motivations (i.e., health and pleasure) that people have related to food, and subsequently strip junk foods of the expected pleasure derived from them. In study 1, 98 participants evaluated a soft drink brand after being primed (not primed) for health. In study 2, 93 participants evaluated a presweetened breakfast cereal brand after being primed (not primed) for health. In both studies, participants who harbored highly positive feelings for the food brands devalued their hedonic judgments of them when they were primed for health. However, in an unexpected result, participants in both studies who harbored highly negative feelings for the food brands revalued their hedonic judgments of them (i.e., increased the favorability) when they were primed for health. Thus, increasing health salience is only effective in decreasing expected pleasure derived from junk foods for people who harbor positive affect toward junk food brands, and is likely counterproductive for people who harbor negative affect toward junk food brands. (c) 2013 Elsevier Ltd. All rights reserved.
+C1 [Connell, Paul M.; Mayor, Lauren F.] SUNY Stony Brook, Stony Brook, NY 11794 USA.
+RP Connell, PM (corresponding author), City Univ London, Cass Business Sch, 106 Bunhill Row, London EC1Y 8TZ, England.
+EM Paul.Connell.1@city.ac.uk
+NR 49
+TC 8
+Z9 9
+U1 1
+U2 29
+PU ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN 0195-6663
+EI 1095-8304
+J9 APPETITE
+JI Appetite
+PD JUN 1
+PY 2013
+VL 65
+BP 159
+EP 164
+DI 10.1016/j.appet.2013.02.014
+PG 6
+WC Behavioral Sciences; Nutrition & Dietetics
+SC Behavioral Sciences; Nutrition & Dietetics
+GA 133IO
+UT WOS:000318132300024
+PM 23428938
+OA Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Zabelina, DL
+   Felps, D
+   Blanton, H
+AF Zabelina, Darya L.
+   Felps, Daniel
+   Blanton, Hart
+TI The Motivational Influence of Self-Guides on Creative Pursuits
+SO PSYCHOLOGY OF AESTHETICS CREATIVITY AND THE ARTS
+LA English
+DT Article
+DE creativity; regulatory focus; self-discrepancy theory; deviance
+   regulation theory
+ID WORD-ASSOCIATION; REGULATORY FOCUS; PREVENTION; PROMOTION; RESPONSES;
+   TESTS; TIME; CUES
+AB There is robust evidence for a relationship between regulatory focus and creative cognition, with prevention states undermining creative insight and promotion states facilitating it. We tested whether similar effects occur as a result of priming goal standards related to prevention focus (ought standards) versus promotion focus (ideal standards). A pilot study established that the importance placed on ought versus ideal self-standards predicted the desire to be creative, with the strongest creativity orientation observed among participants who placed a high value on achieving goals related to ideal standards and a low value on achieving goals related to ought standards. Two experiments then demonstrated that goal priming influenced the novelty of responses to a word association task, with activation of ought standards decreasing and activation of ideal evaluative standards increasing novelty. Study 2 revealed that the influence of goal priming was eliminated when participants were put under time pressure, suggesting that this manipulation exerted influence on response novelty through a controlled (as opposed to spontaneous) process.
+C1 [Zabelina, Darya L.] Northwestern Univ, Dept Psychol, Evanston, IL 60208 USA.
+   [Felps, Daniel] Texas A&M Univ, Dept Comp Sci, College Stn, TX 77843 USA.
+   [Blanton, Hart] Univ Connecticut, Dept Psychol, Storrs, CT USA.
+RP Zabelina, DL (corresponding author), Northwestern Univ, Dept Psychol, 2029 Sheridan Rd,102 Swift Hall, Evanston, IL 60208 USA.
+EM darya.zabelina@u.northwestern.edu
+NR 27
+TC 5
+Z9 5
+U1 0
+U2 18
+PU EDUCATIONAL PUBLISHING FOUNDATION-AMERICAN PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST, NE, WASHINGTON, DC 20002-4242 USA
+SN 1931-3896
+J9 PSYCHOL AESTHET CREA
+JI Psychol. Aesthet. Creat. Arts.
+PD MAY
+PY 2013
+VL 7
+IS 2
+BP 112
+EP 118
+DI 10.1037/a0030464
+PG 7
+WC Humanities, Multidisciplinary; Psychology, Experimental
+SC Arts & Humanities - Other Topics; Psychology
+GA 146FZ
+UT WOS:000319076600002
+DA 2020-08-05
+ER
+
+PT J
+AU Al-Ubaydli, O
+   Houser, D
+   Nye, J
+   Paganelli, MP
+   Pan, XS
+AF Al-Ubaydli, Omar
+   Houser, Daniel
+   Nye, John
+   Paganelli, Maria Pia
+   Pan, Xiaofei Sophia
+TI The Causal Effect of Market Priming on Trust: An Experimental
+   Investigation Using Randomized Control
+SO PLOS ONE
+LA English
+DT Article
+ID BEHAVIORAL-EXPERIMENTS; PREFERENCES; INCENTIVES; FAIRNESS
+AB We report data from laboratory experiments where participants were primed using phrases related to markets and trade. Participants then participated in trust games with anonymous strangers. The decisions of primed participants are compared to those of a control group. We find evidence that priming for market participation affects positively the beliefs regarding the trustworthiness of anonymous strangers and increases trusting decisions.
+C1 [Al-Ubaydli, Omar] Bahrain Ctr Strateg Int & Energy Studies, Res Dept, Awali, Bahrain.
+   [Al-Ubaydli, Omar; Houser, Daniel] George Mason Univ, Dept Econ, Fairfax, VA 22030 USA.
+   [Al-Ubaydli, Omar; Houser, Daniel] George Mason Univ, Interdisciplinary Ctr Econ Sci, Fairfax, VA 22030 USA.
+   [Al-Ubaydli, Omar; Nye, John] George Mason Univ, Mercatus Ctr, Arlington, VA USA.
+   [Nye, John] Natl Res Univ, Higher Sch Econ, Int Lab Inst Anal Econ Reforms, Moscow, Russia.
+   [Paganelli, Maria Pia] Trinity Univ, Dept Econ, San Antonio, TX USA.
+   [Pan, Xiaofei Sophia] Harvard Univ, Dept Econ, Cambridge, MA 02138 USA.
+RP Pan, XS (corresponding author), Harvard Univ, Dept Econ, Cambridge, MA 02138 USA.
+EM xpan@fas.harvard.edu
+OI Houser, Daniel/0000-0003-3583-8201
+NR 44
+TC 22
+Z9 23
+U1 0
+U2 22
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD MAR 5
+PY 2013
+VL 8
+IS 3
+AR e55968
+DI 10.1371/journal.pone.0055968
+PG 8
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 099RC
+UT WOS:000315637900006
+PM 23472068
+OA DOAJ Gold, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Harrell, A
+AF Harrell, Ashley
+TI Do religious cognitions promote prosociality?
+SO RATIONALITY AND SOCIETY
+LA English
+DT Article
+DE Priming; prosocial behavior; religion; rewards
+ID BEHAVIOR; GOD; EVOLUTION; NEIGHBOR
+AB Researchers have long argued that religion increases prosocial behavior, but results are equivocal. Recent findings on priming religious concepts seem to show that religion drives other-regarding behaviors. However, here I suggest that some religious concepts may not only be priming religion, but also anticipated rewards. I present the results of a new experiment that primes reward-related and reward-unrelated religious or secular concepts. Results show that priming reward-related concepts positively impacts prosocial behavior (specifically, generosity), regardless of their religious content. Religious cognitions alone are not sufficient to elicit generosity: reward cognitions must be present as well.
+C1 Univ S Carolina, Dept Sociol, Columbia, SC 29208 USA.
+RP Harrell, A (corresponding author), Univ S Carolina, Dept Sociol, Columbia, SC 29208 USA.
+EM harrella@mailbox.sc.edu
+NR 30
+TC 19
+Z9 19
+U1 0
+U2 20
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1043-4631
+J9 RATION SOC
+JI Ration. Soc.
+PD NOV
+PY 2012
+VL 24
+IS 4
+BP 463
+EP 482
+DI 10.1177/1043463112463930
+PG 20
+WC Sociology
+SC Sociology
+GA 042NO
+UT WOS:000311478100004
+DA 2020-08-05
+ER
+
+PT J
+AU Crusius, J
+   Mussweiler, T
+AF Crusius, Jan
+   Mussweiler, Thomas
+TI To achieve or not to achieve? Comparative mindsets elicit assimilation
+   and contrast in goal priming
+SO EUROPEAN JOURNAL OF SOCIAL PSYCHOLOGY
+LA English
+DT Article
+ID AUTOMATIC BEHAVIOR; CATEGORY ACCESSIBILITY; IMPRESSION-FORMATION;
+   PROCESSING GOALS; SELF; ACTIVATION; OTHERS; CONSEQUENCES; PURSUIT;
+   ANTECEDENTS
+AB Goal priming typically leads to goal-consistent behavior. This uniform pattern is surprising given other types of priming effects, which have been found to be more variable. On the basis of previous research on judgment priming effects, we predicted that a comparative mindset to focus on similarities versus differences also affects the direction of goal priming. Two studies show that assimilation to a primed goal results if participants focus on similarities, whereas a focus on differences leads to contrast. In Study 1, participants induced to focus on similarities behaved more neatly after being primed with neatness rather than the goal to be carefree. For participants induced to focus on differences, the opposite pattern emerged. In Study 2, a similarity focus led to assimilation to an achievement prime, whereas a difference focus resulted in contrast. These findings highlight the importance of comparative processes in goal striving and demonstrate that assimilative goal-priming effects are less invariable than existing research suggests. Copyright (c) 2012 John Wiley & Sons, Ltd.
+C1 [Crusius, Jan; Mussweiler, Thomas] Univ Cologne, Dept Psychol, D-50931 Cologne, Germany.
+RP Crusius, J (corresponding author), Univ Cologne, Dept Psychol, Richard Strauss Str 2, D-50931 Cologne, Germany.
+EM jan.crusius@uni-koeln.de
+RI Crusius, Jan/AAE-8311-2019; Mussweiler, Thomas/D-4692-2016
+OI Crusius, Jan/0000-0002-9403-6084; 
+NR 53
+TC 15
+Z9 15
+U1 1
+U2 21
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0046-2772
+J9 EUR J SOC PSYCHOL
+JI Eur. J. Soc. Psychol.
+PD OCT
+PY 2012
+VL 42
+IS 6
+BP 780
+EP 788
+DI 10.1002/ejsp.873
+PG 9
+WC Psychology, Social
+SC Psychology
+GA 009ZN
+UT WOS:000309064300012
+DA 2020-08-05
+ER
+
+PT J
+AU Marien, H
+   Custers, R
+   Hassin, RR
+   Aarts, H
+AF Marien, Hans
+   Custers, Ruud
+   Hassin, Ran R.
+   Aarts, Henk
+TI Unconscious Goal Activation and the Hijacking of the Executive Function
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE unconscious goal pursuit; executive function; subliminal priming
+ID WORKING-MEMORY; POSITIVE AFFECT; NONCONSCIOUS GOALS; ERROR-DETECTION;
+   PURSUIT; ATTENTION; BEHAVIOR; AUTOMATICITY; WILL; CONSCIOUSNESS
+AB Building on research on unconscious human goal pursuit and the dynamic nature of our mental and physical world, this study examined the idea that an unconsciously activated goal hijacks executive control for its own attainment. This "hijacking" of the executive function by an unconscious goal should be evidenced by impaired performance on an unrelated task relying on executive control. The results of 6 experiments show that subliminal activation of a socializing goal, or an idiosyncratic personal goal, or an academic goal, harmed participants' performance on an executive function task, such as inhibition of prepotent responses and detection of text errors during reading. These effects were unique to executive control, were similar when the goal was activated consciously, and were independent of task motivation and perceived inter-goal relatedness between the primed goal and task goal. Furthermore, an unconscious goal occupied executive control to advance itself more strongly when the goal had personal value. Implications for theory and research on unconscious goal pursuit and the executive function are discussed.
+C1 [Marien, Hans; Custers, Ruud; Aarts, Henk] Univ Utrecht, Dept Psychol, NL-3508 TC Utrecht, Netherlands.
+   [Custers, Ruud] UCL, Dept Cognit Perceptual & Brain Sci, London, England.
+   [Hassin, Ran R.] Hebrew Univ Jerusalem, Dept Psychol, IL-91905 Jerusalem, Israel.
+RP Marien, H (corresponding author), Univ Utrecht, Dept Psychol, POB 80140, NL-3508 TC Utrecht, Netherlands.
+EM h.marien@uu.nl
+RI Custers, Ruud/G-4851-2013
+OI Custers, Ruud/0000-0002-4431-738X
+NR 107
+TC 28
+Z9 28
+U1 1
+U2 66
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+EI 1939-1315
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD SEP
+PY 2012
+VL 103
+IS 3
+BP 399
+EP 415
+DI 10.1037/a0028955
+PG 17
+WC Psychology, Social
+SC Psychology
+GA 992PZ
+UT WOS:000307793500003
+PM 22686538
+DA 2020-08-05
+ER
+
+PT J
+AU Guinote, A
+   Weick, M
+   Cai, A
+AF Guinote, Ana
+   Weick, Mario
+   Cai, Alice
+TI Does Power Magnify the Expression of Dispositions?
+SO PSYCHOLOGICAL SCIENCE
+LA English
+DT Article
+DE power; construct accessibility; dispositions; priming; automaticity;
+   social cognition
+ID CONSTRUCT ACCESSIBILITY; ACTIVATION; INCREASES; VARIABILITY;
+   CONSISTENCY; INHIBITION; EXPERIENCE; SITUATION; BEHAVIOR; MODELS
+AB Conventional wisdom holds that power holders act more in line with their dispositions than do people who lack power. Drawing on principles of construct accessibility, we propose that this is the case only when no alternative constructs are activated. In three experiments, we assessed participants' chronic dispositions and subsequently manipulated participants' degree of power. Participants then either were or were not primed with alternative (i.e., inaccessible or counterdispositional) constructs. When no alternatives were activated, the responses of power holders-perceptions of other people (Experiment 1), preferences for charitable donations (Experiment 2), and strategies in an economic game (Experiment 3)-were more in line with their chronically accessible constructs than were the responses of low-power participants. However, when alternatives had been activated, power holders' responses were no longer more congruent with their dispositions than were the responses of low-power participants. We propose a single mechanism according to which power increases reliance on accessible constructs-that is, constructs that easily come to mind-regardless of whether these constructs are chronically or temporarily accessible.
+C1 [Guinote, Ana; Cai, Alice] UCL, Dept Cognit Perceptual & Brain Sci, London WC1H OAP, England.
+   [Weick, Mario] Univ Kent, Sch Psychol, Canterbury CT2 7NZ, Kent, England.
+RP Guinote, A (corresponding author), UCL, Dept Cognit Perceptual & Brain Sci, 26 Bedford Way, London WC1H OAP, England.
+EM a.guinote@ucl.ac.uk
+OI Guinote, Ana/0000-0002-4226-7833
+NR 39
+TC 41
+Z9 43
+U1 0
+U2 18
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0956-7976
+EI 1467-9280
+J9 PSYCHOL SCI
+JI Psychol. Sci.
+PD MAY
+PY 2012
+VL 23
+IS 5
+BP 475
+EP 482
+DI 10.1177/0956797611428472
+PG 8
+WC Psychology, Multidisciplinary
+SC Psychology
+GA 083LF
+UT WOS:000314464500008
+PM 22431909
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Ginsberg, F
+   Rohmer, O
+   Louvet, E
+AF Ginsberg, Frederik
+   Rohmer, Odile
+   Louvet, Eva
+TI PRIMING OF DISABILITY AND ELDERLY STEREOTYPE IN MOTOR PERFORMANCE:
+   SIMILAR OR SPECIFIC EFFECTS?
+SO PERCEPTUAL AND MOTOR SKILLS
+LA English
+DT Article
+ID BEHAVIOR; ACTIVATION; IMPACT
+AB In three experimental studies, the effects of priming participants with the disability stereotype were investigated with respect to their subsequent motor performance. Also explored were effects of activating two similar stereotypes, persons with a disability and elderly people. In Study 1, participants were primed with the disability stereotype versus with a neutral prime, and then asked to perform on a motor coordination task. In Studies 2 and 3, a third condition was introduced: priming participants with the elderly stereotype. Results indicated that priming participants with the disability stereotype altered their motor performance: they showed decreased manual dexterity and performed slower than the non-primed participants. Priming with the elderly stereotype decreased only performance speed. These findings underline that prime-to-behavior effects may depend on activation of specific stereotype content.
+C1 [Ginsberg, Frederik] Univ Strasbourg, Fac Psychol, F-67000 Strasbourg, France.
+RP Ginsberg, F (corresponding author), Univ Strasbourg, Fac Psychol, 12 Rue Goethe, F-67000 Strasbourg, France.
+EM frederik.ginsberg@unistra.fr; odile.rohmer@unistra.fr;
+   eva.louvet@unistra.fr
+NR 20
+TC 6
+Z9 6
+U1 0
+U2 15
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0031-5125
+EI 1558-688X
+J9 PERCEPT MOTOR SKILL
+JI Percept. Mot. Skills
+PD APR
+PY 2012
+VL 114
+IS 2
+BP 397
+EP 406
+DI 10.2466/07.17.PMS.114.2.397-406
+PG 10
+WC Psychology, Experimental
+SC Psychology
+GA 948IN
+UT WOS:000304496900005
+PM 22755444
+DA 2020-08-05
+ER
+
+PT J
+AU Hart, W
+   Albarracin, D
+AF Hart, William
+   Albarracin, Dolores
+TI Craving Activity and Losing Objectivity: Effects of General Action
+   Concepts on Approach to Decision-Consistent Information
+SO SOCIAL PSYCHOLOGICAL AND PERSONALITY SCIENCE
+LA English
+DT Article
+DE selective exposure; action/inaction; social cognition; attitude; goal
+ID ACTION-BASED MODEL; SELECTIVE EXPOSURE; COGNITIVE-DISSONANCE; SELF;
+   REDUCTION; EXPANSION; SEEKING; SEARCH; IMPACT; TESTS
+AB In light of U. S. society's ever increasing need for activity, the authors used three experiments to examine how general action concepts, activated by subtle priming methods, influence choices to approach information that confirms a recent decision. Findings from Experiments 1 to 3 revealed that viewing action (vs. control) words prior to information selection increased selective approach to supporting information, but viewing inaction (vs. control) words reduced this bias. Experiment 3 also showed that the effect of the action words on this confirmation bias was smaller when participants were allowed to self-affirm by writing about an important personal value. In addition, the experiments found that viewing the action words caused the selection of more total information than viewing the inaction words. The authors conclude that the growing need for activity in the United States may contribute to a loss of objectivity in the way citizens gather information.
+C1 [Hart, William] Univ Alabama, Dept Psychol, Tuscaloosa, AL 35487 USA.
+   [Albarracin, Dolores] Univ Illinois, Dept Psychol, Urbana, IL 61801 USA.
+RP Hart, W (corresponding author), Univ Alabama, Box 870348, Tuscaloosa, AL 35487 USA.
+EM wphart@ua.edu; dalbarra@illinois.edu
+NR 49
+TC 6
+Z9 6
+U1 0
+U2 4
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 1948-5506
+EI 1948-5514
+J9 SOC PSYCHOL PERS SCI
+JI Soc. Psychol. Personal Sci.
+PD JAN
+PY 2012
+VL 3
+IS 1
+BP 55
+EP 62
+DI 10.1177/1948550611408620
+PG 8
+WC Psychology, Social
+SC Psychology
+GA V32FB
+UT WOS:000208936000008
+DA 2020-08-05
+ER
+
+PT J
+AU Trudel, R
+   Murray, KB
+AF Trudel, Remi
+   Murray, Kyle B.
+TI Why Didn't I Think of That? Self-Regulation Through Selective
+   Information Processing
+SO JOURNAL OF MARKETING RESEARCH
+LA English
+DT Article
+DE self-regulation; information acquisition; information processing; cost;
+   pleasure; information search
+ID DELAY; FAILURE; OBESITY; GRATIFICATION; FREQUENCY; JUDGMENTS; MEDIATION;
+   CONFLICT; EPIDEMIC; SEARCH
+AB In this article, the authors present an information-processing model of self-regulation. The model predicts that consumers with an active self-regulatory goal will tend to focus on the cost (rather than the pleasure) of consumption, and as a result, they are better able to control their behavior. In contrast to prior research, the authors find that consumers with an active goal are most vulnerable to self-regulatory failure when the object of desire is farther away from them (in either time or space) because as the distance increases they focus less on the costs of consumption. Finally, results indicate that if product information is not externally available (i.e., it must be recalled from memory), people are more likely to focus on pleasure and fail at self-regulation. The results are robust across four experiments using a variety of stimuli, goal primes, and information-processing measures.
+C1 [Trudel, Remi] Boston Univ, Sch Management, Boston, MA 02215 USA.
+   [Murray, Kyle B.] Univ Alberta, Sch Business, Edmonton, AB T6G 2M7, Canada.
+RP Trudel, R (corresponding author), Boston Univ, Sch Management, Boston, MA 02215 USA.
+EM rtrudel@bu.edu; kyle.murray@ualberta.ca
+NR 38
+TC 11
+Z9 11
+U1 1
+U2 30
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0022-2437
+EI 1547-7193
+J9 J MARKETING RES
+JI J. Mark. Res.
+PD AUG
+PY 2011
+VL 48
+IS 4
+BP 701
+EP 712
+DI 10.1509/jmkr.48.4.701
+PG 12
+WC Business
+SC Business & Economics
+GA 796KB
+UT WOS:000293049100005
+DA 2020-08-05
+ER
+
+PT J
+AU Albarracin, D
+   Hart, W
+AF Albarracin, Dolores
+   Hart, William
+TI Positive Mood plus Action = Negative Mood plus Inaction: Effects of
+   General Action and Inaction Concepts on Decisions and Performance as a
+   Function of Affect
+SO EMOTION
+LA English
+DT Article
+DE goals; self-regulation; mood
+ID GOAL PURSUIT; RESTRAINED EATERS; BEHAVIORAL GOALS; INFORMATION; MODEL;
+   MISATTRIBUTION; ACTIVATION; MOTOR; ANGER
+AB General action and inaction concepts have been shown to produce broad, goal-mediated effects on cognitive and motor activity irrespective of the type of activity. The current research tested a model in which action and inaction goals interact with the valence of incidental moods to guide behavior. Over four experiments, participants' moods were manipulated to be positive (happy), neutral, or negative (angry or sad), and then general action, inaction, and neutral concepts were primed. In Experiment I. action primes increased intellectual performance when participants experienced a positive (happy) or neutral mood, whereas inaction primes increased performance when participants experienced a negative (angry) mood. Including a control-prime condition, Experiments 2 and 3 replicated these results measuring the number of general interest articles participants were willing to read and participants' memory for pictures of celebrities. Experiment 4 replicated the results comparing happiness with sadness and suggested that the effect of the prime's adoption was automatic. Overall, the findings supported an interactive model by which action concepts and positive affect produce the same increases in active behavior as inaction concepts and negative affect.
+C1 [Albarracin, Dolores] Univ Illinois, Dept Psychol, Champaign, IL 61820 USA.
+   [Hart, William] Univ Alabama, Dept Psychol, Tuscaloosa, AL 35487 USA.
+RP Albarracin, D (corresponding author), Univ Illinois, Dept Psychol, Champaign, IL 61820 USA.
+EM dalbarra@illinois.edu
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [K02 MH075616, K02-MH01861]; NINR NIH HHSUnited States Department
+   of Health & Human ServicesNational Institutes of Health (NIH) - USANIH
+   National Institute of Nursing Research (NINR) [R01-NR08325, R01
+   NR008325]
+NR 36
+TC 25
+Z9 26
+U1 0
+U2 1
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+EI 1931-1516
+J9 EMOTION
+JI Emotion
+PD AUG
+PY 2011
+VL 11
+IS 4
+BP 951
+EP 957
+DI 10.1037/a0024130
+PG 7
+WC Psychology, Experimental
+SC Psychology
+GA 816JL
+UT WOS:000294594400023
+PM 21859209
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Capa, RL
+   Cleeremans, A
+   Bustin, GM
+   Hansenne, M
+AF Capa, Remi L.
+   Cleeremans, Axel
+   Bustin, Gaelle M.
+   Hansenne, Michel
+TI Long-lasting effect of subliminal processes on cardiovascular responses
+   and performance
+SO INTERNATIONAL JOURNAL OF PSYCHOPHYSIOLOGY
+LA English
+DT Article
+DE Effort; Nonconscious goal pursuit; Cardiovascular reactivity; Reward;
+   Alpha and beta-adrenergic activity
+ID PULSE TRANSIT-TIME; TASK-DIFFICULTY; MENTAL EFFORT;
+   ACHIEVEMENT-MOTIVATION; IMPEDANCE CARDIOGRAPHY; GOAL PURSUIT;
+   REACTIVITY; ATTENTION; CONSCIOUSNESS; ACTIVATION
+AB Students were exposed to a priming task in which subliminal representations of the goal of studying were directly paired (priming-positive group) or not (priming group) to positive words. A control group without subliminal prime of the goal was added. Just after the priming task, students performed an easy or a difficult learning task based on their coursework. Participants in the priming-positive group performed better and had a stronger decrease of pulse transit time and pulse wave amplitude reactivity than participants of the two other groups, but only during the difficult condition. Results suggested that subliminal priming induces effortful behavior extending over twenty five minutes but only when the primes had been associated with visible positive words acting as a reward. These findings provide evidence that subliminal priming can have long-lasting effects on behaviors typical of daily life. (C) 2011 Elsevier B.V. All rights reserved.
+C1 [Capa, Remi L.; Bustin, Gaelle M.; Hansenne, Michel] Univ Liege, Dept Cognit Sci, B-4000 Liege, Belgium.
+   [Cleeremans, Axel] Univ Libre Bruxelles, Consciousness Cognit & Computat Grp, Brussels, Belgium.
+RP Capa, RL (corresponding author), Univ Liege, Dept Cognit Sci, 5 Bd Rectorat B-32, B-4000 Liege, Belgium.
+EM remi.capa@ulg.ac.be
+RI Hansenne, Michel/D-2138-2015
+OI Hansenne, Michel/0000-0002-3478-4953
+NR 58
+TC 16
+Z9 16
+U1 0
+U2 12
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0167-8760
+EI 1872-7697
+J9 INT J PSYCHOPHYSIOL
+JI Int. J. Psychophysiol.
+PD JUL
+PY 2011
+VL 81
+IS 1
+BP 22
+EP 30
+DI 10.1016/j.ijpsycho.2011.04.001
+PG 9
+WC Psychology, Biological; Neurosciences; Physiology; Psychology;
+   Psychology, Experimental
+SC Psychology; Neurosciences & Neurology; Physiology
+GA 789BZ
+UT WOS:000292489600003
+PM 21515314
+DA 2020-08-05
+ER
+
+PT J
+AU Albarracin, D
+   Handley, IM
+AF Albarracin, Dolores
+   Handley, Ian M.
+TI The Time for Doing Is Not the Time for Change: Effects of General Action
+   and Inaction Goals on Attitude Retrieval and Attitude Change
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE action goals; attitude; change; persuasion
+ID MODEL; PERSUASION; IMPLICIT; PURSUIT
+AB Implicit in many informal and formal principles of psychological change is the understudied assumption that change requires either an active approach or an inactive approach. This issue was systematically investigated by comparing the effects of general action goals and general inaction goals on attitude change. As prior attitudes facilitate preparation for an upcoming persuasive message, general action goals were hypothesized to facilitate conscious retrieval of prior attitudes and therefore hinder attitude change to a greater extent than general inaction goals. Experiment 1 demonstrated that action primes (e.g., "go," "energy") yielded faster attitude report than inaction primes (e.g., "rest," "still") among participants who were forewarned of an upcoming persuasive message. Experiment 2 showed that the faster attitude report identified in Experiment I was localized on attitudes toward a message topic participants were prepared to receive. Experiments 3, 4, and 5 showed that, compared with inaction primes, action primes produced less attitude change and less argument scrutiny in response to a counterattitudinal message on a previously forewarned topic. Experiment 6 confirmed that the effects of the primes on attitude change were due to differential attitude retrieval. That is, when attitude expression was induced immediately after the primes, action and inaction goals produced similar amounts of attitude change. In contrast, when no attitude expression was induced after the prime, action goals produced less attitude change than inaction goals. Finally, Experiment 7 validated the assumption that these goal effects can be reduced or reversed when the goals have already been satisfied by an intervening task.
+C1 [Albarracin, Dolores] Univ Illinois, Dept Psychol, Champaign, IL 61820 USA.
+   [Handley, Ian M.] Montana State Univ, Dept Psychol, Bozeman, MT 59717 USA.
+RP Albarracin, D (corresponding author), Univ Illinois, Dept Psychol, Champaign, IL 61820 USA.
+EM dalbarra@illinois.edu; ihandley@montana.edu
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [K02-MH01861, K02 MH075616-02, K02 MH075616-01, K02 MH075616-03,
+   K02 MH075616-05, K02 MH075616-04, K02 MH075616]; NINR NIH HHSUnited
+   States Department of Health & Human ServicesNational Institutes of
+   Health (NIH) - USANIH National Institute of Nursing Research (NINR) [R01
+   NR008325, R01 NR008325-08, R01 NR008325-06A1, R01-NR08325, R01
+   NR008325-07]
+NR 52
+TC 22
+Z9 22
+U1 1
+U2 22
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+EI 1939-1315
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD JUN
+PY 2011
+VL 100
+IS 6
+BP 983
+EP 998
+DI 10.1037/a0023245
+PG 16
+WC Psychology, Social
+SC Psychology
+GA 770CW
+UT WOS:000291065600002
+PM 21639651
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Veltkamp, M
+   Custers, R
+   Aarts, H
+AF Veltkamp, Martijn
+   Custers, Ruud
+   Aarts, Henk
+TI Motivating consumer behavior by subliminal conditioning in the absence
+   of basic needs: Striking even while the iron is cold
+SO JOURNAL OF CONSUMER PSYCHOLOGY
+LA English
+DT Article
+DE Deprivation; Conditioning; Motivation; Subliminal persuasion; Priming
+ID DEPRIVATION; PURSUIT; IMPACT; GOALS; ACTIVATION; AWARENESS; VALENCE;
+   WILL
+AB Previous research suggests that priming of behavioral concepts (e.g., drinking water) motivates consumers outside conscious awareness, but only if primes match a current need (e.g., fluid deprivation). The present article reports two studies testing whether subliminal conditioning (subliminally priming a behavioral concept and linking it to positive affect) can motivate such need-related behaviors even in the absence of deprivation. Both studies showed an interaction effect: Motivation to drink water increased with fluid deprivation, and subliminally conditioning drinking water more positive only motivated drinking in the absence of deprivation. Furthermore, Study 2 suggests that motivation resulting from conditioning is more specific than following deprivation, as only the latter can be reduced by pursuing alternative behaviors (i.e., eating high-liquid foods). Thus, although traditionally the motivation for need-related behaviors is thought to depend on deprivation, this research shows subliminal conditioning can motivate consumers as if they were deprived. (C) 2010 Society for Consumer Psychology. Published by Elsevier Inc. All rights reserved.
+C1 [Veltkamp, Martijn] Univ Twente, Dept Mkt Commun & Consumer Psychol, NL-7500 AE Enschede, Netherlands.
+   [Custers, Ruud; Aarts, Henk] Univ Utrecht, Dept Social Psychol, NL-3508 TC Utrecht, Netherlands.
+RP Veltkamp, M (corresponding author), Univ Twente, Dept Mkt Commun & Consumer Psychol, POB 217, NL-7500 AE Enschede, Netherlands.
+EM m.veltkamp@utwente.nl; r.custers@uu.nl; h.aarts@uu.nl
+RI Custers, Ruud/G-4851-2013
+OI Custers, Ruud/0000-0002-4431-738X
+NR 41
+TC 26
+Z9 28
+U1 2
+U2 55
+PU JOHN WILEY & SONS LTD
+PI CHICHESTER
+PA THE ATRIUM, SOUTHERN GATE, CHICHESTER PO19 8SQ, W SUSSEX, ENGLAND
+SN 1057-7408
+EI 1532-7663
+J9 J CONSUM PSYCHOL
+JI J. Consum. Psychol.
+PD JAN
+PY 2011
+VL 21
+IS 1
+SI SI
+BP 49
+EP 56
+DI 10.1016/j.jcps.2010.09.011
+PG 8
+WC Business; Psychology, Applied
+SC Business & Economics; Psychology
+GA 721EA
+UT WOS:000287335200007
+DA 2020-08-05
+ER
+
+PT J
+AU Bar-Anan, Y
+   Wilson, TD
+   Hassin, RR
+AF Bar-Anan, Yoav
+   Wilson, Timothy D.
+   Hassin, Ran R.
+TI Inaccurate self-knowledge formation as a result of automatic behavior
+SO JOURNAL OF EXPERIMENTAL SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE Self-attribution; Self-knowledge; Goal priming; Automatic social
+   behavior; Confabulation
+ID NONCONSCIOUS GOAL PURSUIT; IMPRESSION-FORMATION; EXPLANATORY VACUUM;
+   MENTAL PROCESSES; PERCEPTION; AROUSAL; MISATTRIBUTION; ACTIVATION;
+   INFORMATION; DISSONANCE
+AB Four studies tested a post-priming misattribution process whereby a primed goal automatically influences people's behavior, but because people are unaware of that influence, they misattribute their behavior to some other internal state. People who were primed with a goal were more likely to choose an activity that was relevant to that goal, but did not recognize that the prime had influenced their choices. Instead, people used more accessible and plausible reasons to explain their behavior. The goals were seeking romantic interaction (Studies 1 and 2), helping (Study 3) and earning money (Study 4). People made choices related to these goals but misattributed the choices to temporary preferences (Studies 1 and 3) and more permanent dispositions (Studies 2 and 4). The misattribution had downstream effects, leading to choice behavior consistent with the erroneous self-knowledge. We suggest that automatic behavior can lead to a confabulated self-knowledge with behavioral consequences. (C) 2010 Elsevier Inc. All rights reserved.
+C1 [Bar-Anan, Yoav] Ben Gurion Univ Negev, Dept Psychol, IL-84105 Beer Sheva, Israel.
+   [Wilson, Timothy D.] Univ Virginia, Charlottesville, VA 22903 USA.
+   [Hassin, Ran R.] Hebrew Univ Jerusalem, Jerusalem, Israel.
+RP Bar-Anan, Y (corresponding author), Ben Gurion Univ Negev, Dept Psychol, IL-84105 Beer Sheva, Israel.
+EM baranany@bgu.ac.il
+RI Bar-Anan, Yoav/F-1679-2012
+NR 57
+TC 23
+Z9 23
+U1 0
+U2 22
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0022-1031
+J9 J EXP SOC PSYCHOL
+JI J. Exp. Soc. Psychol.
+PD NOV
+PY 2010
+VL 46
+IS 6
+BP 884
+EP 894
+DI 10.1016/j.jesp.2010.07.007
+PG 11
+WC Psychology, Social
+SC Psychology
+GA 682YZ
+UT WOS:000284440200003
+DA 2020-08-05
+ER
+
+PT J
+AU Gendolla, GHE
+   Silvestrini, N
+AF Gendolla, Guido H. E.
+   Silvestrini, Nicolas
+TI The Implicit "Go": Masked Action Cues Directly Mobilize Mental Effort
+SO PSYCHOLOGICAL SCIENCE
+LA English
+DT Article
+DE effort; motivation; priming; automaticity; self-regulation
+ID CARDIOVASCULAR-RESPONSE; TASK-DIFFICULTY; MOTIVATION; BEHAVIOR;
+   REACTIVITY; PERCEPTION; MOOD
+AB In this study, we examined the hypothesis that masked general action and inaction cues that are processed during a cognitive task directly mobilize effort exerted during the task. Participants were randomly assigned to an action-prime condition, an inaction-prime condition, or a control condition and performed a Sternberg short-term memory task. The intensity of effort the participants exerted during the task was estimated by measuring their heart responses (cardiac preejection period, PEP) during task performance. As expected, exposure to masked action cues resulted in stronger PEP reactivity than exposure to masked inaction cues. PEP reactivity in the control group fell in between reactivity when action cues were used and reactivity when inaction cues were used. Participants' task performance revealed a corresponding pattern: Reaction times were the shortest in the action-prime condition, increased in the control condition, and increased further in the inaction-prime condition. These results show that masked action cues and inaction cues directly influence the intensity of effort exerted in the performance of a task.
+C1 [Gendolla, Guido H. E.; Silvestrini, Nicolas] Univ Geneva, Geneva Motivat Lab, FPSE, Dept Psychol, CH-1211 Geneva 4, Switzerland.
+RP Gendolla, GHE (corresponding author), Univ Geneva, Geneva Motivat Lab, FPSE, Dept Psychol, 40 Bd Pont dArve, CH-1211 Geneva 4, Switzerland.
+EM guido.gendolla@unige.ch; nicolas.silvestrini@unige.ch
+RI Silvestrini, Nicolas/E-9461-2017
+OI Silvestrini, Nicolas/0000-0002-5654-9428; Gendolla,
+   Guido/0000-0002-8066-0951
+NR 30
+TC 41
+Z9 41
+U1 1
+U2 11
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0956-7976
+J9 PSYCHOL SCI
+JI Psychol. Sci.
+PD OCT
+PY 2010
+VL 21
+IS 10
+BP 1389
+EP 1393
+DI 10.1177/0956797610384149
+PG 5
+WC Psychology, Multidisciplinary
+SC Psychology
+GA 696QD
+UT WOS:000285455600005
+PM 20861511
+DA 2020-08-05
+ER
+
+PT J
+AU Hart, W
+   Albarracin, D
+AF Hart, William
+   Albarracin, Dolores
+TI The Effects of Chronic Achievement Motivation and Achievement Primes on
+   the Activation of Achievement and Fun Goals
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE achievement motivation; achievement goals; self-regulation; fun;
+   behavior
+ID PERFORMANCE; BEHAVIOR; SELF; ORIENTATION; SITUATIONS; CONSTRUCT;
+   PURSUIT; ABILITY; PEOPLE; CHOICE
+AB This research examined the hypothesis that situational achievement cues can elicit achievement or fun goals depending on chronic differences in achievement motivation. In 4 studies, chronic differences in achievement motivation were measured, and achievement-denoting words were used to influence behavior. The effects of these variables were assessed on self-report inventories, task performance, task resumption following an interruption, and the pursuit of means relevant to achieving or having fun. Findings indicated that achievement priming (vs. control priming) activated a goal to achieve and inhibited a goal to have fun in individuals with chronically high-achievement motivation but activated a goal to have fun and inhibited a goal to achieve in individuals with chronically low-achievement motivation.
+C1 [Hart, William] Univ Florida, Dept Psychol, Gainesville, FL 32611 USA.
+   [Albarracin, Dolores] Univ Illinois, Dept Psychol, Champaign, IL 61820 USA.
+RP Hart, W (corresponding author), Univ Florida, Dept Psychol, Gainesville, FL 32611 USA.
+EM willhart@ufl.edu; dalbarra@uiuc.edu
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [K02-MH01861, K02 MH075616]; NINR NIH HHSUnited States Department
+   of Health & Human ServicesNational Institutes of Health (NIH) - USANIH
+   National Institute of Nursing Research (NINR) [R01 NR008325,
+   R01-NR08325]
+NR 76
+TC 36
+Z9 38
+U1 1
+U2 27
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+EI 1939-1315
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD DEC
+PY 2009
+VL 97
+IS 6
+BP 1129
+EP 1141
+DI 10.1037/a0017146
+PG 13
+WC Psychology, Social
+SC Psychology
+GA 529DP
+UT WOS:000272496400013
+PM 19968423
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Sela, A
+   Shiv, B
+AF Sela, Aner
+   Shiv, Baba
+TI Unraveling Priming: When Does the Same Prime Activate a Goal versus a
+   Trait?
+SO JOURNAL OF CONSUMER RESEARCH
+LA English
+DT Article
+ID THEORY RELATING SELF; STEREOTYPE ACTIVATION; SOCIAL-BEHAVIOR; AUTOMATIC
+   BEHAVIOR; CONSUMER; CHOICE; ACCESSIBILITY; CONSTRUCT; MEMORY;
+   INFORMATION
+AB Consumers are constantly exposed to subtle situational cues that can influence behavior by priming either goals or "mere" semantic representations such as personality traits. However, little is known about when exactly such priming leads to goal activation, which can have enduring behavioral effects, and when the same prime leads to semantic activation, characterized by short-lived effects. This research proposes an activation-striving model, which proposes that behavioral effects of primes are moderated by discrepancies between the prime and the self-concept. Three studies suggest that self-consistent primes are more likely to influence choice via semantic activation, whereas self-discrepant primes are more likely to influence choice via goal activation.
+C1 [Sela, Aner; Shiv, Baba] Stanford Univ, Grad Sch Business, Stanford, CA 94305 USA.
+RP Sela, A (corresponding author), Stanford Univ, Grad Sch Business, 518 Mem Way, Stanford, CA 94305 USA.
+EM sela_aner@gsb.stanford.edu; shiv_baba@gsb.stanford.edu
+NR 62
+TC 62
+Z9 64
+U1 0
+U2 43
+PU UNIV CHICAGO PRESS
+PI CHICAGO
+PA 1427 E 60TH ST, CHICAGO, IL 60637-2954 USA
+SN 0093-5301
+J9 J CONSUM RES
+JI J. Consum. Res.
+PD OCT
+PY 2009
+VL 36
+IS 3
+BP 418
+EP 433
+DI 10.1086/598612
+PG 16
+WC Business
+SC Business & Economics
+GA 491FV
+UT WOS:000269564400007
+DA 2020-08-05
+ER
+
+PT J
+AU Maio, GR
+   Pakizeh, A
+   Cheung, WY
+   Rees, KJ
+AF Maio, Gregory R.
+   Pakizeh, Ali
+   Cheung, Wing-Yee
+   Rees, Kerry J.
+TI Changing, Priming, and Acting on Values: Effects via Motivational
+   Relations in a Circular Model
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE priming; motivation; goals; behavior
+ID VALUE PRIORITIES; SELF; BEHAVIOR; ATTITUDES; PURSUIT; ORIENTATIONS;
+   ENHANCEMENT; EXPERIENCES; ACTIVATION; PSYCHOLOGY
+AB Circular models of values and goals suggest that some motivational aims are consistent with each other, some oppose each other, and others are orthogonal to each other. The present experiments tested this idea explicitly by examining how value confrontation and priming methods influence values and value-consistent behaviors throughout the entire value system. Experiment I revealed that change in I set of social values causes motivationally compatible values to increase in importance, whereas motivationally incompatible values decrease in importance and orthogonal values remain the same. Experiment 2 found that priming security values reduced the better-than-average effect, but priming stimulation values increased it. Similarly, Experiments 3 and 4 found that priming security values increased cleanliness and decreased curiosity behaviors, whereas priming self-direction values decreased cleanliness and increased curiosity behaviors. Experiment 5 found that priming achievement values increased success at puzzle completion and decreased helpfulness to an experimenter, whereas priming with benevolence values decreased success and increased helpfulness. These results highlight the importance of circular models describing motivational interconnections between values and personal goals.
+C1 [Maio, Gregory R.; Cheung, Wing-Yee] Cardiff Univ, Sch Psychol, Cardiff CF10 3AT, S Glam, Wales.
+   [Pakizeh, Ali] Persian Gulf Univ, Dept Psychol, Boushehr, Iran.
+   [Rees, Kerry J.] Univ Gloucestershire, Sch Psychol, Cheltenham, Glos, England.
+RP Maio, GR (corresponding author), Cardiff Univ, Sch Psychol, 70 Pk Pl, Cardiff CF10 3AT, S Glam, Wales.
+EM maio@cardiff.ac.uk
+RI Cheung, Yee/G-4261-2016; Pakizeh, Ali/G-9777-2018; Maio, Gregory
+   R/D-1632-2009
+OI Cheung, Yee/0000-0003-2395-1872; Pakizeh, Ali/0000-0002-9522-2276; Maio,
+   Gregory R/0000-0001-5408-5829
+NR 65
+TC 154
+Z9 156
+U1 1
+U2 55
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+EI 1939-1315
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD OCT
+PY 2009
+VL 97
+IS 4
+BP 699
+EP 715
+DI 10.1037/a0016420
+PG 17
+WC Psychology, Social
+SC Psychology
+GA 508HI
+UT WOS:000270920700010
+PM 19785487
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Verbruggen, F
+   Logan, GD
+AF Verbruggen, Frederick
+   Logan, Gordon D.
+TI Automaticity of Cognitive Control: Goal Priming in Response-Inhibition
+   Paradigms
+SO JOURNAL OF EXPERIMENTAL PSYCHOLOGY-LEARNING MEMORY AND COGNITION
+LA English
+DT Article
+DE response inhibition; cognitive control; automaticity; task goals;
+   priming
+ID STOP-SIGNAL PARADIGM; REACTION-TIME; EXECUTIVE CONTROL; GO/NO-GO; TASK;
+   ATTENTION; STROOP; MEMORY; AUTOMATIZATION; ADJUSTMENTS
+AB Response inhibition is a hallmark of cognitive control. An executive system inhibits responses by activating a stop goal when a stop signal is presented. The authors asked whether the stop goal could be primed by task-irrelevant information in stop-signal and go/no-go paradigms. In Experiment 1, the task-irrelevant primes GO, ###, or STOP were presented in the go stimulus. Go performance was slower for STOP than for ### or GO. This suggests that the stop goal was primed by task-irrelevant information. In Experiment 2, STOP primed the stop goal only in conditions in which the goal was relevant to the task context. In Experiment 3, GO, ###, or STOP were presented as stop signals. Stop performance was slower for GO than for ### or STOP. These findings suggest that task goals can be primed and that response inhibition and executive control can be influenced by automatic processing.
+C1 [Verbruggen, Frederick] Univ Ghent, Dept Expt Psychol, B-9000 Ghent, Belgium.
+   [Verbruggen, Frederick; Logan, Gordon D.] Vanderbilt Univ, Dept Psychol, Nashville, TN USA.
+RP Verbruggen, F (corresponding author), Univ Ghent, Dept Expt Psychol, Henri Dunantlaan 2, B-9000 Ghent, Belgium.
+EM frederick.verbruggen@ugent.be
+RI Verbruggen, Frederick/R-6357-2017
+OI Verbruggen, Frederick/0000-0002-7958-0719; Logan,
+   Gordon/0000-0002-8301-7726
+FU National Science FoundationNational Science Foundation (NSF) [BCS
+   0446806]; Air Force Office of Scientific ResearchUnited States
+   Department of DefenseAir Force Office of Scientific Research (AFOSR)
+   [FA9550-07-1-0192 f]; National Institute of Mental HealthUnited States
+   Department of Health & Human ServicesNational Institutes of Health (NIH)
+   - USANIH National Institute of Mental Health (NIMH) [R01-MH073878-01]
+FX This research was supported by Grant BCS 0446806 from the National
+   Science Foundation, Grant FA9550-07-1-0192 from the Air Force Office of
+   Scientific Research, and Grant R01-MH073878-01 from the National
+   Institute of Mental Health to Gordon D. Logan.
+NR 43
+TC 57
+Z9 57
+U1 0
+U2 23
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0278-7393
+J9 J EXP PSYCHOL LEARN
+JI J. Exp. Psychol.-Learn. Mem. Cogn.
+PD SEP
+PY 2009
+VL 35
+IS 5
+BP 1381
+EP 1388
+DI 10.1037/a0016645
+PG 8
+WC Psychology; Psychology, Experimental
+SC Psychology
+GA 485QK
+UT WOS:000269138400025
+PM 19686032
+OA Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Radel, R
+   Sarrazin, P
+   Legrain, P
+   Gobance, L
+AF Radel, Remi
+   Sarrazin, Philippe
+   Legrain, Pascal
+   Gobance, Lucie
+TI Subliminal priming of motivational orientation in educational settings:
+   Effect on academic performance moderated by mindfulness
+SO JOURNAL OF RESEARCH IN PERSONALITY
+LA English
+DT Article
+DE Autonomous motivation; Controlled motivation; Mindfulness; Priming
+AB Recent literature indicates that a motivational orientation can be unconsciously primed. This study examined whether motivational priming influences students' academic performance within an educational setting and whether this effect is moderated by students' degree of mindfulness. Two randomly assigned groups of students received an identical lesson. However, the teacher's slideshow contained different subliminal words according to the condition (autonomous vs. controlled motivation). Results demonstrated an interaction between students' dispositional mindfulness and priming conditions. The more mindful students were immune to the manipulation whereas the less mindful students were affected by the priming: those primed with autonomous motivation obtained better results than those primed with controlled motivation. These findings contribute to priming research specifying individual differences of priming responsiveness. (C) 2009 Elsevier Inc. All rights reserved.
+C1 [Radel, Remi; Sarrazin, Philippe] Univ Grenoble, Lab SENS, F-38041 Grenoble 9, France.
+   [Legrain, Pascal; Gobance, Lucie] Univ Reims, UFR STAPS, F-51000 Reims, France.
+RP Radel, R (corresponding author), Univ Grenoble, Lab SENS, BP 53, F-38041 Grenoble 9, France.
+EM remi.radel@e.ujf-grenoble.fr; philippe.sarrazin@ujf-grenoble.fr
+OI Sarrazin, Philippe/0000-0003-0598-7564
+NR 18
+TC 33
+Z9 34
+U1 2
+U2 30
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0092-6566
+J9 J RES PERS
+JI J. Res. Pers.
+PD AUG
+PY 2009
+VL 43
+IS 4
+BP 695
+EP 698
+DI 10.1016/j.jrp.2009.02.011
+PG 4
+WC Psychology, Social
+SC Psychology
+GA 468EW
+UT WOS:000267798800020
+DA 2020-08-05
+ER
+
+PT J
+AU Albarracin, D
+   Wang, W
+   Leeper, J
+AF Albarracin, Dolores
+   Wang, Wei
+   Leeper, Joshua
+TI Immediate Increase in Food Intake Following Exercise Messages
+SO OBESITY
+LA English
+DT Article
+AB Communications to stimulate weight loss include exercise-promotion messages that often produce unsatisfactory results due to compensatory behavioral and metabolic mechanisms triggered by physical activity. This research investigated potential automatic facilitation of eating immediately after exercise messages in the absence of actual exercise. Two controlled experiments demonstrated greater than control food intake following exposure to print messages typical of exercise campaigns as well as subliminal presentation of action words associated with exercise (e.g., "active"). These inadvertent effects may explain the limited efficacy of exercise-promotion programs for weight loss, particularly when systematic dietary guidelines are absent.
+C1 [Albarracin, Dolores; Wang, Wei; Leeper, Joshua] Univ Illinois, Dept Psychol, Champaign, IL 61820 USA.
+RP Albarracin, D (corresponding author), Univ Illinois, Dept Psychol, Champaign, IL 61820 USA.
+EM dalbarra@uiuc.edu
+RI Wang, Wei/X-6900-2019
+OI Wang, Wei/0000-0002-4090-4712
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [K02 MH075616]
+NR 5
+TC 41
+Z9 41
+U1 0
+U2 15
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1930-7381
+EI 1930-739X
+J9 OBESITY
+JI Obesity
+PD JUL
+PY 2009
+VL 17
+IS 7
+BP 1451
+EP 1452
+DI 10.1038/oby.2009.16
+PG 2
+WC Endocrinology & Metabolism; Nutrition & Dietetics
+SC Endocrinology & Metabolism; Nutrition & Dietetics
+GA 464CY
+UT WOS:000267483800026
+PM 19247284
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Friedman, RS
+   McCarthy, DM
+   Pedersen, SL
+   Hicks, JA
+AF Friedman, Ronald S.
+   McCarthy, Denis M.
+   Pedersen, Sarah L.
+   Hicks, Joshua A.
+TI Alcohol Expectancy Priming and Drinking Behavior: The Role of
+   Compatibility Between Prime and Expectancy Content
+SO PSYCHOLOGY OF ADDICTIVE BEHAVIORS
+LA English
+DT Article
+DE alcohol expectancies; drinking behavior; memory; priming
+ID OUTCOME EXPECTANCIES; MEMORY; CONSUMPTION; ACTIVATION; CUES; COGNITIONS;
+   ABUSE
+AB According to information-processing models of alcohol use. alcohol expectancies constitute representations in long-term memory that may be activated in the presence of drinking-related cues, thereby influencing alcohol consumption. A fundamental implication of this approach is that primed expectancies should affect drinking only for those individuals who possess the specific expectancies primed. To test this notion, in the present study, participants were initially assessed oil 3 distinct domains of positive alcohol expectancies. Approximately I week later. they completed an act libitum drinking study during which only a single expectancy domain (sociability) was primed in the experimental condition. Consistent with predictions, following exposure to sociability primes but not control primes, individuals with stronger expectancies that alcohol would enhance sociability uniquely showed increased placebo consumption of nonalcoholic beer. These results, which demonstrate the moderating role of compatibility between the specific content of primes and that of underlying expectancies, offer new, direct support for memory network-based models of drinking behavior.
+C1 [Friedman, Ronald S.] SUNY Albany, Dept Psychol, Albany, NY 12222 USA.
+   [McCarthy, Denis M.; Pedersen, Sarah L.; Hicks, Joshua A.] Univ Missouri, Dept Psychol Sci, Columbia, MO 65211 USA.
+RP Friedman, RS (corresponding author), SUNY Albany, Dept Psychol, 1400 Washington Ave, Albany, NY 12222 USA.
+EM rfriedman@albany.edu
+RI Hicks, Joshua/B-1516-2010; Hicks, Joshua/N-9790-2019
+FU NIAAA NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute on Alcohol Abuse
+   & Alcoholism (NIAAA) [T32 AA013526, T32 AA13526, K05 AA017242, K05
+   AA017242-01]
+NR 30
+TC 14
+Z9 14
+U1 0
+U2 3
+PU EDUCATIONAL PUBLISHING FOUNDATION
+PI WASHINGTON
+PA 750 FIRST ST, NE, WASHINGTON, DC 20002-4242 USA
+SN 0893-164X
+J9 PSYCHOL ADDICT BEHAV
+JI Psychol. Addict. Behav.
+PD JUN
+PY 2009
+VL 23
+IS 2
+BP 329
+EP 333
+DI 10.1037/a0015704
+PG 5
+WC Substance Abuse; Psychology, Multidisciplinary
+SC Substance Abuse; Psychology
+GA 458RZ
+UT WOS:000267042500015
+PM 19586149
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Smeesters, D
+   Wheeler, SC
+   Kay, AC
+AF Smeesters, Dirk
+   Wheeler, S. Christian
+   Kay, Aaron C.
+TI The Role of Interpersonal Perceptions in the Prime-to-Behavior Pathway
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE priming; interpersonal behavior; other-focus; biased perception
+ID STEREOTYPE ACTIVATION; CATEGORY ACCESSIBILITY; IMPRESSION-FORMATION;
+   INTERDEPENDENT SELF; OUTCOME DEPENDENCY; SOCIAL-PERCEPTION; PURSUIT;
+   CONSTRUCT; DILEMMA; COMPLEMENTARITY
+AB The present research suggests that biased interpersonal perceptions can mediate prime-to-behavior effects and introduces a new moderator for when such mediation will occur. Across 5 experiments, the authors provide evidence that priming effects on behavior in interpersonal contexts are mediated by social perceptions, but only when participants are focused on the other person. These effects occur when other-focus is primed (Experiment 1), when other-focus is high owing to the decision-making situation (Experiment 2), and when other-focus is dispositionally high (Experiment 3). Experiments 4 and 5 bring additional support for a biased perception account by ruling out an alternative behavior-perception link and showing that other-focus can moderate not only the mediating mechanism of prime-to-behavior effects but also the behavioral effects themselves. The implications of these results for increasing understanding of behavioral priming effects in rich social contexts are discussed.
+C1 [Smeesters, Dirk] Erasmus Univ, Rotterdam Sch Management, Dept Mkt Management, NL-3000 DR Rotterdam, Netherlands.
+   [Wheeler, S. Christian] Stanford Univ, Grad Sch Business, Dept Mkt, Stanford, CA 94305 USA.
+   [Kay, Aaron C.] Univ Waterloo, Dept Psychol, Waterloo, ON N2L 3G1, Canada.
+RP Smeesters, D (corresponding author), Erasmus Univ, Rotterdam Sch Management, Dept Mkt Management, POB 1738, NL-3000 DR Rotterdam, Netherlands.
+EM dsmeesters@rsm.nl
+NR 82
+TC 25
+Z9 25
+U1 1
+U2 13
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+EI 1939-1315
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD FEB
+PY 2009
+VL 96
+IS 2
+BP 395
+EP 414
+DI 10.1037/a0012959
+PG 20
+WC Psychology, Social
+SC Psychology
+GA 395XF
+UT WOS:000262556100009
+PM 19159139
+DA 2020-08-05
+ER
+
+PT J
+AU Hassin, RR
+   Bargh, JA
+   Zimerman, S
+AF Hassin, Ran R.
+   Bargh, John A.
+   Zimerman, Shira
+TI AUTOMATIC AND FLEXIBLE: THE CASE OF NONCONSCIOUS GOAL PURSUIT
+SO SOCIAL COGNITION
+LA English
+DT Article
+ID CARD SORTING TEST; BRAIN-DAMAGE; SELF-CONTROL; ACTIVATION; IMPLICIT;
+   BEHAVIOR; TASK
+AB Arguing from the nature of goal pursuit and from the economy of mental resources this article suggests that automatic goal pursuit, much like its controlled counterpart, may be flexible. Two studies that employ goal priming procedures examine this hypothesis using the Wisconsin Card Sorting Test (Study 1) and a variation of the Iowa Gambling Task (Study 2). Implications of the results for our understanding of the dichotomy between automatic and controlled processes in general, and for our conception of automatic goal pursuit in particular, are discussed.
+C1 [Hassin, Ran R.] Hebrew Univ Jerusalem, Dept Psychol, IL-91905 Jerusalem, Israel.
+   [Bargh, John A.] Yale Univ, New Haven, CT 06520 USA.
+RP Hassin, RR (corresponding author), Hebrew Univ Jerusalem, Dept Psychol, IL-91905 Jerusalem, Israel.
+EM ran.hassin@huji.ac.il
+RI Cohen-Zimerman, Shira/X-8330-2019
+OI Cohen-Zimerman, Shira/0000-0001-6098-2550
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [R01 MH060767-08]
+NR 54
+TC 61
+Z9 68
+U1 1
+U2 12
+PU GUILFORD PUBLICATIONS INC
+PI NEW YORK
+PA 72 SPRING STREET, NEW YORK, NY 10012 USA
+SN 0278-016X
+J9 SOC COGNITION
+JI Soc. Cogn.
+PD FEB
+PY 2009
+VL 27
+IS 1
+BP 20
+EP 36
+DI 10.1521/soco.2009.27.1.20
+PG 17
+WC Psychology, Social
+SC Psychology
+GA 411JC
+UT WOS:000263644700002
+PM 19325712
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Engeser, S
+AF Engeser, Stefan
+TI Nonconscious Activation of Achievement Goals Moderated by Word Class and
+   the Explicit Achievement Motive?
+SO SWISS JOURNAL OF PSYCHOLOGY
+LA English
+DT Article
+DE achievement; priming; nonconscious activation; goals; explicit; motive;
+   nouns; verbs
+ID STEREOTYPE ACTIVATION; IMPLICIT MOTIVES; BEHAVIORAL GOALS; PURSUIT
+AB In a series of experiments, Bargh, Gollwitzer, Lee-Chai, Barndollar, and Trotschel (2001) documented that achievement goals can be activated outside of awareness and can then operate nonconsciously in order to guide self-regulated behavior effectively. In three experiments (N = 69, N = 71, N = 56), two potential moderators of the achievement goal priming effect were explored. All three experiments showed small but consistent effects of the nonconscious activation of the achievement goal, though word class did not moderate the priming effect. There was no support for the hypothesis that the explicit achievement motive moderates the priming effect. Implications are addressed in the light of other recent studies in this domain and further research questions are outlined.
+C1 Tech Univ Munich, Lehrstuhl Psychol, DE-80336 Munich, Germany.
+RP Engeser, S (corresponding author), Tech Univ Munich, Lehrstuhl Psychol, Lothstr 17, DE-80336 Munich, Germany.
+EM engeser@wi.tum.de
+NR 33
+TC 8
+Z9 9
+U1 0
+U2 5
+PU VERLAG HANS HUBER
+PI BERN 9
+PA LANGGASS-STRASSE 76, CH-3000 BERN 9, SWITZERLAND
+SN 1421-0185
+J9 SWISS J PSYCHOL
+JI Swiss J. Psychol.
+PY 2009
+VL 68
+IS 4
+BP 193
+EP 200
+DI 10.1024/1421-0185.68.4.193
+PG 8
+WC Psychology, Multidisciplinary
+SC Psychology
+GA 527WA
+UT WOS:000272399100003
+DA 2020-08-05
+ER
+
+PT J
+AU Zogmaister, C
+   Arcuri, L
+   Castelli, L
+   Smith, ER
+AF Zogmaister, Cristina
+   Arcuri, Luciano
+   Castelli, Luigi
+   Smith, Eliot R.
+TI The impact of loyalty and equality on implicit ingroup favoritism
+SO GROUP PROCESSES & INTERGROUP RELATIONS
+LA English
+DT Article
+DE equality; implicit ingroup favoritism; intergroup behavior; loyalty;
+   prejudice malleability
+ID AUTOMATIC STEREOTYPE ACTIVATION; SOCIAL STEREOTYPES; BEHAVIORAL GOALS;
+   ASSOCIATION TEST; RACIAL BIAS; SAY NO; PREJUDICE; ATTITUDES; IDENTITY;
+   COGNITION
+AB Extending recent investigations into the malleability of implicit ingroup favoritism, three experiments examined the role of indirect activation of equality and loyalty. Results showed that priming equality decreased implicit favoritism, measured through the Implicit Association Test and Go/No-Go Association Task, whereas priming loyalty enhanced it; spontaneous behavior (seating distance) was similarly influenced. A boundary condition was observed, namely change of intergroup setting: the effects of priming equality and loyalty ceased when these were primed after an irrelevant ingroup identity was made salient. In general, implicit favoritism can be reduced or increased after the activation of equality and loyalty respectively, and this underlines the importance of tackling discrimination by both lessening its expression, and removing factors that exacerbate it.
+C1 [Arcuri, Luciano; Castelli, Luigi] Univ Padua, I-35100 Padua, Italy.
+   [Smith, Eliot R.] Indiana Univ, Bloomington, IN USA.
+RP Zogmaister, C (corresponding author), Univ Milano Bicocca, Dept Psychol, Piazza Ateneo Nuovo 1, I-20126 Milan, Italy.
+EM cristina.zogmaister@unimib.it
+RI Castelli, Luigi/B-7671-2008; Smith, Eliot R./J-7818-2019
+OI Castelli, Luigi/0000-0002-1472-4507; Zogmaister,
+   Cristina/0000-0002-1540-7503
+NR 81
+TC 15
+Z9 15
+U1 1
+U2 16
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1368-4302
+J9 GROUP PROCESS INTERG
+JI Group Process Intergroup Relat.
+PD OCT
+PY 2008
+VL 11
+IS 4
+BP 493
+EP 512
+DI 10.1177/1368430208095402
+PG 20
+WC Psychology, Social
+SC Psychology
+GA 351QT
+UT WOS:000259440100006
+OA Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Albarracin, D
+   Handley, IM
+   Noguchi, K
+   McCulloch, KC
+   Li, H
+   Leeper, J
+   Brown, RD
+   Earl, A
+   Hart, WP
+AF Albarracin, Dolores
+   Handley, Ian M.
+   Noguchi, Kenji
+   McCulloch, Kathleen C.
+   Li, Hong
+   Leeper, Joshua
+   Brown, Rick D.
+   Earl, Allison
+   Hart, William P.
+TI Increasing and decreasing motor and cognitive output: A model of general
+   action and inaction goals
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE action goals; self-regulation; behavior
+ID ACTIVATION; PERCEPTION; PURSUIT; RATES
+AB General action and inaction goals can influence the amount of motor or cognitive output irrespective of the type of behavior in question, with the same stimuli producing trivial and important motor and cognitive manifestations normally viewed as parts of different systems. A series of experiments examined the effects of instilling general action and inaction goals using word primes, such as "action" and "rest." The first 5 experiments showed that the same stimuli influenced motor output, such as doodling on a piece of paper and eating, as well as cognitive output, such as recall and problem solving. The last 2 experiments supported the prediction that these diverse effects can result from the instigation of general action and inaction goals. Specifically, these last 2 studies confirmed that participants were motivated to achieve active or inactive states and that attaining them decreased the effects of the primes on behavior.
+C1 [Albarracin, Dolores; McCulloch, Kathleen C.; Earl, Allison] Univ Illinois, Dept Psychol, Champaign, IL 61820 USA.
+   [Handley, Ian M.] Montana State Univ, Dept Psychol, Bozeman, MT 59717 USA.
+   [Noguchi, Kenji; Li, Hong; Leeper, Joshua; Brown, Rick D.; Hart, William P.] Univ Florida, Dept Psychol, Gainesville, FL 32611 USA.
+RP Albarracin, D (corresponding author), Univ Illinois, Dept Psychol, 603 E Daniel St, Champaign, IL 61820 USA.
+EM dalbarra@uiuc.edu
+OI McCulloch, Kathleen/0000-0002-0795-8065
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [K01-MH01861, K02 MH075616]; NINR NIH HHSUnited States Department
+   of Health & Human ServicesNational Institutes of Health (NIH) - USANIH
+   National Institute of Nursing Research (NINR) [R01-NR08325, R01
+   NR008325]
+NR 56
+TC 53
+Z9 53
+U1 1
+U2 17
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+EI 1939-1315
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD SEP
+PY 2008
+VL 95
+IS 3
+BP 510
+EP 523
+DI 10.1037/a0012833
+PG 14
+WC Psychology, Social
+SC Psychology
+GA 337TR
+UT WOS:000258458900002
+PM 18729691
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Chartrand, TL
+   Huber, J
+   Shiv, B
+   Tanner, RJ
+AF Chartrand, Tanya L.
+   Huber, Joel
+   Shiv, Baba
+   Tanner, Robin J.
+TI Nonconscious goals and consumer choice
+SO JOURNAL OF CONSUMER RESEARCH
+LA English
+DT Article
+ID AUTOMATIC ACTIVATION; BEHAVIOR; ACCESSIBILITY; STEREOTYPES; INFORMATION;
+   CONSUMPTION; PROGRESS; PURSUIT; IMPACT
+AB This work examines the process through which thrift versus prestige goals can nonconsciously affect decisions in a choice task. Drawing upon research on nonconscious goal pursuit, we present a theoretical framework detailing how consumer choices are affected by incidentally activated goals. We show that such primed goals have motivational properties consistent with goal pursuit but inconsistent with mere cognitive activation; the effects are greater with a longer time interval between the priming task and the choice and are less pronounced when the primed goal is satiated in a real, as opposed to a hypothetical, intervening choice task. Additionally, we show that subliminally evoked retail brand names can serve as the cues that activate purchasing goals.
+C1 [Chartrand, Tanya L.; Huber, Joel; Tanner, Robin J.] Duke Univ, Fuqua Sch Business, Durham, NC 27708 USA.
+   [Shiv, Baba] Stanford Grad Sch Business, Stanford, CA 94305 USA.
+RP Chartrand, TL (corresponding author), Duke Univ, Fuqua Sch Business, Durham, NC 27708 USA.
+EM tlc10@duke.edu; joel.huber@duke.edu; shiv_baba@gsb.stanford.edu;
+   Rob.Tanner@duke.edu
+NR 51
+TC 160
+Z9 166
+U1 0
+U2 68
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0093-5301
+EI 1537-5277
+J9 J CONSUM RES
+JI J. Consum. Res.
+PD AUG
+PY 2008
+VL 35
+IS 2
+BP 189
+EP 201
+DI 10.1086/588685
+PG 13
+WC Business
+SC Business & Economics
+GA 324NI
+UT WOS:000257524900001
+DA 2020-08-05
+ER
+
+PT J
+AU Jefferis, VE
+   Fazio, RH
+AF Jefferis, Valerie E.
+   Fazio, Russell H.
+TI Accessibility as input: The use of construct accessibility as
+   information to guide behavior
+SO JOURNAL OF EXPERIMENTAL SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE priming; accessibility
+ID SOCIAL-BEHAVIOR; CATEGORY ACCESSIBILITY; MOOD; CUES
+AB Priming typically increases behavioral enactments of primed constructs. The current work explored a novel mechanism for the behavioral effects of priming, termed the "accessibility as input" account. In two experiments, participants were nonconsciously primed and then completed anagrams until they judged themselves to have reached a particular state. Two different states, or stop rules, were specified, and were matched to the primed constructs such that the combination either implied that the state had been met (e.g., "slow" prime and "tired" stop rule) or had not been met (e.g., "fast" prime and "tired" stop rule). The priming and stop rule manipulations interacted to determine persistence on the anagram task. The results demonstrate that the heightened accessibility resulting from priming can be used as information about one's current state in relation to situational requirements and, hence, can produce varying, contextuallydependent behavior. (c) 2008 Elsevier Inc. All rights reserved.
+C1 [Jefferis, Valerie E.; Fazio, Russell H.] Ohio State Univ, Dept Psychol, Columbus, OH 43210 USA.
+RP Fazio, RH (corresponding author), Ohio State Univ, Dept Psychol, 1835 Neil Ave, Columbus, OH 43210 USA.
+EM fazio.11@osu.edu
+RI Fazio, Russell H/A-3109-2008
+OI Fazio, Russell/0000-0002-0754-8234
+NR 20
+TC 10
+Z9 10
+U1 0
+U2 2
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0022-1031
+J9 J EXP SOC PSYCHOL
+JI J. Exp. Soc. Psychol.
+PD JUL
+PY 2008
+VL 44
+IS 4
+BP 1144
+EP 1150
+DI 10.1016/j.jesp.2008.02.002
+PG 7
+WC Psychology, Social
+SC Psychology
+GA 321YO
+UT WOS:000257342600023
+DA 2020-08-05
+ER
+
+PT J
+AU Mc Culloch, KC
+   Ferguson, MJ
+   Kawada, CCK
+   Bargh, JA
+AF Mc Culloch, Kathleen C.
+   Ferguson, Melissa J.
+   Kawada, Christie C. K.
+   Bargh, John A.
+TI Taking a closer look: On the operation of nonconscious impression
+   formation
+SO JOURNAL OF EXPERIMENTAL SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE nonconscious goal-pursuit; automaticity; impression formation; person
+   perception; spontaneous trait inference
+ID PERSON MEMORY; GOALS; PURSUIT; IDENTIFICATION; ACCESSIBILITY;
+   INFORMATION; PSYCHOLOGY; ACTIVATION; THINKING; WILL
+AB In this article, we analyzed the information processing that underlies nonconscious impression formation. In the first experiment, the nonconscious activation of the impression formation goal led to a faster analysis of the trait implications of behaviors, compared with a control group. In Experiment 2, participants who were nonconsciously primed with an impression formation goal were more likely than those in a control condition to form associations in memory between behaviors and implied traits. In Experiment 3, nonconsciously primed participants were more sensitive than those in a control condition to whether inconsistent trait information was relevant or irrelevant to the actor's disposition. Moreover, in Experiments 2 and 3, those with a nonconscious goal showed just as much evidence of impression formation as those who were consciously and intentionally trying to form an impression. Implications for nonconscious goal-pursuit and impression formation are discussed. (C) 2007 Elsevier Inc. All rights reserved.
+C1 [Mc Culloch, Kathleen C.] Univ Florida, Dept Psychol, Gainesville, FL 32611 USA.
+   [Ferguson, Melissa J.] Cornell Univ, Dept Psychol, Ithaca, NY 14853 USA.
+   [Kawada, Christie C. K.] NYU, Dept Psychol, New York, NY 10003 USA.
+   [Bargh, John A.] Yale Univ, Dept Psychol, New Haven, CT 06520 USA.
+RP Mc Culloch, KC (corresponding author), Univ Florida, Dept Psychol, POB 112250, Gainesville, FL 32611 USA.
+EM kcmc@ufl.edu
+OI McCulloch, Kathleen/0000-0002-0795-8065
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [R01 MH060767-08]
+NR 59
+TC 39
+Z9 40
+U1 0
+U2 11
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0022-1031
+EI 1096-0465
+J9 J EXP SOC PSYCHOL
+JI J. Exp. Soc. Psychol.
+PD MAY
+PY 2008
+VL 44
+IS 3
+BP 614
+EP 623
+DI 10.1016/j.jesp.2007.02.001
+PG 10
+WC Psychology, Social
+SC Psychology
+GA 298ZJ
+UT WOS:000255725300012
+PM 18552986
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Eitam, B
+   Hassin, RR
+   Schul, Y
+AF Eitam, Baruch
+   Hassin, Ran R.
+   Schul, Yaacov
+TI Nonconscious goal pursuit in novel environments - The case of implicit
+   learning
+SO PSYCHOLOGICAL SCIENCE
+LA English
+DT Article
+ID TASK-PERFORMANCE; ACTIVATION; ATTENTION; EXPLICIT; SYSTEMS
+AB Is nonconscious goal pursuit useful in novel environments? The prevalent view of automaticity and control implies that an unconscious mode of goal pursuit can only reproduce formerly learned actions, and therefore that its usefulness in novel environments is very limited. Our results demonstrate that this conclusion is not always warranted, as nonconscious goal pursuit facilitated participants' learning of the structure of completely novel environments. Specifically, two experiments, using markedly different implicit-learning paradigms, demonstrated facilitation of implicit learning when the goal of achievement was primed. We propose that nonconscious goal pursuit can facilitate not only reproductive operations, but also productive ones, and that implicit learning is sensitive to the organism's nonconscious goals.
+C1 [Eitam, Baruch; Hassin, Ran R.; Schul, Yaacov] Hebrew Univ Jerusalem, Dept Psychol, IL-91905 Jerusalem, Israel.
+RP Eitam, B (corresponding author), Hebrew Univ Jerusalem, Dept Psychol, Mt Scopus Campus, IL-91905 Jerusalem, Israel.
+EM beitam@mscc.huji.ac.il; ran.hassin@huji.ac.il; yschul@huji.ac.il
+RI Eitam, Baruch/E-2815-2013
+OI Eitam, Baruch/0000-0002-2202-3073; schul, yaacov/0000-0002-3301-8835
+NR 40
+TC 44
+Z9 45
+U1 1
+U2 22
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0956-7976
+J9 PSYCHOL SCI
+JI Psychol. Sci.
+PD MAR
+PY 2008
+VL 19
+IS 3
+BP 261
+EP 267
+DI 10.1111/j.1467-9280.2008.02078.x
+PG 7
+WC Psychology, Multidisciplinary
+SC Psychology
+GA 270HM
+UT WOS:000253711900011
+PM 18315799
+DA 2020-08-05
+ER
+
+PT J
+AU Takarangi, MKT
+   Polaschek, DLL
+   Hignett, A
+   Garry, M
+AF Takarangi, Melanie K. T.
+   Polaschek, Devon L. L.
+   Hignett, Andrew
+   Garry, Maryanne
+TI Chronic and temporary aggression causes hostile false memories for
+   ambiguous information
+SO APPLIED COGNITIVE PSYCHOLOGY
+LA English
+DT Article
+ID SOCIAL COGNITION; ANGER; RECALL; MODEL; ACCESSIBILITY; EXPECTATIONS;
+   BEHAVIOR; MEDIA
+AB Chronic and temporarily aggressive people show a phenomenon known as the hostile attribution bias (HAB), in which access to hostile schemas leads them to interpret ambiguously hostile information in a hostile way. Can these people also be induced to remember unambiguously hostile, yet completely false information? To address this question, we investigated the effect of both chronic and temporary aggression on recall for a list containing words that could be interpreted as exemplars of either an aggressive (violence-related) or non-aggressive (kitchen-related) category. Subjects were exposed to five consecutive lists of associated words including the ambiguous list, but half read a list of insult words immediately before presentation of the ambiguous list, while the other half read only emotionally neutral lists. When recalling the ambiguous list, aggressive subjects and subjects who were primed with insult words were more likely to report having seen unpresented aggressive words compared with their low aggressive and not primed counterparts. We discuss our findings in line with Anderson and Bushman's (2002) General Aggression Model (GAM). Copyright (c) 2007 John Wiley & Sons, Ltd.
+C1 [Takarangi, Melanie K. T.; Polaschek, Devon L. L.; Hignett, Andrew; Garry, Maryanne] Victoria Univ Wellington, Wellington, New Zealand.
+RP Garry, M (corresponding author), Victoria Univ Wellington, POB 600, Wellington, New Zealand.
+EM maryanne.garry@vuw.ac.nz
+RI ; Polaschek, Devon/B-8694-2015
+OI Takarangi, Melanie/0000-0002-6006-8045; Polaschek,
+   Devon/0000-0003-4827-0555
+NR 26
+TC 7
+Z9 9
+U1 0
+U2 16
+PU JOHN WILEY & SONS LTD
+PI CHICHESTER
+PA THE ATRIUM, SOUTHERN GATE, CHICHESTER PO19 8SQ, W SUSSEX, ENGLAND
+SN 0888-4080
+J9 APPL COGNITIVE PSYCH
+JI Appl. Cogn. Psychol.
+PD JAN
+PY 2008
+VL 22
+IS 1
+BP 39
+EP 49
+DI 10.1002/acp.1327
+PG 11
+WC Psychology, Experimental
+SC Psychology
+GA 252NG
+UT WOS:000252452600003
+DA 2020-08-05
+ER
+
+PT J
+AU Maner, JK
+   Gailliot, MT
+   Rouby, DA
+   Miller, SL
+AF Maner, Jon K.
+   Gailliot, Matthew T.
+   Rouby, D. Aaron
+   Miller, Saul L.
+TI Can't take my eyes off you: Attentional adhesion to mates and rivals
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE attraction; emotion; motivation; evolutionary psychology; social
+   cognition
+ID DYNAMICAL EVOLUTIONARY PSYCHOLOGY; PHYSICAL ATTRACTIVENESS; SELF-ESTEEM;
+   INDIVIDUAL-DIFFERENCES; CLOSE RELATIONSHIPS; SEXUAL STRATEGIES;
+   TRADE-OFFS; GOALS; PERSPECTIVE; PERCEPTION
+AB In 3 experiments, mating primes interacted with functionally relevant individual differences to guide basic, lower order social perception. A visual cuing method assessed biases in attentional adhesion-a tendency to have one's attention captured by particular social stimuli. Mate-search primes increased attentional adhesion to physically attractive members of the opposite sex (potential mates) among participants with an unrestricted sociosexual orientation but not among sexually restricted participants (Studies I and 2). A mate-guarding prime increased attentional adhesion to physically attractive members of one's own sex (potential rivals) among participants who were concerned with threats posed by intrasexual competitors but not among those less concerned about such threats (Study 3). Findings are consistent with a functionalist approach to motivation and social cognition and highlight the utility of integrating evolutionary and social cognitive perspectives.
+C1 Florida State Univ, Dept Psychol, Tallahassee, FL 32306 USA.
+RP Maner, JK (corresponding author), Florida State Univ, Dept Psychol, Tallahassee, FL 32306 USA.
+EM maner@psy.fsu.edu
+RI Wang, Anna/F-6418-2014
+NR 76
+TC 175
+Z9 180
+U1 1
+U2 67
+PU AMER PSYCHOLOGICAL ASSOC/EDUCATIONAL PUBLISHING FOUNDATION
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD SEP
+PY 2007
+VL 93
+IS 3
+BP 389
+EP 401
+DI 10.1037/0022-3514.93.3.389
+PG 13
+WC Psychology, Social
+SC Psychology
+GA 203RQ
+UT WOS:000248992100005
+PM 17723055
+DA 2020-08-05
+ER
+
+PT J
+AU Lowery, BS
+   Eisenberger, NI
+   Hardin, CD
+   Sinclair, S
+AF Lowery, Brian S.
+   Eisenberger, Naomi I.
+   Hardin, Curtis D.
+   Sinclair, Stacey
+TI Long-term effects of subliminal priming on academic performance
+SO BASIC AND APPLIED SOCIAL PSYCHOLOGY
+LA English
+DT Article
+ID CATEGORY ACCESSIBILITY; STEREOTYPE ACTIVATION; BEHAVIOR; AUTOMATICITY;
+   MEMORY; INFORMATION; PERCEPTION; PURSUIT; GAME
+AB This research examines the temporal range of subliminal priming effects on complex behavior. In Experiments 1 and 2, participants were subliminally primed with words either related or unrelated to intelligence before completing a practice exam, administered 1 to 4 days before an actual course midterm. Results revealed that the intelligence primes increased performance on the midterm compared to neutral primes. Experiment 1 demonstrated that being told that the priming task was designed to help exam performance moderated the effect of the intelligence primes. In Experiment 2, practice test performance mediated the effect of the primes on midterm performance. These experiments demonstrated that subliminal priming may have long-term effects on real-world behavior, and demonstrates one means by which long-term priming effects may occur.
+C1 Stanford Univ, Stanford, CA 94305 USA.
+   Univ Calif Los Angeles, Los Angeles, CA USA.
+   CUNY Brooklyn Coll, Brooklyn, NY 11210 USA.
+   Univ Virginia, Charlottesville, VA 22903 USA.
+RP Lowery, BS (corresponding author), 518 Mem Way, Stanford, CA 94305 USA.
+EM blowery@stanford.edu
+NR 25
+TC 24
+Z9 24
+U1 1
+U2 42
+PU LAWRENCE ERLBAUM ASSOC INC-TAYLOR & FRANCIS
+PI PHILADELPHIA
+PA 325 CHESTNUT STREET, STE 800, PHILADELPHIA, PA 19106 USA
+SN 0197-3533
+J9 BASIC APPL SOC PSYCH
+JI Basic Appl Soc. Psychol.
+PD JUN
+PY 2007
+VL 29
+IS 2
+BP 151
+EP 157
+DI 10.1080/01973530701331718
+PG 7
+WC Psychology, Social
+SC Psychology
+GA 178ZJ
+UT WOS:000247258700006
+OA Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Aarts, H
+   Custers, R
+   Holland, RW
+AF Aarts, Henk
+   Custers, Ruud
+   Holland, Rob W.
+TI The nonconscious cessation of goal pursuit: When goals and negative
+   affect are coactivated
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Review
+DE goals; priming; nonconscious; negative affect; motivation
+ID ATTENTION-GRABBING POWER; AUTOMATIC ACTIVATION; MESOLIMBIC DOPAMINE;
+   SOCIAL-PERCEPTION; REWARD; BEHAVIOR; MEMORY; CONSEQUENCES; MOTIVATION;
+   VIGILANCE
+AB Extending on the recent investigation into the implicit affective processes underlying motivation and decision making, 5 studies examined the role of negative affect in moderating goal priming effects. Specifically, experimental effects on measures that typify motivational qualities of goal systems, such as keeping a goal at a heightened level of mental accessibility and exerting effort to work for a goal and experiencing desire to attain the goal, showed that the motivation and resultant operation of social goals cease when these goals are primed in temporal proximity of negatively valenced information. These goal cessation effects resulting from the mere coactivation of a goal and negative affect are discussed against the background of present research on nonconscious goal pursuit and the role of accessibility and desirability in the regulation of automatic goal-directed behavior.
+C1 Univ Utrecht, Dept Social & Org Psychol, NL-3508 TC Utrecht, Netherlands.
+   Radboud Univ Nijmegen, Dept Psychol, Nijmegen, Netherlands.
+RP Aarts, H (corresponding author), Univ Utrecht, Dept Social & Org Psychol, POB 80140, NL-3508 TC Utrecht, Netherlands.
+EM h.aarts@fss.uu.nl
+RI Holland, Rob/E-7885-2012; Custers, Ruud/G-4851-2013
+OI Custers, Ruud/0000-0002-4431-738X
+NR 105
+TC 119
+Z9 124
+U1 2
+U2 37
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+EI 1939-1315
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD FEB
+PY 2007
+VL 92
+IS 2
+BP 165
+EP 178
+DI 10.1037/0022-3514.92.2.165
+PG 14
+WC Psychology, Social
+SC Psychology
+GA 129CF
+UT WOS:000243705300001
+PM 17279843
+DA 2020-08-05
+ER
+
+PT J
+AU Sambolec, EJ
+   Kerr, NL
+   Messe, LA
+AF Sambolec, Eric J.
+   Kerr, Norbert L.
+   Messe, Lawrence A.
+TI The role of competitiveness at social tasks: Can indirect cues enhance
+   performance?
+SO JOURNAL OF APPLIED SPORT PSYCHOLOGY
+LA English
+DT Article
+ID MOTIVATION GAINS; SPORTS
+AB Recent research has shown that competitiveness is related to performance. However, gaps remain in the literature on the effects of competitiveness on task performance across different performance settings. A review of relevant literature from sport, social, and personality psychology suggested that performance in several contexts - individual, coactive, and conjunctive task demands - would be affected both by trait interpersonal competitiveness and by competitiveness manipulated through subliminal priming. Both factors ( task demands and competitiveness) were manipulated in a 2 x 3 experimental design and individual task effort was assessed. Results from the current investigation showed that such priming influenced effort at a coactive persistence task. Results also partially replicated past research on group motivation gains (Hertel, Kerr, & Messe, 1999; Kohler, 1926, 1927). Implications for group and individual performance in social, athletic, and work domains are discussed.
+C1 Tompkins Cortland Community Coll, Dryden, NY 13053 USA.
+RP Sambolec, EJ (corresponding author), Tompkins Cortland Community Coll, 170 North St,POB 139, Dryden, NY 13053 USA.
+EM sambolec@msu.edu
+NR 27
+TC 10
+Z9 10
+U1 0
+U2 10
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1041-3200
+EI 1533-1571
+J9 J APPL SPORT PSYCHOL
+JI J. Appl. Sport Psychol.
+PY 2007
+VL 19
+IS 2
+BP 160
+EP 172
+DI 10.1080/10413200601185164
+PG 13
+WC Hospitality, Leisure, Sport & Tourism; Psychology, Applied; Psychology;
+   Sport Sciences
+SC Social Sciences - Other Topics; Psychology; Sport Sciences
+GA 177RP
+UT WOS:000247170500003
+DA 2020-08-05
+ER
+
+PT J
+AU Hodgins, HS
+   Yacko, HA
+   Gottlieb, E
+AF Hodgins, Holley S.
+   Yacko, Holly A.
+   Gottlieb, Ethan
+TI Autonomy and nondefensiveness
+SO MOTIVATION AND EMOTION
+LA English
+DT Article
+DE motivation; autonomy; defense; defensiveness; bias; athletic performance
+ID SELF-DETERMINATION THEORY; CAUSALITY ORIENTATIONS; ROMANTIC
+   RELATIONSHIPS; INTRINSIC MOTIVATION; POSITIVE ILLUSIONS; MENTAL-HEALTH;
+   MODEL; CONSEQUENCES; FACILITATION; PERSONALITY
+AB Three experimental studies tested whether a priming procedure intended to activate an autonomy orientation would lead to nondefensiveness and enhanced performance, whether activated control orientation would lead to higher defense and impaired performance, and whether activated impersonal orientation would lead to the greatest defense and worst performance. Study 1 showed that autonomy-primed participants report lower desire for escape compared to control-primed, and that impersonally-primed showed most desire to escape. In Study 2, autonomy-primed participants showed the least self-serving bias, control-primed were in the middle, and impersonally-primed participants showed the most. In Study 3, rowers autonomy-primed showed the least self-handicapping and best performance, control-primed showed moderate levels, and impersonally-primed showed the most self-handicapping and worst performance. Results are discussed in terms of motivation orientation, defensiveness, and performance.
+C1 Skidmore Coll, Dept Psychol, Saratoga Springs, NY 12866 USA.
+RP Hodgins, HS (corresponding author), Skidmore Coll, Dept Psychol, Saratoga Springs, NY 12866 USA.
+EM hhodgins@skidmore.edu
+NR 52
+TC 69
+Z9 69
+U1 1
+U2 17
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0146-7239
+J9 MOTIV EMOTION
+JI Motiv. Emot.
+PD DEC
+PY 2006
+VL 30
+IS 4
+BP 283
+EP 293
+DI 10.1007/s11031-006-9036-7
+PG 11
+WC Psychology, Experimental; Psychology, Social
+SC Psychology
+GA 116VC
+UT WOS:000242830600004
+DA 2020-08-05
+ER
+
+PT J
+AU Stajkovic, AD
+   Locke, EA
+   Blair, ES
+AF Stajkovic, Alexander D.
+   Locke, Edwin A.
+   Blair, Eden S.
+TI A first examination of the relationships between primed subconscious
+   goals, assigned conscious goals, and task performance
+SO JOURNAL OF APPLIED PSYCHOLOGY
+LA English
+DT Article
+DE subconscious; priming; goals
+ID AUTOMATIC ACTIVATION; SOCIAL-BEHAVIOR; VENTURE GROWTH; MOTIVATION;
+   ORIENTATION; PURSUIT
+AB The authors conducted 2 studies of subconscious goal motivation. First, the authors ran a pilot study to establish the effects of priming of subconscious goals on a performance task frequently used in goal setting research. Second, the authors conducted the main study in which the authors examined the effects of both priming of subconscious goals and assigned conscious goals on the same performance task. The authors found significant main effects of both manipulations and a significant interaction between subconscious and conscious goals. The effects of conscious difficult and do-best goals were enhanced by subconscious goals, although conscious easy goals were not affected. All effects from the main study still held after I day.
+C1 Univ Wisconsin, Dept Management & Human Resources, Madison, WI 53706 USA.
+   Univ Maryland, Dept Management & Org, College Pk, MD 20742 USA.
+RP Stajkovic, AD (corresponding author), Univ Wisconsin, Dept Management & Human Resources, Madison, WI 53706 USA.
+EM astajkovic@bus.wisc.edu
+NR 37
+TC 75
+Z9 78
+U1 0
+U2 59
+PU AMER PSYCHOLOGICAL ASSOC/EDUCATIONAL PUBLISHING FOUNDATION
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0021-9010
+J9 J APPL PSYCHOL
+JI J. Appl. Psychol.
+PD SEP
+PY 2006
+VL 91
+IS 5
+BP 1172
+EP 1180
+DI 10.1037/0021-9010.91.5.1172
+PG 9
+WC Psychology, Applied; Management
+SC Psychology; Business & Economics
+GA 086AY
+UT WOS:000240646700016
+PM 16953778
+DA 2020-08-05
+ER
+
+PT J
+AU Oettingen, G
+   Grant, H
+   Smith, PK
+   Skinner, M
+   Gollwitzer, PM
+AF Oettingen, Gabriele
+   Grant, Heidi
+   Smith, Pamela K.
+   Skinner, Mary
+   Gollwitzer, Peter M.
+TI Nonconscious goal pursuit: Acting in an explanatory vacuum
+SO JOURNAL OF EXPERIMENTAL SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE automatic goal pursuit; conscious goal pursuit; norm-violating behavior;
+   explanatory vacuum; affective experience
+ID FREE-RIDER PROBLEM; FACTORIAL SURVEY; PUBLIC-GOODS; GUILT; ACTIVATION;
+   PROVISION; BEHAVIOR; PEOPLE; NORMS; TASK
+AB Nonconsciously activated goals and consciously set goals produce the same outcomes by engaging similar psychological processes (Bargh, 1990; Gollwitzer & Bargh, 2005). However, nonconscious and conscious goal pursuit may have different effects on subsequent affect if goal pursuit affords an explanation, as nonconscious goal pursuit occurs in an explanatory vacuum (i.e. cannot be readily attributed to the respective goal intention). We compared self-reported affect after nonconscious versus conscious goal pursuit that either violated or conformed to a prevailing social norm. When goal-directed behavior did not require an explanation (was norm-conforming), affective experiences did not differ after nonconscious and conscious goal pursuit. However, when goal-directed behavior required an explanation (was norm-violating), nonconscious goal pursuit induced more negative affect than conscious goal pursuit. (c) 2005 Elsevier Inc. All rights reserved.
+C1 NYU, New York, NY 10012 USA.
+   Univ Hamburg, D-2000 Hamburg, Germany.
+   Univ Konstanz, D-7750 Constance, Germany.
+RP Oettingen, G (corresponding author), NYU, 550 1St Ave, New York, NY 10012 USA.
+EM gabriele.oettingen@nyu.edu
+RI Smith, Pamela K/J-5169-2014; Smith, Pamela/P-3434-2019
+OI Smith, Pamela K/0000-0002-0211-4728; Smith, Pamela/0000-0002-0211-4728
+NR 48
+TC 28
+Z9 28
+U1 1
+U2 14
+PU ACADEMIC PRESS INC ELSEVIER SCIENCE
+PI SAN DIEGO
+PA 525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA
+SN 0022-1031
+J9 J EXP SOC PSYCHOL
+JI J. Exp. Soc. Psychol.
+PD SEP
+PY 2006
+VL 42
+IS 5
+BP 668
+EP 675
+DI 10.1016/j.jesp.2005.10.003
+PG 8
+WC Psychology, Social
+SC Psychology
+GA 076RQ
+UT WOS:000239975800012
+OA Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Fishbach, A
+   Dhar, R
+   Zhang, Y
+AF Fishbach, Ayelet
+   Dhar, Ravi
+   Zhang, Ying
+TI Subgoals as substitutes or complements: The role of goal accessibility
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE goal; subgoal; self-regulation; self-control; priming
+ID SELF-REGULATION; IMPLEMENTATION INTENTIONS; SUBSEQUENT PERFORMANCE;
+   BEHAVIOR; DEPLETION; SYSTEMS; CHOICE; TIME
+AB The self-regulation process often involves breaking an ongoing goal (e.g., keeping in shape) into many individual, constituent subgoals that monitor actual actions (e.g., eating healthy meals, going to the gym). The article examines how pursuing each of these subgoals may influence subsequent goal pursuit. The authors show that when people consider success on a single subgoal, additional actions toward achieving a superordinate goal are seen as substitutes and are less likely to be pursued. In contrast, when people consider their commitment to a superordinate goal on the basis of initial success on a subgoal, additional actions toward achieving that goal may seem to be complementary and more likely to be pursued. These predictions were tested in four studies that explored the conditions under which subgoals attainment have a counterproductive versus favorable effect on further pursuit of similar actions.
+C1 Univ Chicago, Grad Sch Business, Chicago, IL 60637 USA.
+   Yale Univ, Sch Management, New Haven, CT 06520 USA.
+RP Fishbach, A (corresponding author), Univ Chicago, Grad Sch Business, 5807 S Woodlawn Ave, Chicago, IL 60637 USA.
+EM ayelet.fishbach@chicagogsb.edu
+RI Zhang, Ying/B-4669-2012; Fishbach, Ayelet/R-6270-2019
+NR 48
+TC 165
+Z9 171
+U1 1
+U2 47
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD AUG
+PY 2006
+VL 91
+IS 2
+BP 232
+EP 242
+DI 10.1037/0022-3514.91.2.232
+PG 11
+WC Psychology, Social
+SC Psychology
+GA 071ZJ
+UT WOS:000239642100003
+PM 16881761
+DA 2020-08-05
+ER
+
+PT J
+AU Geers, AL
+   Weiland, PE
+   Kosbab, K
+   Landry, SJ
+   Helfer, SG
+AF Geers, AL
+   Weiland, PE
+   Kosbab, K
+   Landry, SJ
+   Helfer, SG
+TI Goal activation, expectations, and the placebo effect
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Review
+DE expectations; goals; health; placebo effect
+ID BLOOD-PRESSURE; PAIN REDUCTION; EXPECTANCY; INFORMATION; MODEL;
+   DETERMINANTS; AUTOMATICITY; PERCEPTION; ANALGESIA; PURSUIT
+AB Motivational factors receive little attention in current theories of the placebo effect. Reasons for this position are reviewed, and an argument is made for reconsidering the influence of motivation on the placebo effect. The authors hypothesize that nonconscious goals alter reactions to a placebo expectation. Specifically, the authors predict that the placebo effect is most likely to occur when individuals have a goal that can be fulfilled by confirmation of the placebo expectation. The authors tested this notion in 5 experiments. The results demonstrate the role of motivation in the placebo effect across a variety of symptom domains and via 4 different goal activation techniques. Moreover, this moderating effect occurred for both positive and negative placebo expectations, across different placebo effect measures, and in brief laboratory experiments as well as in lengthier studies. It is argued that theories regarding the placebo effect should incorporate motivational factors.
+C1 Univ Toledo, Dept Psychol, Toledo, OH 43606 USA.
+   Adrian Coll, Dept Psychol, Adrian, MI 49221 USA.
+RP Geers, AL (corresponding author), Univ Toledo, Dept Psychol, Toledo, OH 43606 USA.
+EM ageers@utnet.utoledo.edu
+NR 114
+TC 80
+Z9 89
+U1 1
+U2 32
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+EI 1939-1315
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD AUG
+PY 2005
+VL 89
+IS 2
+BP 143
+EP 159
+DI 10.1037/0022-3514.89.2.143
+PG 17
+WC Psychology, Social
+SC Psychology
+GA 962WY
+UT WOS:000231765200003
+PM 16162050
+DA 2020-08-05
+ER
+
+PT J
+AU Spears, R
+   Gordijn, E
+   Dijksterhuis, AP
+   Stapel, DA
+AF Spears, R
+   Gordijn, E
+   Dijksterhuis, AP
+   Stapel, DA
+TI Reaction in action: Intergroup contrast in automatic behavior
+SO PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+LA English
+DT Article
+DE automatic behavior; contrast effects; social comparison; social
+   identity; intergroup relations
+ID STEREOTYPE ACTIVATION; JUDGMENT; PERCEPTION; CATEGORY; ACCESSIBILITY;
+   VARIABILITY; OTHERS; LEVEL; TRAIT
+AB Whereas previous research has shown automatic behavior conforming to outgroup stereotypes, the authors demonstrate automatic behavioral contrast away from a stereotype/trait associated with an outgroup (Study 1 and 2) and point to the importance of an "us-them" intergroup comparison in this process. In Study 1, participants colored pictures more messily when neatness was associated with an outgroup rather than the ingroup. In Study 2, using a different behavior, participants primed with busy business people reacted faster than controls (assimilation) but became slower when their student ingroup identity was activated (contrast). Subliminally priming an "us-them" intergroup comparison set undermined the accessibility of outgroup stereotypic words (Study 3), especially for those higher in prejudice (Study 4). This suggests that people automatically distance themselves from outgroup attributes when intergroup antagonism is cued or chronic. Implications for the role of self and comparison processes in automatic behavior are discussed.
+C1 Cardiff Univ, Cardiff CF1 1XL, S Glam, Wales.
+   Univ Amsterdam, NL-1012 WX Amsterdam, Netherlands.
+   Univ Groningen, NL-9700 AB Groningen, Netherlands.
+RP Spears, R (corresponding author), Cardiff Univ, Cardiff CF1 1XL, S Glam, Wales.
+EM SpearsR@Cardiff.ac.uk
+RI Gordijn, Ernestine/E-7955-2014; Spears, Russell/A-1804-2010; Spears,
+   Russell/E-8279-2014
+OI Gordijn, Ernestine/0000-0002-8350-7135; Spears,
+   Russell/0000-0001-5244-0575
+NR 43
+TC 53
+Z9 55
+U1 2
+U2 18
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0146-1672
+EI 1552-7433
+J9 PERS SOC PSYCHOL B
+JI Pers. Soc. Psychol. Bull.
+PD MAY
+PY 2004
+VL 30
+IS 5
+BP 605
+EP 616
+DI 10.1177/0146167203262087
+PG 12
+WC Psychology, Social
+SC Psychology
+GA 812CZ
+UT WOS:000220818900006
+PM 15107160
+DA 2020-08-05
+ER
+
+PT J
+AU Lakin, JL
+   Chartrand, TL
+AF Lakin, JL
+   Chartrand, TL
+TI Using nonconscious behavioral mimicry to create affiliation and rapport
+SO PSYCHOLOGICAL SCIENCE
+LA English
+DT Article
+ID ACTIVATION; PERCEPTION; GOALS
+AB Nonconscious behavioral mimicry occurs when a person unwittingly imitates the behaviors of another person. This mimicry has been attributed to a direct link between perceiving a behavior and performing that same behavior The current experiments explored whether having a goal to affiliate augments the tendency to mimic the behaviors of interaction partners. Experiment 1 demonstrated that having an affiliation goal increases nonconscious mimicry, and Experiment 2 further supported this proposition by demonstrating that people who have unsuccessfully attempted to affiliate in an interaction subsequently exhibit more mimicry than those who have not experienced such a failure. Results suggest that behavioral mimicry may be part of a person's repertoire of behaviors, used nonconsciously, when there is a desire to create rapport.
+C1 Ohio State Univ, Dept Psychol, Columbus, OH 43210 USA.
+RP Lakin, JL (corresponding author), Ohio State Univ, Dept Psychol, 1885 Neil Ave, Columbus, OH 43210 USA.
+EM lakin.6@osu.edu
+RI Galantucci, Bruno/E-5770-2010
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [T32 MH19728, 1 R03 MH65250-01]
+NR 23
+TC 613
+Z9 616
+U1 2
+U2 148
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0956-7976
+EI 1467-9280
+J9 PSYCHOL SCI
+JI Psychol. Sci.
+PD JUL
+PY 2003
+VL 14
+IS 4
+BP 334
+EP 339
+DI 10.1111/1467-9280.14481
+PG 6
+WC Psychology, Multidisciplinary
+SC Psychology
+GA 698CY
+UT WOS:000183981100008
+PM 12807406
+DA 2020-08-05
+ER
+
+PT J
+AU Shah, JY
+   Kruglanski, AW
+AF Shah, JY
+   Kruglanski, AW
+TI When opportunity knocks: Bottom-up priming of goals by means and its
+   effects on self-regulation
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+ID ACTIVATION; AUTOMATICITY
+AB Four studies using general attribute goals or specific task goals revealed that attainment means cognitively activate the goals they are perceived to serve. A range of means replicated this effect including goal-directed activities, specific behavioral strategies, or opportunities, assumed to afford effective goal pursuit. The increased accessibility of a currently pursued goal due to "bottom-up" priming by its attainment means improved task Persistence and performance, whereas a similarly increased accessibility of a competing goal impeded task persistence and performance.
+C1 Univ Wisconsin, Dept Psychol, Madison, WI 53706 USA.
+   Univ Maryland, Dept Psychol, College Pk, MD 20742 USA.
+RP Shah, JY (corresponding author), Univ Wisconsin, Dept Psychol, 1202 W Johnson St, Madison, WI 53706 USA.
+EM jshah@facstaff.wisc.edu
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [MH63280-02]
+NR 34
+TC 173
+Z9 176
+U1 0
+U2 25
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+EI 1939-1315
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD JUN
+PY 2003
+VL 84
+IS 6
+BP 1109
+EP 1122
+DI 10.1037/0022-3514.84.6.1109
+PG 14
+WC Psychology, Social
+SC Psychology
+GA 684BB
+UT WOS:000183184600001
+PM 12793579
+DA 2020-08-05
+ER
+
+PT J
+AU Verplanken, B
+   Holland, RW
+AF Verplanken, B
+   Holland, RW
+TI Motivated decision making: Effects of activation and self-centrality of
+   values on choices and behavior
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+ID MODERATING ROLE; ATTITUDE; VALENCES; ATTRACTIVENESS; ANTECEDENTS;
+   PERFORMANCE; BELIEFS; FAILURE
+AB Six studies examined the value-behavior relation and focused on motivational propertied of values, the pelf, and value activation. Priming environmental values enhanced attention to and the weight of information related to those values, which resulted in environmentally friendly consumer choices. This only occurred if these values were central to the self-concept. Value-congruent choices were also found in response to counter-value behavior in an unrelated context. Donating behavior congruent with central altruistic values was found as a result of enhanced self-focus, thus demonstrating the importance of the self in the value-behavior relation. The external validity of the value-centrality measure and its distinction from attitudes were demonstrated in the prediction of voting. Values were thus found to give meaning to, energize, and regulate value-congruent behavior, but only if values were cognitively activated and central to the self.
+C1 Univ Tromso, Dept Psychol, N-9037 Tromso, Norway.
+   Univ Nijmegen, Dept Social Psychol, Nijmegen, Netherlands.
+RP Verplanken, B (corresponding author), Univ Tromso, Dept Psychol, N-9037 Tromso, Norway.
+EM verplanken@psyk.uit.no
+RI Holland, Rob/E-7885-2012
+OI Verplanken, Bas/0000-0001-7217-0293
+NR 79
+TC 517
+Z9 530
+U1 3
+U2 115
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+EI 1939-1315
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD MAR
+PY 2002
+VL 82
+IS 3
+BP 434
+EP 447
+DI 10.1037/0022-3514.82.3.434
+PG 14
+WC Psychology, Social
+SC Psychology
+GA 524YW
+UT WOS:000174041300011
+PM 11902626
+DA 2020-08-05
+ER
+
+PT J
+AU Bargh, JA
+   Gollwitzer, PM
+   Lee-Chai, A
+   Barndollar, K
+   Trotschel, R
+AF Bargh, JA
+   Gollwitzer, PM
+   Lee-Chai, A
+   Barndollar, K
+   Trotschel, R
+TI The automated will: Nonconscious activation and pursuit of behavioral
+   goals
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+ID CONSTRUCT ACCESSIBILITY; CATEGORY ACCESSIBILITY; STEREOTYPE ACTIVATION;
+   IMPRESSION-FORMATION; LIMITED RESOURCE; MENTAL PROCESSES; PERSON MEMORY;
+   INFORMATION; PERCEPTION; SELF
+AB It is proposed that goals can be activated outside of awareness and then operate nonconsciously to guide self-regulation effectively (J. A. Bargh, 1990). Five experiments are reported in which the goal either to perform well or to cooperate was activated, without the awareness of participants, through a priming manipulation. In Experiment I priming of the goal to perform well caused participants to perform comparatively better on an intellectual task. In Experiment 2 priming of the goal to cooperate caused participants to replenish a commonly held resource more readily. Experiment 3 used a dissociation paradigm to rule out perceptual-construal alternative explanations. Experiments 4 and 5 demonstrated that action guided by nonconsciously activated goals manifests two classic content-free features of the pursuit of consciously held goals. Nonconsciously activated goals effectively guide action, enabling adaptation to ongoing situational demands.
+C1 NYU, Dept Psychol, New York, NY 10003 USA.
+   Univ Konstanz, Fachgrp Psychol, D-7750 Constance, Germany.
+RP Bargh, JA (corresponding author), NYU, Dept Psychol, 6 Washington Pl,7th Floor, New York, NY 10003 USA.
+EM john.bargh@nyu.edu; pmg4@nyu.edu
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [R01MH60767, R01 MH060767-01, R01 MH060767]
+NR 90
+TC 1059
+Z9 1082
+U1 6
+U2 216
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+EI 1939-1315
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD DEC
+PY 2001
+VL 81
+IS 6
+BP 1014
+EP 1027
+DI 10.1037//0022-3514.81.6.1014
+PG 14
+WC Psychology, Social
+SC Psychology
+GA 496RQ
+UT WOS:000172410300004
+PM 11761304
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Stein, KD
+   Goldman, MS
+   Del Boca, FK
+AF Stein, KD
+   Goldman, MS
+   Del Boca, FK
+TI The influence of alcohol expectancy priming and mood manipulation on
+   subsequent alcohol consumption
+SO JOURNAL OF ABNORMAL PSYCHOLOGY
+LA English
+DT Article; Proceedings Paper
+CT 20th Annual Meeting of the Research-Society-on-Alcoholism
+CY JUL 18-25, 1997
+CL SAN FRANCISCO, CALIFORNIA
+SP Res Soc Alcoholism
+ID MEMORY NETWORK; DRINKING; IMPLICIT; ASSOCIATIONS; ACTIVATION; INDUCTION;
+   COGNITION; RETRIEVAL; CHILDREN; OUTCOMES
+AB Studies showing that verbal priming can implicitly affect alcohol consumption have been used to support cognitive models of expectancies. However, because expectancy words reflect affective states as well as drinking outcomes, mediation through an affective pathway remains theoretically plausible (i.e., suck words inadvertently may affect mood, which in turn influences drinking). The primary pathway was identified (and expectancy theory was tested) by comparing memory priming (using alcohol expectancy or neutral words) with mood induction (using positive or neutral music); an unrelated experiment paradigm allowed the priming manipulation to implicitly affect drinking. Men in the alcohol priming group drank significantly more than men in each of the other conditions, and, consistent with theory, men with histories of heavier drinking drank the most when primed with alcohol expectancies, indicating that expectancies can function as automatic memory processes.
+C1 Univ S Florida, Dept Psychol, Tampa, FL 33620 USA.
+RP Goldman, MS (corresponding author), Univ S Florida, Dept Psychol, BEH 339,4202 E Fowler Ave, Tampa, FL 33620 USA.
+FU NIAAA NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute on Alcohol Abuse
+   & Alcoholism (NIAAA) [R37 AA08333]
+NR 55
+TC 81
+Z9 82
+U1 0
+U2 9
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0021-843X
+J9 J ABNORM PSYCHOL
+JI J. Abnorm. Psychol.
+PD FEB
+PY 2000
+VL 109
+IS 1
+BP 106
+EP 115
+DI 10.1037/0021-843X.109.1.106
+PG 10
+WC Psychology, Clinical; Psychiatry
+SC Psychology; Psychiatry
+GA 293FR
+UT WOS:000085841400012
+PM 10740941
+DA 2020-08-05
+ER
+
+PT J
+AU Macrae, CN
+   Johnston, L
+AF Macrae, CN
+   Johnston, L
+TI Help, I need somebody: Automatic action and inaction
+SO SOCIAL COGNITION
+LA English
+DT Article
+ID CATEGORY ACCESSIBILITY; BEHAVIOR; INFORMATION; ACTIVATION
+AB The goal of behavioral control is of central importance in everyday life. When the production of an unwanted action can have deleterious consequences for perceivers, there is considerable virtue in the possession of a mental system that edits its behavioral products to meet the demands of a challenging world. Accordingly, in an attempt to extend existing work on this topic (e.g., Bargh, Chen, & Burrows, 1996), in the present research we investigated the extent to which the automatic elicitation of action may be moderated by features of the task environment and perceivers' goal states. Our findings were unequivocal. When inhibitory cues were present in the environment (i.e., Experiment 1), or perceivers had a competing goal in mind (i.e., Experiment 2), automatic behavioral priming effects were eliminated. We consider the implications of our findings for recent treatments of behavioral priming and action control.
+C1 Univ Bristol, Dept Expt Psychol, Bristol BS8 1TN, Avon, England.
+   Univ Canterbury, Canterbury, Kent, England.
+RP Macrae, CN (corresponding author), Univ Bristol, Dept Expt Psychol, 8 Woodland Rd, Bristol BS8 1TN, Avon, England.
+RI Macrae, Neil/C-4761-2008
+OI Johnston, Lucy/0000-0002-6589-2471
+NR 45
+TC 168
+Z9 170
+U1 0
+U2 36
+PU GUILFORD PUBLICATIONS INC
+PI NEW YORK
+PA 72 SPRING STREET, NEW YORK, NY 10012 USA
+SN 0278-016X
+J9 SOC COGNITION
+JI Soc. Cogn.
+PD WIN
+PY 1998
+VL 16
+IS 4
+BP 400
+EP 417
+DI 10.1521/soco.1998.16.4.400
+PG 18
+WC Psychology, Social
+SC Psychology
+GA 159HT
+UT WOS:000078167100003
+DA 2020-08-05
+ER
+
+PT J
+AU Chartrand, TL
+   Bargh, JA
+AF Chartrand, TL
+   Bargh, JA
+TI Automatic activation of impression formation and memorization goals:
+   Nonconscious goal priming reproduces effects of explicit task
+   instructions
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+ID PERSON MEMORY; COGNITIVE REPRESENTATION; INDIVIDUATING PROCESSES;
+   RETRIEVAL-PROCESSES; OUTCOME DEPENDENCY; TRAIT INFORMATION; SEXUAL
+   HARASSMENT; PERCEPTION; RECALL; ACCESSIBILITY
+AB According to the auto-motive model (J. A. Bargh, 1990), intentions and goals are represented mentally and, as representations, should be capable of nonconscious activation by the environmental context (i.e., ''priming''). To test this hypothesis, the authors replicated 2 well-known experiments that had demonstrated differential effects of varying the information-processing goal (impression formation or memorization) on processing the identical behavioral information. However, instead of giving participants the goals via explicit instructions, as had been done in the original studies, the authors primed the impression formation or memorization goal. In both cases, the original pattern of results was reproduced. The findings thus support the hypothesis that the effect of activated goals is the same whether the activation is nonconscious or through an act of will.
+RP Chartrand, TL (corresponding author), NYU, DEPT PSYCHOL, 6 WASHINGTON PL, 7TH FLOOR, NEW YORK, NY 10003 USA.
+NR 87
+TC 490
+Z9 498
+U1 3
+U2 68
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+EI 1939-1315
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD SEP
+PY 1996
+VL 71
+IS 3
+BP 464
+EP 478
+DI 10.1037/0022-3514.71.3.464
+PG 15
+WC Psychology, Social
+SC Psychology
+GA VG905
+UT WOS:A1996VG90500004
+DA 2020-08-05
+ER
+
+PT J
+AU Bargh, JA
+   Chen, M
+   Burrows, L
+AF Bargh, JA
+   Chen, M
+   Burrows, L
+TI Automaticity of social behavior: Direct effects of trait construct and
+   stereotype activation on action
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+ID COGNITIVE STRUCTURES; CATEGORY ACCESSIBILITY; IMPRESSION-FORMATION;
+   CONSCIOUS AWARENESS; INFORMATION; SELF; PERSONALITY; PERCEPTION;
+   COMPONENTS; SITUATIONS
+AB Previous research has shown that trail concepts and stereotypes become active automatically in the presence of relevant behavior or stereotyped group features. Through the use of the same priming procedures as in previous impression formation research, Experiment 1 showed that participants whose concept of rudeness was primed interrupted the experimenter more quickly and frequently than did participants primed with polite-related stimuli. In Experiment 2, participants for whom an elderly stereotype was primed walked more slowly down the hallway when leaving the experiment than did control participants, consistent with the content of that stereotype. In Experiment 3, participants for whom the African American stenotype was primed subliminally reacted with more hostility to a vexatious request of the experimenter. Implications of this automatic behavior priming effect for self-Fulfilling prophecies are discussed, as is whether social behavior is necessarily mediated by conscious choice processes.
+RP Bargh, JA (corresponding author), NYU,DEPT PSYCHOL,6 WASHINGTON PL,7TH FLOOR,NEW YORK,NY 10003, USA.
+NR 89
+TC 1894
+Z9 1932
+U1 17
+U2 449
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0022-3514
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD AUG
+PY 1996
+VL 71
+IS 2
+BP 230
+EP 244
+DI 10.1037/0022-3514.71.2.230
+PG 15
+WC Psychology, Social
+SC Psychology
+GA VC181
+UT WOS:A1996VC18100003
+PM 8765481
+OA Green Published
+DA 2020-08-05
+ER
+
+EF

@@ -1,0 +1,2397 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Bell, AC
+   Burkley, M
+   Bock, J
+AF Bell, Angela C.
+   Burkley, Melissa
+   Bock, Jarrod
+TI Examining the asymmetry in judgments of racism in self and others
+SO JOURNAL OF SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE Better than average effect; racism; self-enhancement; self-perception;
+   self-other differences
+ID PERCEIVED CONSENSUS; TRAIT JUDGMENTS; AVERAGE; PREJUDICE; EXPRESSION;
+   MOTIVATION; KNOWLEDGE; POWER; BIAS; CONSCIOUSNESS
+AB Across three experiments, participants were provided with a list of racist behaviors that purportedly were enacted from a fellow student but in fact were based on the participants' own behaviors. People consistently evaluated themselves as less racist than this comparison other, even though this other's racist behaviors were identical to their own. Studies 2a and 2b demonstrate this effect is quite robust and even occurs under social pressure and social consensus conditions in which participants were free to express their racial biases. Thus, it appears that people are less likely to base their racist trait ratings on behavioral evidence when evaluating themselves compared to when they are evaluating another. Taken together, this work provides evidence for the consistency and robustness of self-enhanced social comparisons as applied to the trait domain of racism. Further, this work sheds insight into why people deny they are racist when they act racist.
+C1 [Bell, Angela C.] Lafayette Coll, Easton, PA 18042 USA.
+   [Burkley, Melissa; Bock, Jarrod] Oklahoma State Univ, Stillwater, OK 74078 USA.
+RP Bell, AC (corresponding author), Lafayette Coll, Psychol, Easton, PA 18042 USA.
+EM bellac@lafayette.edu
+RI Bell, Angela/AAO-8135-2020
+OI Bell, Angela/0000-0001-9870-8645
+NR 85
+TC 3
+Z9 3
+U1 1
+U2 3
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0022-4545
+EI 1940-1183
+J9 J SOC PSYCHOL
+JI J. Soc. Psychol.
+PD SEP 3
+PY 2019
+VL 159
+IS 5
+BP 611
+EP 627
+DI 10.1080/00224545.2018.1538930
+PG 17
+WC Psychology, Social
+SC Psychology
+GA IS6VH
+UT WOS:000482288800008
+PM 30442081
+DA 2020-08-05
+ER
+
+PT J
+AU Davidai, S
+   Deri, S
+AF Davidai, Shai
+   Deri, Sebastian
+TI The Second Pugilist's Plight: Why People Believe They Are Above Average
+   But Are Not Especially Happy About It
+SO JOURNAL OF EXPERIMENTAL PSYCHOLOGY-GENERAL
+LA English
+DT Article
+DE social comparison; above average effect; self-enhancement; mental
+   availability
+ID PANCULTURAL SELF-ENHANCEMENT; DEFENSIVE PESSIMISM; SERVING ASSESSMENTS;
+   OTHERS; BIAS; EGOCENTRISM; OPTIMISM; CONSEQUENCES; ASSIMILATION;
+   EXPECTATIONS
+AB People's tendency to rate themselves as above average is often taken as evidence of undue self-regard. Yet, everyday experience is occasioned with feelings of inadequacy and insecurity. How can these 2 experiences be reconciled? Across 12 studies (N = 2,474; including 4 preregistered studies) we argue that although people do indeed believe that they are above average they also hold themselves to standards of comparison that are well above average. Across a host of domains, we find that people's typical standards of comparison are significantly above the level of the "average" person (Studies 1A, 1B, 2A, and 3). We further show that people's tendency to measure themselves against above-average others is due to the increased mental availability of such high-performing standards of comparison (Studies 4A and 4B). Finally, we present evidence that this is not simply the result of self-enhancement by showing that people measure themselves against above-average others even when they feel subjectively inadequate (Study 5A), receive objective information about their poor performance (Study 5B), or evaluate themselves on domains in which they chronically underperform (Study 5C). Even in domains where being above average is undesirable (e.g., rudeness), people bring to mind and compare themselves with above average targets (Studies 2B and 2C). We discuss the implications for self-enhancement research and the importance of examining who people compare themselves to in addition to how people believe they compare with others.
+C1 [Davidai, Shai] New Sch Social Res, Dept Psychol, 80 5th Ave, New York, NY 10011 USA.
+   [Deri, Sebastian] Cornell Univ, Dept Psychol, Ithaca, NY 14853 USA.
+RP Davidai, S (corresponding author), New Sch Social Res, Dept Psychol, 80 5th Ave, New York, NY 10011 USA.
+EM shaidavidai@newschool.edu
+OI Deri, Sebastian/0000-0003-1364-1096
+NR 94
+TC 3
+Z9 3
+U1 0
+U2 9
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0096-3445
+EI 1939-2222
+J9 J EXP PSYCHOL GEN
+JI J. Exp. Psychol.-Gen.
+PD MAR
+PY 2019
+VL 148
+IS 3
+BP 570
+EP 587
+DI 10.1037/xge0000580
+PG 18
+WC Psychology, Experimental
+SC Psychology
+GA HM4WO
+UT WOS:000459476300009
+PM 30802129
+DA 2020-08-05
+ER
+
+PT J
+AU Zajenkowski, M
+   Gignac, GE
+AF Zajenkowski, Marcin
+   Gignac, Gilles E.
+TI Why do angry people overestimate their intelligence? Neuroticism as a
+   suppressor of the association between Trait-Anger and subjectively
+   assessed intelligence
+SO INTELLIGENCE
+LA English
+DT Article
+DE Anger; Intelligence; Narcissism; Neuroticism; Suppression
+ID FLUID INTELLIGENCE; SELF-ESTEEM; COGNITIVE-ABILITY; EEG ASYMMETRY;
+   PERSONALITY; NARCISSISM; VARIABLES; AGREEABLENESS; AGGRESSION;
+   ADJUSTMENT
+AB Trait-Anger and Neuroticism are substantially inter-correlated positively. However, there is some theoretical and empirical research that supports the notion that Trait-Anger and Neuroticism are influenced by several processes differentially. For instance, Trait-Anger is linked to optimistic bias, increased sense of control, approach motivation and high Narcissism. In contrast, Neuroticism correlates with pessimism, low sense of control, withdrawal motivation and low Narcissism. Building on these previous findings, we hypothesized that Trait-Anger and Neuroticism would be positively and negatively, respectively, associated with subjectively assessed intelligence (SAI). Furthermore, we expected that these two traits would act as mutual suppressors in predicting SAI. The results of two studies (ns = 303 and 225) supported our hypotheses. Trait-Anger was positively and Neuroticism negatively related to SAI, even after controlling for objective intelligence. These results are consistent with previous research which suggests that SAI is more substantially associated with personality than objective intelligence. Additionally, in study 2, we found that Narcissism mediated (partially) the relationship between Trait-Anger and SAI. In the discussion, we suggest that there might be two faces of Trait-Anger: one related to anxiety and one to overconfidence. Finally, a potential role of intelligence positive illusions in Trait-Anger is proposed.
+C1 [Zajenkowski, Marcin] Univ Warsaw, Fac Psychol, Warsaw, Poland.
+   [Gignac, Gilles E.] Univ Western Australia, Perth, WA, Australia.
+RP Zajenkowski, M (corresponding author), Univ Warsaw, Fac Psychol, Warsaw, Poland.
+EM zajenkowski@psych.uw.edu.pl
+OI Gignac, Gilles/0000-0002-4900-6855; Zajenkowski,
+   Marcin/0000-0001-8669-4231
+FU National Science Centre in Poland [2016/23/N/HS6/02928]
+FX Preparation of this manuscript was supported by Grant no
+   2016/23/N/HS6/02928 from National Science Centre in Poland.
+NR 70
+TC 11
+Z9 11
+U1 0
+U2 4
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0160-2896
+EI 1873-7935
+J9 INTELLIGENCE
+JI Intelligence
+PD SEP-OCT
+PY 2018
+VL 70
+BP 12
+EP 21
+DI 10.1016/j.intell.2018.07.003
+PG 10
+WC Psychology, Multidisciplinary
+SC Psychology
+GA GU7NM
+UT WOS:000445511100003
+DA 2020-08-05
+ER
+
+PT J
+AU Gebauer, JE
+   Nehrlich, AD
+   Stahlberg, D
+   Sedikides, C
+   Hackenschmidt, A
+   Schick, D
+   Stegmaier, CA
+   Windfelder, CC
+   Bruk, A
+   Mander, J
+AF Gebauer, Jochen E.
+   Nehrlich, Andreas D.
+   Stahlberg, Dagmar
+   Sedikides, Constantine
+   Hackenschmidt, Anke
+   Schick, Doreen
+   Stegmaier, Clara A.
+   Windfelder, Cara C.
+   Bruk, Anna
+   Mander, Johannes
+TI Mind-Body Practices and the Self: Yoga and Meditation Do Not Quiet the
+   Ego but Instead Boost Self-Enhancement
+SO PSYCHOLOGICAL SCIENCE
+LA English
+DT Article
+DE self-centrality; self-enhancement; yoga; meditation; mindfulness; open
+   data
+ID MINDFULNESS; PSYCHOLOGY; ESTEEM
+AB Mind-body practices enjoy immense public and scientific interest. Yoga and meditation are highly popular. Purportedly, they foster well-being by curtailing self-enhancement bias. However, this ego-quieting effect contradicts an apparent psychological universal, the self-centrality principle. According to this principle, practicing any skill renders that skill self-central, and self-centrality breeds self-enhancement bias. We examined those opposing predictions in the first tests of mind-body practices' self-enhancement effects. In Experiment 1, we followed 93 yoga students over 15 weeks, assessing self-centrality and self-enhancement bias after yoga practice (yoga condition, n = 246) and without practice (control condition, n = 231). In Experiment 2, we followed 162 meditators over 4 weeks (meditation condition: n = 246; control condition: n = 245). Self-enhancement bias was higher in the yoga (Experiment 1) and meditation (Experiment 2) conditions, and those effects were mediated by greater self-centrality. Additionally, greater self-enhancement bias mediated mind-body practices' well-being benefits. Evidently, neither yoga nor meditation fully quiet the ego; to the contrary, they boost self-enhancement.
+C1 [Gebauer, Jochen E.; Nehrlich, Andreas D.; Stahlberg, Dagmar; Schick, Doreen; Stegmaier, Clara A.; Windfelder, Cara C.; Bruk, Anna] Univ Mannheim, Dept Psychol, Mannheim, Germany.
+   [Sedikides, Constantine] Univ Southampton, Dept Psychol, Southampton, Hants, England.
+   [Hackenschmidt, Anke] Humboldt Univ, Dept Psychol, Berlin, Germany.
+   [Mander, Johannes] Heidelberg Univ, Ctr Psychol Psychotherapy, Heidelberg, Germany.
+RP Gebauer, JE (corresponding author), Univ Mannheim, Mannheim Ctr European Social Res, Dept Psychol, A5,6 Sect A, D-68159 Mannheim, Germany.
+EM mail@JochenGebauer.info
+OI Sedikides, Contantine/0000-0003-4036-889X
+FU German Research FoundationGerman Research Foundation (DFG) [GE 2515/2-1,
+   GE 2515/6-1]
+FX This work was supported by German Research Foundation Grants GE 2515/2-1
+   and GE 2515/6-1.
+NR 43
+TC 10
+Z9 10
+U1 6
+U2 21
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0956-7976
+EI 1467-9280
+J9 PSYCHOL SCI
+JI Psychol. Sci.
+PD AUG
+PY 2018
+VL 29
+IS 8
+BP 1299
+EP 1308
+DI 10.1177/0956797618764621
+PG 10
+WC Psychology, Multidisciplinary
+SC Psychology
+GA GQ0DH
+UT WOS:000441286400009
+PM 29932807
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Heck, PR
+   Simons, DJ
+   Chabris, CF
+AF Heck, Patrick R.
+   Simons, Daniel J.
+   Chabris, Christopher F.
+TI 65% of Americans believe they are above average in intelligence: Results
+   of two nationally representative surveys
+SO PLOS ONE
+LA English
+DT Article
+ID SELF-ENHANCEMENT; OVERCONFIDENCE; PERFORMANCE; JUDGMENT; UNAWARE;
+   PREDICT; PEOPLE; THINK
+AB Psychologists often note that most people think they are above average in intelligence. We sought robust, contemporary evidence for this "smarter than average" effect by asking Americans in two independent samples (total N= 2,821) whether they agreed with the statement, "I am more intelligent than the average person." After weighting each sample to match the demographics of U.S. census data, we found that 65% of Americans believe they are smarter than average, with men more likely to agree than women. However, overconfident beliefs about one's intelligence are not always unrealistic: more educated people were more likely to think their intelligence is above average. We suggest that a tendency to overrate one's cognitive abilities may be a stable feature of human psychology.
+C1 [Heck, Patrick R.; Chabris, Christopher F.] Geisinger Hlth Syst, Autism & Dev Med Inst, Lewisburg, PA 17837 USA.
+   [Simons, Daniel J.] Univ Illinois, Dept Psychol, Champaign, IL USA.
+   [Chabris, Christopher F.] Inst Adv Study Toulouse, Toulouse, France.
+RP Chabris, CF (corresponding author), Geisinger Hlth Syst, Autism & Dev Med Inst, Lewisburg, PA 17837 USA.; Chabris, CF (corresponding author), Inst Adv Study Toulouse, Toulouse, France.
+EM chabris@gmail.com
+RI Simons, Daniel J./P-3625-2019; Heck, Patrick/I-1142-2019
+OI Simons, Daniel J./0000-0001-7545-1621; Heck, Patrick/0000-0003-0819-3890
+NR 40
+TC 5
+Z9 5
+U1 0
+U2 2
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUL 3
+PY 2018
+VL 13
+IS 7
+AR e0200103
+DI 10.1371/journal.pone.0200103
+PG 11
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA GL5XD
+UT WOS:000437246700044
+PM 29969480
+OA DOAJ Gold, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Foster, CA
+   Clarke, JA
+   Packard, GA
+AF Foster, Craig A.
+   Clarke, Jennifer A.
+   Packard, Gary A., Jr.
+TI Can I see the real me? Leadership ability and the better-than-average
+   effect
+SO MILITARY PSYCHOLOGY
+LA English
+DT Article
+DE Leadership; self-enhancement; positive illusions; better-than-average
+   effect
+ID CRITERION VALIDITY; SELF-EVALUATION; PERSONALITY; ENHANCEMENT; FOLLOWER;
+   MODEL
+AB Military organizations typically emphasize the importance of leadership. The quality of military leadership might be inhibited because individuals tend to overestimate their respective leadership abilities. We hypothesized that military professionals generally overestimate how well they lead compared to their peers (Hypothesis 1). We also hypothesized that an egocentric bias, where self-ratings are weighted more strongly than other-ratings, contributes to this better-than-average effect (Hypothesis 2). The results obtained across two studies supported both hypotheses. Most notably, 242 of 251 United States Air Force Academy cadets and 31 of 34 United States Air Force officers rated themselves as above average compared to their peers. The obtained results have important implications for understanding the better-than-average effect generally and leadership in military and nonmilitary organizations.
+C1 [Foster, Craig A.; Clarke, Jennifer A.; Packard, Gary A., Jr.] US Air Force Acad, Behav Sci & Leadership, Colorado Springs, CO 80840 USA.
+RP Foster, CA (corresponding author), USAF Acad, HQ USAFA DFBL, 2354 Fairchild Dr, Colorado Springs, CO 80840 USA.
+EM craig.foster@usafa.edu
+NR 48
+TC 2
+Z9 2
+U1 3
+U2 9
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0899-5605
+EI 1532-7876
+J9 MIL PSYCHOL
+JI Milit. Psychol.
+PY 2018
+VL 30
+IS 5
+BP 390
+EP 397
+DI 10.1080/08995605.2018.1478545
+PG 8
+WC Psychology, Multidisciplinary
+SC Psychology
+GA HJ1LK
+UT WOS:000456924100002
+DA 2020-08-05
+ER
+
+PT J
+AU Chinchilla, J
+   Lopez-Saez, M
+   Vazquez, A
+AF Chinchilla, Juana
+   Lopez-Saez, Mercedes
+   Vazquez, Alexandra
+TI How do others influence our attitudes? Analysis of the primus inter
+   pares effect and mediating variables associated with this process
+SO REVISTA DE PSICOLOGIA SOCIAL
+LA English
+DT Article
+DE prejudice; inter-group attitudes; primus inter pares effect; social
+   influence; social projection
+ID CONSENSUS INFORMATION; PREJUDICE; PERCEPTION; EXPRESSION
+AB The study examines whether there is a primus inter pares effect in the domain of prejudiced attitudes, where there is hardly any information on this effect. It also explores the relationship between the prejudiced attitudes perceived in others and one's own and how this relationship influences our general prejudice. To do so, we compared two opposite hypotheses in two studies. The assimilation hypothesis suggests that attitudes perceived in others influence our own attitudes and our general prejudice. The social projection hypothesis claims that our attitudes influence the attitudes we perceive in others, and consequently our prejudice. A total of 243 students in compulsory secondary education participated in the first study, in which the attitudes towards fat(1) people were measured. In the second study, 442 psychology students participated, and we measured their attitudes towards Moroccan immigrants. In both studies, participants considered themselves less prejudiced than others, and their own attitudes mediated the relationship between the attitudes perceived in others and their general prejudice. ResumenEsta investigacion examina si se produce un efecto primus inter pares en el marco de las actitudes prejuiciosas, donde apenas hay datos sobre este efecto. Tambien explora la relacion entre las actitudes prejuiciosas percibidas en los demas y las propias y como influye esa relacion en nuestro prejuicio general. Para ello contrastamos dos hipotesis contrarias en dos estudios. La hipotesis de la asimilacion sugiere que las actitudes percibidas en los demas influyen en nuestras actitudes y estas en nuestro prejuicio general. La hipotesis de la proyeccion social sostiene que nuestras actitudes influyen en las actitudes que percibimos en los demas y, consiguientemente, en nuestro prejuicio. En el primer estudio participaron 243 estudiantes de ESO y se midieron las actitudes hacia los gordos. En el segundo participaron 442 estudiantes de psicologia y se midieron las actitudes hacia los inmigrantes marroquies. En ambos estudios los participantes se consideran menos prejuiciosos que los demas y las actitudes propias median la relacion entre las actitudes percibidas en los demas y el prejuicio general.
+C1 [Chinchilla, Juana; Lopez-Saez, Mercedes; Vazquez, Alexandra] Univ Nacl Educ Distancia, Madrid, Spain.
+RP Chinchilla, J (corresponding author), Univ Nacl Educ Distancia, Dpto Psicol Social & Org, C Juan del Rosal 10,Ciudad Univ, E-28040 Madrid, Spain.
+EM juanachinchilla@me.com
+RI Vazquez, Alexandra/A-1640-2012
+OI Vazquez, Alexandra/0000-0002-6040-9102
+NR 33
+TC 1
+Z9 1
+U1 1
+U2 22
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0213-4748
+EI 1579-3680
+J9 REV PSICOL SOC
+JI Rev. Psicol. Soc.
+PY 2018
+VL 33
+IS 2
+BP 424
+EP 457
+DI 10.1080/02134748.2018.1435096
+PG 34
+WC Psychology, Social
+SC Psychology
+GA GD7XX
+UT WOS:000430727800008
+DA 2020-08-05
+ER
+
+PT J
+AU Gebauer, JE
+   Sedikides, C
+   Schrade, A
+AF Gebauer, Jochen E.
+   Sedikides, Constantine
+   Schrade, Alexandra
+TI Christian Self-Enhancement
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE human nature; religiosity; self; self-centrality; self-enhancement
+ID SOCIAL-PSYCHOLOGICAL PERSPECTIVE; RELIGIOUS ORIENTATION SCALE; TERROR
+   MANAGEMENT; PERSONALITY PSYCHOLOGY; INDIVIDUAL-DIFFERENCES; DESIRABILITY
+   SCALES; PROSOCIAL BEHAVIOR; AGENCY-COMMUNION; ABOVE-AVERAGE; BASIC
+   TRAITS
+AB People overestimate themselves in domains that are central to their self-concept. Critically, the psychological status of this "self-centrality principle" remains unclear. One view regards the principle as an inextricable part of human nature and, thus, as universal and resistant to normative pressure. A contrasting view regards the principle as liable to pressure (and subsequent modification) from selfeffacement norms, thus questioning its universality. Advocates of the latter view point to Christianity's robust self-effacement norms, which they consider particularly effective in curbing self-enhancement, and ascribe Christianity an ego-quieting function. Three sets of studies examined the self-centrality principle among Christians. Studies 1A and 1B (N = 2,118) operationalized self-enhancement as better-than-average perceptions on the domains of commandments of faith (self-centrality: Christians >> nonbelievers) and commandments of communion (self-centrality: Christians > nonbelievers). Studies 2A-2H (N = 1,779) operationalized self-enhancement as knowledge overclaiming on the domains of Christianity (self-centrality: Christians >> nonbelievers), communion (self-centrality: Christians > nonbelievers), and agency (self-centrality: Christians > nonbelievers). Studies 3A-3J (N = 1,956) operationalized self-enhancement as grandiose narcissism on the domains of communion (self-centrality: Christians >> nonbelievers) and agency (self-centrality: Christians approximate to nonbelievers). The results converged across studies, yielding consistent evidence for Christian self-enhancement. Relative to nonbelievers, Christians self-enhanced strongly in domains central to the Christian self-concept. The results also generalized across countries with differing levels of religiosity. Christianity does not quiet the ego. The self-centrality principle is resistant to normative pressure, universal, and rooted in human nature.
+C1 [Gebauer, Jochen E.] Univ Mannheim, Mannheim Ctr European Social Res, A5,6, D-68159 Mannheim, Germany.
+   [Sedikides, Constantine] Univ Southampton, Dept Psychol, Southampton, Hants, England.
+   [Schrade, Alexandra] Humboldt Univ, Inst Psychol, Berlin, Germany.
+RP Gebauer, JE (corresponding author), Univ Mannheim, Mannheim Ctr European Social Res, A5,6, D-68159 Mannheim, Germany.
+EM mail@jochengebauer.info
+OI Sedikides, Contantine/0000-0003-4036-889X
+FU German Research Foundation (DFG)German Research Foundation (DFG) [GE
+   2515/2-1]; John Templeton Foundation (The Character Project at Wake
+   Forest University) [15519-11-011]
+FX We acknowledge support from the German Research Foundation (DFG; Grant
+   GE 2515/2-1) and the John Templeton Foundation (The Character Project at
+   Wake Forest University; Grant ID #15519-11-011).
+NR 192
+TC 12
+Z9 12
+U1 3
+U2 52
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+EI 1939-1315
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD NOV
+PY 2017
+VL 113
+IS 5
+BP 786
+EP 809
+DI 10.1037/pspp0000140
+PG 24
+WC Psychology, Social
+SC Psychology
+GA FJ1BG
+UT WOS:000412446100009
+PM 28206792
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Zhang, R
+   Noels, KA
+   Guan, YJ
+   Weng, LP
+AF Zhang, Rui
+   Noels, Kimberly A.
+   Guan, Yanjun
+   Weng, Liping
+TI Making sense of positive self-evaluations in China: The role of
+   sociocultural change
+SO EUROPEAN JOURNAL OF SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE self-evaluations; self-enhancement; sociocultural change; culture; China
+ID CULTURAL-DIFFERENCES; SOCIAL-STRUCTURE; ECONOMIC-GROWTH; UNIVERSAL NEED;
+   GROUP NORMS; ENHANCEMENT; AVERAGE; ESTEEM; INDIVIDUALISM; COLLECTIVISM
+AB Recent research points to Chinese people's elevated tendency to make positive self-evaluations, despite the general claim that East Asians do not self-enhance. We present three studies in support of a novel prediction that sociocultural change in China plays an important role in augmenting self-enhancement. We operationalized self-enhancement primarily in terms of the better-than-average effect (BTAE) and accounted for trait desirability or importance. We found that: (i) compared with Chinese Canadians, Chinese showed a stronger BTAE; (ii) within the Chinese, identification with contemporary Chinese culture uniquely predicted a stronger BTAE; and (iii) priming contemporary (vs. traditional) Chinese culture led to a stronger BTAE. Finally, we provided further evidence that motivation, in part, underlies the rising Chinese BTAE. We conclude by discussing the importance of both socioeconomic and cultural perspectives for understanding how and when of self-enhancement in contemporary China and other societies undergoing social change.
+C1 [Zhang, Rui] Dickinson Coll, Psychol, Carlisle, PA 17013 USA.
+   [Noels, Kimberly A.] Univ Alberta, Dept Psychol, Edmonton, AB, Canada.
+   [Guan, Yanjun] Univ Durham, Sch Business, Durham, England.
+   [Weng, Liping] Shanghai Int Studies Univ, Shanghai, Peoples R China.
+RP Zhang, R (corresponding author), Dickinson Coll, Psychol, Carlisle, PA 17013 USA.
+EM zhangr@dickinson.edu
+RI Zhang, Rui/AAA-1452-2019
+OI Zhang, Rui/0000-0002-1281-2976; GUAN, YANJUN/0000-0003-1782-1027
+NR 85
+TC 4
+Z9 5
+U1 1
+U2 8
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0046-2772
+EI 1099-0992
+J9 EUR J SOC PSYCHOL
+JI Eur. J. Soc. Psychol.
+PD FEB
+PY 2017
+VL 47
+IS 1
+BP 36
+EP 52
+DI 10.1002/ejsp.2214
+PG 17
+WC Psychology, Social
+SC Psychology
+GA EX2YP
+UT WOS:000403098000004
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Wohleber, RW
+   Matthews, G
+AF Wohleber, Ryan W.
+   Matthews, Gerald
+TI Multiple facets of overconfidence: Implications for driving safety
+SO TRANSPORTATION RESEARCH PART F-TRAFFIC PSYCHOLOGY AND BEHAVIOUR
+LA English
+DT Article
+DE Overconfidence; Impairment; Driver stress; Risk-taking; Above average
+   effect
+ID DRIVER BEHAVIOR QUESTIONNAIRE; GENDER DIFFERENCES; YOUNG DRIVERS;
+   ACCIDENT RISK; COGNITIVE FAILURES; SELF-ENHANCEMENT; PHONE USE;
+   PERCEPTIONS; VIOLATIONS; ERRORS
+AB This study sought to advance understanding of overconfidence in driving, and its relationship to safety-relevant individual difference factors. We compared the traditional, general above average affect (AAE) in driving ability with an assessment of AAE in relation to compensation for impairments, such as intoxication, fatigue and distraction. General driving and driving impairment AAEs were found to be distinct with unique relationships to illusory control, driver stress, and self-reported unsafe driver behaviors (errors, violations, lapses). Illusory control was associated with driving impairment AAE but not with general driving AAE. Both AAEs were negatively related to dislike of driving but related differently to other criteria. Risk factors related to self-estimation (violations, thrill-seeking) were distinct from factors related to competence relative to peers (aggression). Men scored more highly than women did on both AAEs. Trivia and driving calibration tasks were used to discriminate three aspects of a recent Bayesian belief updating model of overconfidence: overestimation, overplacement (AAE), and overprecision. Findings indicated that overplacement in the calibration tasks was related to AAE, its conceptual equivalent. There was a significant gender difference in overplacement but no gender difference in overprecision. The unique relationships between various types and facets of overconfidence, and driving-relevant individual differences, support the need for tailoring safety interventions to drivers of differing psychological characteristics. (C) 2016 Elsevier Ltd. All rights reserved.
+C1 [Wohleber, Ryan W.; Matthews, Gerald] Univ Cent Florida, Inst Simulat & Training, 3100 Technol Pkwy, Orlando, FL 32826 USA.
+RP Wohleber, RW (corresponding author), Univ Cent Florida, Inst Simulat & Training, 3100 Technol Pkwy, Orlando, FL 32826 USA.
+EM rwohlebe@ist.ucf.edu
+RI Matthews, G/AAM-2968-2020
+OI Matthews, G/0000-0003-4869-338X
+FU Ohio Emergency Medical Services
+FX We thank Peter Chiu at the University of Cincinnati. Funding was
+   provided by Ohio Emergency Medical Services.
+NR 69
+TC 12
+Z9 12
+U1 4
+U2 31
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 1369-8478
+EI 1873-5517
+J9 TRANSPORT RES F-TRAF
+JI Transp. Res. Pt. F-Traffic Psychol. Behav.
+PD NOV
+PY 2016
+VL 43
+BP 265
+EP 278
+DI 10.1016/j.trf.2016.09.011
+PG 14
+WC Psychology, Applied; Transportation
+SC Psychology; Transportation
+GA ED8FS
+UT WOS:000389108000022
+DA 2020-08-05
+ER
+
+PT J
+AU Chung, J
+   Schriber, RA
+   Robins, RW
+AF Chung, Joanne
+   Schriber, Roberta A.
+   Robins, Richard W.
+TI Positive Illusions in the Academic Context: A Longitudinal Study of
+   Academic Self-Enhancement in College
+SO PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+LA English
+DT Article
+DE longitudinal; self-enhancement; academic achievement; young adulthood;
+   ethnicity
+ID PEOPLE KNOW-HOW; INDIVIDUAL-DIFFERENCES; PERSONALITY-CHANGE;
+   ACHIEVEMENT; ACCURACY; AVERAGE; BIAS; PERFORMANCE; GENERALITY;
+   ADJUSTMENT
+AB In the present research, we examined academic self-enhancement in students (N = 264) followed longitudinally through 4 years of college. We used social comparison (i.e., better-than-average ratings) and self-insight (i.e., criterion-based) approaches to assess the degree to which students self-enhanced in their self-perceptions of academic ability, with SAT scores, high school grade point average (GPA), and college GPA used as criterion measures. We also examined ethnic variability in academic self-enhancement. We found that academic self-enhancement (a) increased or decreased over the 4 years of college, depending on its operationalization, (b) tended to be adaptive according to social comparison indices, and (c) demonstrated a trajectory that differed by ethnicity, but ethnicity did not moderate the effect of academic self-enhancement on outcomes. We discuss the implications of the findings for debates about the adaptive value of self-enhancement, the magnitude of cultural differences, and how best to conceptualize and operationalize the construct.
+C1 [Chung, Joanne] Tilburg Univ, Tilburg, Netherlands.
+   [Schriber, Roberta A.; Robins, Richard W.] Univ Calif Davis, Davis, CA 95616 USA.
+RP Chung, J (corresponding author), Tilburg Univ, Dept Dev Psychol, POB 90153, NL-5000 LE Tilburg, Netherlands.
+EM j.m.h.chung@uvt.nl
+RI Chung, Joanne M./N-4122-2015
+OI Chung, Joanne M./0000-0002-2191-9644
+FU National Institute of Mental HealthUnited States Department of Health &
+   Human ServicesNational Institutes of Health (NIH) - USANIH National
+   Institute of Mental Health (NIMH) [T32-MH2006]; National Institute of
+   Child Health and Human DevelopmentUnited States Department of Health &
+   Human ServicesNational Institutes of Health (NIH) - USANIH Eunice
+   Kennedy Shriver National Institute of Child Health & Human Development
+   (NICHD) [HD064687]; William T. Grant Foundation [3-GUYWTGM]; National
+   Institute on Drug AbuseUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USANIH National Institute
+   on Drug Abuse (NIDA) [R01-DA017902]
+FX This research was supported by National Institute of Mental Health
+   Predoctoral Fellowship Award T32-MH2006 to Joanne M. Chung, National
+   Institute of Child Health and Human Development Grant HD064687 and
+   William T. Grant Foundation Postdoctoral Fellowship Award 3-GUYWTGM to
+   Roberta A. Schriber, and National Institute on Drug Abuse Grant
+   R01-DA017902 to Richard W. Robins.
+NR 76
+TC 6
+Z9 6
+U1 2
+U2 35
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0146-1672
+EI 1552-7433
+J9 PERS SOC PSYCHOL B
+JI Pers. Soc. Psychol. Bull.
+PD OCT
+PY 2016
+VL 42
+IS 10
+BP 1384
+EP 1401
+DI 10.1177/0146167216662866
+PG 18
+WC Psychology, Social
+SC Psychology
+GA DV9LB
+UT WOS:000383260900007
+PM 27549790
+DA 2020-08-05
+ER
+
+PT J
+AU Scherer, AM
+   Bruchmann, K
+   Windschitl, PD
+   Rose, JP
+   Smith, AR
+   Koestner, B
+   Snetselaar, L
+   Suls, J
+AF Scherer, Aaron M.
+   Bruchmann, Kathryn
+   Windschitl, Paul D.
+   Rose, Jason P.
+   Smith, Andrew R.
+   Koestner, Bryan
+   Snetselaar, Linda
+   Suls, Jerry
+TI Sources of Bias in Peoples' Social-Comparative Estimates of Food
+   Consumption
+SO JOURNAL OF EXPERIMENTAL PSYCHOLOGY-APPLIED
+LA English
+DT Article
+DE nutrition; comparative bias; optimistic bias; egocentrism; measurement
+   issues
+ID COMPARATIVE-OPTIMISM; COMPARATIVE JUDGMENTS; UNREALISTIC OPTIMISM; RISK
+   PERCEPTIONS; PERCEIVED VULNERABILITY; COMPARISON INFORMATION; IMPRESSION
+   MANAGEMENT; EVENT FREQUENCY; SELF-EVALUATION; US ADULTS
+AB Understanding how healthfully people think they eat compared to others has implications for their motivation to engage in dietary change and the adoption of health recommendations. Our goal was to investigate the scope, sources, and measurements of bias in comparative food consumption beliefs. Across 4 experiments, participants made direct comparisons of how their consumption compared to their peers' consumption and/or estimated their personal consumption of various foods/nutrients and the consumption by peers, allowing the measurement of indirect comparisons. Critically, the healthiness and commonness of the foods varied. When the commonness and healthiness of foods both varied, indirect comparative estimates were more affected by the healthiness of the food, suggesting a role for self-serving motivations, while direct comparisons were more affected by the commonness of the food, suggesting egocentrism as a nonmotivated source of comparative bias. When commonness did not vary, the healthiness of the foods impacted both direct and indirect comparisons, with a greater influence on indirect comparisons. These results suggest that both motivated and nonmotivated sources of bias should be taken into account when creating interventions aimed at improving eating habits and highlights the need for researchers to be sensitive to how they measure perceptions of comparative eating habits.
+C1 [Scherer, Aaron M.] Univ Michigan, Ctr Bioeth & Social Sci Med, 4800 Plymouth Rd,Bldg 16,Rm 430W, Ann Arbor, MI 48109 USA.
+   [Bruchmann, Kathryn] Santa Clara Univ, Dept Psychol, Santa Clara, CA 95053 USA.
+   [Windschitl, Paul D.] Univ Iowa, Dept Psychol, Iowa City, IA 52242 USA.
+   [Rose, Jason P.] Univ Toledo, Dept Psychol, Toledo, OH USA.
+   [Smith, Andrew R.] Appalachian State Univ, Dept Psychol, Boone, NC 28608 USA.
+   [Koestner, Bryan] Univ Iowa, Carver Coll Med, Iowa City, IA 52242 USA.
+   [Snetselaar, Linda] Univ Iowa, Dept Epidemiol, Iowa City, IA 52242 USA.
+   [Suls, Jerry] NCI, Div Canc Control & Populat Sci, Bethesda, MD 20892 USA.
+RP Scherer, AM (corresponding author), Univ Michigan, Ctr Bioeth & Social Sci Med, 4800 Plymouth Rd,Bldg 16,Rm 430W, Ann Arbor, MI 48109 USA.
+EM aaschere@med.umich.edu
+OI Smith, Andrew/0000-0001-5302-3343; Scherer, Aaron M/0000-0002-4134-9300
+FU NCI NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Cancer Institute (NCI) [P30
+   CA086862]; NIH HHSUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USA [DP2 OD007483]
+NR 50
+TC 2
+Z9 2
+U1 0
+U2 14
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1076-898X
+EI 1939-2192
+J9 J EXP PSYCHOL-APPL
+JI J. Exp. Psychol.-Appl.
+PD JUN
+PY 2016
+VL 22
+IS 2
+BP 173
+EP 183
+DI 10.1037/xap0000081
+PG 11
+WC Psychology, Applied
+SC Psychology
+GA DP1FG
+UT WOS:000378235300004
+PM 27054551
+DA 2020-08-05
+ER
+
+PT J
+AU El-Alayli, A
+   Wynne, M
+AF El-Alayli, Amani
+   Wynne, Melodi
+TI Whose personality is better, mine or my partner's? Self-enhancement bias
+   in relationships
+SO PERSONAL RELATIONSHIPS
+LA English
+DT Article
+ID POSITIVE ILLUSIONS; INTIMATE-RELATIONSHIPS; ROMANTIC RELATIONSHIPS;
+   CLOSE RELATIONSHIPS; SOCIAL COMPARISONS; MERE OWNERSHIP; MENTAL-HEALTH;
+   PERCEPTIONS; SATISFACTION; SUPERIORITY
+AB Previous research has documented self-enhancement and relationship partner-enhancement motivations, but not examined whether individuals view themselves or their partners more favorably, overall. The authors conducted three studies that revealed a general tendency to favor oneself over one's partner in direct self-partner personality comparisons. This illustrated a motivational precedence of self-enhancement over partner-enhancement goals. In Study 1, participants rated self-only traits more favorably than partner-only traits. In Studies 2 and 3, participants rated desirable traits as more characteristic of themselves than their partner, particularly when traits were more relevant to personal than relationship success. The authors also found that this self-favoring bias was weaker (typically nonexistent) among those with higher relationship satisfaction, lower self-esteem, or lower self-deceptive tendencies. The authors discuss practical, theoretical, and methodological implications.
+C1 [El-Alayli, Amani; Wynne, Melodi] Eastern Washington Univ, Dept Psychol, Cheney, WA 99004 USA.
+RP El-Alayli, A (corresponding author), Eastern Washington Univ, Dept Psychol, 135 Martin Hall, Cheney, WA 99004 USA.
+EM amani@ewu.edu
+NR 55
+TC 3
+Z9 3
+U1 0
+U2 13
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1350-4126
+EI 1475-6811
+J9 PERS RELATIONSHIP
+JI Pers. Relat.
+PD SEP
+PY 2015
+VL 22
+IS 3
+BP 550
+EP 571
+DI 10.1111/pere.12096
+PG 22
+WC Communication; Psychology, Social
+SC Communication; Psychology
+GA CQ7SZ
+UT WOS:000360805800010
+DA 2020-08-05
+ER
+
+PT J
+AU Logie, K
+   Frewen, P
+AF Logie, Kyle
+   Frewen, Paul
+TI Self/Other Referential Processing Following Mindfulness and
+   Loving-Kindness Meditation
+SO MINDFULNESS
+LA English
+DT Article
+DE Mindfulness; Loving-kindness; Metta; Meditation; Self-referential
+   processing
+ID POSITIVE EMOTIONS; SELF-COMPASSION; VALIDATION; QUESTIONNAIRE;
+   DEPRESSION; ONESELF; ESTEEM; SCALE; BIAS; ME
+AB The immediate outcomes of mindfulness meditation (MM) and loving-kindness meditation (LKM) on experimental measures of explicit and implicit self-and other-referential processing (SRP-ORP) have not been investigated previously. In this study, undergraduate students (n=104) were randomized to a single-session practice of MM, LKM, or reading control and completed self-report measures of decentering and positive affect directed toward self and other. Participants also completed an experimental measure of valenced SRP-ORP. Practice of both meditations was associated with increased decentering and positive affect relative to reading control, although self-reported response to MM and LKM did not significantly differ. Following the meditation, whereas participants randomized to MM evidenced an expected self-positivity bias in positive affective response and reaction time during an experimental SRP-ORP task, participants randomized to LKM did not. LKM, as uniquely involving the intentional cultivation of positive emotion toward both self and other, may be associated with a relative normalization of the self-positivity bias. Individual differences in response to SRP-ORP were also examined as a function of traits related to mindfulness and loving-kindness, in addition to as a function of variability in experiential response to MM and LKM. Study limitations and future research directions are also discussed.
+C1 [Logie, Kyle; Frewen, Paul] Univ Western Ontario, Univ Hosp, Dept Psychiat, London, ON N6A 5A5, Canada.
+   [Logie, Kyle; Frewen, Paul] Univ Western Ontario, Univ Hosp, Dept Psychol, London, ON N6A 5A5, Canada.
+RP Frewen, P (corresponding author), Univ Western Ontario, Univ Hosp, Dept Psychiat, 339 Windermere Rd Room B3-264, London, ON N6A 5A5, Canada.
+EM pfrewen@uwo.ca
+NR 35
+TC 8
+Z9 8
+U1 1
+U2 35
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1868-8527
+EI 1868-8535
+J9 MINDFULNESS
+JI Mindfulness
+PD AUG
+PY 2015
+VL 6
+IS 4
+BP 778
+EP 787
+DI 10.1007/s12671-014-0317-z
+PG 10
+WC Psychology, Clinical; Psychiatry
+SC Psychology; Psychiatry
+GA CQ9GV
+UT WOS:000360922500009
+DA 2020-08-05
+ER
+
+PT J
+AU Sproesser, G
+   Klusmann, V
+   Schupp, HT
+   Renner, B
+AF Sproesser, Gudrun
+   Klusmann, Verena
+   Schupp, Harald T.
+   Renner, Britta
+TI Comparative optimism about healthy eating
+SO APPETITE
+LA English
+DT Article
+DE Healthy eating; Perceived healthiness; BMI; Intention; Unrealistic
+   optimism; Self-perception
+ID UNREALISTIC OPTIMISM; PLANNED BEHAVIOR; FAT INTAKE; FOOD; RISK; BIAS;
+   CONSEQUENCES; ADOLESCENTS; VALIDATION; COUNTRIES
+AB The present study investigated people's perception of their own as compared to their peers' healthy eating and related these perceptions to actual healthy eating, BMI, and subsequent healthy eating behavior. Data were colletted within the framework of the longitudinal cohort study Konstanz Life Study (T1: N = 770; T2: N = 510). Our results demonstrated an optimistic bias on the group level. Specifically, people rated their own eating behavior as healthier on average than that of their average peers. This comparative optimism occurred even when actual healthy eating was unfavorable and BMI was high. However, it increased with actual healthy eating behavior. Importantly, optimistic perceptions were positively related to the intention to eat healthily and healthy eating six months later. Hence, the results suggest that an optimistic comparative view of one's own healthy eating is grounded in reality and boosts rather than deters subsequent health behavior. This implies that there might not be a need to reduce optimistic perceptions of healthy eating behavior. (C) 2015 Elsevier Ltd. All rights reserved.
+C1 [Sproesser, Gudrun; Klusmann, Verena; Renner, Britta] Univ Constance, Psychol Assessment & Hlth Psychol, D-78457 Constance, Germany.
+   [Schupp, Harald T.] Univ Constance, Gen Psychol, D-78457 Constance, Germany.
+RP Sproesser, G (corresponding author), Univ Constance, Psychol Assessment & Hlth Psychol, Box 47, D-78457 Constance, Germany.
+EM gudrun.sproesser@uni-konstanz.de
+RI Klusmann, Verena/AAO-2452-2020
+OI Klusmann, Verena/0000-0001-7928-7793; Renner, Britta/0000-0001-8385-2839
+FU Federal Ministry of Education and ResearchFederal Ministry of Education
+   & Research (BMBF) [0315671]
+FX This research was part of the EATMOTIVE project which was funded by the
+   Federal Ministry of Education and Research (Grant 0315671, granted to
+   Britta Renner and Harald Schupp). The funding sources had no involvement
+   in study design; in the collection, analysis and interpretation of data;
+   in the writing of the report; and in the decision to submit the article
+   for publication.
+NR 52
+TC 11
+Z9 11
+U1 1
+U2 17
+PU ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN 0195-6663
+EI 1095-8304
+J9 APPETITE
+JI Appetite
+PD JUL 1
+PY 2015
+VL 90
+BP 212
+EP 218
+DI 10.1016/j.appet.2015.03.008
+PG 7
+WC Behavioral Sciences; Nutrition & Dietetics
+SC Behavioral Sciences; Nutrition & Dietetics
+GA CI2NK
+UT WOS:000354584100027
+PM 25770914
+DA 2020-08-05
+ER
+
+PT J
+AU Eriksson, K
+   Funcke, A
+AF Eriksson, Kimmo
+   Funcke, Alexander
+TI A Below-Average Effect with Respect to American Political Stereotypes on
+   Warmth and Competence
+SO POLITICAL PSYCHOLOGY
+LA English
+DT Article
+DE above-average effect; below-average effect; self-enhancement; ingroup
+   bias; political stereotypes
+ID IDENTIFICATION; REPUBLICANS; PERCEPTION; DEMOCRATS; CONFLICT; GENDER
+AB The above-average effect is the phenomenon that people tend to judge themselves above average on desirable traits. Based on social identity theory, we propose that a below-average effect may arise when individuals rate themselves and the average ingroup member on traits stereotypically associated with the ingroup. In two studies, Republican and Democrat participants rated themselves and the average political ingroup member on possession of desirable traits related to warmth and competence. Current political stereotypes in America associate the former dimension with Democrats and the latter with Republicans. Consistent with our hypothesis, the above-average effect was moderated by political group and dimension in interaction. In particular, Democrats rated themselves below the average Democrat on warmth and Republicans rated themselves below the average Republican on competence.
+C1 [Eriksson, Kimmo; Funcke, Alexander] Malardalen Univ, Vasteras, Sweden.
+   [Eriksson, Kimmo; Funcke, Alexander] Stockholm Univ, Stockholm, Sweden.
+   [Funcke, Alexander] Harvard Univ, Cambridge, MA 02138 USA.
+RP Eriksson, K (corresponding author), Malardalen Univ, Vasteras, Sweden.
+RI Eriksson, Kimmo/F-6253-2013
+OI Eriksson, Kimmo/0000-0002-7164-0924
+FU Swedish Research CouncilSwedish Research Council [2009-2390, 2009-2678]
+FX We thank Pontus Strimling and several anonymous reviewers for helpful
+   advice. This research was supported by the Swedish Research Council
+   [grants 2009-2390 and 2009-2678].
+NR 20
+TC 8
+Z9 8
+U1 0
+U2 14
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0162-895X
+EI 1467-9221
+J9 POLIT PSYCHOL
+JI Polit. Psychol.
+PD JUN
+PY 2015
+VL 36
+IS 3
+BP 341
+EP 350
+DI 10.1111/pops.12093
+PG 10
+WC Political Science; Psychology, Social
+SC Government & Law; Psychology
+GA CJ1HQ
+UT WOS:000355235100006
+DA 2020-08-05
+ER
+
+PT J
+AU Cohen, AS
+   Auster, TL
+   MacAulay, RK
+   McGovern, JE
+AF Cohen, Alex S.
+   Auster, Tracey L.
+   MacAulay, Rebecca K.
+   McGovern, Jessica E.
+TI Illusory Superiority and Schizotypal Personality: Explaining the
+   Discrepancy Between Subjective/Objective Psychopathology
+SO PERSONALITY DISORDERS-THEORY RESEARCH AND TREATMENT
+LA English
+DT Article
+DE affect; emotion; schizophrenia; schizotypy; superiority bias
+ID SCHIZOPHRENIA-SPECTRUM; NEGATIVE SYMPTOMS; SELF; BELIEFS; DELUSIONS;
+   EMOTION; RISK; INDIVIDUALS; MAINTENANCE; PSYCHOSIS
+AB An interesting paradox has emerged from the literature regarding schizotypy-defined as the personality organization reflecting a putative liability for schizophrenia-spectrum disorders. Across certain cognitive, emotional, quality of life, and other functional variables, individuals with schizotypy report experiencing relatively severe levels of pathology. However, on objective tests of these same variables, individuals with schizotypy perform largely in the healthy range. These subjective impairments are paradoxical in that individuals with schizotypy, typically recruited from undergraduate college populations, should be healthier in virtually every conceivable measure compared to chronic, older outpatients with severe mental illness. The present study evaluated the idea that the subjective deficits associated with schizotypy largely reflect a lack of illusory superiority bias-a normally occurring bias associated with an overestimation of self-reported positive qualities and underestimation of negative qualities compared to others. In the present study, both state-measured using laboratory emotion-induction methods-and trait positive and negative emotion was assessed across self (e.g., how do you feel at this moment?) and other (e.g., how do most people feel at this moment?) domains in 39 individuals with self-reported schizotypy and 39 matched controls. Controls demonstrated an illusory superiority effect across both state and trait measures whereas individuals with schizotypy did not. These results were not explained by severity of mental health symptoms. These results suggest that a cognitive bias, or lack thereof, is a marker of schizotypy and a potential target for further research and therapy.
+C1 [Cohen, Alex S.; Auster, Tracey L.; MacAulay, Rebecca K.; McGovern, Jessica E.] Louisiana State Univ, Dept Psychol, Baton Rouge, LA 70803 USA.
+RP Cohen, AS (corresponding author), Louisiana State Univ, Dept Psychol, 236 Audubon Hall, Baton Rouge, LA 70803 USA.
+EM acohen@lsu.edu
+OI McGovern, Jessica/0000-0003-3223-7785; Cohen, Alex/0000-0003-4014-6904
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [R03 MH092622]
+NR 25
+TC 5
+Z9 5
+U1 1
+U2 5
+PU EDUCATIONAL PUBLISHING FOUNDATION-AMERICAN PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST, NE, WASHINGTON, DC 20002-4242 USA
+SN 1949-2715
+EI 1949-2723
+J9 PERSONAL DISORD
+JI Personal. Disord.
+PD OCT
+PY 2014
+VL 5
+IS 4
+BP 413
+EP 418
+DI 10.1037/per0000080
+PG 6
+WC Psychology, Clinical
+SC Psychology
+GA AR9BS
+UT WOS:000343866700009
+PM 25150366
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Morry, MM
+   Kito, M
+   Dunphy, L
+AF Morry, Marian M.
+   Kito, Mie
+   Dunphy, Lindsey
+TI How Do I See You? Partner-Enhancement in Dating Couples
+SO CANADIAN JOURNAL OF BEHAVIOURAL SCIENCE-REVUE CANADIENNE DES SCIENCES DU
+   COMPORTEMENT
+LA English
+DT Article
+DE romantic relationships; partner-enhancement; idealization; positive
+   illusions; self-enhancement
+ID CLOSE RELATIONSHIPS; SELF-ENHANCEMENT; RELATIONSHIP SATISFACTION;
+   POSITIVE ILLUSIONS; ROMANTIC RELATIONSHIPS; RELATIONSHIP QUALITY;
+   MENTAL-HEALTH; FRIENDS; WELL; PERSPECTIVE
+AB Individuals self-enhance or rate themselves more positively than they rate either strangers or acquaintances. Within ongoing relationships, self-enhancement may be detrimental to the relationship. Three studies examined partner-enhancement, rating a dating partner more positively than the self. Study 1 found partner-enhancement relative to the self on moderate relationship-relevant traits (e.g., loving, selfish) and to the average student on all traits. Individuals also self-enhanced on all traits relative to the average student. Study 2, a dyad study, found partner-enhancement on moderate but not low (e.g., reserved, intelligent) relationship-relevant traits and idealization (rating the partner more positively than the partner self-rates) by men but not women. In Study 3, when primed with high, but not low, relationship quality, people partner-enhanced on the moderate relevant traits. These findings suggest that individuals can strategically self-and partner enhance in their dating relationships.
+C1 [Morry, Marian M.; Kito, Mie; Dunphy, Lindsey] Univ Manitoba, Dept Psychol, Winnipeg, MB R3T 2N2, Canada.
+RP Morry, MM (corresponding author), Univ Manitoba, Dept Psychol, P508 Duff Roblin, Winnipeg, MB R3T 2N2, Canada.
+EM marian_morry@umanitoba.ca
+NR 37
+TC 2
+Z9 4
+U1 0
+U2 3
+PU CANADIAN PSYCHOLOGICAL  ASSOC
+PI OTTAWA
+PA 141 LAURIER AVE WEST, STE 702, OTTAWA, ONTARIO K1P 5J3, CANADA
+SN 0008-400X
+EI 1879-2669
+J9 CAN J BEHAV SCI
+JI Can. J. Behav. Sci.-Rev. Can. Sci. Comport.
+PD JUL
+PY 2014
+VL 46
+IS 3
+BP 356
+EP 365
+DI 10.1037/a0033167
+PG 10
+WC Psychology, Multidisciplinary
+SC Psychology
+GA CA8FE
+UT WOS:000349151800006
+DA 2020-08-05
+ER
+
+PT J
+AU Gordon, EA
+   Johnson, K
+   Heimberg, RG
+   Montesi, JL
+   Fauber, RL
+AF Gordon, Elizabeth A.
+   Johnson, Kareem
+   Heimberg, Richard G.
+   Montesi, Jennifer L.
+   Fauber, Robert L.
+TI BI-DIRECTIONAL POSITIVE ILLUSIONS IN ROMANTIC RELATIONSHIPS:
+   POSSIBILITIES AND PITFALLS FOR THE SOCIALLY ANXIOUS
+SO JOURNAL OF SOCIAL AND CLINICAL PSYCHOLOGY
+LA English
+DT Article
+ID INTERACTION ANXIETY SCALE; CLOSE RELATIONSHIPS; PEER RELATIONS;
+   MARITAL-STATUS; PHOBIA; SELF; VALIDATION; ATTACHMENT; EVOLUTION;
+   DISORDER
+AB Socially anxious individuals often compare themselves unfavorably to others, a process that may maintain their anxiety. Individuals in relationships often have positive illusions about their romantic partners, seeing their partners more favorably than the partners view themselves. Positive illusions about romantic partners are typically bi-directional; individuals have illusions about their partners and partners have illusions about them. However, it is unclear whether these illusions are maintained in romantic relationships involving socially anxious individuals. Bi-directional positive illusions could influence whether the presence of a romantic partner would increase or decrease predictions about discomfort socially anxious individuals would feel in social interactions. We examined bidirectional positive illusions and predictions of comfort in hypothetical social situations in a sample of 112 undergraduate students and their romantic partners. Bi-directional positive partner illusions were evident among those with higher social anxiety even though normative self-enhancement bias was not. Being the recipient of positive illusions from one's partner was associated with decreased predicted comfort when presenting in front of a group, especially for socially anxious individuals. Social anxiety also moderated the perceived benefit of having positive illusions about one's partner when socializing with acquaintances. Thus, it appears that, although socially anxious individuals may both apply and receive positive illusions within romantic relationships, the extent to which they benefit from such illusions may be limited.
+C1 [Gordon, Elizabeth A.; Johnson, Kareem; Heimberg, Richard G.; Montesi, Jennifer L.; Fauber, Robert L.] Temple Univ, Philadelphia, PA 19122 USA.
+RP Heimberg, RG (corresponding author), Temple Univ, Dept Psychol, Weiss Hall,1701 North 13th St, Philadelphia, PA 19122 USA.
+EM heimberg@temple.edu
+NR 53
+TC 3
+Z9 3
+U1 1
+U2 14
+PU GUILFORD PUBLICATIONS INC
+PI NEW YORK
+PA 370 SEVENTH AVE, SUITE 1200, NEW YORK, NY 10001-1020 USA
+SN 0736-7236
+J9 J SOC CLIN PSYCHOL
+JI J. Soc. Clin. Psychol.
+PD FEB
+PY 2013
+VL 32
+IS 2
+BP 200
+EP 224
+DI 10.1521/jscp.2013.32.2.200
+PG 25
+WC Psychology, Clinical; Psychology, Social
+SC Psychology
+GA 100DC
+UT WOS:000315675000004
+DA 2020-08-05
+ER
+
+PT J
+AU Bai, X
+   Chow, N
+AF Bai, Xue
+   Chow, Nelson
+TI CHINESE ELDERS' SELF-IMAGE AND THEIR PERCEIVED PEER-IMAGE: POSSIBILITY
+   OF SELF-ENHANCEMENT BIAS
+SO INTERNATIONAL JOURNAL OF AGING & HUMAN DEVELOPMENT
+LA English
+DT Article
+ID ABOVE-AVERAGE; MODERNIZATION; STEREOTYPES; CULTURE; ESTEEM; HEALTH
+AB Decades of research with Western participants has documented that there is a pervasive motivation for people to view themselves as better off than others while evidence for the existence of such self-enhancement bias (SEB) among East Asians varies considerably across studies. Considering the traditional culture of Confucius on modesty, the present study hypothesizes that there should be no significant SEB among Chinese elders. Structured face-to-face interviews were conducted with 445 older people in China-Wuhan, in which the revised Chinese version of Image of Aging Scale (IAS-C) was filled out. SEB was calculated by subtracting participants' ratings of "Peer-Image" (P) from their ratings of Self-Image (S). However, inconsistent with our hypothesis, a significant SEB was observed among the Chinese older participants and significant differences in the magnitude of SEB were discerned among older people in different characteristic groups. Possible explanations were further provided for the mismatch between Chinese values and the existence of SEB.
+C1 [Bai, Xue] Hong Kong Polytech Univ, Kowloon, Hong Kong, Peoples R China.
+   [Chow, Nelson] Univ Hong Kong, Hong Kong, Hong Kong, Peoples R China.
+RP Bai, X (corresponding author), Hong Kong Polytech Univ, Dept Appl Social Sci, Kowloon, Hong Kong, Peoples R China.
+EM xuebai@polyu.edu.hk
+RI Bai, Xue/A-4279-2017
+OI Bai, Xue/0000-0002-0502-7291
+NR 45
+TC 3
+Z9 3
+U1 0
+U2 9
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0091-4150
+EI 1541-3535
+J9 INT J AGING HUM DEV
+JI Int. J. Aging Human Dev.
+PY 2013
+VL 77
+IS 1
+BP 1
+EP 16
+DI 10.2190/AG.77.1.a
+PG 16
+WC Gerontology; Psychology, Developmental
+SC Geriatrics & Gerontology; Psychology
+GA 209IZ
+UT WOS:000323750500001
+PM 23986977
+DA 2020-08-05
+ER
+
+PT J
+AU Tam, KP
+   Leung, AKY
+   Kim, YH
+   Chiu, CY
+   Lau, IYM
+   Au, AKC
+AF Tam, Kim-Pong
+   Leung, Angela K. -Y.
+   Kim, Young-Hoon
+   Chiu, Chi-Yue
+   Lau, Ivy Yee-Man
+   Au, Al K. C.
+TI The Better-Than-Average Effect in Hong Kong and the United States: The
+   Role of Personal Trait Importance and Cultural Trait Importance
+SO JOURNAL OF CROSS-CULTURAL PSYCHOLOGY
+LA English
+DT Article
+DE better-than-average-effect; culture; trait importance; intersubjective
+   approach
+ID PANCULTURAL SELF-ENHANCEMENT; UNIVERSAL NEED; VEVEA 2005; VALUES;
+   SEDIKIDES; GAERTNER; ESTEEM; PSYCHOLOGY; IDENTIFICATION; CONCLUSIONS
+AB People tend to make self-aggrandizing social comparisons on traits that are important to the self. However, existing research on the better-than-average effect (BTAE) and trait importance does not distinguish between personal trait importance (participants' ratings of the importance of certain traits to themselves) and cultural trait importance (participants' perceptions of the importance of the traits to the cultural group to which they belong). We demonstrated the utility of this distinction by examining the joint effects of personal importance and cultural importance on the BTAE among Hong Kong Chinese and American participants. Results showed that the BTAE was more pronounced for personally important traits among both Chinese and American participants. More important, the magnitude of the BTAE was smaller on culturally important traits among Chinese participants only. Chinese participants displayed the strongest BTAE on personally important and culturally unimportant traits, and the smallest BTAE on personally unimportant and culturally important ones. American participants showed the smallest BTAE on personally and culturally unimportant traits. These findings underscore the importance of distinguishing personal trait importance and cultural trait importance in understanding the cultural effects on self-aggrandizing social comparisons. They further suggest that in cultures where people are expected to be modest in self-expression (e.g., Chinese culture), people would avoid claiming superiority on highly culturally important traits even when these traits are important to the self.
+C1 [Tam, Kim-Pong] Hong Kong Univ Sci & Technol, Div Social Sci, Hong Kong, Hong Kong, Peoples R China.
+   [Leung, Angela K. -Y.; Lau, Ivy Yee-Man] Singapore Management Univ, Singapore, Singapore.
+   [Kim, Young-Hoon] Yonsei Univ, Seoul 120749, South Korea.
+   [Chiu, Chi-Yue] Nanyang Technol Univ, Singapore, Singapore.
+   [Au, Al K. C.] Natl Univ Singapore, Singapore 117548, Singapore.
+RP Tam, KP (corresponding author), Hong Kong Univ Sci & Technol, Div Social Sci, Hong Kong, Hong Kong, Peoples R China.
+EM kevintam@ust.hk
+RI Tam, Kim-Pong/K-6975-2014; Lau, Ivy/F-9073-2010; LEUNG, Angela
+   Ka-yee/F-9074-2010
+OI Tam, Kim-Pong/0000-0003-1485-1343; LEUNG, Angela
+   Ka-yee/0000-0003-2302-9941; Chiu, Chi Yue/0000-0002-3810-6666; Au, Al
+   Kin-Chung/0000-0001-5802-7976; LAU, Ivy Yee-Man/0000-0003-0036-2477
+NR 52
+TC 18
+Z9 19
+U1 0
+U2 37
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0022-0221
+EI 1552-5422
+J9 J CROSS CULT PSYCHOL
+JI J. Cross-Cult. Psychol.
+PD AUG
+PY 2012
+VL 43
+IS 6
+BP 915
+EP 930
+DI 10.1177/0022022112443774
+PG 16
+WC Psychology, Social
+SC Psychology
+GA 968IB
+UT WOS:000305970100003
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Frewen, PA
+   Lundberg, E
+AF Frewen, Paul A.
+   Lundberg, Erica
+TI Visual-Verbal Self/Other-Referential Processing Task: Direct vs.
+   indirect assessment, valence, and experiential correlates
+SO PERSONALITY AND INDIVIDUAL DIFFERENCES
+LA English
+DT Article
+DE Self-Referential Processing; Implicit social cognition; Self-esteem;
+   Depression
+ID METAANALYSIS; IMPLICIT
+AB This study evaluated a new methodology for assessing valenced Self-Referential Processing (SRP) in comparison with Other-Referential Processing (ORP). Participants viewed pictures of themselves during certain trials and same-gender strangers during others, intermixed between valenced words. Participants internally-rehearsed the words "I am" or "He/she is" when presented with the respective pictures and read the valenced words, thereby associating the self/other with positivity/negativity on different trials. Participants self-monitored their affective response, and their degree of attention and/or rate of internal speech/reading speed was measured indirectly via button-press response time (RT). Results in 91 young adults demonstrated a self-positivity bias in survey ratings, stronger affective responses during SRP than ORP, slower RI during SRP than ORP, and slower RT during positive than negative valence. Difference scores between SRP of negative- vs. positive-valence trials, and between SRP vs. ORP of negative-valence trials, were correlated among survey ratings, affective responses, and RT. Finally, content analyses of phenomenological reports showed that task conditions differentially provoked a number of socioemotional experiences during both SRP and ORP (e.g., jealousy-envy, sympathy-pity, good will/pride). We discuss potential applications of the task in the study of personality and individual differences. (C) 2011 Elsevier Ltd. All rights reserved.
+C1 [Frewen, Paul A.; Lundberg, Erica] Univ Western Ontario, Dept Psychiat, London, ON N6A 5N1, Canada.
+   [Frewen, Paul A.] Univ Western Ontario, Dept Psychol, London, ON N6A 5N1, Canada.
+   [Frewen, Paul A.] Univ Western Ontario, Grad Program Neurosci, London, ON N6A 5N1, Canada.
+RP Frewen, PA (corresponding author), Univ Western Ontario, Univ Hosp, Room A10-222, London, ON N6A 5N1, Canada.
+EM pfrewen@uwo.ca
+NR 14
+TC 6
+Z9 6
+U1 0
+U2 9
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0191-8869
+J9 PERS INDIV DIFFER
+JI Pers. Individ. Differ.
+PD MAR
+PY 2012
+VL 52
+IS 4
+BP 509
+EP 514
+DI 10.1016/j.paid.2011.11.021
+PG 6
+WC Psychology, Social
+SC Psychology
+GA 904SL
+UT WOS:000301218100008
+DA 2020-08-05
+ER
+
+PT J
+AU Brown, JD
+AF Brown, Jonathon D.
+TI Understanding the Better Than Average Effect: Motives (Still) Matter
+SO PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+LA English
+DT Article
+DE self-evaluations; self-enhancement; better than average effect;
+   motivation
+ID PANCULTURAL SELF-ENHANCEMENT; COMPARATIVE-OPTIMISM; ABOVE-AVERAGE;
+   COMPARATIVE JUDGMENTS; WELL; BIAS; ESTEEM; DESIRABILITY; EGOCENTRISM;
+   PERCEPTIONS
+AB People evaluate themselves more positively than they evaluate most other people. Although this better than average (BTA) effect was originally thought to represent a motivated bias, several cognitively oriented theorists have questioned whether this is the case. In support of a motivational model, the author reports five studies showing that the BTA effect is stronger for important attributes than unimportant ones (all five studies) and that once attribute importance is taken into account, the effect occurs when self-evaluations are compared with a single peer (Study 2) and when self is specified as the referent rather than the target (Study 4). Finally, Study 5 shows that the BTA effect increases in magnitude after participants experience a threat to their feelings of self-worth. Collectively, these findings establish that motivational processes underlie the BTA effect.
+C1 Univ Washington, Dept Psychol, Seattle, WA 98195 USA.
+RP Brown, JD (corresponding author), Univ Washington, Dept Psychol, Box 351525, Seattle, WA 98195 USA.
+EM jdb@uw.edu
+NR 50
+TC 115
+Z9 117
+U1 1
+U2 77
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0146-1672
+EI 1552-7433
+J9 PERS SOC PSYCHOL B
+JI Pers. Soc. Psychol. Bull.
+PD FEB
+PY 2012
+VL 38
+IS 2
+BP 209
+EP 219
+DI 10.1177/0146167211432763
+PG 11
+WC Psychology, Social
+SC Psychology
+GA 881GN
+UT WOS:000299470700006
+PM 22205623
+DA 2020-08-05
+ER
+
+PT J
+AU Swami, V
+   Allum, L
+AF Swami, Viren
+   Allum, Lucy
+TI Perceptions of the physical attractiveness of the self, current romantic
+   partners, and former partners
+SO SCANDINAVIAN JOURNAL OF PSYCHOLOGY
+LA English
+DT Article
+DE Positive illusions; love-is-blind bias; physical attractiveness;
+   romantic partners; relationship termination
+ID POSITIVE ILLUSIONS; CLOSE RELATIONSHIPS; INDIVIDUAL-DIFFERENCES; LOVE;
+   BLIND; SATISFACTION; SUPERIORITY; DIVORCE; SPOUSES; ESTEEM
+AB Swami, V. & Allum, L. (2011). Perceptions of the physical attractiveness of the self, current romantic partners, and former partners. Scandinavian Journal of Psychology 53, 8995.
+C1 [Swami, Viren; Allum, Lucy] Univ Westminster, Dept Psychol, London W1B 2UW, England.
+   [Swami, Viren] HELP Univ Coll, Dept Psychol, Kuala Lumpur, Malaysia.
+RP Swami, V (corresponding author), Univ Westminster, Dept Psychol, 309 Regent St, London W1B 2UW, England.
+EM v.swami@wmin.ac.uk
+NR 43
+TC 5
+Z9 5
+U1 1
+U2 34
+PU WILEY-BLACKWELL
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0036-5564
+J9 SCAND J PSYCHOL
+JI Scand. J. Psychol.
+PD FEB
+PY 2012
+VL 53
+IS 1
+BP 89
+EP 95
+DI 10.1111/j.1467-9450.2011.00922.x
+PG 7
+WC Psychology, Multidisciplinary
+SC Psychology
+GA 874IL
+UT WOS:000298949400012
+PM 21995611
+DA 2020-08-05
+ER
+
+PT J
+AU Gold, RS
+   Brown, MG
+AF Gold, Ron S.
+   Brown, Mark G.
+TI TRAIT VALENCE AND THE BETTER-THAN-AVERAGE EFFECT
+SO PSYCHOLOGICAL REPORTS
+LA English
+DT Article
+ID UNREALISTIC OPTIMISM; EVENT VALENCE; BIASES; RISK
+AB People tend to regard themselves as having superior personality traits compared to their average peer. To test whether this "better-than-average effect" varies with trait valence, participants (N=154 students) rated both themselves and the average student on traits constituting either positive or negative poles of five trait dimensions. In each case, the better-than-average effect was found, but trait valence had no effect. Results were discussed in terms of Kahneman and Tversky's prospect theory.
+C1 [Gold, Ron S.] Deakin Univ, Sch Psychol, Burwood, Vic 3125, Australia.
+RP Gold, RS (corresponding author), Deakin Univ, Sch Psychol, 221 Burwood Highway, Burwood, Vic 3125, Australia.
+EM rongold@deakin.edu.au
+NR 16
+TC 2
+Z9 2
+U1 0
+U2 5
+PU AMMONS SCIENTIFIC, LTD
+PI MISSOULA
+PA PO BOX 9229, MISSOULA, MT 59807-9229 USA
+SN 0033-2941
+J9 PSYCHOL REP
+JI Psychol. Rep.
+PD DEC
+PY 2011
+VL 109
+IS 3
+BP 734
+EP 738
+DI 10.2466/07.27.PR0.109.6.734-738
+PG 5
+WC Psychology, Multidisciplinary
+SC Psychology
+GA 877NH
+UT WOS:000299188700004
+PM 22420108
+DA 2020-08-05
+ER
+
+PT J
+AU Sohn, NH
+AF Sohn, Nan Hee
+TI EFFECTS OF SELF-ENHANCEMENT BIAS ON PERCEPTION OF SUPERVISORY FEEDBACK
+   IN COUNSELING
+SO PSYCHOLOGICAL REPORTS
+LA English
+DT Article
+ID PERSPECTIVE; JAPAN
+AB The purpose of this study was to assess how the self-enhancement bias of beginning counselors affects their perceptions of negative feedback in counseling supervision. It was predicted that the self-enhancement bias of beginning counselors would help lower the perceived threat of a counseling supervision, and lower perceived threat would mediate positive interpretation of the feedback ill a negative feedback condition. In Korea, 203 volunteer beginning counselors (M = 30.2 yr., SD = 6.7) were shown a videotaped counseling supervision session in which a counseling supervisor delivered either largely positive or largely negative feedback to a beginning counselor. After viewing the tape, these beginning counselors rated their perceptions of the supervision setting and feedback as ego-threatening. Results were consistent with predictions.
+C1 Ewha Womans Univ, Dept Psychol, Coll Social Sci, Seoul, South Korea.
+RP Sohn, NH (corresponding author), Ewha Womans Univ, Dept Psychol, Coll Social Sci, Seoul, South Korea.
+EM sohnnh@naver.com
+NR 34
+TC 1
+Z9 1
+U1 0
+U2 6
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0033-2941
+EI 1558-691X
+J9 PSYCHOL REP
+JI Psychol. Rep.
+PD DEC
+PY 2009
+VL 105
+IS 3
+BP 1269
+EP 1280
+DI 10.2466/PR0.105.F.1269-1280
+PN 2
+PG 12
+WC Psychology, Multidisciplinary
+SC Psychology
+GA 561HQ
+UT WOS:000274967100024
+PM 20229926
+DA 2020-08-05
+ER
+
+PT J
+AU Garcia, MF
+   Triana, MD
+   Peters, AN
+   Sanchez, M
+AF Garcia, Maria Fernanda
+   Triana, Maria del Carmen
+   Peters, Abby N.
+   Sanchez, Mabel
+TI Self-Enhancement in a Job Search Context
+SO INTERNATIONAL JOURNAL OF SELECTION AND ASSESSMENT
+LA English
+DT Article
+ID SUPERVISOR RATINGS; POSITIVE ILLUSIONS; INFLUENCE TACTICS; PERFORMANCE;
+   FIELD; UNEMPLOYMENT; PERSPECTIVE; ACCURACY; TURNOVER; BEHAVIOR
+AB The purpose of this study was to examine the role of self-enhancement in a job search context. Based on previous theoretical and empirical research on positive illusions and core self-evaluations, we examined the relationships among core self-evaluations, self-enhancement, perceived job alternatives, and job search behaviors. Participants in two different studies were students attending a career fair at a university in the southwestern United States to look for a job. Results showed that self-enhancement is positively related to preparatory job search and mediates the relationship between core self-evaluations and perceived job alternatives. The implications of this study are discussed.
+C1 [Garcia, Maria Fernanda; Peters, Abby N.; Sanchez, Mabel] Univ Texas El Paso, Dept Mkt & Management, El Paso, TX 79968 USA.
+   [Triana, Maria del Carmen] Univ Wisconsin, Management & Human Resources Dept, Madison, WI 53706 USA.
+RP Garcia, MF (corresponding author), Univ Texas El Paso, Dept Mkt & Management, El Paso, TX 79968 USA.
+EM fgarcia6@utep.edu
+NR 40
+TC 8
+Z9 8
+U1 0
+U2 12
+PU WILEY-BLACKWELL PUBLISHING, INC
+PI MALDEN
+PA COMMERCE PLACE, 350 MAIN ST, MALDEN 02148, MA USA
+SN 0965-075X
+J9 INT J SELECT ASSESS
+JI Int. J. Sel. Assess.
+PD SEP
+PY 2009
+VL 17
+IS 3
+BP 290
+EP 299
+DI 10.1111/j.1468-2389.2009.00471.x
+PG 10
+WC Psychology, Applied; Management
+SC Psychology; Business & Economics
+GA 480TK
+UT WOS:000268759500005
+DA 2020-08-05
+ER
+
+PT J
+AU Swami, V
+   Stieger, S
+   Haubner, T
+   Voracek, M
+   Furnham, A
+AF Swami, Viren
+   Stieger, Stefan
+   Haubner, Tanja
+   Voracek, Martin
+   Furnham, Adrian
+TI Evaluating the Physical Attractiveness of Oneself and One's Romantic
+   Partner Individual and Relationship Correlates of the Love-Is-Blind Bias
+SO JOURNAL OF INDIVIDUAL DIFFERENCES
+LA English
+DT Article
+DE love-is-blind bias; positive illusions; self-rated attractiveness;
+   physical attractiveness; partner perceptions
+ID CLOSE RELATIONSHIPS; POSITIVE ILLUSIONS; SELF-ENHANCEMENT; EVOLUTIONARY
+   PSYCHOLOGY; MENTAL-HEALTH; OTHERS; PERSONALITY; SATISFACTION;
+   SUPERIORITY; ORIENTATION
+AB The present study sought to extend recent work by examining individual and relationship variables that predict the love-is-blind bias, that is, a tendency to perceive one's romantic partner as more attractive than oneself. A sample of 113 men and 143 women completed a battery of tests that included various demographic, individual difference, and relationship-related measures. Results provided support for a love-is-blind bias, in that both women and men rated their romantic partners as significantly more attractive than themselves on overall attractiveness and the attractiveness of various body components. Results also showed that the Big Five personality factor of Extraversion, self-esteem, relationship satisfaction, and romantic love were positively correlated with the love-is-blind bias, whereas relationship length and playful love were negatively correlated with the bias. The results of this study are considered in relation to previous work on positive partner illusions.
+C1 [Swami, Viren] Univ Westminster, Dept Psychol, London W1B 2UW, England.
+   [Stieger, Stefan] Med Univ Vienna, Core Unit Med Educ, Vienna, Austria.
+   [Haubner, Tanja; Voracek, Martin] Univ Vienna, Dept Basic Psychol Res, Sch Psychol, A-1010 Vienna, Austria.
+   [Furnham, Adrian] UCL, Dept Psychol, London, England.
+RP Swami, V (corresponding author), Univ Westminster, Dept Psychol, 309 Regent St, London W1B 2UW, England.
+EM virenswami@hotmail.com
+RI Voracek, Martin/S-5865-2016; Stieger, Stefan/G-2572-2012; Stieger,
+   Stefan/Q-5329-2019
+OI Voracek, Martin/0000-0001-6109-6155; Stieger,
+   Stefan/0000-0002-7784-6624; Stieger, Stefan/0000-0002-7784-6624
+NR 56
+TC 29
+Z9 29
+U1 3
+U2 36
+PU HOGREFE & HUBER PUBLISHERS
+PI GOTTINGEN
+PA ROHNSWEG 25, D-37085 GOTTINGEN, GERMANY
+SN 1614-0001
+J9 J INDIVID DIF
+JI J. Individ. Differ.
+PY 2009
+VL 30
+IS 1
+BP 35
+EP 43
+DI 10.1027/1614-0001.30.1.35
+PG 9
+WC Psychology, Social
+SC Psychology
+GA 405CE
+UT WOS:000263198900005
+DA 2020-08-05
+ER
+
+PT J
+AU Vautier, S
+   Bonnefon, JF
+AF Vautier, Stephane
+   Bonnefon, Jean-Francois
+TI Is the above-average effect measurable at all? The validity of the
+   self-reported happiness minus others' perceived happiness construct
+SO APPLIED PSYCHOLOGICAL MEASUREMENT
+LA English
+DT Article
+DE above-average effect; latent change; true-score difference; measurement
+   invariance; happiness; Satisfaction With Life Scale
+ID ITEM RESPONSE THEORY; MEASUREMENT INVARIANCE; MODEL; RELIABILITY;
+   ASSUMPTIONS; VARIABLES; SCORES
+AB Individuals routinely rate themselves higher than their peers on a number of attributes and capabilities, including their satisfaction with life However, the construct validity of this above-average effect requires specific psychometric properties of ratings of one's contentment and ratings of others' perceived contentment. This article tests these Properties with respect to the popular Satisfaction With Life Scale through a multivariate measurement model with latent change and method effects. The model is fitted to two independent data sets (N = 597 and N = 964), and it is found twice that four items are suitable to compute a meaningful composite difference score. It is concluded that the above-average effect is a systematic multivariate phenomenon that can be assessed by the difference of two manifest, absolute evaluation scores.
+C1 [Vautier, Stephane; Bonnefon, Jean-Francois] Univ Toulouse, Toulouse, France.
+   [Bonnefon, Jean-Francois] CNRS, F-75700 Paris, France.
+RP Vautier, S (corresponding author), Univ Toulouse 2, OCTOGONE CERPP, 5 Allees Machado, F-31058 Toulouse 9, France.
+EM vautier@univ-tlse2.tr
+OI Bonnefon, Jean-Francois/0000-0002-4959-188X
+NR 24
+TC 8
+Z9 8
+U1 0
+U2 12
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0146-6216
+J9 APPL PSYCH MEAS
+JI Appl. Psychol. Meas.
+PD OCT
+PY 2008
+VL 32
+IS 7
+BP 575
+EP 584
+DI 10.1177/0146621607310646
+PG 10
+WC Social Sciences, Mathematical Methods; Psychology, Mathematical
+SC Mathematical Methods In Social Sciences; Psychology
+GA 353UB
+UT WOS:000259592800005
+DA 2020-08-05
+ER
+
+PT J
+AU Fowers, BJ
+   Fisiloglu, H
+   Procacci, EK
+AF Fowers, Blaine J.
+   Fisiloglu, Huerol
+   Procacci, Erin K.
+TI Positive marital illusions and culture: American and Turkish spouses'
+   perceptions of their marriages
+SO JOURNAL OF SOCIAL AND PERSONAL RELATIONSHIPS
+LA English
+DT Article
+DE consanguineous marriage; cultural moderation; culture; marriage;
+   positive illusions
+ID CLOSE RELATIONSHIPS; SELF-ENHANCEMENT; DYADIC ADJUSTMENT; MENTAL-HEALTH;
+   CONVENTIONALIZATION; COUPLES; FAMILY; SATISFACTION; PORTRAIT; QUALITY
+AB This study investigated the degree to which positive illusions about one's spouse and marriage are a universal feature of human cognitions about marriage or are culturally moderated. Positive marital illusions were compared across three samples (49 American spouses, 58 Turkish spouses in nonconsanguineous marriages, and 56 Turkish spouses in consanguineous marriages). Positive illusions were assessed by comparing positive and negative trait ratings of the spouse and the generalized other. The positive trait ratings were consistent with the cultural moderation hypothesis and inconsistent with the universal account. The three groups differed in how positively they rated the generalized other. The negative trait ratings supported the universal theory of positive illusions. These results add to the growing evidence that culture moderates positive illusions.
+C1 [Fowers, Blaine J.; Procacci, Erin K.] Univ Miami, Dept Educ & Psychol Studies, Coral Gables, FL 33124 USA.
+   [Fisiloglu, Huerol] Middle E Tech Univ, Ankara, Turkey.
+RP Fowers, BJ (corresponding author), Univ Miami, Dept Educ & Psychol Studies, POB 248065, Coral Gables, FL 33124 USA.
+EM bfowers@miami.edu
+RI Fowers, Blaine/V-5056-2019
+NR 53
+TC 2
+Z9 2
+U1 1
+U2 8
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0265-4075
+J9 J SOC PERS RELAT
+JI J. Soc. Pers. Relatsh.
+PD APR
+PY 2008
+VL 25
+IS 2
+BP 267
+EP 285
+DI 10.1177/0265407507087959
+PG 19
+WC Communication; Family Studies; Psychology, Social
+SC Communication; Family Studies; Psychology
+GA 297PM
+UT WOS:000255628600004
+DA 2020-08-05
+ER
+
+PT J
+AU Hamamura, T
+   Heine, SJ
+   Takernoto, TRS
+AF Hamamura, Takeshi
+   Heine, Steven J.
+   Takernoto, Timothy R. S.
+TI Why the better-than-average effect is a worse-than-average measure of
+   self-enhancement: An investigation of conflicting findings from studies
+   of East Asian self-evaluations
+SO MOTIVATION AND EMOTION
+LA English
+DT Article
+DE culture; self-enhancement
+ID UNREALISTIC OPTIMISM; RISK JUDGMENTS; BIAS; CRITICISM; JAPAN; CULTURES;
+   AMERICA; WEST
+AB A recent meta-analysis on cross-cultural studies of self-enhancement finds that evidence for East Asian self-enhancement is consistently apparent only in studies where participants compare themselves to the average other, aka the '' Better-than-Average '' Effect (BAE). However, prior research has suggested that the BAE may conflate motivations to view the self in a positive light with non-motivational factors, such as a tendency to evaluate '' everyone as better than average '' [EBTA; Klar Y, Gilladi EE (1997) J Personal Soc Psychol 73:885-901]. In two studies, European-Canadian, Asian-Canadian, and Japanese students were asked to evaluate themselves as well as a fictitious student compared to the average. Replicating prior research, evidence for Japanese self-enhancement was found with the BAE, albeit weaker than Canadians. However, in the measures where the EBTA effect was circumvented, self-enhancement was no longer evident among Japanese. Likewise, within the BAE method, prior research has found that East Asians self-enhance more for important than unimportant traits. When the EBTA effect was circumvented this correlation was also significantly reduced. Findings from this research converge with other sources of evidence that East Asians do not appear to be motivated to self-enhance.
+C1 [Hamamura, Takeshi; Heine, Steven J.] Univ British Columbia, Dept Psychol, Vancouver, BC V6T 1Z4, Canada.
+   [Takernoto, Timothy R. S.] Yamaguchi Univ, Yamaguchi, Japan.
+RP Heine, SJ (corresponding author), Univ British Columbia, Dept Psychol, 2136 W Mall, Vancouver, BC V6T 1Z4, Canada.
+EM heine@psych.ubc.ca
+RI Hamamura, Takeshi/D-2069-2011; Heine, Steven/C-6975-2011
+OI Hamamura, Takeshi/0000-0003-2122-6300; 
+NR 30
+TC 30
+Z9 34
+U1 0
+U2 21
+PU SPRINGER/PLENUM PUBLISHERS
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0146-7239
+J9 MOTIV EMOTION
+JI Motiv. Emot.
+PD DEC
+PY 2007
+VL 31
+IS 4
+BP 247
+EP 259
+DI 10.1007/s11031-007-9072-y
+PG 13
+WC Psychology, Experimental; Psychology, Social
+SC Psychology
+GA 240HX
+UT WOS:000251579800001
+DA 2020-08-05
+ER
+
+PT J
+AU Fischer, P
+   Greitemeyer, T
+   Frey, D
+AF Fischer, Peter
+   Greitemeyer, Tobias
+   Frey, Dieter
+TI Ego depletion and positive illusions: Does the construction of
+   positivity require regulatory resources?
+SO PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+LA English
+DT Article
+DE positive illusions; ego depletion; regulatory resources; self-efficacy;
+   self-regulation
+ID SELF-REGULATION FAILURE; UNREALISTIC OPTIMISM; SOCIAL EXCLUSION;
+   IMPRESSION MANAGEMENT; LIMITED RESOURCE; IRONIC PROCESSES; MENTAL
+   CONTROL; THOUGHT; INFORMATION; HEALTH
+AB Individuals frequently exhibit positive illusions about their own abilities, their possibilities to control their environment, and future expectations. The authors propose that positive illusions require resources of self-control, which is considered to be a limited resource similar to energy or strength. Five studies revealed that people with depleted self-regulatory resources indeed exhibited a less-optimistic sense of their own abilities (Study 1), a lower sense of subjective control (Study 2), and less-optimistic expectations about their future (Study 3). Two further studies shed light on the underlying psychological process: Ego-depleted (compared to nondepleted) individuals generated/retrieved less positive self-relevant attributes (Studies 4 and 5) and reported a lower sense of general self-efficacy (Study 5), which both partially mediated the impact of ego depletion on positive self-views (Study 5).
+C1 Univ Munich, Munich, Germany.
+RP Fischer, P (corresponding author), Univ Munich, Munich, Germany.
+EM pfischer@psy.uni-muenchen.de
+NR 64
+TC 45
+Z9 52
+U1 0
+U2 19
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0146-1672
+J9 PERS SOC PSYCHOL B
+JI Pers. Soc. Psychol. Bull.
+PD SEP
+PY 2007
+VL 33
+IS 9
+BP 1306
+EP 1321
+DI 10.1177/0146167207303025
+PG 16
+WC Psychology, Social
+SC Psychology
+GA 203UY
+UT WOS:000249000700011
+PM 17578935
+OA DOAJ Gold, Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Glaser, M
+   Weber, M
+AF Glaser, Markus
+   Weber, Martin
+TI Overconfidence and trading volume
+SO GENEVA RISK AND INSURANCE REVIEW
+LA English
+DT Review
+DE overconfidence; differences of opinion; trading volume; individual
+   investors; investor behavior; correlation of economic and psychological
+   variables; combination of psychometric measures of judgment biases and
+   field data
+ID INDIVIDUAL-DIFFERENCES; INVESTOR PSYCHOLOGY; INFORMATION; CONFIDENCE;
+   ILLUSION; OPINION; MARKET; DECISION; AGGREGATION; ATTRIBUTION
+AB Theoretical models predict that overconfident investors will trade more than rational investors. We directly test this hypothesis by correlating individual overconfidence scores with several measures of trading volume of individual investors. Approximately 3,000 online broker investors were asked to answer an internet questionnaire which was designed to measure various facets of overconfidence (miscalibration, volatility estimates, better than average effect). The measures of trading volume were calculated by the trades of 215 individual investors who answered the questionnaire. We find that investors who think that they are above average in terms of investment skills or past performance (but who did not have above average performance in the past) trade more. Measures of miscalibration are, contrary to theory, unrelated to measures of trading volume. This result is striking as theoretical models that incorporate overconfident investors mainly motivate this assumption by the calibration literature and model overconfidence as underestimation of the variance of signals. In connection with other recent findings, we conclude that the usual way of motivating and modeling overconfidence which is mainly based on the calibration literature has to be treated with caution. Moreover, our way of empirically evaluating behavioral finance models-the correlation of economic and psychological variables and the combination of psychometric measures of judgment biases (such as overconfidence scores) and field data-seems to be a promising way to better understand which psychological phenomena actually drive economic behavior.
+C1 Univ Mannheim, Lehrstuhl Bankbetriebslehre, D-68131 Mannheim, Germany.
+   CEPR, London, England.
+RP Glaser, M (corresponding author), Univ Mannheim, Lehrstuhl Bankbetriebslehre, L5 2, D-68131 Mannheim, Germany.
+EM glaser@bank.BWL.uni-mannheim.de; weber@bank.BWL.uni-mannheim.de
+NR 108
+TC 199
+Z9 205
+U1 6
+U2 66
+PU PALGRAVE MACMILLAN LTD
+PI BASINGSTOKE
+PA BRUNEL RD BLDG, HOUNDMILLS, BASINGSTOKE RG21 6XS, HANTS, ENGLAND
+SN 1554-964X
+EI 1554-9658
+J9 GENEVA RISK INS REV
+JI Geneva Risk Insur. Rev.
+PD JUN
+PY 2007
+VL 32
+IS 1
+BP 1
+EP 36
+DI 10.1007/s10713-007-0003-3
+PG 36
+WC Business, Finance; Economics
+SC Business & Economics
+GA 203ZJ
+UT WOS:000249012300001
+OA Green Accepted, Bronze
+DA 2020-08-05
+ER
+
+PT J
+AU El-Alayli, A
+   Lystad, AL
+   Webb, SR
+   Hollingsworth, SL
+   Ciolli, JL
+AF El-Alayli, Amani
+   Lystad, Amy L.
+   Webb, Sara R.
+   Hollingsworth, Staci L.
+   Ciolli, Jen L.
+TI Reigning cats and dogs: A pet-enhancement bias and its link to pet
+   attachment, pet-self similarity, self-enhancement, and well-being
+SO BASIC AND APPLIED SOCIAL PSYCHOLOGY
+LA English
+DT Article
+ID MERE OWNERSHIP; POSITIVE ILLUSIONS; PERSONALITY; RESEMBLE; SATISFACTION;
+   RELIABILITY; POSSESSION; EXTENSION; RESPONSES; BENEFITS
+AB We extended past research on the self-enhancement bias and the mere ownership effect to examine whether people have favorably distorted views of their pets. Participants in Study 1 rated their own pet and the average pet on a series of desirable and undesirable personality traits. Participants rated their own pet more favorably than the average pet, revealing a pet-enhancement bias. Study 2 found that the extent of bias was positively correlated with pet attachment, pet-self similarity, and self-enhancement. Pet enhancement was also correlated with some indexes of subjective well-being but for only a subsample of participants. Pet-self similarity was more consistently related to well-being. Results are discussed in terms of their relevance to the potential psychological and physiological benefits that can be derived from people's perceptions of their pets.
+C1 Eastern Washington Univ, Dept Psychol, Cheney, WA 99004 USA.
+RP El-Alayli, A (corresponding author), Eastern Washington Univ, Dept Psychol, 151 Martin Hall, Cheney, WA 99004 USA.
+EM amani@ewu.edu
+NR 86
+TC 22
+Z9 23
+U1 2
+U2 26
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0197-3533
+EI 1532-4834
+J9 BASIC APPL SOC PSYCH
+JI Basic Appl Soc. Psychol.
+PD JUN
+PY 2006
+VL 28
+IS 2
+BP 131
+EP 143
+DI 10.1207/s15324834basp2802_3
+PG 13
+WC Psychology, Social
+SC Psychology
+GA 054AO
+UT WOS:000238347900003
+DA 2020-08-05
+ER
+
+PT J
+AU Harre, N
+   Foster, S
+   O'Neill, M
+AF Harre, N
+   Foster, S
+   O'Neill, M
+TI Self-enhancement, crash-risk optimism and the impact of safety
+   advertisements on young drivers
+SO BRITISH JOURNAL OF PSYCHOLOGY
+LA English
+DT Article
+ID UNREALISTIC OPTIMISM; DRIVING SKILL; WONT HAPPEN; PERCEPTIONS; ACCIDENT;
+   ILLUSION; HAZARD; BIAS; ME; SUSCEPTIBILITY
+AB In Study I, young drivers (aged between 16 and 29 years, N = 314) rated their driving attributes relative to their peers. They also rated their likelihood of being involved in a crash relative to their peers (crash-risk optimism), their crash history, stereotype of the young driver, and concern over another health issue. A self-enhancement bias was found for all items in which self/other comparisons were made. These items formed two major factors, perceived relative driving ability and perceived relative driving caution. These factors and perceived luck relative to peers in avoiding crashes significantly predicted crash-risk optimism. In Study 2, an experimental group of young drivers (N = 173) watched safety advertisements that showed drinking and dangerous driving resulting in a crash, and a control group (N = 193) watched advertisements showing people choosing not to drive after drinking. Each group then completed the self/other comparisons used in Study I. The same factors were found, but only driving caution significantly predicted crash-risk optimism. The experimental group showed more self-enhancement on driving ability than the control group. In both studies, men showed substantially more self-enhancement than women about their driving ability. Implications for safety interventions are discussed.
+C1 Univ Auckland, Dept Psychol, Auckland 1, New Zealand.
+RP Harre, N (corresponding author), Univ Auckland, Dept Psychol, Private Bag 92019, Auckland 1, New Zealand.
+EM n.harre@auckland.ac.nz
+RI Harre, Niki/A-6014-2010
+OI Harre, Niki/0000-0001-6378-324X
+NR 36
+TC 80
+Z9 81
+U1 1
+U2 13
+PU BRITISH PSYCHOLOGICAL SOC
+PI LEICESTER
+PA ST ANDREWS HOUSE, 48 PRINCESS RD EAST, LEICESTER LE1 7DR, LEICS, ENGLAND
+SN 0007-1269
+J9 BRIT J PSYCHOL
+JI Br. J. Psychol.
+PD MAY
+PY 2005
+VL 96
+BP 215
+EP 230
+DI 10.1348/000712605X36019
+PN 2
+PG 16
+WC Psychology, Multidisciplinary
+SC Psychology
+GA 931DF
+UT WOS:000229465300006
+PM 15969832
+DA 2020-08-05
+ER
+
+PT J
+AU Robinson, ME
+   George, SZ
+   Dannecker, EA
+   Jump, RL
+   Hirsh, AT
+   Gagnon, CM
+   Brown, JL
+AF Robinson, ME
+   George, SZ
+   Dannecker, EA
+   Jump, RL
+   Hirsh, AT
+   Gagnon, CM
+   Brown, JL
+TI Sex differences in pain anchors revisited: further investigation of
+   "most intense" and common pain events
+SO EUROPEAN JOURNAL OF PAIN
+LA English
+DT Article
+DE sex difference; pain intensity; pain anchor; discrimination; bias
+ID GENDER-ROLE EXPECTATIONS; PERCEPTION; STIMULI; SCALES
+AB Recent research suggests that the interpretation of maximal endpoints of pain scales vary between sexes. The purposes of this study were to investigate sex differences in (a) maximal endpoints of pain scales and (b) bias, discrimination, and the "better than average effect" for ratings of common pain events. Study participants described and rated the intensity of events that were the "most intense pain imaginable" for the typical woman, typical man, and one's self. Study participants also described and rated the intensity of the "most painful" events they had experienced. Study participants completed the situational pain questionnaire (SPQ), which measured the amount of pain that the typical woman, typical man, or one's self would be expected to experience during thirty common painful events. One hundred and fifteen undergraduate psychology students completed this study. Men and women differed in the categories of events selected for most intense pain imaginable for one's self. There were no significant sex differences for the intensity of most intense self-imagined pain or most painful event experienced. However, women were more likely to report the intensity of their worst self-imagined pain event as 100/100. In addition, only women demonstrated a significant correlation between the intensity of most painful self-experienced event and intensity of most intense self-imagined event. Analyses of the SPQ discrimination scores revealed no sex or version differences. Analyses of the SPQ bias scores showed that both sexes indicated that the typical woman would rate the intensity of common pain events higher than would the typical man. Women rated the intensity of common pain events for themselves lower than for the typical woman, but higher than the typical man, and men rated also rated themselves as lower than the typical women, but the same as the typical man. Thus, there was inconsistent support for the "better than average effect". Future research is needed to determine the clinical relevance of sex differences in pain anchors and gender-related stereotypes for evaluating other people's pain. (C) 2003 European Federation of Chapters of the International Association for the Study of Pain. Published by Elsevier Ltd. All rights reserved.
+C1 Univ Florida, Brooks Ctr Rehabil Study, Ctr Pain Res & Behav Hlth, Gainesville, FL 32610 USA.
+   St Margaret Mercy Healthcare Ctr, Hammond, IN USA.
+RP George, SZ (corresponding author), Univ Florida, Brooks Ctr Rehabil Study, Ctr Pain Res & Behav Hlth, POB 100165, Gainesville, FL 32610 USA.
+EM sgeorge@hp.ufl.edu
+RI Robinson, Michael E/B-9765-2014
+OI Dannecker, Erin/0000-0003-1816-5754; George, Steven/0000-0003-4988-9421
+NR 16
+TC 23
+Z9 24
+U1 0
+U2 3
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1090-3801
+EI 1532-2149
+J9 EUR J PAIN
+JI Eur. J. Pain
+PD AUG
+PY 2004
+VL 8
+IS 4
+BP 299
+EP 305
+DI 10.1016/j.ejpain.2003.10.003
+PG 7
+WC Anesthesiology; Clinical Neurology; Neurosciences
+SC Anesthesiology; Neurosciences & Neurology
+GA 838UZ
+UT WOS:000222740100003
+PM 15207510
+DA 2020-08-05
+ER
+
+PT J
+AU Boyd-Wilson, BM
+   McClure, J
+   Walkey, FH
+AF Boyd-Wilson, BM
+   McClure, J
+   Walkey, FH
+TI Are wellbeing and illusory perceptions linked? The answer may be yes,
+   but...
+SO AUSTRALIAN JOURNAL OF PSYCHOLOGY
+LA English
+DT Article
+ID POSITIVE ILLUSIONS; MENTAL-HEALTH; UNREALISTIC OPTIMISM;
+   SELF-ENHANCEMENT; INDIVIDUAL-DIFFERENCES; SOCIAL JUDGMENTS; LIFE SCALE;
+   HAPPINESS; BIAS; DEPRESSION
+AB The relationship between wellbeing and "positive illusions" has not been satisfactorily explained. Two studies investigated this issue through self-report data. Study 1 examined the relationship between wellbeing and positive illusion using happiness scores divided into three groups. Positive illusion in the form of self-enhancing bias was measured with trait ratings of the self and average others. The prediction that self-enhancing bias would be lower at high than at moderate happiness was not supported. However, self-enhancing bias was greater at moderate than at low happiness, through increasingly positive self-ratings. Similar results were obtained in Study 2 with a life satisfaction measure. The results suggest that positive illusions are related especially to moderate wellbeing, whereas positive self-views predict higher wellbeing levels.
+C1 Open Polytech New Zealand, Lower Hutt, New Zealand.
+   Victoria Univ Wellington, Wellington, New Zealand.
+RP Boyd-Wilson, BM (corresponding author), Open Polytech New Zealand, P Bag 31914, Lower Hutt, New Zealand.
+EM belinda.boyd-wilson@openpolytechnnic.ac.nz
+RI McClure, John/O-9060-2015
+OI McClure, John/0000-0002-9261-4995
+NR 71
+TC 7
+Z9 7
+U1 0
+U2 4
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0004-9530
+EI 1742-9536
+J9 AUST J PSYCHOL
+JI Aust. J. Psychol.
+PD MAY
+PY 2004
+VL 56
+IS 1
+BP 1
+EP 9
+DI 10.1080/00049530410001688065
+PG 9
+WC Psychology, Multidisciplinary
+SC Psychology
+GA 821TV
+UT WOS:000221486500001
+DA 2020-08-05
+ER
+
+PT J
+AU Taylor, SE
+   Lerner, JS
+   Sherman, DK
+   Sage, RM
+   McDowell, NK
+AF Taylor, SE
+   Lerner, JS
+   Sherman, DK
+   Sage, RM
+   McDowell, NK
+TI Are self-enhancing cognitions associated with healthy or unhealthy
+   biological profiles?
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+ID MENTAL-HEALTH; POSITIVE ILLUSIONS; GAY MEN; STRESS; PERSONALITY; AIDS;
+   PERSPECTIVE; DEPRESSION; OPTIMISM; DISEASE
+AB Self-enhancement is variously portrayed as a positive illusion that can foster health and longevity or as defensive neuroticism, that can have physiological-neuroendocrine costs. In a laboratory stress-challenge paradigm, the authors found that high self-enhancers had lower cardiovascular responses to stress. more rapid cardiovascular recovery, and lower baseline cortisol levels, consistent with the positive illusions predictions and counter to the predictions of the defensive neuroticism position. A second set of analyses, replicating the "illusory mental health paradigm" (J. Shedler. M. Mayman, & M. Manis, 1993), also did not support the defensive neuroticism hypothesis. The association between self-enhancement and cortisol was mediated by psychological resources; analyses of the cardiovascular results provided no definitive mediational pathway. Discussion centers on the potential stress-buffering effects of self-enhancing beliefs.
+C1 Univ Calif Los Angeles, Dept Psychol, Los Angeles, CA 90024 USA.
+   Carnegie Mellon Univ, Dept Social & Decis Sci, Pittsburgh, PA 15213 USA.
+RP Taylor, SE (corresponding author), Univ Calif Los Angeles, Dept Psychol, 1282A Franz Hall, Los Angeles, CA 90024 USA.
+EM taylors@psych.ucla.edu
+FU NIMH NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute of Mental Health
+   (NIMH) [MH62376, MH056880]; PHS HHSUnited States Public Health Service
+   [15750]
+NR 65
+TC 181
+Z9 187
+U1 2
+U2 33
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD OCT
+PY 2003
+VL 85
+IS 4
+BP 605
+EP 615
+DI 10.1037/0022-3514.85.4.605
+PG 11
+WC Psychology, Social
+SC Psychology
+GA 726XZ
+UT WOS:000185628000003
+PM 14561115
+DA 2020-08-05
+ER
+
+PT J
+AU Brown, JD
+   Kobayashi, C
+AF Brown, JD
+   Kobayashi, C
+TI Self-enhancement in Japan and America
+SO ASIAN JOURNAL OF SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE cross-cultural comparison; extended self; self-enhancement; trait
+   importance
+ID CLOSE RELATIONSHIPS; SERVING ASSESSMENTS; POSITIVE ILLUSIONS; LIFE
+   SATISFACTION; ESTEEM; CULTURE; OTHERS; BIASES; REPRESENTATIONS;
+   CONSEQUENCES
+AB North Americans view themselves in more positive terms than they view most other people. In the present paper, we report three studies showing that this bias is also found in Japan, For highly valued traits and abilities, Japanese students rated themselves and their best friends in more positive terms than they rated most other students (Study I and Study 2) and most other Japanese (Study 2). In Study 3, a sample of older Japanese displayed the same tendency when evaluating themselves and a member of their family. We discuss the theoretical importance of the findings.
+C1 Osaka Univ, Grad Sch Human Sci, Dept Social Psychol, Suita, Osaka 5650871, Japan.
+   Univ Washington, Seattle, WA 98195 USA.
+RP Brown, JD (corresponding author), Osaka Univ, Grad Sch Human Sci, Dept Social Psychol, 1-2 Yamadaoka, Suita, Osaka 5650871, Japan.
+NR 64
+TC 106
+Z9 111
+U1 0
+U2 15
+PU BLACKWELL PUBL LTD
+PI OXFORD
+PA 108 COWLEY RD, OXFORD OX4 1JF, OXON, ENGLAND
+SN 1367-2223
+J9 ASIAN J SOC PSYCHOL
+JI Asian J. Soc. Psychol.
+PD DEC
+PY 2002
+VL 5
+IS 3
+BP 145
+EP 168
+DI 10.1111/1467-839X.00101
+PG 24
+WC Psychology, Social
+SC Psychology
+GA 624ZB
+UT WOS:000179791200001
+DA 2020-08-05
+ER
+
+PT J
+AU Alicke, MD
+   Vredenburg, DS
+   Hiatt, M
+   Govorun, O
+AF Alicke, MD
+   Vredenburg, DS
+   Hiatt, M
+   Govorun, O
+TI The "better than myself effect"
+SO MOTIVATION AND EMOTION
+LA English
+DT Article
+ID UNREALISTIC OPTIMISM; SELF-EVALUATION; JUDGMENTS; OTHERS
+AB Participants in three studies were asked to estimate the percentage of times they exhibited polar ends of a trait dimension (e.g., behaved cooperatively or uncooperatively) when the opportunity to display that trait arose, and then to evaluate their standing on the trait based on their behavioral estimates. Approximately 6 weeks later participants were provided with behavior estimates that purportedly represented the average estimates of their peers and asked to evaluate the average person's standing on the trait dimension. The "better than myself effect" is reflected in the finding that people consistently evaluate themselves more favorably than others, even when the behavioral estimates on which they base their ratings of the average person are the identical estimates they provided for themselves. Study I demonstrated the basic "better than myself effect," and Study 2 showed that participants did not alter their behavior estimates when they learned that the average person's estimates were the same as their own. Study 3 demonstrated the "better than myself" effect in comparisons with a randomly selected peer rather than the average peer A fourth study, using a different methodology, showed that people who wrote behavior descriptions to represent their standing on a trait dimension, and then read similar trait descriptions from a randomly selected peer also continued to evaluate themselves more favorably than others, despite basing these evaluations on behavior descriptions that were presumably no more favorable than those provided by others.
+C1 Ohio Univ, Dept Psychol, Athens, OH 45701 USA.
+RP Alicke, MD (corresponding author), Ohio Univ, Dept Psychol, Porter Hall, Athens, OH 45701 USA.
+NR 30
+TC 37
+Z9 37
+U1 0
+U2 16
+PU KLUWER ACADEMIC/PLENUM PUBL
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 0146-7239
+J9 MOTIV EMOTION
+JI Motiv. Emot.
+PD MAR
+PY 2001
+VL 25
+IS 1
+BP 7
+EP 22
+DI 10.1023/A:1010655705069
+PG 16
+WC Psychology, Experimental; Psychology, Social
+SC Psychology
+GA 464PC
+UT WOS:000170540100002
+DA 2020-08-05
+ER
+
+PT J
+AU Endo, Y
+   Heine, SJ
+   Lehman, DR
+AF Endo, Y
+   Heine, SJ
+   Lehman, DR
+TI Culture and positive illusions in close relationships: How my
+   relationships are better than yours
+SO PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+LA English
+DT Article
+ID SELF-ENHANCEMENT; MENTAL-HEALTH; INDIVIDUAL-DIFFERENCES; ROMANTIC
+   RELATIONSHIPS; UNREALISTIC OPTIMISM; ADULT ATTACHMENT; WORKING MODELS;
+   UNITED-STATES; SATISFACTION; CONSTRUCTION
+AB Although routinely observed among North Americans, self-enhancing biases have been elusive in studies conducted with Japanese. The authors conducted two studies of relationship-serving biases (RSBs) with Japanese, Asian Canadian, and European Canadian participants. In both studies, members of all three cultural groups viewed their own relationships (with their best friend, their closest family member; and their romantic partner) as more positive than those of their peers, and to roughly the same extent. Of importance, however; (a) RSBs were largely uncorrelated with both self-esteem and self-serving biases and (b)Japanese (but not the other two cultural groups') RSBs were paralleled by tendencies to view their relationship partners more positively than themselves. The authors suggest that relationship enhancement serves a different function than self-enhancement, aiding the individual's quest for connection and belongingness with others.
+C1 Nara Univ, Dept Social Res, Nara 631, Japan.
+   Univ British Columbia, Dept Psychol, Vancouver, BC V6T 1Z4, Canada.
+RP Endo, Y (corresponding author), Nara Univ, Dept Social Res, Misasagi Cho 1500, Nara 631, Japan.
+RI Heine, Steven/C-6975-2011
+NR 67
+TC 90
+Z9 94
+U1 0
+U2 17
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0146-1672
+J9 PERS SOC PSYCHOL B
+JI Pers. Soc. Psychol. Bull.
+PD DEC
+PY 2000
+VL 26
+IS 12
+BP 1571
+EP 1586
+DI 10.1177/01461672002612011
+PG 16
+WC Psychology, Social
+SC Psychology
+GA 416NX
+UT WOS:000167788000011
+OA DOAJ Gold
+DA 2020-08-05
+ER
+
+PT J
+AU Wright, SS
+AF Wright, SS
+TI Looking at the self in a rose-colored mirror: Unrealistically positive
+   self-views and academic performance
+SO JOURNAL OF SOCIAL AND CLINICAL PSYCHOLOGY
+LA English
+DT Article
+ID MENTAL-HEALTH; ILLUSIONS; ESTEEM; OTHERS
+AB The relationship between unrealistically positive self-evaluations and performance in an academic setting was examined in the present study. As suggested by Colvin and Block (1994), objective criteria were used to identify individuals who held unrealistically positive self-views. More specifically, academic records were compared to self-ratings of academic ability to classify students as accurate, unrealistically positive, or unrealistically negative about their academic abilities. Consistent with Taylor and Brown's (1988) theory of positive illusions, students who were unrealistically positive achieved higher grades the semester following the study than students who were realistic or unrealistically negative.
+C1 Virginia Commonwealth Univ, Richmond, VA 23284 USA.
+RP Wright, SS (corresponding author), Virginia Dept Criminal Justice Serv, 805 E Broad St, Richmond, VA 23219 USA.
+NR 26
+TC 15
+Z9 15
+U1 0
+U2 9
+PU GUILFORD PUBLICATIONS INC
+PI NEW YORK
+PA 72 SPRING STREET, NEW YORK, NY 10012 USA
+SN 0736-7236
+J9 J SOC CLIN PSYCHOL
+JI J. Soc. Clin. Psychol.
+PY 2000
+VL 19
+IS 4
+BP 451
+EP 462
+DI 10.1521/jscp.2000.19.4.451
+PG 12
+WC Psychology, Clinical; Psychology, Social
+SC Psychology
+GA 396RZ
+UT WOS:000166651500002
+DA 2020-08-05
+ER
+
+PT J
+AU Heine, SJ
+   Lehman, DR
+AF Heine, SJ
+   Lehman, DR
+TI The cultural construction of self-enhancement: An examination of
+   group-serving biases
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+ID UNREALISTIC OPTIMISM; CAUSAL ATTRIBUTION; COLLEGE-STUDENTS; REFLECTED
+   GLORY; SOCIAL-BEHAVIOR; HONG-KONG; ESTEEM; JAPANESE; WELL; BASKING
+AB Self-serving biases, found routinely in Western samples, have not been observed in Asian samples. Yet given the orientation toward individualism and collectivism in these 2 cultures, respectively, it is imperative to examine whether parallel differences emerge when the target of evaluation is the group. It may be that Asians show a group-serving bias parallel to the Western self-serving bias. In 2 studies, group-serving biases were compared across European Canadian, Asian Canadian, and Japanese students. Study 1 revealed that Japanese students evaluated a family member less positively than did both groups of Canadian students. Study 2 replicated this pattern with students' evaluations of their universities. The data suggest that cultural differences in enhancement biases are robust, generalizing to individuals' evaluations of their groups.
+C1 KYOTO UNIV, DEPT PSYCHOL, KYOTO 606, JAPAN.
+   UNIV BRITISH COLUMBIA, DEPT PSYCHOL, VANCOUVER, BC V6T 1Z4, CANADA.
+RI Heine, Steven/C-6975-2011
+NR 80
+TC 234
+Z9 236
+U1 3
+U2 35
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+EI 1939-1315
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD JUN
+PY 1997
+VL 72
+IS 6
+BP 1268
+EP 1283
+DI 10.1037/0022-3514.72.6.1268
+PG 16
+WC Psychology, Social
+SC Psychology
+GA XB139
+UT WOS:A1997XB13900002
+PM 9177019
+DA 2020-08-05
+ER
+
+PT J
+AU ALICKE, MD
+   KLOTZ, ML
+   BREITENBECHER, DL
+   YURAK, TJ
+   VREDENBURG, DS
+AF ALICKE, MD
+   KLOTZ, ML
+   BREITENBECHER, DL
+   YURAK, TJ
+   VREDENBURG, DS
+TI PERSONAL CONTACT, INDIVIDUATION, AND THE BETTER-THAN-AVERAGE EFFECT
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+ID UNREALISTIC OPTIMISM; SELF-EVALUATION; JUDGMENTS; OTHERS; BIAS;
+   VICTIMIZATION; ATTRIBUTION
+AB Research in which people compare themselves with an average peer has consistently shown that people evaluate themselves more favorably than they evaluate others. Seven studies were conducted to demonstrate that the magnitude of this better-than-average effect depends on the level of abstraction in the comparison. These studies showed that people were less biased when they compared themselves with an individuated target than when they compared themselves with a nonindividuated target, namely, the average college student. The better-than-average effect was reduced more when the observer had personal contact with the comparison target than when no personal contact was established. Differences in the magnitude of the better-than-average effect could not be attributed to the contemporaneous nature of the target's presentation, communication from the target, perceptual vividness, implied evaluation, or perceptions of similarity.
+C1 SUSQUEHANNA UNIV,DEPT PSYCHOL,SELINSGROVE,PA 17870.
+RP ALICKE, MD (corresponding author), OHIO UNIV,DEPT PSYCHOL,235 PORTER HALL,ATHENS,OH 45701, USA.
+RI Yurak, Tricia/N-4730-2015
+OI Yurak, Tricia/0000-0002-3002-7293
+NR 39
+TC 470
+Z9 477
+U1 1
+U2 86
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0022-3514
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD MAY
+PY 1995
+VL 68
+IS 5
+BP 804
+EP 825
+DI 10.1037/0022-3514.68.5.804
+PG 22
+WC Psychology, Social
+SC Psychology
+GA QX163
+UT WOS:A1995QX16300005
+DA 2020-08-05
+ER
+
+PT J
+AU HARRISON, DA
+   SHAFFER, MA
+AF HARRISON, DA
+   SHAFFER, MA
+TI COMPARATIVE EXAMINATIONS OF SELF-REPORTS AND PERCEIVED ABSENTEEISM NORMS
+   - WADING THROUGH LAKE-WOBEGON
+SO JOURNAL OF APPLIED PSYCHOLOGY
+LA English
+DT Article
+ID PREDICTING ABSENTEEISM; GOAL COMMITMENT; ABSENCE; MODEL; DETERMINANTS;
+   PERCEPTIONS; ATTENDANCE; FREQUENCY; JUDGMENT; VALIDITY
+AB The properties of self-reports and perceived norms of absenteeism were examined and compared in 7 progressive studies. Regardless of attendance context, time interval, type of estimate, or administration condition, individuals reported (on average) having roughly half the absenteeism of the perceived norm among their peers; 85% to 95% of respondents reported being above average in their attendance record. This ''Lake Wobegon effect'' was traced to a small negative bias (underreporting) in self-reports and a large positive bias (overreporting) in perceived norms. Self-presentation and availability processes were proposed as explanations for these biases. In a study in which direct observations of past and future absenteeism were collected, self-reports correlated .69 (p < .01) with the direct observations. Perceived norms explained unique variation (Delta R(2) = .10, p < .01) in future absenteeism.
+RP HARRISON, DA (corresponding author), UNIV TEXAS,COLL BUSINESS ADM,DEPT MANAGEMENT,BOX 19467,ARLINGTON,TX 76019, USA.
+RI Harrison, David/G-3342-2012
+OI Harrison, David/0000-0001-5247-3633
+NR 48
+TC 75
+Z9 75
+U1 0
+U2 10
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0021-9010
+J9 J APPL PSYCHOL
+JI J. Appl. Psychol.
+PD APR
+PY 1994
+VL 79
+IS 2
+BP 240
+EP 251
+DI 10.1037/0021-9010.79.2.240
+PG 12
+WC Psychology, Applied; Management
+SC Psychology; Business & Economics
+GA NG935
+UT WOS:A1994NG93500010
+DA 2020-08-05
+ER
+
+PT J
+AU GABRIEL, MT
+   CRITELLI, JW
+   EE, JS
+AF GABRIEL, MT
+   CRITELLI, JW
+   EE, JS
+TI NARCISSISTIC ILLUSIONS IN SELF-EVALUATIONS OF INTELLIGENCE AND
+   ATTRACTIVENESS
+SO JOURNAL OF PERSONALITY
+LA English
+DT Article
+ID PERSONALITY-INVENTORY; PHYSICAL ATTRACTIVENESS; CONSTRUCT-VALIDITY;
+   WAIS-R; RELIABILITY; DISORDER; ADULTS; SAMPLE; ESTEEM; SCALE
+AB In this study we compared the ability of narcissism and self-esteem to predict positive illusions in self-evaluations of intelligence and physical attractiveness in a sample of 146 college students. Narcissism predicted both types of illusion for males and females; self-esteem predicted intelligence self-illusion for males. Both males and females overestimated their own intelligence, with males, but not females, also overestimating their attractiveness. Positive illusions for intelligence and attractiveness were correlated. Males showed greater positive illusions than females, with this effect at least partly attributable to observed gender differences in narcissism.
+RP GABRIEL, MT (corresponding author), N TEXAS STATE UNIV,DEPT PSYCHOL,DENTON,TX 76203, USA.
+NR 36
+TC 242
+Z9 242
+U1 4
+U2 42
+PU DUKE UNIV PRESS
+PI DURHAM
+PA BOX 90660, DURHAM, NC 27708-0660
+SN 0022-3506
+J9 J PERS
+JI J. Pers.
+PD MAR
+PY 1994
+VL 62
+IS 1
+BP 143
+EP 155
+DI 10.1111/j.1467-6494.1994.tb00798.x
+PG 13
+WC Psychology, Social
+SC Psychology
+GA ND858
+UT WOS:A1994ND85800007
+DA 2020-08-05
+ER
+
+PT J
+AU DUNNING, D
+   MEYEROWITZ, JA
+   HOLZBERG, AD
+AF DUNNING, D
+   MEYEROWITZ, JA
+   HOLZBERG, AD
+TI AMBIGUITY AND SELF-EVALUATION - THE ROLE OF IDIOSYNCRATIC TRAIT
+   DEFINITIONS IN SELF-SERVING ASSESSMENTS OF ABILITY
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+RP DUNNING, D (corresponding author), CORNELL UNIV,DEPT PSYCHOL,URIS HALL,ITHACA,NY 14853, USA.
+NR 24
+TC 536
+Z9 538
+U1 1
+U2 43
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242
+SN 0022-3514
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD DEC
+PY 1989
+VL 57
+IS 6
+BP 1082
+EP 1090
+DI 10.1037/0022-3514.57.6.1082
+PG 9
+WC Psychology, Social
+SC Psychology
+GA CJ750
+UT WOS:A1989CJ75000015
+DA 2020-08-05
+ER
+
+PT J
+AU BROWN, JD
+AF BROWN, JD
+TI EVALUATIONS OF SELF AND OTHERS - SELF-ENHANCEMENT BIASES IN SOCIAL
+   JUDGMENTS
+SO SOCIAL COGNITION
+LA English
+DT Article
+RP BROWN, JD (corresponding author), SO METHODIST UNIV, DEPT PSYCHOL, DALLAS, TX 75275 USA.
+NR 66
+TC 540
+Z9 544
+U1 5
+U2 90
+PU GUILFORD PUBLICATIONS INC
+PI NEW YORK
+PA 370 SEVENTH AVE, SUITE 1200, NEW YORK, NY 10001-1020 USA
+SN 0278-016X
+J9 SOC COGNITION
+JI Soc. Cogn.
+PY 1986
+VL 4
+IS 4
+BP 353
+EP 376
+DI 10.1521/soco.1986.4.4.353
+PG 24
+WC Psychology, Social
+SC Psychology
+GA F9846
+UT WOS:A1986F984600001
+DA 2020-08-05
+ER
+
+PT J
+AU ALICKE, MD
+AF ALICKE, MD
+TI GLOBAL SELF-EVALUATION AS DETERMINED BY THE DESIRABILITY AND
+   CONTROLLABILITY OF TRAIT ADJECTIVES
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+C1 UNIV N CAROLINA, CHAPEL HILL, NC 27514 USA.
+NR 29
+TC 559
+Z9 567
+U1 2
+U2 87
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+EI 1939-1315
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD DEC
+PY 1985
+VL 49
+IS 6
+BP 1621
+EP 1630
+DI 10.1037/0022-3514.49.6.1621
+PG 10
+WC Psychology, Social
+SC Psychology
+GA AXZ36
+UT WOS:A1985AXZ3600014
+DA 2020-08-05
+ER
+
+EF

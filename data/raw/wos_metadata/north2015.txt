@@ -1,0 +1,1371 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Durante, F
+   Fiske, ST
+   Kervyn, N
+   Cuddy, AJC
+   Akande, A
+   Adetoun, BE
+   Adewuyi, MF
+   Tserere, MM
+   Al Ramiah, A
+   Mastor, KA
+   Barlow, FK
+   Bonn, G
+   Tafarodi, RW
+   Bosak, J
+   Cairns, E
+   Doherty, C
+   Capozza, D
+   Chandran, A
+   Chryssochoou, X
+   Iatridis, T
+   Contreras, JM
+   Costa-Lopes, R
+   Gonzalez, R
+   Lewis, JI
+   Tushabe, G
+   Leyens, JP
+   Mayorga, R
+   Rouhana, NN
+   Castro, VS
+   Perez, R
+   Rodriguez-Bailon, R
+   Moya, M
+   Marente, EM
+   Galvez, MP
+   Sibley, CG
+   Asbrock, F
+   Storari, CC
+AF Durante, Federica
+   Fiske, Susan T.
+   Kervyn, Nicolas
+   Cuddy, Amy J. C.
+   Akande, Adebowale (Debo)
+   Adetoun, Bolanle E.
+   Adewuyi, Modupe F.
+   Tserere, Magdeline M.
+   Al Ramiah, Ananthi
+   Mastor, Khairul Anwar
+   Barlow, Fiona Kate
+   Bonn, Gregory
+   Tafarodi, Romin W.
+   Bosak, Janine
+   Cairns, Ed
+   Doherty, Claire
+   Capozza, Dora
+   Chandran, Anjana
+   Chryssochoou, Xenia
+   Iatridis, Tilemachos
+   Contreras, Juan Manuel
+   Costa-Lopes, Rui
+   Gonzalez, Roberto
+   Lewis, Janet I.
+   Tushabe, Gerald
+   Leyens, Jacques-Philippe
+   Mayorga, Renee
+   Rouhana, Nadim N.
+   Smith Castro, Vanessa
+   Perez, Rolando
+   Rodriguez-Bailon, Rosa
+   Moya, Miguel
+   Morales Marente, Elena
+   Palacios Galvez, Marisol
+   Sibley, Chris G.
+   Asbrock, Frank
+   Storari, Chiara C.
+TI Nations' income inequality predicts ambivalence in stereotype content:
+   How societies mind the gap
+SO BRITISH JOURNAL OF SOCIAL PSYCHOLOGY
+LA English
+DT Article
+ID SYSTEM-JUSTIFICATION; BENEVOLENT SEXISM; FUNDAMENTAL DIMENSIONS;
+   UNIVERSAL DIMENSIONS; GENDER STEREOTYPES; COLLECTIVE ACTION; CONTENT
+   MODEL; COMPETENCE; WARMTH; PREJUDICE
+AB Income inequality undermines societies: The more inequality, the more health problems, social tensions, and the lower social mobility, trust, life expectancy. Given people's tendency to legitimate existing social arrangements, the stereotype content model (SCM) argues that ambivalence?perceiving many groups as either warm or competent, but not both?may help maintain socio-economic disparities. The association between stereotype ambivalence and income inequality in 37 cross-national samples from Europe, the Americas, Oceania, Asia, and Africa investigates how groups' overall warmth-competence, status-competence, and competition-warmth correlations vary across societies, and whether these variations associate with income inequality (Gini index). More unequal societies report more ambivalent stereotypes, whereas more equal ones dislike competitive groups and do not necessarily respect them as competent. Unequal societies may need ambivalence for system stability: Income inequality compensates groups with partially positive social images.
+C1 [Durante, Federica] Univ Milano Bicocca, I-20126 Milan, Italy.
+   [Fiske, Susan T.; Contreras, Juan Manuel] Princeton Univ, Princeton, NJ 08544 USA.
+   [Kervyn, Nicolas; Leyens, Jacques-Philippe] Catholic Univ Louvain, Louvain, Belgium.
+   [Cuddy, Amy J. C.] Harvard Univ, Sch Business, Boston, MA 02163 USA.
+   [Akande, Adebowale (Debo)] Inst Res Global Issues, Tshwane, South Africa.
+   [Adetoun, Bolanle E.] Econ Commiss West Africa Ecowas, Abuja, Nigeria.
+   [Adewuyi, Modupe F.] Emory Univ, Atlanta, GA 30322 USA.
+   [Tserere, Magdeline M.] Natl Prosecuting Author, Pretoria, South Africa.
+   [Al Ramiah, Ananthi] Univ Oxford, Oxford OX1 2JD, England.
+   [Mastor, Khairul Anwar] Univ Kebangsaan Malaysia, Bangi 43600, Malaysia.
+   [Barlow, Fiona Kate] Univ Queensland, St Lucia, Qld, Australia.
+   [Bonn, Gregory; Tafarodi, Romin W.] Univ Toronto, Toronto, ON M5S 1A1, Canada.
+   [Bosak, Janine] Univ Bern, CH-3012 Bern, Switzerland.
+   [Cairns, Ed; Doherty, Claire] Univ Ulster, Coleraine BT52 1SA, Londonderry, North Ireland.
+   [Capozza, Dora] Univ Padua, I-35100 Padua, Italy.
+   [Chryssochoou, Xenia] Pante Univ Social & Polit Sci, Athens, Greece.
+   [Iatridis, Tilemachos] Univ Crete, Rethimnon, Greece.
+   [Costa-Lopes, Rui] Univ Lisbon, ICS, P-1699 Lisbon, Portugal.
+   [Gonzalez, Roberto] Pontificia Univ Catolica Chile, Santiago, Chile.
+   [Lewis, Janet I.] Harvard Univ, Cambridge, MA 02138 USA.
+   [Tushabe, Gerald] Makerere Univ, Kampala, Uganda.
+   [Mayorga, Renee] Univ Lima, Lima, Peru.
+   [Rouhana, Nadim N.] Tufts Univ, Medford, MA 02155 USA.
+   [Smith Castro, Vanessa; Perez, Rolando] Univ Costa Rica, San Pedro, Costa Rica.
+   [Rodriguez-Bailon, Rosa; Moya, Miguel] Univ Granada, E-18071 Granada, Spain.
+   [Morales Marente, Elena; Palacios Galvez, Marisol] Univ Huelva, Huelva, Spain.
+   [Sibley, Chris G.] Univ Auckland, Auckland 1, New Zealand.
+   [Asbrock, Frank] Univ Marburg, D-35032 Marburg, Germany.
+   [Storari, Chiara C.] Univ Lausanne, CH-1015 Lausanne, Switzerland.
+RP Durante, F (corresponding author), Univ Milano Bicocca, Dipartimento Psicol, Piazza Ateneo Nuovo 1, I-20126 Milan, Italy.
+EM federica.durante@unimib.it
+RI AKANDE, ADEBOWALE)/AAQ-9579-2020; Morales, Miguel Moya/B-4381-2011;
+   Galvez, Maria Soledad Palacios/AAA-9231-2020; Asbrock,
+   Frank/AAU-2857-2020; Bonn, Gregory/F-8992-2017; Costa-Lopes,
+   Rui/M-6050-2013; Sibley, Chris G/D-2974-2009; Smith-Castro,
+   Vanessa/D-8173-2015; Rodriguez-Bailon, Rosa/G-8851-2011;
+   Morales-Marente, Elena/K-8492-2017
+OI Morales, Miguel Moya/0000-0003-2421-7282; Galvez, Maria Soledad
+   Palacios/0000-0002-6802-6202; Costa-Lopes, Rui/0000-0002-1509-6397;
+   Sibley, Chris G/0000-0002-4064-8800; Smith-Castro,
+   Vanessa/0000-0001-6348-4223; Rodriguez-Bailon, Rosa/0000-0002-3489-0107;
+   Kervyn, Nicolas/0000-0001-9056-6283; Barlow, Fiona
+   Kate/0000-0001-9533-1256; DURANTE, FEDERICA/0000-0003-1442-3808; AKANDE,
+   ADEBOWALE "AD"/0000-0002-6521-3272; Morales-Marente,
+   Elena/0000-0002-1227-9606; Asbrock, Frank/0000-0002-6348-2946; Lewis,
+   Janet/0000-0001-7275-8791
+FU NICHD NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH Eunice Kennedy Shriver National
+   Institute of Child Health & Human Development (NICHD) [R24 HD047879]
+NR 66
+TC 82
+Z9 83
+U1 5
+U2 97
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0144-6665
+EI 2044-8309
+J9 BRIT J SOC PSYCHOL
+JI Br. J. Soc. Psychol.
+PD DEC
+PY 2013
+VL 52
+IS 4
+BP 726
+EP 746
+DI 10.1111/bjso.12005
+PG 21
+WC Psychology, Social
+SC Psychology
+GA 263AG
+UT WOS:000327778400008
+PM 23039178
+OA Green Accepted, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU North, MS
+   Fiske, ST
+AF North, Michael S.
+   Fiske, Susan T.
+TI A Prescriptive Intergenerational-Tension Ageism Scale: Succession,
+   Identity, and Consumption (SIC)
+SO PSYCHOLOGICAL ASSESSMENT
+LA English
+DT Article
+DE ageism; prescriptive stereotypes; hostile ageism; generational tensions
+ID ATTITUDES
+AB We introduce a novel ageism scale, focusing on prescriptive beliefs concerning potential intergenerational tensions: active, envied resource succession, symbolic identity avoidance, and passive, shared-resource consumption (SIC). Four studies (2,010 total participants) were Used to develop the scale. Exploratory factor analysis formed an initial 20-item, 3-factor solution (Study 1). The scale converges appropriately with other prejudice measures and diverges from other social control measures (Study 2). It diverges from antiyouth ageism (Study 3). The Study 4 experiment yielded both predictive and divergent validity apropos another ageism measure. Structural equation modeling confirmed model fit across all studies. Per an intergenerational-tension focus, younger people consistently scored the highest. As generational equity issues intensify, the scale provides a contemporary tool for current and future ageism research.
+C1 [North, Michael S.; Fiske, Susan T.] Princeton Univ, Dept Psychol, Princeton, NJ 08540 USA.
+RP North, MS (corresponding author), Princeton Univ, Dept Psychol, Green Hall, Princeton, NJ 08540 USA.
+EM mnorth@princeton.edu
+RI North, Michael S/S-8778-2016
+FU NICHD NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH Eunice Kennedy Shriver National
+   Institute of Child Health & Human Development (NICHD) [R24 HD047879]
+NR 33
+TC 42
+Z9 41
+U1 2
+U2 41
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1040-3590
+EI 1939-134X
+J9 PSYCHOL ASSESSMENT
+JI Psychol. Assess.
+PD SEP
+PY 2013
+VL 25
+IS 3
+BP 706
+EP 713
+DI 10.1037/a0032367
+PG 8
+WC Psychology, Clinical
+SC Psychology
+GA 212PH
+UT WOS:000323994800004
+PM 23544391
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU McCann, RM
+   Keaton, SA
+AF McCann, Robert M.
+   Keaton, Shaughan A.
+TI A Cross Cultural Investigation of Age Stereotypes and Communication
+   Perceptions of Older and Younger Workers in the USA and Thailand
+SO EDUCATIONAL GERONTOLOGY
+LA English
+DT Article
+ID INTERGENERATIONAL COMMUNICATION; UNITED-STATES; ADULTS; ATTITUDES;
+   DISCRIMINATION; CENTRALITY; EMPLOYMENT; WORKPLACE; DECISIONS; PATTERNS
+AB This research assesses younger worker perceptions of older and same age worker stereotypes and communication in the USA and Thailand. Results indicate that older workers are generally seen by younger workers as more uncomfortable with new technology, less flexible and more cautious on the job, and more loyal (and having fewer absences) to the organization than younger workers. As compared to younger American workers, younger Thai workers agree more with negative stereotype items that older workers make more mental mistakes, are slower to adapt to new technology, are more fearful of technology, and are less flexible at work. But they also agree more with positive stereotype items that older workers are absent less, have a better attitude toward work, and have a higher level of commitment to the organization than younger workers. In terms of their communication, younger Thai workers perceive both other younger Thai workers and older Thai workers as exhibiting more avoidant communication than their counterparts from the USA. The younger Thai workers also perceive members of their own age in-group as communicating in a more nonaccommodating manner than younger American workers. Implications for the aging process across cultures and the workplace are discussed.
+C1 [McCann, Robert M.] Univ Calif Los Angeles, Anderson Sch Management, Los Angeles, CA 90095 USA.
+   [Keaton, Shaughan A.] Louisiana State Univ, Dept Commun Studies, Baton Rouge, LA 70803 USA.
+RP McCann, RM (corresponding author), Univ Calif Los Angeles, Anderson Sch Management, Collins Ctr A410, 110 Westwood Plaza,Box 951481, Los Angeles, CA 90095 USA.
+EM robert.mccann@anderson.ucla.edu
+NR 82
+TC 15
+Z9 15
+U1 0
+U2 35
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0360-1277
+EI 1521-0472
+J9 EDUC GERONTOL
+JI Educ. Gerontol.
+PD MAY 1
+PY 2013
+VL 39
+IS 5
+BP 326
+EP 341
+DI 10.1080/03601277.2012.700822
+PG 16
+WC Education & Educational Research; Gerontology
+SC Education & Educational Research; Geriatrics & Gerontology
+GA 100EZ
+UT WOS:000315680500004
+DA 2020-08-05
+ER
+
+PT J
+AU Luo, BZ
+   Zhou, K
+   Jin, EJ
+   Newman, A
+   Liang, JY
+AF Luo, Baozhen
+   Zhou, Kui
+   Jin, Eun Jung
+   Newman, Alisha
+   Liang, Jiayin
+TI Ageism among College Students: A Comparative Study between US and China
+SO JOURNAL OF CROSS-CULTURAL GERONTOLOGY
+LA English
+DT Article
+DE Ageism; Culture; Intergenerational interactions; Age segregation;
+   Gerontological curriculum; One-child generation; Consumerism
+AB It is often assumed that Chinese people tend to have a more positive attitude toward aging and old age than Americans, due to the cultural generalization of collectivism versus individualism. This study aimed to critically examine this assumption by using first-hand empirical data collected in a Chinese and an American university (standardized surveys and in-depth focus group interviews). Respectively, 980 college students in China and 332 college students in the U.S. were recruited for the standardized surveys; whereas two focus-group interviews in each country (4 participants per group) were conducted to collect more in-depth information. Contrary to the common assumption, this study revealed that Chinese students actually hold more negative attitudes toward aging and older people compared to their American peers. It was also found that females tend to hold more positive attitudes than male students across both cultures, though American female students hold more positive attitudes than Chinese female students. Chinese students' interactions with seniors are often limited to their grandparents whereas American students tend to reach out to non-grandparent seniors in larger communities. Chinese students' more negative attitudes toward aging and older people may be a result of a combination of educational, social, and economic factors-a higher level of age segregation (geographically, socially, and intellectually) and a lack of gerontological curriculum in Chinese educational system, the caregiving burden faced by the one-child generation compounded with lack of governmental support for caregiving, as well as the rising youth-oriented consumerist culture.
+C1 [Luo, Baozhen; Jin, Eun Jung; Newman, Alisha] Western Washington Univ, Bellingham, WA 98225 USA.
+   [Zhou, Kui] Southwestern Univ Finance & Econ, Chengdu, Sichuan, Peoples R China.
+   [Liang, Jiayin] Miami Univ, Oxford, OH 45056 USA.
+RP Luo, BZ (corresponding author), Western Washington Univ, Bellingham, WA 98225 USA.
+EM baozhen.luo@wwu.edu
+NR 37
+TC 33
+Z9 34
+U1 2
+U2 26
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0169-3816
+EI 1573-0719
+J9 J CROSS-CULT GERONTO
+JI J. Cross-Cult. Gerontol.
+PD MAR
+PY 2013
+VL 28
+IS 1
+BP 49
+EP 63
+DI 10.1007/s10823-013-9186-5
+PG 15
+WC Gerontology
+SC Geriatrics & Gerontology
+GA VD3GX
+UT WOS:000436657600003
+PM 23397227
+DA 2020-08-05
+ER
+
+PT J
+AU Huang, CS
+AF Huang, Chin-Shan
+TI UNDERGRADUATE STUDENTS' KNOWLEDGE ABOUT AGING AND ATTITUDES TOWARD OLDER
+   ADULTS IN EAST AND WEST: A SOCIO-ECONOMIC AND CULTURAL EXPLORATION
+SO INTERNATIONAL JOURNAL OF AGING & HUMAN DEVELOPMENT
+LA English
+DT Article
+ID MODERNIZATION; EDUCATION; PEOPLE; STATES; YOUNG
+AB Knowledge about aging and the attitudes toward older people were surveyed in undergraduate students (total number of subjects sampled is 1402) in four countries (Japan, China, Taiwan, and Vietnam) in eastern cultures and in two countries (United States and United Kingdom) in western cultures. All participants completed two questionnaires, FAQ1 (for knowledge) and ASD (for attitudes) in their own languages. It was found that within the undergraduate students sampled: (a) the level of knowledge about aging in the western countries is significantly higher than that in the eastern countries, and (b) attitudes toward aging are more positive in the western countries compared to the eastern countries. The data suggest that, within the limits of the sampling: (a) the tradition of respecting older adults in eastern cultures may have weakened gradually, and (b) the modernization theory that assumes industrialization devalues aging populations appears to be supported in eastern countries but not in western countries. An alternative non-linear theory is discussed for the relationship between modernization and the societal views on aging. Educational promotion of knowledge about aging is emphasized for the formation of positive attitudes toward older adults.
+C1 [Huang, Chin-Shan] Natl Chung Cheng Univ, Taipei, Taiwan.
+RP Huang, CS (corresponding author), Nation Chung Cheng Univ, Dept Adult & Continuing Educ, Natl Chung Cheng Univ, 168 Univ Rd, Chiayi 62102, Taiwan.
+EM aducsh@ccu.edu.tw
+NR 41
+TC 13
+Z9 13
+U1 0
+U2 10
+PU BAYWOOD PUBL CO INC
+PI AMITYVILLE
+PA 26 AUSTIN AVE, PO BOX 337, AMITYVILLE, NY 11701 USA
+SN 0091-4150
+J9 INT J AGING HUM DEV
+JI Int. J. Aging Human Dev.
+PY 2013
+VL 77
+IS 1
+BP 59
+EP 76
+DI 10.2190/AG.77.1.d
+PG 18
+WC Gerontology; Psychology, Developmental
+SC Geriatrics & Gerontology; Psychology
+GA 209IZ
+UT WOS:000323750500004
+PM 23986980
+DA 2020-08-05
+ER
+
+PT J
+AU Chung, C
+   Lin, ZY
+AF Chung, Christie
+   Lin, Ziyong
+TI A CROSS-CULTURAL EXAMINATION OF THE POSITIVITY EFFECT IN MEMORY: UNITED
+   STATES vs. CHINA
+SO INTERNATIONAL JOURNAL OF AGING & HUMAN DEVELOPMENT
+LA English
+DT Article
+ID EMOTIONAL MEMORY; OLDER-ADULTS; STEREOTYPE THREAT; AGE; ATTITUDES;
+   PERFORMANCE; COGNITION
+AB Many studies conducted in the United States (U.S.) have documented a positivity effect in aging-a tendency for older adults to remember more positive than negative information in comparison to young adults. Despite this cognitive emotional benefit, U.S. adults still hold a more negative view of aging compared to adults in Asia. We hypothesized that these aging stereotypes may contribute to different patterns of age-related emotional memory processing in the two cultures. In the present study, we tested young and older adults in the U.S. and China on a View of Aging task and an emotional picture memory task. Chinese older adults hold a significantly more positive view of aging compared to all other groups of participants. Older adults in both countries demonstrated an age-related positivity effect, but Chinese older adults showed a trend in remembering fewer negative pictures than their American counterparts. These findings suggest that aging stereotypes might significantly influence older adults' cognitive abilities.
+C1 [Chung, Christie] Mills Coll, Dept Psychol, Oakland, CA 94613 USA.
+RP Chung, C (corresponding author), Mills Coll, Dept Psychol, 5000 MacArthur Blvd, Oakland, CA 94613 USA.
+EM cchung@mills.edu
+NR 44
+TC 15
+Z9 16
+U1 1
+U2 15
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0091-4150
+EI 1541-3535
+J9 INT J AGING HUM DEV
+JI Int. J. Aging Human Dev.
+PY 2012
+VL 75
+IS 1
+BP 31
+EP 44
+DI 10.2190/AG.75.1.d
+PG 14
+WC Gerontology; Psychology, Developmental
+SC Geriatrics & Gerontology; Psychology
+GA 021SH
+UT WOS:000309905200004
+PM 23115912
+DA 2020-08-05
+ER
+
+PT J
+AU Laidlaw, K
+   Wang, DH
+   Coelho, C
+   Power, M
+AF Laidlaw, Ken
+   Wang, DaHua
+   Coelho, Claudia
+   Power, Mick
+TI Attitudes to ageing and expectations for filial piety across Chinese and
+   British cultures: A pilot exploratory evaluation
+SO AGING & MENTAL HEALTH
+LA English
+DT Article
+DE filial piety; attitudes to ageing; ageing; culture; Confucianism
+ID SCALE CES-D; CRITERION VALIDITY; SOCIAL SUPPORT; ELDER RESPECT; OLDER
+   CHINESE; YOUNG-ADULTS; DEPRESSION; FAMILY; SAMPLE; AGE
+AB Introduction: Filial piety (FP) is a central theme in Asian culture and is seen as care for one's parents as part of a traditional concept of Confucianism. Older people may hold strong expectations for FP from their children. Attitudes towards the experience of ageing may be influenced by how far one perceives their expectations to be met. Method: A cross-sectional evaluation of expectation for FP and attitudes to ageing was undertaken in three different cultural groups-elderly Chinese immigrants living in the UK, Chinese older people living in Beijing and Scottish older people living in Scotland. Results: There were significant differences between the three cultural groups on a standardized measure of attitudes to ageing on psychosocial loss, F(2, 127) = 28.20, p = 0.0005 and physical change, F(2, 127) = 67.60, p = 0.0005 domains of attitudes to ageing. With expectations for FP, the UK-born participants evidenced lower expectations than the two Chinese groups, who were very similar in their levels of expectation, F(2, 127) = 10.92, p = 0.0005. Conclusions: The study was the first of its kind to consider attitudes to ageing and expectations for FP across three cultural groups. Overall an interesting pattern of results emerged suggesting that both Chinese groups remain invested in the concept of FP, whereas the UK sample was not. In contrast, however, the Chinese immigrants and the UK participants were more similar in reporting attitudes to ageing than the Chinese participants who were more likely to endorse a loss-deficit view of ageing.
+C1 [Laidlaw, Ken; Coelho, Claudia; Power, Mick] Univ Edinburgh, Sch Hlth Social Sci, Sect Clin & Hlth Psychol, Edinburgh, Midlothian, Scotland.
+   [Wang, DaHua] Beijing Normal Univ, Inst Dev Psychol, Beijing 1000875, Peoples R China.
+RP Laidlaw, K (corresponding author), Univ Edinburgh, Sch Hlth Social Sci, Sect Clin & Hlth Psychol, Edinburgh, Midlothian, Scotland.
+EM klaidlaw@ed.ac.uk
+RI Wang, dahua/W-7201-2019
+OI Wang, dahua/0000-0003-2828-2532; Power, Michael/0000-0001-9481-9225
+NR 35
+TC 37
+Z9 39
+U1 0
+U2 31
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1360-7863
+EI 1364-6915
+J9 AGING MENT HEALTH
+JI Aging Ment. Health
+PY 2010
+VL 14
+IS 3
+BP 283
+EP 292
+AR PII 921670138
+DI 10.1080/13607860903483060
+PG 10
+WC Geriatrics & Gerontology; Gerontology; Psychiatry
+SC Geriatrics & Gerontology; Psychiatry
+GA 593FR
+UT WOS:000277438700006
+PM 20425647
+DA 2020-08-05
+ER
+
+PT J
+AU Lockenhoff, CE
+   De Fruyt, F
+   Terracciano, A
+   McCrae, RR
+   De Bolle, M
+   Costa, PT
+   Aguilar-Vafaie, ME
+   Ahn, CK
+   Ahn, HN
+   Alcalay, L
+   Allik, J
+   Avdeyeva, TV
+   Barbaranelli, C
+   Benet-Martinez, V
+   Blatny, M
+   Bratko, D
+   Cain, TR
+   Crawford, JT
+   Lima, MP
+   Fickova, E
+   Gheorghiu, M
+   Halberstadt, J
+   Hrebickova, M
+   Jussim, L
+   Klinkosz, W
+   Knezevic, G
+   de Figueroa, NL
+   Martin, TA
+   Marusic, I
+   Mastor, KA
+   Miramontez, DR
+   Nakazato, K
+   Nansubuga, F
+   Pramila, VS
+   Realo, A
+   Rolland, JP
+   Rossier, J
+   Schmidt, V
+   Sekowski, A
+   Shakespeare-Finch, J
+   Shimonaka, Y
+   Simonetti, F
+   Siuta, J
+   Smith, PB
+   Szmigielska, B
+   Wang, L
+   Yamaguchi, M
+   Yik, M
+AF Loeckenhoff, Corinna E.
+   De Fruyt, Filip
+   Terracciano, Antonio
+   McCrae, Robert R.
+   De Bolle, Marleen
+   Costa, Paul T., Jr.
+   Aguilar-Vafaie, Maria E.
+   Ahn, Chang-kyu
+   Ahn, Hyun-nie
+   Alcalay, Lidia
+   Allik, Juri
+   Avdeyeva, Tatyana V.
+   Barbaranelli, Claudio
+   Benet-Martinez, Veronica
+   Blatny, Marek
+   Bratko, Denis
+   Cain, Thomas R.
+   Crawford, Jarret T.
+   Lima, Margarida P.
+   Fickova, Emilia
+   Gheorghiu, Mirona
+   Halberstadt, Jamin
+   Hrebickova, Martina
+   Jussim, Lee
+   Klinkosz, Waldemar
+   Knezevic, Goran
+   Leibovich de Figueroa, Nora
+   Martin, Thomas A.
+   Marusic, Iris
+   Mastor, Khairul Anwar
+   Miramontez, Daniel R.
+   Nakazato, Katsuharu
+   Nansubuga, Florence
+   Pramila, V. S.
+   Realo, Anu
+   Rolland, Jean-Pierre
+   Rossier, Jerome
+   Schmidt, Vanina
+   Sekowski, Andrzej
+   Shakespeare-Finch, Jane
+   Shimonaka, Yoshiko
+   Simonetti, Franco
+   Siuta, Jerzy
+   Smith, Peter B.
+   Szmigielska, Barbara
+   Wang, Lei
+   Yamaguchi, Mami
+   Yik, Michelle
+TI Perceptions of Aging Across 26 Cultures and Their Culture-Level
+   Associates
+SO PSYCHOLOGY AND AGING
+LA English
+DT Article
+DE aging; stereotypes; cross-cultural; values; national character
+   stereotypes
+ID NATIONAL CHARACTER STEREOTYPES; OLDER-ADULTS; UNITED-STATES;
+   YOUNG-ADULTS; AGE-GROUPS; LIFE-SPAN; ATTITUDES; MODERNIZATION;
+   ABILITIES; AMERICAN
+AB College students (N = 3,435) in 26 cultures reported their perceptions of age-related changes in physical, cognitive, and socioemotional areas of functioning and rated societal views of aging within their culture. There was widespread cross-cultural consensus regarding the expected direction of aging trajectories with (a) perceived declines in societal views of aging, physical attractiveness, the ability to perform everyday tasks, and new learning; (b) perceived increases in wisdom, knowledge, and received respect; and (c) perceived stability in family authority and life satisfaction. Cross-cultural variations in aging perceptions were associated with culture-level indicators of population aging, education levels, values, and national character stereotypes. These associations were stronger for societal views on aging and perceptions of socioemotional changes than for perceptions of physical and cognitive changes. A consideration of culture-level variables also suggested that previously reported differences in aging perceptions between Asian and Western countries may be related to differences in population structure.
+C1 [Loeckenhoff, Corinna E.; Terracciano, Antonio; McCrae, Robert R.; Costa, Paul T., Jr.] NIA, Baltimore, MD 21224 USA.
+   [De Fruyt, Filip; De Bolle, Marleen] Univ Ghent, Dept Dev Personal & Social Psychol, B-9000 Ghent, Belgium.
+   [Aguilar-Vafaie, Maria E.] Tarbiat Modares Univ, Dept Psychol, Tehran, Iran.
+   [Ahn, Chang-kyu] Pusan Natl Univ, Dept Educ, Pusan, South Korea.
+   [Ahn, Hyun-nie] Ewha Womans Univ, Dept Psychol, Seoul, South Korea.
+   [Alcalay, Lidia; Simonetti, Franco] Pontificia Univ Catolica Chile, Escuela Psicol, Santiago, Chile.
+   [Allik, Juri; Realo, Anu] Univ Tartu, Dept Psychol, EE-50090 Tartu, Estonia.
+   [Avdeyeva, Tatyana V.] Univ St Thomas, Grad Sch Profess Psychol, St Paul, MN USA.
+   [Barbaranelli, Claudio] Univ Roma La Sapienza, Dept Psychol, Rome, Italy.
+   [Benet-Martinez, Veronica; Miramontez, Daniel R.] Univ Calif Riverside, Dept Psychol, Riverside, CA 92521 USA.
+   [Blatny, Marek; Hrebickova, Martina] Acad Sci Czech Republ, Inst Psychol, Prague, Czech Republic.
+   [Bratko, Denis] Univ Zagreb, Fac Philosophy, Dept Psychol, Zagreb 41000, Croatia.
+   [Cain, Thomas R.; Crawford, Jarret T.; Jussim, Lee] Rutgers State Univ, Dept Psychol, Piscataway, NJ 08855 USA.
+   [Lima, Margarida P.] Univ Coimbra, Fac Psychol & Educ Sci, Coimbra, Portugal.
+   [Fickova, Emilia] Slovak Acad Sci, Inst Expt Psychol, Bratislava, Slovakia.
+   [Gheorghiu, Mirona] Queens Univ Belfast, Sch Psychol, Belfast BT7 1NN, Antrim, North Ireland.
+   [Halberstadt, Jamin] Univ Otago, Dept Psychol, Dunedin, New Zealand.
+   [Klinkosz, Waldemar] John Paul II Catholic Univ Lublin, Dept Psychol, Lublin, Poland.
+   [Knezevic, Goran] Univ Belgrade, Fac Philosophy, Dept Psychol, Belgrade, Serbia.
+   [Leibovich de Figueroa, Nora; Schmidt, Vanina] Univ Buenos Aires, Dept Psychol, Res Inst, Buenos Aires, DF, Argentina.
+   [Martin, Thomas A.] Susquehanna Univ, Selinsgrove, PA USA.
+   [Marusic, Iris] Inst Social Res, Zagreb, Croatia.
+   [Mastor, Khairul Anwar] Univ Kebangsaan Malaysia, Sch Gen Studies, Bangi 43600, Malaysia.
+   [Nakazato, Katsuharu] Iwate Prefectural Univ, Fac Social Welf, Takizawa, Iwate, Japan.
+   [Nansubuga, Florence] Makerere Univ, Inst Psychol, Kampala, Uganda.
+   [Pramila, V. S.] Andhra Univ, Dept Psychol, Visakhapatnam, Andhra Pradesh, India.
+   [Rolland, Jean-Pierre] Univ Paris 10, Nanterre, France.
+   [Rossier, Jerome] Univ Lausanne, Inst Psychol, Lausanne, Switzerland.
+   [Shakespeare-Finch, Jane] Queensland Univ Technol, Sch Psychol & Counselling, Brisbane, Qld 4001, Australia.
+   [Shimonaka, Yoshiko] Bunkyo Gakuin Univ, Dept Human Studies, Bunkyo, Japan.
+   [Siuta, Jerzy; Szmigielska, Barbara] Jagiellonian Univ, Inst Psychol, Krakow, Poland.
+   [Smith, Peter B.] Univ Sussex, Dept Psychol, Falmer, England.
+   [Wang, Lei] Peking Univ, Dept Psychol, Beijing 100871, Peoples R China.
+   [Yik, Michelle] Hong Kong Univ Sci & Technol, Hong Kong, Hong Kong, Peoples R China.
+RP Lockenhoff, CE (corresponding author), Cornell Univ, Dept Human Dev, G35 Martha van Rensselaer Hall, Ithaca, NY 14853 USA.
+EM CEL72@cornell.edu
+RI De Fruyt, Filip/A-3083-2009; Benet-Martinez, Veronica/AAS-8624-2020;
+   Realo, Anu/M-9524-2016; Knezevic, Goran D/G-6420-2019; terracciano,
+   antonio/B-1884-2008; Benet-Martinez, Veronica/B-5398-2011; Sekowski,
+   Andrzej/O-7807-2016; Wang, Lei/D-2501-2016; Rossier, Jerome/A-3494-2009;
+   Allik, Juri/N-3038-2019; Terracciano, Antonio/H-7403-2019; Hrebickova,
+   Martina/H-4410-2014; Costa, Paul/AAH-6594-2019; Blatny,
+   Marek/H-4293-2014; Allik, Juri/D-5609-2009
+OI Benet-Martinez, Veronica/0000-0002-3352-9731; Knezevic, Goran
+   D/0000-0001-8951-3774; Benet-Martinez, Veronica/0000-0002-3352-9731;
+   Wang, Lei/0000-0002-6156-9028; Rossier, Jerome/0000-0002-9924-3672;
+   Allik, Juri/0000-0002-8358-4747; Terracciano,
+   Antonio/0000-0001-5799-8885; Hrebickova, Martina/0000-0003-4356-567X;
+   Costa, Paul/0000-0003-4375-1712; Blatny, Marek/0000-0001-9831-0637;
+   Allik, Juri/0000-0002-8358-4747; P. de Lima,
+   Margarida/0000-0002-6239-1137; Shakespeare-Finch,
+   Jane/0000-0003-4237-1320; Loeckenhoff, Corinna/0000-0003-1605-1323;
+   Nansubuga, Florence/0000-0001-6569-8700; Bratko,
+   Denis/0000-0002-2482-4413; YIK, Michelle/0000-0003-0104-3662
+FU Intramural NIH HHSUnited States Department of Health & Human
+   ServicesNational Institutes of Health (NIH) - USA [Z99 AG999999, ZIA
+   AG000183-23, ZIA AG000183-22, ZIA AG000180-26, ZIA AG000180-25]
+NR 66
+TC 140
+Z9 145
+U1 2
+U2 76
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0882-7974
+EI 1939-1498
+J9 PSYCHOL AGING
+JI Psychol. Aging
+PD DEC
+PY 2009
+VL 24
+IS 4
+BP 941
+EP 954
+DI 10.1037/a0016901
+PG 14
+WC Gerontology; Psychology, Developmental
+SC Geriatrics & Gerontology; Psychology
+GA 534NR
+UT WOS:000272904900015
+PM 20025408
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Cuddy, AJC
+   Fiske, ST
+   Kwan, VSY
+   Glick, P
+   Demoulin, S
+   Leyens, JP
+   Bond, MH
+   Croizet, JC
+   Ellemers, N
+   Sleebos, E
+   Htun, TT
+   Kim, HJ
+   Maio, G
+   Perry, J
+   Petkova, K
+   Todorov, V
+   Rodriguez-Bailon, R
+   Morales, E
+   Moya, M
+   Palacios, M
+   Smith, V
+   Perez, R
+   Vala, J
+   Ziegler, R
+AF Cuddy, Amy J. C.
+   Fiske, Susan T.
+   Kwan, Virginia S. Y.
+   Glick, Peter
+   Demoulin, Stephanie
+   Leyens, Jacques-Philippe
+   Bond, Michael Harris
+   Croizet, Jean-Claude
+   Ellemers, Naomi
+   Sleebos, Ed
+   Htun, Tin Tin
+   Kim, Hyun-Jeong
+   Maio, Greg
+   Perry, Judi
+   Petkova, Kristina
+   Todorov, Valery
+   Rodriguez-Bailon, Rosa
+   Morales, Elena
+   Moya, Miguel
+   Palacios, Marisol
+   Smith, Vanessa
+   Perez, Rolando
+   Vala, Jorge
+   Ziegler, Rene
+TI Stereotype content model across cultures: Towards universal similarities
+   and some differences
+SO BRITISH JOURNAL OF SOCIAL PSYCHOLOGY
+LA English
+DT Review
+ID INTEGRATED THREAT THEORY; PHYSICAL ATTRACTIVENESS; UNITED-STATES; CAUSAL
+   ATTRIBUTION; ETHNIC-STEREOTYPES; BENEVOLENT SEXISM; SOCIAL-PERCEPTION;
+   SELF-ENHANCEMENT; ASIAN-AMERICANS; PREJUDICE
+AB The stereotype content model (SCM) proposes potentially universal principles of societal stereotypes and their relation to social structure. Here, the SCM reveals theoretically grounded, cross-cultural, cross-groups similarities and one difference across 10 non-US nations. Seven European (individualist) and three East Asian (collectivist) nations (N = 1,028) support three hypothesized cross-cultural similarities: (a) perceived warmth and competence reliably differentiate societal group stereotypes; (b) many out-groups receive ambivalent stereotypes (high on one dimension; low on the other); and (c) high status groups stereotypically are competent, whereas competitive groups stereotypically lack warmth. Data uncover one consequential cross-cultural difference: (d) the more collectivist cultures do not locate reference groups (in-groups and societal prototype groups) in the most positive cluster (high-competence/high-warmth), unlike individualist cultures. This demonstrates out-group derogation without obvious reference-group favouritism. The SCM can serve as a pancultural tool for predicting group stereotypes from structural relations with other groups in society, and comparing across societies.
+C1 [Cuddy, Amy J. C.] Northwestern Univ, Evanston, IL USA.
+   [Fiske, Susan T.; Kwan, Virginia S. Y.] Princeton Univ, Princeton, NJ 08544 USA.
+   [Glick, Peter] Lawrence Univ, Appleton, WI 54912 USA.
+   [Demoulin, Stephanie; Leyens, Jacques-Philippe] Catholic Univ Louvain, B-3000 Louvain, Belgium.
+   [Bond, Michael Harris] Chinese Univ Hong Kong, Shatin, Hong Kong, Peoples R China.
+   [Croizet, Jean-Claude] Univ Poitiers, Poitiers, France.
+   [Ellemers, Naomi; Sleebos, Ed] Leiden Univ, Leiden, Netherlands.
+   [Htun, Tin Tin] Japan Womens Univ, Tokyo 112, Japan.
+   [Kim, Hyun-Jeong] Ewha Womans Univ, Seoul, South Korea.
+   [Maio, Greg] Cardiff Univ, Cardiff, S Glam, Wales.
+   [Perry, Judi] Univ Tromso, Tromso, Norway.
+   [Petkova, Kristina; Todorov, Valery] Inst Sociol, Sofia, Bulgaria.
+   [Rodriguez-Bailon, Rosa; Morales, Elena; Moya, Miguel; Palacios, Marisol] Univ Granada, Granada, Spain.
+   [Smith, Vanessa; Perez, Rolando] Univ Costa Rica, San Pedro, Costa Rica.
+   [Vala, Jorge] Univ Lisbon, P-1699 Lisbon, Portugal.
+   [Ziegler, Rene] Univ Tubingen, Tubingen, Germany.
+RP Cuddy, AJC (corresponding author), Harvard Univ, Sch Business, Soldiers Field Rd, Boston, MA 02163 USA.
+EM acuddy@hbs.edu
+RI Galvez, Maria Soledad Palacios/AAA-9231-2020; Rodriguez-Bailon,
+   Rosa/G-8851-2011; Smith-Castro, Vanessa/D-8173-2015; Vala,
+   Jorge/M-6230-2013; Maio, Gregory R/D-1632-2009; Sleebos, Ed/A-8459-2012;
+   Morales, Miguel Moya/B-4381-2011
+OI Galvez, Maria Soledad Palacios/0000-0002-6802-6202; Rodriguez-Bailon,
+   Rosa/0000-0002-3489-0107; Smith-Castro, Vanessa/0000-0001-6348-4223;
+   Vala, Jorge/0000-0003-1265-4936; Maio, Gregory R/0000-0001-5408-5829;
+   Morales, Miguel Moya/0000-0003-2421-7282; Todorov,
+   Valery/0000-0002-5249-5952; Ellemers, Naomi/0000-0001-9810-1165
+FU NICHD NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH Eunice Kennedy Shriver National
+   Institute of Child Health & Human Development (NICHD) [R24 HD047879]
+NR 135
+TC 380
+Z9 387
+U1 9
+U2 216
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0144-6665
+EI 2044-8309
+J9 BRIT J SOC PSYCHOL
+JI Br. J. Soc. Psychol.
+PD MAR
+PY 2009
+VL 48
+IS 1
+BP 1
+EP 33
+DI 10.1348/014466608X314935
+PG 33
+WC Psychology, Social
+SC Psychology
+GA 420KR
+UT WOS:000264289200001
+PM 19178758
+OA Green Accepted
+DA 2020-08-05
+ER
+
+PT J
+AU Ryan, EB
+   Jin, YS
+   Anas, AP
+AF Ryan, Ellen Bouchard
+   Jin, Young-Sun
+   Anas, Ann P.
+TI CROSS-CULTURAL BELIEFS ABOUT MEMORY AND AGING FOR SELF AND OTHERS: SOUTH
+   KOREA AND CANADA
+SO INTERNATIONAL JOURNAL OF AGING & HUMAN DEVELOPMENT
+LA English
+DT Article
+ID ADULT LIFE-SPAN; NEGATIVE STEREOTYPES; AGE; SELVES
+AB Young adults in Canada (N = 161) and South Korea (N = 165) rated either themselves or typical others at target ages 25, 45, and 65 years. In both countries, poorer memory was anticipated with each increase in age on all 3 memory belief factors: capacity, change, and locus. Both groups demonstrated a self-protective bias about age-related decline, with Koreans showing a greater effect. These findings demonstrate the cross-cultural generality of negative memory stereotypes of middle and old age and the importance of self-other distinctions in age biases.
+C1 [Ryan, Ellen Bouchard] McMaster Univ, McMaster Ctr Gerontol Studies, KTH 226, Hamilton, ON L8S 4M4, Canada.
+   [Jin, Young-Sun] Kyungpook Natl Univ, Taegu 702701, South Korea.
+RP Ryan, EB (corresponding author), McMaster Univ, McMaster Ctr Gerontol Studies, KTH 226, Hamilton, ON L8S 4M4, Canada.
+EM ryaneb@mcmaster.ca
+NR 30
+TC 6
+Z9 6
+U1 0
+U2 2
+PU BAYWOOD PUBL CO INC
+PI AMITYVILLE
+PA 26 AUSTIN AVE, PO BOX 337, AMITYVILLE, NY 11701 USA
+SN 0091-4150
+J9 INT J AGING HUM DEV
+JI Int. J. Aging Human Dev.
+PY 2009
+VL 68
+IS 3
+BP 185
+EP 194
+DI 10.2190/AG.68.3.a
+PG 10
+WC Gerontology; Psychology, Developmental
+SC Geriatrics & Gerontology; Psychology
+GA 446RT
+UT WOS:000266139500001
+PM 19522178
+DA 2020-08-05
+ER
+
+PT J
+AU Lin, XP
+   Bryant, C
+AF Lin, Xiaoping
+   Bryant, Christina
+TI Students' Attitudes Toward Older People: A Cross-Cultural Comparison
+SO JOURNAL OF INTERGENERATIONAL RELATIONSHIPS
+LA English
+DT Article
+DE cultural differences; attitudes toward older people; FSA
+AB There is a popular belief that attitudes toward older people are predominantly negative in Western cultures and positive in Eastern cultures. In the light of social and cultural changes in these cultures, it is timely to investigate whether this belief still holds true. The study also explores an often-ignored feature of cultural differences in these attitudes, namely, that attitudes toward older people are mixed phenomena in both cultures. The study uses a cross-group research design. Sixty-five undergraduates (31 Western and 35 Eastern) completed the Fraboni Scale of Ageism (FSA) administered on computers. It found that attitudes toward older people were generally positive in both cultures and did not support the first hypothesis that attitudes toward older people would be predominantly negative in Western cultures and positive in Eastern cultures. However, as predicted, attitudes toward older people were mixed in both cultures. This study highlights the similarity in attitudes toward older people across cultures and argues that future studies need to be encouraged to pay more attention to positive attitudes.
+C1 [Lin, Xiaoping] Postgrad Diploma Psychol, Melbourne, Vic, Australia.
+RP Bryant, C (corresponding author), Univ Melbourne, Sch Behav Sci, Melbourne, Vic 3010, Australia.
+EM cbryant@unimelb.edu.au
+OI Lin, Xiaoping/0000-0002-8785-0694; Bryant, Christina/0000-0003-4728-981X
+NR 43
+TC 9
+Z9 9
+U1 0
+U2 1
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1535-0770
+EI 1535-0932
+J9 J INTERGENER RELATSH
+JI J. Intergener. Relatsh.
+PY 2009
+VL 7
+IS 4
+BP 411
+EP 424
+DI 10.1080/15350770903285320
+PG 14
+WC Gerontology
+SC Geriatrics & Gerontology
+GA V83DD
+UT WOS:000212365200005
+DA 2020-08-05
+ER
+
+PT J
+AU Davidson, D
+   Luo, ZP
+   Fulton, BR
+AF Davidson, Denise
+   Luo, Zupei
+   Fulton, Bradley R.
+TI Stereotyped Views of Older Adults in Children from the People's Republic
+   of China and from the United States
+SO JOURNAL OF INTERGENERATIONAL RELATIONSHIPS
+LA English
+DT Article
+DE Age stereotypes; stereotype formation; cross-cultural views of older
+   adults
+ID ATTITUDES; MEMORY; AMERICAN; PREJUDICE; CULTURE
+AB Children from the People's Republic of China and from the United States were asked to judge younger and older adults. Children's impression and memory for these adults was examined, along with their ability to use information presented about the adults to judge them. How stable children thought traits were about an adult as that adult ages, and how well children recalled information that was consistent or inconsistent with age stereotypes, was also examined. Additionally, the relationship between children's experiences with older adults, and their views of older adults, was assessed. Although 10-year-old American children were more negative about older adults than other children, 6-and 10-year-old children in both the People's Republic of China and the United States expressed negative views of older adults. However, these negative views, or age stereotypes, were more readily found when the task required a comparison between younger and older adults, even when that comparison was for the same person as a younger and older person. Although children were more positive in their views of the adults following the presentation of positive information, children did not necessarily see these characteristics as being stable, especially if they ran counter to stereotype. This was particularly true for the 6-year-old children. These results are discussed in terms of the formation and counter-formation of age stereotypes in children. (C) 2007 by The Haworth Press. All rights reserved.
+C1 [Davidson, Denise; Luo, Zupei; Fulton, Bradley R.] Loyola Univ Chicago, Chicago, IL 60637 USA.
+RP Davidson, D (corresponding author), Loyola Univ Chicago, Dept Psychol, 6525 N Sheridan Rd, Chicago, IL 60626 USA.
+EM ddavids@luc.edu
+NR 25
+TC 5
+Z9 5
+U1 0
+U2 0
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1535-0770
+EI 1535-0932
+J9 J INTERGENER RELATSH
+JI J. Intergener. Relatsh.
+PY 2008
+VL 5
+IS 4
+BP 7
+EP 24
+DI 10.1300/J194v05n04_02
+PG 18
+WC Gerontology
+SC Geriatrics & Gerontology
+GA V83AA
+UT WOS:000212357100002
+DA 2020-08-05
+ER
+
+PT J
+AU McCann, RM
+   Giles, H
+AF McCann, Robert M.
+   Giles, Howard
+TI Age-Differentiated Communication in Organizations: Perspectives from
+   Thailand and the United States
+SO COMMUNICATION RESEARCH REPORTS
+LA English
+DT Article
+DE Ageism; Communication accommodation theory; Cross cultural differences;
+   Elderly; Intergenerational communication; Thailand
+AB To test hypotheses about intra- and intergenerational communication perceptions, university students with work experience (n = 277) from two nations (Thailand and the United States) self-assessed their communication beliefs on the Global Perceptions of Intergenerational Communication scale. Using communication accommodation theory as a theoretical backdrop, results revealed that, irrespective of culture, young workers perceived older workers as more nonaccommodative (e.g., more negative, more self-centered) than young workers, though young workers still felt more obligation to be polite and "respectfully avoidant" in their communication to older workers. Cross-cultural differences emerged only to the extent that young Americans reported receiving greater accommodation from workers, in general, than did Thais.
+C1 [McCann, Robert M.] Univ Southern Calif, Clin Ctr Management Commun, Marshall Sch Business, Los Angeles, CA 90089 USA.
+   [Giles, Howard] Univ Calif Santa Barbara, Dept Commun, Ellison Hall, Santa Barbara, CA 93106 USA.
+RP Giles, H (corresponding author), Univ Calif Santa Barbara, Dept Commun, Ellison Hall, Santa Barbara, CA 93106 USA.
+EM HowieGiles@aol.com
+FU University of California Pacific Rim Agency
+FX The authors would like to acknowledge the assistance of a George D.
+   McCune dissertation fellowship to the first author, as well as a grant
+   from the University of California Pacific Rim Agency to both authors.
+NR 28
+TC 15
+Z9 15
+U1 0
+U2 0
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0882-4096
+EI 1746-4099
+J9 COMMUN RES REP
+JI Commun. Res. Rep.
+PY 2007
+VL 24
+IS 1
+BP 1
+EP 12
+DI 10.1080/08824090601120841
+PG 12
+WC Communication
+SC Communication
+GA V9X8Z
+UT WOS:000409421400001
+DA 2020-08-05
+ER
+
+PT J
+AU Ota, H
+   Giles, H
+   Somera, LP
+AF Ota, Hiroshi
+   Giles, Howard
+   Somera, Lilnabeth P.
+TI Beliefs About Intra- and Intergenerational Communication in Japan, the
+   Philippines, and the United States: Implication for Older Adults'
+   Subjective Well-Being
+SO COMMUNICATION STUDIES
+LA English
+DT Article
+DE Collective Age-Group Esteem; Communication Accommodation; Elderly;
+   Filial Piety; Intergenerational; Intragenerational; Japan; Life
+   Satisfaction; Nonaccommodation; Philippines; Predicament Model;
+   Self-Esteem; Subjective Well-Being
+AB This study focused on a unique comparison of American, Japanese, and Filipino younger and older adults' intra-and intergenerational communication experiences, and their implications for elder subjective well-being. Hypotheses largely supported and cross-cultural differences notwithstanding, younger adults were more likely to report non-accommodation from, to feel obligated to be polite to, and to avoid older adults than their same-aged peers. Similarly, older adults judged other older adults to be, whilst more accommodating, more nonaccommodating and to require more obligatory respect than younger adults. Both inter-and intragenerational communication experiences were predictive of measures of subjective well-being but, again, with contrastive patterns across cultures. The theoretical relevance of these findings is highlighted.
+C1 [Ota, Hiroshi] Aichi Shuku toku Univ, Nagoya, Aichi, Japan.
+   [Giles, Howard] Univ Calif Santa Barbara, Santa Barbara, CA 93106 USA.
+   [Somera, Lilnabeth P.] Univ Guam, Mangilao, GU 96923 USA.
+RP Giles, H (corresponding author), Univ Calif Santa Barbara, Dept Commun, Santa Barbara, CA 93106 USA.
+EM giles@comm.ucsb.edu
+NR 44
+TC 19
+Z9 19
+U1 0
+U2 1
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1051-0974
+EI 1745-1035
+J9 COMMUN STUD
+JI Commun. Stud.
+PY 2007
+VL 58
+IS 2
+BP 173
+EP 188
+DI 10.1080/10510970701341139
+PG 16
+WC Communication
+SC Communication
+GA V88PS
+UT WOS:000212735900004
+DA 2020-08-05
+ER
+
+PT J
+AU Zhou, LY
+AF Zhou, Ling-Yi
+TI What college students know about older adults: A cross-cultural
+   qualitative study
+SO EDUCATIONAL GERONTOLOGY
+LA English
+DT Article
+ID ATTITUDES; KNOWLEDGE; CHINESE; YOUNG; MODERNIZATION; PERCEPTIONS; FACTS
+AB A total of 227 college students from Joliet, Illinois in the USA and Shanghai in the People's Republic of China ( PRC) answered open-ended questions on their perception of being old. Topics also included participant's knowledge about older adults' regular activities, social policies and benefits for senior citizens, the happiest and the most fearful things to older adults, and the things about older adults that they were able to understand the best or the least. More negative ideas of aging and older adults were observed in the PRC data than in the USA data. The USA students' responses displayed individualistic characteristics, whereas the PRC students' answers exhibited collectivistic interconnectedness. These findings gave support to the revised modernization theory and fit well into the theoretical framework of individualistic and collectivistic cultures.
+C1 St Francis Xavier Univ, Dept Psychol, Joliet, IL 60435 USA.
+RP Zhou, LY (corresponding author), St Francis Xavier Univ, Dept Psychol, 500 Wilcox St, Joliet, IL 60435 USA.
+EM lzhou@stfrancis.edu
+NR 48
+TC 15
+Z9 17
+U1 1
+U2 7
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 0360-1277
+EI 1521-0472
+J9 EDUC GERONTOL
+JI Educ. Gerontol.
+PY 2007
+VL 33
+IS 10
+BP 811
+EP 831
+DI 10.1080/03601270701364545
+PG 21
+WC Education & Educational Research; Gerontology
+SC Education & Educational Research; Geriatrics & Gerontology
+GA 223YG
+UT WOS:000250411500002
+DA 2020-08-05
+ER
+
+PT J
+AU Yun, RJ
+   Lachman, ME
+AF Yun, Rebecca J.
+   Lachman, Margie E.
+TI Perceptions of Aging in Two Cultures: Korean and American Views on Old
+   Age
+SO JOURNAL OF CROSS-CULTURAL GERONTOLOGY
+LA English
+DT Article
+DE Anxiety about aging; Attitudes towards aging; Cultural differences
+AB The current study investigated whether beliefs about aging vary by culture, age, and gender. The Lasher and Faulkender (Int. J. Aging Hum. Dev., 37:247-259, 1993) Anxiety about Aging scale was administered to 153 American and 167 South Korean men and women divided into three age groups: young (18-39), middle-aged (40-59), and older (60-91) adults. Significant cultural differences were found for the total anxiety scale and three of the four subscales. Compared to Americans, Koreans portrayed higher overall levels of anxiety about aging, and greater fear of old people, psychological concerns, and concerns over physical appearance. For Koreans, younger adults had greater fear of old people, whereas among Americans, older adults had greater tear of old people. In both cultures, the older adults had greater psychological concerns and fear of losses than did the younger groups, and American women showed more anxiety about aging and concerns over physical appearance than their male counterparts. Results are discussed in relation to aging in different cultural contexts.
+C1 [Yun, Rebecca J.; Lachman, Margie E.] Brandeis Univ, Psychol Dept, MS 062, Waltham, MA 02454 USA.
+RP Lachman, ME (corresponding author), Brandeis Univ, Psychol Dept, MS 062, Waltham, MA 02454 USA.
+EM Lachman@Brandeis.edu
+NR 34
+TC 53
+Z9 55
+U1 1
+U2 5
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0169-3816
+EI 1573-0719
+J9 J CROSS-CULT GERONTO
+JI J. Cross-Cult. Gerontol.
+PD MAR
+PY 2006
+VL 21
+IS 1-2
+BP 55
+EP 70
+DI 10.1007/s10823-006-9018-y
+PG 16
+WC Gerontology
+SC Geriatrics & Gerontology
+GA VD0DM
+UT WOS:000435295800004
+PM 17103311
+DA 2020-08-05
+ER
+
+PT J
+AU Boduroglu, A
+   Yoon, C
+   Luo, T
+   Park, DC
+AF Boduroglu, Aysecan
+   Yoon, Carolyn
+   Luo, Ting
+   Park, Denise C.
+TI Age-related stereotypes: A comparison of American and Chinese cultures
+SO GERONTOLOGY
+LA English
+DT Article
+DE culture; age; stereotype; East-Asian; Western
+ID YOUNG-ADULTS; OLDER-ADULTS; MULTIPLE STEREOTYPES; ATTITUDES;
+   PERCEPTIONS; MEMORY
+AB Background. It is commonly assumed that age-related stereotypes are more positive in East Asian cultures compared to Western cultures. However, research conducted in Western cultures has demonstrated that age-related stereotypes are multidimensional and their valence is content-dependent. Objective: In this study we investigated stereotypes about young and old adults, held by both young and old in the US and in China by focusing on the valence of age stereotypes across two content domains: social/emotional and mental/physical. The goal was to identify whether there were any cultural differences in age-related stereotypes in Chinese and American cultures. Methods: Both young and old Chinese and American participants were asked to describe typical young and typical old people. All responses were then coded for valence (positive/negative/neutral) and for content (mental/physical, social/emotional, other). Descriptors about young and old people were initially analyzed separately; then data were integrated to examine group tendencies to be more positive or negative for each target age group. Results: In both cultures, stereotypes reflected a shift from more positive to increasingly negative views of mental and physical traits as a function of aging. In social and emotional domains, stereotypes regarding old and young adults were relatively neutral, except for a small positive bias found among the young Chinese adults for both target age groups. Conclusion: Our results indicate that age-related beliefs regarding typical older adults are similar across East-Asian and Western cultures and that a global positive bias for old age in East-Asia is absent.
+C1 Univ Michigan, Dept Psychol, Ann Arbor, MI 48109 USA.
+   Univ Michigan, Ross Sch Business, Ann Arbor, MI 48109 USA.
+   Chinese Acad Sci, Beijing, Peoples R China.
+   Univ Illinois, Urbana, IL 61801 USA.
+RP Boduroglu, A (corresponding author), Univ Michigan, Dept Psychol, 525 E Univ 4422 E Hall, Ann Arbor, MI 48109 USA.
+EM abodurog@umich.edu
+RI Boduroglu, Aysecan/AAM-5868-2020
+FU NIA NIH HHSUnited States Department of Health & Human ServicesNational
+   Institutes of Health (NIH) - USANIH National Institute on Aging (NIA)
+   [5-R01-AG15047, R01 AG015047]
+NR 34
+TC 57
+Z9 59
+U1 1
+U2 26
+PU KARGER
+PI BASEL
+PA ALLSCHWILERSTRASSE 10, CH-4009 BASEL, SWITZERLAND
+SN 0304-324X
+EI 1423-0003
+J9 GERONTOLOGY
+JI Gerontology
+PY 2006
+VL 52
+IS 5
+BP 324
+EP 333
+DI 10.1159/000094614
+PG 10
+WC Geriatrics & Gerontology
+SC Geriatrics & Gerontology
+GA 086MU
+UT WOS:000240678500009
+PM 16974104
+DA 2020-08-05
+ER
+
+PT J
+AU McCann, RM
+   Giles, H
+AF McCann, RM
+   Giles, H
+TI Communication with people of different ages in the workplace: Thai and
+   American data
+SO HUMAN COMMUNICATION RESEARCH
+LA English
+DT Review
+ID INTERGENERATIONAL COMMUNICATION; YOUNGER ADULTS; RESPECT; PATTERNS;
+   BELIEFS; JAPAN; OLDER
+AB To test hypotheses about intra- and intergenerational communication perceptions, non managerial-level bankers (n = 348) in two nations (Thailand and United States) self-assessed their communication beliefs on the Global Perceptions of Intergenerational Communication scale. Communication accommodation theory was used as a theoretical backdrop. Results revealed that older bankers were seen as more nonaccommodating (e.g., more negative, more ordering) than young bankers, though young bankers still felt more obligation to be respectful (e.g., hold back opinions) with older bankers than to their same-age group. In addition, managers were seen as more nonaccommodating than nonmanagers. Cross-cultural findings emerged to the extent that Thai bankers perceived others, in general, as less accommodating (e.g., supportive, helpful) and more nonaccommodating than did their American counterparts; hence, workplace conversations were at least partially viewed as more difficult in Thailand than in the United States. Research on religious and philosophical traditions, cultural convergence and divergence, modernity, and workplace homogenization were invoked to interpret the above findings.
+C1 Univ Calif Santa Barbara, Marshall Sch Business, Santa Barbara, CA 90089 USA.
+   Univ Calif Santa Barbara, Dept Commun, Santa Barbara, CA 90089 USA.
+RP McCann, RM (corresponding author), Univ Calif Santa Barbara, Marshall Sch Business, Santa Barbara, CA 90089 USA.
+EM bobmccann4@yahoo.com
+RI Van Mulken, Margot/J-3567-2012
+NR 108
+TC 34
+Z9 34
+U1 0
+U2 13
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0360-3989
+EI 1468-2958
+J9 HUM COMMUN RES
+JI Hum. Commun. Res.
+PD JAN
+PY 2006
+VL 32
+IS 1
+BP 74
+EP 108
+DI 10.1111/j.1468-2958.2006.00004.x
+PG 35
+WC Communication
+SC Communication
+GA 007XS
+UT WOS:000235005400004
+DA 2020-08-05
+ER
+
+PT J
+AU Sung, KT
+AF Sung, KT
+TI Elder respect among young adults: A cross-cultural study of Americans
+   and Koreans
+SO JOURNAL OF AGING STUDIES
+LA English
+DT Article
+DE elder-respect forms; cross-cultural study; attitudes of younger adults;
+   American culture and aging; Korean culture and aging
+ID FILIAL PIETY; PARENT CARE; IDEALS; ASIA
+AB There has been little research on the way in which the young respect the elderly, let alone on the issue of crosscultural differences in elder respect. This study, comparing young adults in the United States and young Korean adults in East Asia, explores the specific behavioral forms of elder respect that are cross-culturally equivalent and other forms that are culture specific. Samples of college students were surveyed at universities in the two countries by using the same questionnaire and measurement techniques. An inclusive set of forms of elder respect emerged. Both comparison groups cited care respect, acquiescent respect, linguistic respect, consultative respect, salutatory respect, and precedential respect as the most often practiced and highly important forms. The two groups were dissimilar in other forms. Differences and similarities regarding expressions of various forms and associated cultural traits are discussed. The study provides insights into how younger adults in the two different cultural contexts exhibit elder respect. The typology of the forms presented here can be used to explicate young people's propriety toward the elderly, as well as assess the quality of eldercare and the moral aspect of intergenerational relationships. (C) 2004 Elsevier Inc. All rights reserved.
+C1 Univ Michigan, Sch Social Work, Ann Arbor, MI 48109 USA.
+RP Sung, KT (corresponding author), Univ Michigan, Sch Social Work, Ann Arbor, MI 48109 USA.
+EM ktsung@umich.edu
+NR 40
+TC 27
+Z9 27
+U1 0
+U2 8
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0890-4065
+EI 1879-193X
+J9 J AGING STUD
+JI J. Aging Stud.
+PD MAY
+PY 2004
+VL 18
+IS 2
+BP 215
+EP 230
+DI 10.1016/j.jaging.2004.01.002
+PG 16
+WC Gerontology
+SC Geriatrics & Gerontology
+GA 819NK
+UT WOS:000221321500007
+DA 2020-08-05
+ER
+
+PT J
+AU Gattuso, S
+   Shadbolt, A
+AF Gattuso, S
+   Shadbolt, A
+TI Attitudes toward aging among Pacific islander health students in Fiji
+SO EDUCATIONAL GERONTOLOGY
+LA English
+DT Article
+ID OLDER ADULTS
+AB The relation between attitudes to aging and cultural values is a complex one. This study contrasts attitudes to aging among Pacific Islander students with attitudes in a comparable Australian sample. Australian society is represented as ageist, whereas Pacific Islander cultures are reported to be age-inclusive. Attitudes were assessed using the Reactions to Ageing Questionnaire, and data also were collected on levels of intimate contact with older people, said to be related to attitude. A comparison of Australian with Pacific Islander data showed no difference in attitude or degree of intimate contact. Within the Pacific Islander sample indigenous Fijians had significantly more positive attitudes than did Indo-Fijians and significantly more intimate contact. Indo-Fijians, but not indigenous Fijians, also were significantly more negative in attitude than Australian students. Educators aiming to incorporate gerontological knowledge and to challenge age-ism in the curriculum should not assume student attitudes are congruent with traditional cultural beliefs. They need to be knowledgeable about and sensitive to differences among various cultural groups within the student population, especially where those students will have the health care of the old in their hands in the future.
+C1 Charles Sturt Univ, Sch Community Hlth, Albury, NSW 2640, Australia.
+   Ctr Grief Educ, Melbourne, Vic, Australia.
+RP Gattuso, S (corresponding author), Charles Sturt Univ, Sch Community Hlth, POB 789, Albury, NSW 2640, Australia.
+NR 23
+TC 3
+Z9 3
+U1 1
+U2 9
+PU BRUNNER/MAZEL INC
+PI BRISTOL
+PA 1900 FROST RD, STE 101, BRISTOL, PA 19007-1598 USA
+SN 0360-1277
+J9 EDUC GERONTOL
+JI Educ. Gerontol.
+PD FEB
+PY 2002
+VL 28
+IS 2
+BP 99
+EP 106
+DI 10.1080/03601270252801364
+PG 8
+WC Education & Educational Research; Gerontology
+SC Education & Educational Research; Geriatrics & Gerontology
+GA 524FD
+UT WOS:000174001200002
+DA 2020-08-05
+ER
+
+PT J
+AU Strom, RD
+   Strom, SK
+   Wang, CM
+   Shen, YL
+   Griswold, D
+   Chan, HS
+   Yang, CY
+AF Strom, RD
+   Strom, SK
+   Wang, CM
+   Shen, YL
+   Griswold, D
+   Chan, HS
+   Yang, CY
+TI Grandparents in the United States and the Republic of China: A
+   comparison of generations and cultures
+SO INTERNATIONAL JOURNAL OF AGING & HUMAN DEVELOPMENT
+LA English
+DT Article
+ID TAIWAN
+AB Grandparent behaviors in the United States and the Republic of China are examined to identify curriculum themes for helping them adjust to their changing role. The 3,286 non-consanguineous subjects included Chinese (n = 751), African Americans (n = 777), Caucasian Americans (n = 1,086), and Mexican Americans (n = 672). Analyses were performed using 1) Generation with three levels (grandparent, parent, and grandchild) and 2) Culture with four levels (Chinese, African American, Caucasian American, and Mexican American). The results revealed significant differences in perceptions about grandparents across cultures as well as between generations within cultures. All three generations reported grandparent strengths and needs. Specific guidelines and curriculum topics are recommended for education to support grandparent development.
+C1 Arizona State Univ, Div Psychol Educ, Tempe, AZ 85287 USA.
+   Auburn Univ, Montgomery, AL 36117 USA.
+   Natl Taiwan Univ, Taipei, Taiwan.
+RP Strom, RD (corresponding author), Arizona State Univ, Div Psychol Educ, Box 870611, Tempe, AZ 85287 USA.
+NR 68
+TC 26
+Z9 26
+U1 1
+U2 7
+PU BAYWOOD PUBL CO INC
+PI AMITYVILLE
+PA 26 AUSTIN AVE, AMITYVILLE, NY 11701 USA
+SN 0091-4150
+J9 INT J AGING HUM DEV
+JI Int. J. Aging Human Dev.
+PY 1999
+VL 49
+IS 4
+BP 279
+EP 317
+DI 10.2190/DQFF-LVRU-U6W9-8Q6L
+PG 39
+WC Gerontology; Psychology, Developmental
+SC Geriatrics & Gerontology; Psychology
+GA 285NV
+UT WOS:000085395900002
+PM 10696817
+DA 2020-08-05
+ER
+
+PT J
+AU Williams, A
+   Ota, H
+   Giles, H
+   Pierson, HD
+   Gallois, C
+   Ng, SH
+   Lim, TS
+   Ryan, EB
+   Somera, L
+   Maher, J
+   Cai, D
+   Harwood, J
+AF Williams, A
+   Ota, H
+   Giles, H
+   Pierson, HD
+   Gallois, C
+   Ng, SH
+   Lim, TS
+   Ryan, EB
+   Somera, L
+   Maher, J
+   Cai, D
+   Harwood, J
+TI Young people's beliefs about intergenerational communication - An
+   initial cross-cultural comparison
+SO COMMUNICATION RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT 46th Annual Conference of the International-Communication-Association
+CY MAY 23-27, 1996
+CL CHICAGO, IL
+SP Int Commun Assoc
+ID SPEECH; ADULTS; OLDER
+AB This article examines young people's perceptions of their conversations with older people (age 65-85) across nine cultures-five Eastern and four Western. Responses from more than 1,000 participants were entered into a cross-national factor analysis, which revealed four initial factors that underlie perceptions of intergenerational conversations. Elder nonaccommodation was when young participants reported that older people negatively stereotyped the young and did not attend to their communication needs. On the other hand, elder accommodation was when older people were perceived as supportive, attentive and generally encouraging to young people. A third factor was respect/obligation and a fourth factor labeled age-irrelevant positivity described a situation where young people felt conversations with much older people were emotionally positive and satisfying, age did not matter: Examining cross-cultural differences, some East versus West differences were observed, as might be expected, on the basis of simplistic accounts of Eastern collectivism versus Western individualism. However the results challenge commonsense notions of the status of old age in Eastern versus Western cultures. On some dimensions, participants from Korea, Japan, People's Republic of China, Hong Kong, and the Philippines appear to have relatively less positive perceptions of their conversations with older people than the Western cultures-the United States, Australia, New Zealand and Canada. But there was also evidence of considerable cultural variability, particularly among Eastern cultures-variability that has heretofore all too often been glossed over when global comparisons of East versus West are made. A range of explanations for these cultural differences is explored and implications for older people in these societies are also considered.
+C1 DE LA SALLE UNIV, DEPT COMMUN, MANILA, PHILIPPINES.
+   UNIV CALIF SANTA BARBARA, DEPT COMMUN STUDIES, SANTA BARBARA, CA 93106 USA.
+   MCMASTER UNIV, DEPT PSYCHIAT & GERONTOL STUDIES, HAMILTON, ON, CANADA.
+   UNIV VICTORIA, WELLINGTON, NEW ZEALAND.
+   KWANGWOON UNIV, DEPT JOURNALISM & COMMUN STUDIES, SEOUL, SOUTH KOREA.
+   INT CHRISTIAN UNIV, TOKYO, JAPAN.
+   UNIV QUEENSLAND, ST LUCIA, QLD 4067, AUSTRALIA.
+   UNIV MARYLAND, DEPT SPEECH COMMUN, COLLEGE PK, MD 20742 USA.
+   UNIV KANSAS, LAWRENCE, KS 66045 USA.
+   ST JOHNS UNIV, INST ENGLISH 2ND LANGUAGE, JAMAICA, NY 11439 USA.
+RP Williams, A (corresponding author), UNIV WALES COLL CARDIFF, CTR LANGUAGE & COMMUN RES, CARDIFF CF1 3NS, S GLAM, WALES.
+RI Harwood, Jake/E-8117-2011; Cai, Deborah A/N-8816-2018; Gallois,
+   Cindy/F-9546-2014
+OI Harwood, Jake/0000-0003-1623-9668; Gallois, Cindy/0000-0002-7938-7839
+NR 54
+TC 53
+Z9 53
+U1 1
+U2 16
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0093-6502
+J9 COMMUN RES
+JI Commun. Res.
+PD AUG
+PY 1997
+VL 24
+IS 4
+BP 370
+EP 393
+DI 10.1177/009365097024004003
+PG 24
+WC Communication
+SC Communication
+GA XH445
+UT WOS:A1997XH44500003
+DA 2020-08-05
+ER
+
+EF

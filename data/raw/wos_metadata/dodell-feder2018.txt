@@ -1,0 +1,352 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Panero, ME
+   Weisberg, DS
+   Black, J
+   Goldstein, TR
+   Barnes, JL
+   Brownell, H
+   Winner, E
+AF Panero, Maria Eugenia
+   Weisberg, Deena Skolnick
+   Black, Jessica
+   Goldstein, Thalia R.
+   Barnes, Jennifer L.
+   Brownell, Hiram
+   Winner, Ellen
+TI Does Reading a Single Passage of Literary Fiction Really Improve Theory
+   of Mind? An Attempt at Replication
+SO JOURNAL OF PERSONALITY AND SOCIAL PSYCHOLOGY
+LA English
+DT Article
+DE replication; theory of mind; mindreading; fiction; reading
+ID INDIVIDUAL-DIFFERENCES; ASPERGER-SYNDROME; EYES TEST; EXPOSURE; EMPATHY;
+   TRANSPORTATION; SIMULATION; TESTS; PRINT
+AB Fiction simulates the social world and invites us into the minds of characters. This has led various researchers to suggest that reading fiction improves our understanding of others' cognitive and emotional states. Kidd and Castano (2013) received a great deal of attention by providing support for this claim. Their article reported that reading segments of literary fiction (but not popular fiction or nonfiction) immediately and significantly improved performance on the Reading the Mind in the Eyes Test (RMET), an advanced theory-of-mind test. Here we report a replication attempt by 3 independent research groups, with 792 participants randomly assigned to 1 of 4 conditions (literary fiction, popular fiction, nonfiction, and no reading). In contrast to Kidd and Castano (2013), we found no significant advantage in RMET scores for literary fiction compared to any of the other conditions. However, as in Kidd and Castano and previous research, the Author Recognition Test, a measure of lifetime exposure to fiction, consistently predicted RMET scores across conditions. We conclude that the most plausible link between reading fiction and theory of mind is either that individuals with strong theory of mind are drawn to fiction and/or that a lifetime of reading gradually strengthens theory of mind, but other variables, such as verbal ability, may also be at play.
+C1 [Panero, Maria Eugenia; Brownell, Hiram; Winner, Ellen] Boston Coll, Dept Psychol, Chestnut Hill, MA 02167 USA.
+   [Weisberg, Deena Skolnick] Univ Penn, Dept Psychol, 425 South Univ Ave,Stephen A Levin Bldg, Philadelphia, PA 19104 USA.
+   [Black, Jessica; Barnes, Jennifer L.] Univ Oklahoma, Dept Psychol, Norman, OK 73019 USA.
+   [Goldstein, Thalia R.] Pace Univ, Dept Psychol, New York, NY 10038 USA.
+RP Weisberg, DS (corresponding author), Univ Penn, Dept Psychol, 425 South Univ Ave,Stephen A Levin Bldg, Philadelphia, PA 19104 USA.
+EM deena.weisberg@psych.upenn.edu
+RI Black, Jessica E/S-1038-2019
+OI Black, Jessica E/0000-0002-9710-3297; Goldstein,
+   Thalia/0000-0002-3892-0852; Weisberg, Deena/0000-0002-4000-4941; Panero,
+   Maria Eugenia/0000-0002-2648-2541
+NR 41
+TC 47
+Z9 48
+U1 4
+U2 48
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 0022-3514
+EI 1939-1315
+J9 J PERS SOC PSYCHOL
+JI J. Pers. Soc. Psychol.
+PD NOV
+PY 2016
+VL 111
+IS 5
+BP E46
+EP E54
+DI 10.1037/pspa0000064
+PG 9
+WC Psychology, Social
+SC Psychology
+GA EA8YI
+UT WOS:000386925600001
+PM 27642659
+DA 2020-08-05
+ER
+
+PT J
+AU Pino, MC
+   Mazza, M
+AF Pino, Maria Chiara
+   Mazza, Monica
+TI The Use of "Literary Fiction" to Promote Mentalizing Ability
+SO PLOS ONE
+LA English
+DT Article
+ID SOCIAL COGNITION; ASPERGER-SYNDROME; SYSTEMATIZING QUOTIENT; FUNCTIONING
+   AUTISM; EMOTIONAL EMPATHY; NORMAL ADULTS; VERSION; MIND; DISSOCIATION;
+   RELIABILITY
+AB Empathy is a multidimensional process that incorporates both mentalizing and emotional sharing dimensions. Empathic competencies are important for creating interpersonal relationships with other people and developing adequate social behaviour. The lack of these social components also leads to isolation and exclusion in healthy populations. However, few studies have investigated how to improve these social skills. In a recent study, Kidd and Castano (2013) found that reading literary fiction increases mentalizing ability and may change how people think about other people's emotions and mental states. The aim of our study was to evaluate the effects of reading literary fiction, compared to nonfiction and science fiction, on empathic abilities. Compared to previous studies, we used a larger variety of empathy measures and utilized a pre and post-test design. In all, 214 healthy participants were randomly assigned to read a book representative of one of three literary genres (literary fiction, nonfiction, science fiction). Participants were assessed before and after the reading phase using mentalizing and emotional sharing tests, according to Zaki and Ochsner's (2012) model. Comparisons of sociodemographic, mentalizing, and emotional sharing variables across conditions were conducted using ANOVA. Our results showed that after the reading phase, the literary fiction group showed improvement in mentalizing abilities, but there was no discernible effect on emotional sharing abilities. Our study showed that the reading processes can promote mentalizing abilities. These results may set important goals for future low-cost rehabilitation protocols for several disorders in which the mentalizing deficit is considered central to the disease, such as Autism Spectrum Disorders and Schizophrenia.
+C1 [Pino, Maria Chiara] Univ Aquila, Dept Life Hlth & Environm Sci, Laquila, Italy.
+   [Mazza, Monica] Univ Aquila, Dept Appl Clin Sci & Biotechnol, Laquila, Italy.
+RP Pino, MC (corresponding author), Univ Aquila, Dept Life Hlth & Environm Sci, Laquila, Italy.
+EM mariachiara.pino@graduate.univaq.it
+OI Mazza, Monica/0000-0003-4050-2243; Pino, Maria
+   Chiara/0000-0003-2657-2122
+NR 50
+TC 33
+Z9 34
+U1 2
+U2 22
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD AUG 4
+PY 2016
+VL 11
+IS 8
+AR e0160254
+DI 10.1371/journal.pone.0160254
+PG 14
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA DT3GL
+UT WOS:000381368900043
+PM 27490164
+OA DOAJ Gold, Green Published
+DA 2020-08-05
+ER
+
+PT J
+AU Black, JE
+   Barnes, JL
+AF Black, Jessica E.
+   Barnes, Jennifer L.
+TI The effects of reading material on social and non-social cognition
+SO POETICS
+LA English
+DT Article
+DE Fiction; Cognitive ability; Theory of mind
+ID AUTISM-SPECTRUM QUOTIENT; HIGH-FUNCTIONING AUTISM; ASPERGER-SYNDROME;
+   SYSTEMATIZING QUOTIENT; EMPATHY QUOTIENT; FICTION; ADULTS; EXPOSURE;
+   MIND; CONSTRUCTION
+AB The purpose of this study was to investigate the effects of reading material on both social and non-social cognition. Prior research supports the hypothesis that reading fiction improves theory of mind (Kidd 82 Castano, 2013; Mar, Oatley, Hirsh, de la Paz, & Peterson, 2006; Mar, Oatley, & Peterson, 2009); however, little has been done to test its effects on other cognitive abilities. In this study, we tested the effect of reading literary fiction vs. non-fiction on both theory of mind and intuitive physics understanding. In line with previous research, results indicate a small but significant within-subject effect of reading material on theory of mind once other variables are controlled. Although the experimental manipulation (literary fiction vs. nonfiction) had no effect on intuitive physics understanding, we found that familiarity with fiction predicted intuitive physics ability. These results are discussed in terms of theories of fiction. (C) 2015 Elsevier B.V. All rights reserved.
+C1 [Black, Jessica E.] Univ Oklahoma, Norman, OK 73071 USA.
+   [Barnes, Jennifer L.] Univ Oklahoma, Psychol, Norman, OK 73071 USA.
+RP Black, JE (corresponding author), Univ Oklahoma, Dept Psychol, Dale Hall Tower,Room 705,455 W Lindsey, Norman, OK 73071 USA.
+EM Jessica.black@ou.edu
+RI Black, Jessica E/S-1038-2019
+OI Black, Jessica E/0000-0002-9710-3297
+NR 47
+TC 33
+Z9 33
+U1 1
+U2 29
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0304-422X
+EI 1872-7514
+J9 POETICS
+JI Poetics
+PD OCT
+PY 2015
+VL 52
+BP 32
+EP 43
+DI 10.1016/j.poetic.2015.07.001
+PG 12
+WC Literature; Sociology
+SC Literature; Sociology
+GA CZ5DD
+UT WOS:000367121800003
+DA 2020-08-05
+ER
+
+PT J
+AU Koopman, EM
+AF Koopman, Eva Maria (Emy)
+TI Empathic reactions after reading: The role of genre, personal factors
+   and affective responses
+SO POETICS
+LA English
+DT Article
+DE Narrative; Empathy; Personal experience; Exposure to literature;
+   Depression; Grief
+ID INDIVIDUAL-DIFFERENCES; FICTION; MIND; TRANSPORTATION; SIMULATION;
+   SYMPATHY; DISTANCE; EMOTION
+AB This study investigated the effects of text genre (expository, life narrative, literary narrative), personal factors (trait empathy, personal experience, exposure to literature), and affective responses during reading (most relevantly: sympathy/empathy with the character) on two types of empathy: empathic understanding and pro-social behavior (donating). Participants (N=210) read two texts within the same genre, about depression and grief, with one week between sessions. A genre effect was observed for pro-social behavior in the case of depression, with more people donating in the life narrative condition. Personal experience predicted empathic understanding and prosocial behavior for depression, but not for grief. Empathic understanding was further predicted by trait empathy, exposure to literature, and sympathy/empathy with the character. These results demonstrate the relevance of looking at readers' personal characteristics and suggest a repeated exposure effect of literature on empathic understanding. (C) 2015 Elsevier B.V. All rights reserved.
+C1 [Koopman, Eva Maria (Emy)] Erasmus Univ, Dept Media & Commun, NL-3000 DR Rotterdam, Netherlands.
+RP Koopman, EM (corresponding author), Erasmus Univ, POB 1738,Van der Goot Bldg,Room M8-15, NL-3000 DR Rotterdam, Netherlands.
+EM e.koopman@eshcc.eur.nl
+FU NWO, The Netherlands Organization for Scientific ResearchNetherlands
+   Organization for Scientific Research (NWO) [322-30-001]
+FX My thanks go to Els Andringa, Frank Hakemulder, Susanne Janssen and Dick
+   Schram for their useful comments on earlier versions of this article. A
+   special thanks goes to Ruud Jacobs, for his help with AMOS. This study
+   is part of Reading Suffering (project number 322-30-001), a PhD-project
+   funded by NWO, The Netherlands Organization for Scientific Research.
+NR 62
+TC 28
+Z9 28
+U1 2
+U2 48
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0304-422X
+EI 1872-7514
+J9 POETICS
+JI Poetics
+PD JUN
+PY 2015
+VL 50
+BP 62
+EP 79
+DI 10.1016/j.poetic.2015.02.008
+PG 18
+WC Literature; Sociology
+SC Literature; Sociology
+GA CK3GM
+UT WOS:000356104600004
+DA 2020-08-05
+ER
+
+PT J
+AU Kidd, DC
+   Castano, E
+AF Kidd, David Comer
+   Castano, Emanuele
+TI Reading Literary Fiction Improves Theory of Mind
+SO SCIENCE
+LA English
+DT Article
+ID HIGH-FUNCTIONING AUTISM; ASPERGER-SYNDROME; SIMULATION; EXPOSURE;
+   EMPATHY; OTHERS; ADULTS
+AB Understanding others' mental states is a crucial skill that enables the complex social relationships that characterize human societies. Yet little research has investigated what fosters this skill, which is known as Theory of Mind (ToM), in adults. We present five experiments showing that reading literary fiction led to better performance on tests of affective ToM (experiments 1 to 5) and cognitive ToM (experiments 4 and 5) compared with reading nonfiction (experiments 1), popular fiction (experiments 2 to 5), or nothing at all (experiments 2 and 5). Specifically, these results show that reading literary fiction temporarily enhances ToM. More broadly, they suggest that ToM may be influenced by engagement with works of art.
+C1 [Kidd, David Comer; Castano, Emanuele] New Sch Social Res, New York, NY 10011 USA.
+RP Kidd, DC (corresponding author), New Sch Social Res, 80 5th Ave, New York, NY 10011 USA.
+EM kiddd305@newschool.edu; castanoe@newschool.edu
+RI Castano, Emanuele/C-8757-2018
+OI Castano, Emanuele/0000-0003-1709-590X
+FU New School for Social Research
+FX Data are available in spreadsheet format from authors by request. This
+   research was funded by a Prize Fellowship and a Dissertation Fellowship
+   by the New School for Social Research to the first author, and a Faculty
+   Development Award by the New School for Social Research to the second
+   author. We are grateful to Andrew Marzoni for his insight into literary
+   criticism and pointing us toward Barthes's S/Z (19).
+NR 36
+TC 405
+Z9 409
+U1 7
+U2 248
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005 USA
+SN 0036-8075
+EI 1095-9203
+J9 SCIENCE
+JI Science
+PD OCT 18
+PY 2013
+VL 342
+IS 6156
+BP 377
+EP 380
+DI 10.1126/science.1239918
+PG 4
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 235XG
+UT WOS:000325755100050
+PM 24091705
+HC Y
+HP N
+DA 2020-08-05
+ER
+
+PT J
+AU Johnson, DR
+   Jasper, DM
+   Griffin, S
+   Huffman, BL
+AF Johnson, Dan R.
+   Jasper, Daniel M.
+   Griffin, Sallie
+   Huffman, Brandie L.
+TI READING NARRATIVE FICTION REDUCES ARAB-MUSLIM PREJUDICE AND OFFERS A
+   SAFE HAVEN FROM INTERGROUP ANXIETY
+SO SOCIAL COGNITION
+LA English
+DT Article
+ID AMAZONS MECHANICAL TURK; CROSS-GROUP FRIENDSHIPS;
+   INDIVIDUAL-DIFFERENCES; PERSPECTIVE-TAKING; CONTACT; ATTITUDES;
+   BEHAVIOR; EMPATHY; BIAS; TRANSPORTATION
+AB Inquiry into the written narrative's effect on social cognition is normally left to literary scholars and philosophers. Two experiments demonstrated narrative fiction's power to elicit empathy and reduce implicit and explicit prejudice against Arab-Muslims. Participants were randomly assigned to read a full narrative, condensed narrative, or a non-narrative. Critically, the full and condensed narratives were matched on counterstereotypical exemplars and exposure to Arab-Muslim culture so that the additional reduction in prejudice in the full narrative condition represented the unique power of the narrative. The narrative was particularly effective at reducing implicit prejudice in low dispositional perspective-takers. Partially explaining this effect, the narrative appeared to provide a safe haven from intergroup anxiety so that they could use perspective-taking to reduce prejudice. These findings demonstrate the narrative's power to induce spontaneous empathy and perspective-taking and consequently reduce implicit and explicit prejudice.
+C1 [Johnson, Dan R.; Jasper, Daniel M.; Griffin, Sallie; Huffman, Brandie L.] Washington & Lee Univ, Lexington, VA 24450 USA.
+RP Johnson, DR (corresponding author), Washington & Lee Univ, Dept Psychol, Parmly Hall 230,204 W Washington St, Lexington, VA 24450 USA.
+EM johnsondr@wlu.edu
+NR 66
+TC 36
+Z9 36
+U1 0
+U2 38
+PU GUILFORD PUBLICATIONS INC
+PI NEW YORK
+PA 370 SEVENTH AVE, SUITE 1200, NEW YORK, NY 10001-1020 USA
+SN 0278-016X
+J9 SOC COGNITION
+JI Soc. Cogn.
+PD OCT
+PY 2013
+VL 31
+IS 5
+BP 578
+EP 598
+DI 10.1521/soco.2013.31.5.578
+PG 21
+WC Psychology, Social
+SC Psychology
+GA 229YF
+UT WOS:000325303100004
+DA 2020-08-05
+ER
+
+PT J
+AU Bal, PM
+   Veltkamp, M
+AF Bal, P. Matthijs
+   Veltkamp, Martijn
+TI How Does Fiction Reading Influence Empathy? An Experimental
+   Investigation on the Role of Emotional Transportation
+SO PLOS ONE
+LA English
+DT Article
+ID INDIVIDUAL-DIFFERENCES; COMPREHENSION; NONFICTION; INCUBATION;
+   PERSUASION; REGRESSION; MODELS
+AB The current study investigated whether fiction experiences change empathy of the reader. Based on transportation theory, it was predicted that when people read fiction, and they are emotionally transported into the story, they become more empathic. Two experiments showed that empathy was influenced over a period of one week for people who read a fictional story, but only when they were emotionally transported into the story. No transportation led to lower empathy in both studies, while study 1 showed that high transportation led to higher empathy among fiction readers. These effects were not found for people in the control condition where people read non-fiction. The study showed that fiction influences empathy of the reader, but only under the condition of low or high emotional transportation into the story.
+C1 [Bal, P. Matthijs] Vrije Univ Amsterdam, Dept Management & Org, Amsterdam, Netherlands.
+   [Veltkamp, Martijn] FrieslandCampina, Deventer, Netherlands.
+RP Bal, PM (corresponding author), Vrije Univ Amsterdam, Dept Management & Org, Amsterdam, Netherlands.
+EM p.m.bal@vu.nl
+OI Bal, P. Matthijs/0000-0002-6955-2837
+NR 62
+TC 127
+Z9 128
+U1 0
+U2 88
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JAN 30
+PY 2013
+VL 8
+IS 1
+AR e55341
+DI 10.1371/journal.pone.0055341
+PG 12
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 098QM
+UT WOS:000315563800143
+PM 23383160
+OA DOAJ Gold, Green Accepted, Green Published
+DA 2020-08-05
+ER
+
+EF
