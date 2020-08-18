@@ -1,0 +1,85 @@
+---
+title: "MA Social Effects Analysis"
+author: "Sarah Chen"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(googlesheets4)
+library(bibliometrix)
+```
+
+## Pulling out desired columns
+```{r}
+DOI_SPREADSHEET <- "17IAiiTXifta4_yOpeRWj0YLa2AttBk2ORRwaHhK6e8E"
+current_sheet <- "cristia2018"
+
+current_ma_data <- read_sheet(DOI_SPREADSHEET, current_sheet) %>%
+  filter(!is.na(doi) & doi != "NA" & effect_size != "NA" & !is.na(effect_size)) %>%
+  #distinct(doi, .keep_all = TRUE) %>%
+  mutate(study = meta_id[1],
+         es_type = effect_size_type[1]) %>%
+  select(study, es_type, study_short, effect_size, doi)
+
+#write_csv(current_ma_data, path = "Downloads/SE_compressed_data/cristia2018_compressed.csv")
+```
+
+## Reads data from the biblioshiny app and effect sizes, then produces a variability and mean value for each meta-analysis
+```{r}
+MA_DATA_BIB <- "1473Y1XeoTtFjS_qiceO-dL54a1P1ZB6MaV3TZTnJLrw"
+MA_DATA_COMPRESSED <- "1_1bush5uEV1fB5OXeKfOIiHRGcmYVt7gAO0p_fYRRfc"
+
+#reads in effect sizes, then eliminates those calculated by Pearson's R
+compressed_data_read <- read_sheet(MA_DATA_COMPRESSED, "Sheet1") %>%
+  filter(!is.na(effect_size) & es_type != "pearson's r") 
+
+#groups by meta_id and finds variability for each 
+compressed_data <- compressed_data_read %>%
+  group_by(meta_id) %>%
+  summarise(variability_es = var(effect_size),
+            mean_es = mean(effect_size))
+
+variability_es_data <- var(compressed_data_read$effect_size)
+mean_es_data <- mean(compressed_data_read$effect_size)
+
+#reads in social measure data, then eliminates those calculated by Pearson's R
+social_measure_data_read <- read_sheet(MA_DATA_BIB, "Sheet1") %>%
+  filter(!is.na(`Articles Fractionalized`) & es_type != "pearson's r") 
+
+social_measure_data <- social_measure_data_read %>%
+  group_by(meta_id) %>%
+  summarise(variability_social_measure = var(`Articles Fractionalized`),
+            mean_social_measure = mean(`Articles Fractionalized`))
+
+variability_social_data <- var(social_measure_data_read$`Articles Fractionalized`)
+mean_social_data <- mean(social_measure_data_read$`Articles Fractionalized`)
+
+variability_cor <- cor(variability_es_data, variability_social_data)
+```
+
+
+```{r}
+#merges the two dataframes to form one with both effect size and social measure variability and mean
+full_variability_mean_data <- merge(compressed_data, social_measure_data, by = "meta_id", all.x=TRUE, all.y=TRUE)
+```
+
+## Plot for mean articles fractionalized vs variability in effect size
+```{r}
+ggplot(full_variability_mean_data, aes(x = mean_social_measure, y = variability_es)) +
+  geom_point() +
+  geom_smooth(method = lm) + 
+  ggtitle("Mean Articles Fractionalized vs Variability in Effect Size") +
+  ylab("Variability in Effect Size") +
+  xlab("Mean Articles Fractionalized")
+```
+
+
+## Correlation test
+```{r}
+cor.test(full_variability_mean_data$mean_social_measure, full_variability_mean_data$variability_es)
+```
